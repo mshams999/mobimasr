@@ -1,0 +1,2147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+
+msgid ""
+"\n"
+"                       You can set the rows and cols from the selected range, "
+"which is need to be removed from diagram.<br /><br />\n"
+"                       For example: 1r,2c<br /><br />\n"
+"                       In this case the first row and the second column will "
+"be removed from diagram.<br /><br />\n"
+"                       Leave this field blank to use all selected rows and "
+"columns."
+msgstr ""
+"\n"
+" Bạn có thể đặt các hàng và cột từ phạm vi đã chọn, cần xóa khỏi sơ đồ. <br /"
+"> <br />\n"
+"                       Ví dụ: 1r, 2c <br /> <br />\n"
+"                       Trong trường hợp này, hàng đầu tiên và cột thứ hai sẽ "
+"bị xóa khỏi sơ đồ. <br /> <br />\n"
+"                       Để trống trường này để sử dụng tất cả các hàng và cột "
+"đã chọn."
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(Được lọc từ mục nhập lớn nhất)"
+
+msgid "11x17"
+msgstr "11x17"
+
+msgid "2A0"
+msgstr "2A0"
+
+msgid "3D Diagram"
+msgstr "Biểu đồ 3D"
+
+msgid "4A0"
+msgstr "4A0"
+
+msgid "8.5x11"
+msgstr "8.5x11"
+
+msgid "8.5x14"
+msgstr "8.5x14"
+
+msgid ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> "
+"Contact us </a> through the Forum on our site - if you have some question, "
+"offer or wish."
+msgstr ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> Liên "
+"hệ với chúng tôi </a> thông qua Diễn đàn trên trang web của chúng tôi - nếu "
+"bạn có một số câu hỏi, ưu đãi hoặc mong muốn."
+
+msgid ""
+"<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - "
+"you’ll have to enter license key (you can find it in your personal account on "
+"our site). Go to the License tab and enter your email and license key. Once "
+"you have activated your PRO license - you can use all its advanced options. "
+"<br><br>That’s all. From this moment you can use your Data Table without any "
+"doubt. But if you still have some question - do not hesitate to contact us "
+"through our <a href=\"https://supsystic.com/contact-us/\">internal support</"
+"a> or on our <a href=\"http://supsystic.com/forum/datatable-plugin/"
+"\">Supsystic Forum.</a> Besides you can always describe your questions on <a "
+"href=\"https://wordpress.org/support/plugin/data-tables-generator-by-supsystic"
+"\">WordPress Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It "
+"will be nice if you`ll help us and boost plugin with <a href=\"https://"
+"wordpress.org/support/view/plugin-reviews/data-tables-generator-by-supsystic?"
+"rate=5#postform/\">Five Stars rating on WordPress.org.</a> <br><br>We hope "
+"that you like our Data Table plugin and wish you all the best! Good luck!"
+msgstr ""
+"<b> Nâng cấp </ b> <br> Khi bạn đã mua phiên bản cao cấp của plugin - bạn sẽ "
+"phải nhập khóa cấp phép (bạn có thể tìm thấy nó trong tài khoản cá nhân của "
+"mình trên trang web của chúng tôi). Chuyển đến tab Giấy phép và nhập email và "
+"khóa cấp phép của bạn. Khi bạn đã kích hoạt giấy phép PRO của mình - bạn có "
+"thể sử dụng tất cả các tùy chọn nâng cao của nó. <br> <br> Đó là tất cả. Từ "
+"thời điểm này, bạn có thể sử dụng Bảng dữ liệu của mình mà không nghi ngờ gì. "
+"Nhưng nếu bạn vẫn có một số câu hỏi - đừng ngần ngại liên hệ với chúng tôi "
+"qua <a href=\"https://supsystic.com/contact-us/\"> bộ phận hỗ trợ nội bộ </a> "
+"của chúng tôi hoặc trên <a href = \"http của chúng tôi : //supsystic.com/"
+"forum/datatable-plugin/ \"> Diễn đàn Supsystic. </a> Bên cạnh đó bạn luôn có "
+"thể mô tả câu hỏi của mình trên <a href =\" https://wordpress.org/support/"
+"plugin/data-tables -generator-by-supsystic \"> WordPress Ultimate Forum. </a> "
+"<br> <br> <b> Thưởng thức plugin này? </ b> <br> Sẽ tốt hơn nếu bạn giúp "
+"chúng tôi và tăng plugin bằng <a href=\"https://wordpress.org/support/view/"
+"plugin-reviews/data-tables-generator-by-supsystic?rate=5#postform/\"> Xếp "
+"hạng 5 sao trên WordPress.org. </ a > <br> <br> Chúng tôi hy vọng bạn thích "
+"plugin Data Table của chúng tôi và chúc bạn mọi điều tốt đẹp nhất! Chúc may "
+"mắn!"
+
+msgid "A small guide for the first-time user"
+msgstr "Hướng dẫn sử dung cho người dung lần đầu"
+
+msgid ""
+"A stacked column chart is a column chart that places related values atop one "
+"another.<br /><br />\n"
+"                        \"Relative Mode\" formats each value as a fraction of "
+"1.<br /><br />\n"
+"                        \"Percent Mode\" formats each value as a percentage "
+"of 100%. "
+msgstr ""
+"Biểu đồ cột xếp chồng lên nhau là biểu đồ cột đặt các giá trị có liên quan "
+"trên đỉnh nhau. <br /> <br />\n"
+"                        \"Chế độ tương đối\" định dạng từng giá trị dưới dạng "
+"một phần nhỏ của 1. <br /> <br />\n"
+"                        \"Chế độ phần trăm\" định dạng từng giá trị dưới dạng "
+"phần trăm 100%.."
+
+msgid "A0"
+msgstr "A0"
+
+msgid "A1"
+msgstr "A1"
+
+msgid "A10"
+msgstr "A10"
+
+msgid "A2"
+msgstr "A2"
+
+msgid "A3"
+msgstr "A3"
+
+msgid "A4"
+msgstr "A4"
+
+msgid "A5"
+msgstr "A5"
+
+msgid "A6"
+msgstr "A6"
+
+msgid "A7"
+msgstr "A7"
+
+msgid "A8"
+msgstr "A8"
+
+msgid "A9"
+msgstr "A9"
+
+msgid "Above table"
+msgstr "Bên trên bảng"
+
+msgid "Above the chart"
+msgstr "Phía trên biểu đồ"
+
+msgid "Actions"
+msgstr "Thực hiện"
+
+msgid "Activate"
+msgstr "Kích hoạt"
+
+msgid "Activate License"
+msgstr "Kích hoạt bản quyền"
+
+msgid ""
+"Actually, Data Table plugin is very simple and has a lot of different options "
+"at the same time. That’s why when you close this article I will show you the "
+"main of them, but the very detailed one you can find on our site. I hope that "
+"you will have no questions after even this small guide. For the first time we "
+"will help you to install and create your first table, but if you need help - "
+"contact us through the internal support"
+msgstr ""
+"Trên thực tế, plugin Data Table rất đơn giản và có nhiều tùy chọn khác nhau "
+"cùng một lúc. Đó là lý do tại sao khi bạn đóng bài viết này tôi sẽ cho bạn "
+"thấy chính của họ, nhưng một trong rất chi tiết bạn có thể tìm thấy trên "
+"trang web của chúng tôi. Tôi hy vọng rằng bạn sẽ không có câu hỏi nào sau "
+"ngay cả hướng dẫn nhỏ này. Lần đầu tiên chúng tôi sẽ giúp bạn cài đặt và tạo "
+"bảng đầu tiên của bạn, nhưng nếu bạn cần trợ giúp - hãy liên hệ với chúng tôi "
+"thông qua bộ phận hỗ trợ nội bộ"
+
+msgid ""
+"Add <a href=\"%s\" target=\"_blank\">editable field</a> for selected cells to "
+"edit cell value on frontend. Enjoy the <a href=\"%s\" target=\"_blank"
+"\">practical example</a>."
+msgstr ""
+"Thêm <a href=\"%s\" target=\"_blank\"> trường có thể chỉnh sửa </a> cho các ô "
+"đã chọn để chỉnh sửa giá trị ô trên giao diện người dùng. Chúc bạn thành công "
+"<a href=\"%s\" target=\"_blank\"> ví dụ thực tế </a>."
+
+msgid "Add Fixed Column Width"
+msgstr "Thêm chiều rộng cột cố định"
+
+msgid "Add Multiple Sorting"
+msgstr "Thêm nhiều lựa chọn sắp xếp"
+
+msgid "Add Option"
+msgstr "Thêm tùy chọn"
+
+msgid "Add automatic highlight for table odd rows"
+msgstr "Thêm đánh dấu tự động cho các hàng lẻ trong bảng"
+
+msgid "Add column on the left"
+msgstr "Thêm cột ở bên trái"
+
+msgid "Add diagram"
+msgstr "Thêm sơ đồ"
+
+msgid "Add dropdown list for highlighted cell to change cell value on frontend."
+msgstr ""
+"Thêm danh sách thả xuống cho ô được đánh dấu để thay đổi giá trị ô trên giao "
+"diện người dùng."
+
+msgid "Add editable field"
+msgstr "Thêm trường có thể chỉnh sửa"
+
+msgid "Add new table"
+msgstr "Thêm bảng mới"
+
+msgid "Add row above"
+msgstr "Thêm hang vào bên trên"
+
+msgid "Add table"
+msgstr "Thêm bảng"
+
+msgid "Align by First Table"
+msgstr "Căn chỉnh theo bảng đầu tiên"
+
+msgid "Alignment"
+msgstr "Căn chỉnh"
+
+msgid "Allow export table to pdf, csv, xls on frontend"
+msgstr ""
+"Cho phép xuất bảng thành các định dạng: pdf, csv, xls trên giao diện người "
+"dùng"
+
+msgid ""
+"Allows to <a href=\"%s\" target=\"_blank\">use frontend fields only for "
+"logged in users</a>. See the next buttons on the editor toolbar:<br />\n"
+"                                            Add editable field<br />\n"
+"                                            Add dropdown list"
+msgstr ""
+"Cho phép <a href=\"%s\" target=\"_blank\"> chỉ sử dụng các trường giao diện "
+"người dùng cho người dùng đã đăng nhập </a>. Xem các nút tiếp theo trên thanh "
+"công cụ của trình chỉnh sửa: <br />\n"
+"Thêm trường có thể chỉnh sửa <br />\n"
+"Thêm danh sách thả xuống"
+
+msgid ""
+"Allows to <a href=\"%s\" target=\"_blank\">use frontend fields only for "
+"logged in users</a>. See the next buttons on the editor toolbar:<br />\n"
+"                Add editable field<br />\n"
+"                Add dropdown list"
+msgstr ""
+"Cho phép <a href=\"%s\" target=\"_blank\"> chỉ sử dụng các trường giao diện "
+"người dùng cho người dùng đã đăng nhập </a>. Xem các nút tiếp theo trên thanh "
+"công cụ của trình chỉnh sửa: <br />\n"
+"Thêm trường có thể chỉnh sửa <br />\n"
+"Thêm danh sách thả xuống"
+
+msgid ""
+"Allows to choose language for the table's labels (pagination, search ets.)"
+msgstr "Cho phép chọn ngôn ngữ cho nhãn của bảng"
+
+msgid "Allows to execute custom javascript code after table is loaded."
+msgstr "Cho phép thực thi mã javascript tùy chỉnh sau khi bảng được load xong."
+
+msgid ""
+"Allows to export table in pdf, csv, xls formats from the front-end. Choose "
+"needed formats"
+msgstr ""
+"Cho phép xuất bảng ở định dạng: pdf, csv, xls từ giao diện người dùng. Vui "
+"long chọn định dạng"
+
+msgid ""
+"Allows to fix columns during table scrolling. Important! The fixing of "
+"columns suggests that the table will have a horisontal scroll type of "
+"responsive mode, otherwise you will not see that the fixed columns exist. So "
+"this feature is a kind of responsive mode on its own and will not work with "
+"such Responsive Modes as Standard and Automatic columns hiding."
+msgstr ""
+"Cho phép sửa các cột trong khi cuộn bảng. Quan trọng! Việc sửa chữa các cột "
+"cho thấy rằng bảng sẽ có một loại cuộn horisontal của chế độ đáp ứng, nếu "
+"không bạn sẽ không thấy rằng các cột cố định tồn tại. Vì vậy, tính năng này "
+"là một loại chế độ đáp ứng một mình và sẽ không hoạt động với các Chế độ đáp "
+"ứng như các cột Tiêu chuẩn và Tự động ẩn."
+
+msgid ""
+"Allows to fix the table's footer during table scrolling. Important! Footer "
+"option must be enabled for using this feature. Also you need to set Fixed "
+"Table Height to create a vertical scroll at the table. To see the work of "
+"this feature you should not use such Responsive Modes as Standard and "
+"Automatic columns hiding."
+msgstr ""
+"Cho phép sửa chân trang của bảng trong khi cuộn bảng. Quan trọng! Tùy chọn "
+"chân trang phải được bật để sử dụng tính năng này. Ngoài ra, bạn cần đặt "
+"Fixed Table Height để tạo một cuộn dọc ở bảng. Để xem công việc của tính năng "
+"này, bạn không nên sử dụng các Chế độ đáp ứng như các cột Tiêu chuẩn và Tự "
+"động ẩn."
+
+msgid ""
+"Allows to fix the table's header during table scrolling. Important! Header "
+"option must be enabled for using this feature. Also you need to set Fixed "
+"Table Height to create a vertical scroll for your table. To see the work of "
+"this feature you should not use such Responsive Modes such as Standard and "
+"Automatic columns hiding."
+msgstr ""
+"Cho phép sửa tiêu đề của bảng trong khi cuộn bảng. Quan trọng! Tùy chọn tiêu "
+"đề phải được bật để sử dụng tính năng này. Ngoài ra, bạn cần đặt Fixed Table "
+"Height để tạo một cuộn dọc cho bảng của bạn. Để xem công việc của tính năng "
+"này, bạn không nên sử dụng các Chế độ đáp ứng như các cột Tiêu chuẩn và Tự "
+"động ẩn."
+
+msgid ""
+"Allows to save data to the table through the frontend fields. See the next "
+"buttons on the editor toolbar:<br />\n"
+"                                            Add editable field<br />\n"
+"                                            Add dropdown list"
+msgstr ""
+"Cho phép lưu dữ liệu vào bảng thông qua các trường giao diện người dùng. Xem "
+"các nút tiếp theo trên thanh công cụ của trình chỉnh sửa: <br />\n"
+"Thêm trường có thể chỉnh sửa <br />\n"
+"Thêm danh sách thả xuống"
+
+msgid ""
+"Allows to save data to the table through the frontend fields. See the next "
+"buttons on the editor toolbar:<br />\n"
+"                Add editable field<br />\n"
+"                Add dropdown list"
+msgstr ""
+"Cho phép lưu dữ liệu vào bảng thông qua các trường giao diện người dùng. Xem "
+"các nút tiếp theo trên thanh công cụ của trình chỉnh sửa: <br />\n"
+"Thêm trường có thể chỉnh sửa <br />\n"
+"Thêm danh sách thả xuống"
+
+msgid ""
+"Allows to use editable fields only for users with selected roles. If there "
+"are no chosen roles - all logged in users will have ability to use the "
+"editable fields."
+msgstr ""
+"Chỉ cho phép sử dụng các trường có thể chỉnh sửa cho người dùng có vai trò đã "
+"chọn. Nếu không có vai trò nào được chọn - tất cả người dùng đã đăng nhập sẽ "
+"có khả năng sử dụng các trường có thể chỉnh sửa."
+
+msgid "An error has occurred"
+msgstr "Một lỗi đã xảy ra"
+
+msgid "Append to existing table data"
+msgstr "Thêm vào dữ liệu bảng hiện có"
+
+msgid "Area Chart"
+msgstr "Biểu đồ khu vực"
+
+msgid "Ascending"
+msgstr "Tăng dần"
+
+msgid "Auto Index"
+msgstr "Lập chỉ mục tự động"
+
+msgid "Auto Table Width"
+msgstr "Chiều rộng bảng tự động"
+
+msgid "Autoimport from Google Sheet"
+msgstr "Tự động nhúng từ Google trang tính"
+
+msgid "Automatic"
+msgstr "Tự động"
+
+msgid "Automatic column hiding"
+msgstr "Tự động ẩn cột"
+
+msgid ""
+"Automatic column hiding - in this mode table columns will collapse from right "
+"to left if content does not fit to parent container width"
+msgstr ""
+"Tự động ẩn cột - trong cột bảng chế độ này sẽ thu gọn từ phải sang trái nếu "
+"nội dung không phù hợp với chiều rộng vùng chứa cấp độ gốc"
+
+msgid "Automticaly appends selected logo for output pdf or printing"
+msgstr "Tự động gắn logo cho bản in ra pdf hoặc in"
+
+msgid "Axis X Format"
+msgstr "Định dạng trục X"
+
+msgid "Axis X Title"
+msgstr "Tiêu đề trục X"
+
+msgid "Axis Y Format"
+msgstr "Định dạng trục Y"
+
+msgid "Axis Y Title"
+msgstr "Tiêu đề trục Y"
+
+msgid "B0"
+msgstr "B0"
+
+msgid "B1"
+msgstr "B1"
+
+msgid "B10"
+msgstr "B10"
+
+msgid "B2"
+msgstr "B2"
+
+msgid "B3"
+msgstr "B3"
+
+msgid "B4"
+msgstr "B4"
+
+msgid "B5"
+msgstr "B5"
+
+msgid "B6"
+msgstr "B6"
+
+msgid "B7"
+msgstr "B7"
+
+msgid "B8"
+msgstr "B8"
+
+msgid "B9"
+msgstr "B9"
+
+msgid "Background color"
+msgstr "Màu nền"
+
+msgid "Backup Plugin"
+msgstr "Sao lưu plugin"
+
+msgid ""
+"Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched "
+"DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr ""
+"Sao lưu và khôi phục WordPress Plugin bởi Supsystic cung cấp DropBox nhanh "
+"chóng và không bị giật, FTP, Amazon S3, sao lưu Google Drive cho trang web "
+"WordPress của bạn."
+
+msgid "Bar Chart"
+msgstr "Biểu đồ thanh"
+
+msgid ""
+"Be closer to your visitors and customers with Live Chat Support by Supsystic. "
+"Help you visitors, support them in real-time with exceptional Live Chat "
+"WordPress plugin by Supsystic."
+msgstr ""
+"Được gần gũi hơn với khách truy cập và khách hàng của bạn với Live Chat "
+"Support bởi Supsystic. Giúp bạn truy cập, hỗ trợ họ trong thời gian thực với "
+"plugin Live Chat WordPress đặc biệt bởi Supsystic."
+
+msgid "Begin Step-by-step Tutorial"
+msgstr "Bắt đầu Hướng dẫn từng bước"
+
+msgid "Below table"
+msgstr "Bên dưới bảng"
+
+msgid "Below the chart"
+msgstr "Bên dưới đồ thị"
+
+msgid "Bold"
+msgstr "In đậm"
+
+msgid "Borders"
+msgstr "Đường"
+
+msgid "Bubble Chart"
+msgstr "Biểu đồ mờ"
+
+msgid "C0"
+msgstr "C0"
+
+msgid "C1"
+msgstr "C1"
+
+msgid "C10"
+msgstr "C10"
+
+msgid "C2"
+msgstr "C2"
+
+msgid "C3"
+msgstr "C3"
+
+msgid "C4"
+msgstr "C4"
+
+msgid "C5"
+msgstr "C5"
+
+msgid "C6"
+msgstr "C6"
+
+msgid "C7"
+msgstr "C7"
+
+msgid "C8"
+msgstr "C8"
+
+msgid "C9"
+msgstr "C9"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "CSS Editor"
+msgstr "Sửa CSS"
+
+msgid "Can't decode table meta from JSON."
+msgstr "Không thể giải mã bảng meta từ JSON."
+
+msgid "Can't decode table rows from JSON."
+msgstr "Không thể giải mã các hàng trong bảng từ JSON."
+
+msgid "Caption"
+msgstr "Chú thích"
+
+msgid "Catalog #10 1/2 Envelope"
+msgstr "Mục lục #10 1/2 phong bì"
+
+msgid "Cell"
+msgstr "Cột"
+
+msgid ""
+"Cell - adds border around all four sides of each cell, Row - adds border only "
+"over and under each row. (i.e. only for the rows)."
+msgstr ""
+"Ô - thêm đường viền xung quanh tất cả bốn cạnh của mỗi ô, Hàng - chỉ thêm "
+"đường viền trên và dưới mỗi hàng. (tức là chỉ cho các hàng)."
+
+msgid "Center"
+msgstr "Giữa"
+
+msgid "Check all other FAQs"
+msgstr "Kiểm tra tất cả các Câu hỏi thường gặp khác"
+
+msgid "Check the result of formula in the table on your site."
+msgstr "Kiểm tra kết quả của công thức trong bảng trên trang web của bạn."
+
+msgid "Choose Icon"
+msgstr "Chọn icon"
+
+msgid "Choose color for loader"
+msgstr "Chọn màu khi đang load"
+
+msgid "Choose icon"
+msgstr "Chọn icon"
+
+msgid "Choose icon for loader"
+msgstr "Chọn icon trong khi load"
+
+msgid "Choose the orientation for PDF pages"
+msgstr "Chọn hướng cho các trang PDF"
+
+msgid "Choose the paper size for PDF pages"
+msgstr "Chọn khổ giấy cho các trang PDF"
+
+msgid "Clear"
+msgstr "Dọn dẹp"
+
+msgid ""
+"Click on the button “Add new table” and see the first form, which you need to "
+"fill in. A very simple step!"
+msgstr ""
+"Nhấp vào nút \"Thêm bảng mới\" và xem biểu mẫu đầu tiên mà bạn cần điền. Một "
+"bước rất đơn giản!"
+
+msgid "Clone"
+msgstr "Sao chép"
+
+msgid "Close Tutorial"
+msgstr "Đóng hướng dẫn"
+
+msgid "Column Chart"
+msgstr "Biểu đồ cột"
+
+msgid "Columns"
+msgstr "Cột"
+
+msgid "Coming Soon Plugin"
+msgstr "Plugin sắp ra mắt"
+
+msgid ""
+"Coming soon page with drag-and-drop builder or under construction | "
+"maintenance mode to notify visitors and collects emails."
+msgstr ""
+"Sắp có trang với trình tạo kéo và thả hoặc đang được xây dựng | chế độ bảo "
+"trì để thông báo cho khách truy cập và thu thập email."
+
+msgid "Comment"
+msgstr "Bình luận"
+
+msgid "Commerical #10 Envelope"
+msgstr "Phong bì thương mại số 10"
+
+msgid "Compact Table"
+msgstr "Bảng nhỏ gọn"
+
+msgid ""
+"Congratulations! You have successfully installed and activated PRO version of "
+"%s plugin."
+msgstr ""
+"Xin chúc mừng! Bạn đã cài đặt thành công và kích hoạt phiên bản PRO của plugin"
+"% s."
+
+msgid ""
+"Congratulations! You have successfully installed and activated PRO version of "
+"' ~ environment.getMenu().getMenuTitle() ~ ' plugin."
+msgstr ""
+"Xin chúc mừng! Bạn đã cài đặt thành công và kích hoạt phiên bản PRO của "
+"plugin '~ environment.getMenu (). GetMenuTitle () ~'."
+
+msgid "Contact Form Plugin"
+msgstr "Plugin biểu mẫu liên hệ"
+
+msgid "Count of Footer Rows"
+msgstr "Số lượng chân trang"
+
+msgid "Count of Header Rows"
+msgstr "Số lượng dòng tiêu đề"
+
+msgid "Count of table rows, which will be moved to footer."
+msgstr "Đếm các hàng trong bảng, sẽ được chuyển đến chân trang."
+
+msgid "Count of table rows, which will be moved to header."
+msgstr "Tổng số hàng trong bảng, sẽ được chuyển đến tiêu đề."
+
+msgid ""
+"Create and manage beautiful data tables with custom design. No HTML knowledge "
+"is required."
+msgstr ""
+"Tạo và quản lý các bảng dữ liệu đẹp với thiết kế tùy chỉnh. Không cần kiến ​​"
+"thức về HTML."
+
+msgid ""
+"Create online membership community with custom user profiles, roles, FrontEnd "
+"registration and login. Members Directory, activity, groups, messages."
+msgstr ""
+"Tạo cộng đồng thành viên trực tuyến với hồ sơ người dùng tùy chỉnh, vai trò, "
+"đăng ký FrontEnd và đăng nhập. Danh bạ thành viên, hoạt động, nhóm, tin nhắn."
+
+msgid "Create your first table"
+msgstr "Tạo bảng đầu tiên của bạn"
+
+msgid "Created"
+msgstr "Tạo"
+
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select images "
+"from your WordPress Media Library, Flickr, Instagram or Facebook, set slide "
+"captions, links and SEO fields all from one page."
+msgstr ""
+"Tạo trình chiếu với plugin trượt nhanh chóng và dễ dàng. Chỉ cần chọn hình "
+"ảnh từ Thư viện phương tiện WordPress, Flickr, Instagram hoặc Facebook của "
+"bạn, đặt chú thích trang trình bày, liên kết và trường SEO tất cả từ một "
+"trang."
+
+msgid "Currency"
+msgstr "Tiền tệ"
+
+msgid "Custom Footer"
+msgstr "Chân trang tùy chỉnh"
+
+msgid "Data Formats"
+msgstr "Định dạng dữ liệu"
+
+msgid "Data Tables Generator"
+msgstr "Trình tạo bảng dữ liệu"
+
+msgid "Date"
+msgstr "Ngày"
+
+msgid "Decrease the amount of whitespace in the table."
+msgstr "Giảm khoảng trắng trong bảng."
+
+msgid "Default"
+msgstr "Mặc định"
+
+msgid "Delete"
+msgstr "Xóa"
+
+msgid "Delimiter"
+msgstr "Dấu phân tách"
+
+msgid "Descending"
+msgstr "Giảm dần"
+
+msgid "Description"
+msgstr "Miêu tả"
+
+msgid "Description Text"
+msgstr "Văn bản mô tả"
+
+msgid "Design"
+msgstr "Thiết kế"
+
+msgid "Diagram"
+msgstr "Sơ đồ"
+
+msgid "Diagram Title"
+msgstr "Tiêu đề sơ đồ"
+
+msgid "Diagrams"
+msgstr "Sơ đồ"
+
+msgid ""
+"Diagrams - this is a Pro feature of our plugin, which can help you to follow "
+"the statistics of your table. Several types for every taste and any wishes."
+msgstr ""
+"Sơ đồ - đây là tính năng Pro của plugin của chúng tôi, có thể giúp bạn theo "
+"dõi thống kê của bảng. Một số loại cho mọi sở thích và mong muốn."
+
+msgid "Digital Publication Plugin"
+msgstr "Plugin xuất bản kỹ thuật số"
+
+msgid ""
+"Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, "
+"Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+"Xuất bản kỹ thuật số WordPress Plugin bởi Supsystic cho Tạp chí, Catalogues, "
+"Danh mục đầu tư. Chuyển đổi hình ảnh, bài đăng, PDF sang sách lật trang."
+
+msgid "Disable"
+msgstr "Vô hiệu hóa"
+
+msgid "Disable Responsivity"
+msgstr "Vô hiệu hóa trách nhiệm"
+
+msgid "Disable Responsivity - default table fluid layout"
+msgstr "Tắt tính năng trả lời - bố cục bảng mặc định"
+
+msgid "Disable Sorting"
+msgstr "Tắt sắp xếp"
+
+msgid "Disable Wrapping"
+msgstr "Tắt gói"
+
+msgid "Disable indexing table for search bots"
+msgstr "Vô hiệu hóa bảng lập chỉ mục cho các bot tìm kiếm"
+
+msgid ""
+"Disable wrapping of content in the table, so every word in the cells will be "
+"in one single line."
+msgstr ""
+"Tắt gói nội dung trong bảng, vì vậy mọi từ trong các ô sẽ nằm trong một dòng."
+
+msgid "Disallow Indexing"
+msgstr "Không cho phép lập chỉ mục"
+
+msgid ""
+"Display custom Google Maps. Set markers and locations with text, images, "
+"categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+"Hiển thị Google Maps tùy chỉnh. Đặt điểm đánh dấu và vị trí bằng văn bản, "
+"hình ảnh, danh mục và liên kết. Tùy chỉnh bản đồ google theo cách đơn giản và "
+"trực quan."
+
+msgid "Display only entries with matching characters in the beginning of words"
+msgstr "Chỉ hiển thị các mục nhập có các ký tự trùng khớp ở đầu từ"
+
+msgid "Edit table \"%s\""
+msgstr "Chỉnh sửa bảng \"% s\""
+
+msgid "Editable fields"
+msgstr "Các trường có thể chỉnh sửa"
+
+msgid "Editor"
+msgstr "Biên tập viên"
+
+msgid "Editor tab"
+msgstr "Tab trình soạn thảo"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Empty info text"
+msgstr "Văn bản thông tin trống"
+
+msgid "Empty table"
+msgstr "Bàn trống"
+
+msgid "Enable"
+msgstr "Bật"
+
+msgid ""
+"Enable / disable table loader icon before table will be completely loaded."
+msgstr ""
+"Bật / tắt biểu tượng trình tải bảng trước khi bảng sẽ được tải hoàn toàn."
+
+msgid "Enable Table History"
+msgstr "Bật Lịch sử bảng"
+
+msgid "Enter the name and create Data Table"
+msgstr "Nhập tên và tạo bảng dữ liệu"
+
+msgid "Execute JS Script After Table Is Loaded"
+msgstr "Thực thi JS Script sau khi bảng được tải"
+
+msgid "Executive"
+msgstr "Điều hành"
+
+msgid "Export"
+msgstr "Xuất ra"
+
+msgid "Export Data to the File"
+msgstr "Xuất dữ liệu vào tệp"
+
+msgid "Export Logo"
+msgstr "Xuất Logo"
+
+msgid "Export Page Orientation"
+msgstr "Định hướng trang xuất"
+
+msgid "Export Paper Size"
+msgstr "Chọn kích thước giấy xuất ra"
+
+msgid "Export available only in PRO version."
+msgstr "Xuất chỉ khả dụng trong phiên bản PRO."
+
+msgid "Export label"
+msgstr "Xuất nhãn"
+
+msgid "Export table"
+msgstr "Xuất bảng"
+
+msgid "Failed to find diagram %s."
+msgstr "Không thể tìm thấy sơ đồ% s."
+
+msgid "Failed to find table %s."
+msgstr "Không thể tìm thấy bảng% s."
+
+msgid "Failed to get table rows: %s"
+msgstr "Không nhận được hàng trong bảng:% s"
+
+msgid "Failed to import data from the uploaded file"
+msgstr "Không thể nhập dữ liệu từ tệp được tải lên"
+
+msgid "Failed to import selected file"
+msgstr "Không thể nhập tệp đã chọn"
+
+msgid "Failed to import selected file: Wrong spreadsheet id or url"
+msgstr "Không thể nhập tệp đã chọn: Id hoặc url bảng tính sai"
+
+msgid "Failed to save table meta data: %s"
+msgstr "Không thể lưu dữ liệu meta bảng:% s"
+
+msgid "Failed to save table rows: %s"
+msgstr "Không thể lưu hàng trong bảng:% s"
+
+msgid "Failed to upload selected file"
+msgstr "Không thể tải lên tệp đã chọn"
+
+msgid "Featured Plugins"
+msgstr "Plugins nổi bật"
+
+msgid "Features"
+msgstr "Đặc điểm"
+
+msgid "Feel free to contact us and don’t worry, everything gonna be ok!"
+msgstr "Hãy liên hệ với chúng tôi và đừng lo, mọi thứ sẽ ổn thôi!"
+
+msgid "File Type"
+msgstr "Loại tệp"
+
+msgid "File extension type"
+msgstr "Loại tiện ích mở rộng tệp"
+
+msgid "Fill in the rest of the formula."
+msgstr "Điền vào phần còn lại của công thức."
+
+msgid ""
+"Fill the table title and choose the number of columns and rows. Don’t worry, "
+"you will be able to change it (add or delete some) later!"
+msgstr ""
+"Điền tiêu đề bảng và chọn số cột và hàng. Đừng lo lắng, bạn sẽ có thể thay "
+"đổi nó (thêm hoặc xóa một số) sau!"
+
+msgid "Filtered info text"
+msgstr "Văn bản thông tin được lọc"
+
+msgid "Fixed Columns"
+msgstr "Cột cố định"
+
+msgid "Fixed Footer"
+msgstr "Chân trang cố định"
+
+msgid "Fixed Header"
+msgstr "Tiêu đề cố định"
+
+msgid "Fixed Table Height"
+msgstr "Chiều cao bảng cố định"
+
+msgid "Fixed Table Width"
+msgstr "Chiều rộng bảng cố định"
+
+msgid ""
+"Fixed table height in px. This value must be less than the original table "
+"height to create a vertical scroll, otherwise you will not see that the fixed "
+"header / footer exists."
+msgstr ""
+"Cố định chiều cao bảng trong px. Giá trị này phải nhỏ hơn chiều cao bảng ban "
+"đầu để tạo một cuộn dọc, nếu không bạn sẽ không thấy rằng đầu trang / chân "
+"trang cố định tồn tại."
+
+msgid "Folio"
+msgstr "Tờ số"
+
+msgid "Font Family"
+msgstr "Họ phông chữ"
+
+msgid "Font Size"
+msgstr "Cỡ font chữ"
+
+msgid "Font family changing available only in PRO version."
+msgstr "Thay đổi font chữ chỉ có trong phiên bản PRO."
+
+msgid "Footer"
+msgstr "Chân trang"
+
+msgid ""
+"Formats for cells value. All formats convert cell values to appropriate "
+"format types.\n"
+"                            <b>Percent with Convert</b> format sets percent "
+"format and convert cells value to percentage by division by 100.\n"
+"                            "
+msgstr ""
+"Định dạng cho giá trị ô. Tất cả các định dạng chuyển đổi giá trị ô thành các "
+"loại định dạng thích hợp.\n"
+"<b> Phần trăm với định dạng Chuyển đổi </ b> đặt định dạng phần trăm và "
+"chuyển đổi các ô có giá trị thành phần trăm chia cho 100."
+
+msgid "Frequently Asked Questions"
+msgstr "Các câu hỏi thường gặp"
+
+msgid "Frontend Export"
+msgstr "Frontend xuất khẩu"
+
+msgid "Get Browser Language"
+msgstr "Tải ngôn ngữ trình duyệt"
+
+msgid "Get PRO"
+msgstr "Nhận phiên bản PRO"
+
+msgid "Get PRO version"
+msgstr "Nhận phiên bản PRO"
+
+msgid "Global Table Data Search"
+msgstr "Tìm kiếm dữ liệu bảng toàn cầu"
+
+msgid "Go to Editor of Data Table."
+msgstr "Chuyển đến Trình chỉnh sửa Bảng dữ liệu."
+
+msgid "Google Maps Easy"
+msgstr "Google Maps dễ dàng"
+
+msgid "Google Spreadsheet Url"
+msgstr "Url bảng tính của Google"
+
+msgid "Header"
+msgstr "Tiêu đề"
+
+msgid "Height"
+msgstr "Chiều cao"
+
+msgid "Hello Supsystic Team!"
+msgstr "Xin chào đội Supsystic!"
+
+msgid "Hello! This is the Data Tables by Supsystic"
+msgstr "Xin chào! Đây là bảng dữ liệu bởi Supsystic"
+
+msgid "Hide Table Loader"
+msgstr "Ẩn trình tải bảng"
+
+msgid "Hide table by default and show only if search has a result."
+msgstr "Ẩn bảng theo mặc định và chỉ hiển thị nếu tìm kiếm có kết quả."
+
+msgid "Highlight the Order Column"
+msgstr "Đánh dấu cột thứ tự"
+
+msgid "Highlighting by Mousehover"
+msgstr "Làm nổi bật khi rê chuột"
+
+msgid "Horizontal scroll"
+msgstr "Cuộn ngang"
+
+msgid ""
+"Horizontal scroll - in this mode scroll bar will be added if table overflows "
+"parent container width"
+msgstr ""
+"Cuộn ngang - trong thanh cuộn chế độ này sẽ được thêm nếu bảng tràn chiều "
+"rộng vùng chứa của cấp độ gốc"
+
+msgid "How to use formulas in the table?"
+msgstr "Làm thế nào để sử dụng các công thức trong bảng?"
+
+msgid ""
+"I need to have line breaks/spaces between the paragraphs within the cells."
+msgstr "Tôi cần phải có dấu ngắt dòng / dấu cách giữa các đoạn trong các ô."
+
+msgid ""
+"If checked - footer will be created from the last table rows. Otherwise - "
+"footer will be created from header rows."
+msgstr ""
+"Nếu được chọn - chân trang sẽ được tạo từ các hàng trong bảng cuối cùng. Nếu "
+"không - chân trang sẽ được tạo từ hàng tiêu đề."
+
+msgid ""
+"If checked - table data on frontend will be overloaded from selected Google "
+"Sheet. <a href=\"%s\" tagget=\"_blank\">Read more</a> about how organize Auto "
+"Import form Google Sheets"
+msgstr ""
+"Nếu dữ liệu bảng đã chọn trên giao diện người dùng sẽ bị quá tải từ Google "
+"Trang tính đã chọn. <a href=\"%s\" tagget=\"_blank\"> Đọc thêm </a> về cách "
+"sắp xếp Tự động nhập tổ chức Google Trang tính"
+
+msgid "If checked - table data will be included in the global site search"
+msgstr ""
+"Nếu dữ liệu được chọn - bảng sẽ được bao gồm trong tìm kiếm trang web toàn cầu"
+
+msgid "If checked - the current sorted column will be highlighted"
+msgstr "Nếu được chọn - cột được sắp xếp hiện tại sẽ được tô sáng"
+
+msgid ""
+"If checked - this table will be resized by first supsystic table on page. "
+"Important! This option makes sense only if table is not on responsive mode or "
+"responsive mode is disabled. Also if the first table has different count of "
+"columns or different settings, their sizes may not be equal."
+msgstr ""
+"Nếu được chọn - bảng này sẽ được thay đổi kích thước bằng bảng supsystic đầu "
+"tiên trên trang. Quan trọng! Tùy chọn này chỉ có ý nghĩa nếu bảng không ở chế "
+"độ phản hồi hoặc chế độ phản hồi bị tắt. Ngoài ra nếu bảng đầu tiên có số "
+"lượng cột khác nhau hoặc các cài đặt khác nhau, kích thước của chúng có thể "
+"không bằng nhau."
+
+msgid ""
+"If checked - width of table columns will be calculated automatically for "
+"table width 100%.<br /><br />\n"
+"                                                Otherwise - you can set table "
+"width manually: columns width will be get from Fixed Table Width option\n"
+"                                                (toolbar on Editor tab) or "
+"calculated depending on the columns width in the table editor.<br /><br />\n"
+"                                                If you do not want to apply "
+"columns width at all - you should uncheck \"Auto Table Width\" option, set "
+"\"Fixed Table Width\"\n"
+"                                                option to \"auto\" and check "
+"\"Compact Table\" option."
+msgstr ""
+"Nếu được chọn - chiều rộng của các cột trong bảng sẽ được tính tự động cho "
+"chiều rộng bảng 100%. <br /> <br />\n"
+"                                                 Nếu không - bạn có thể đặt "
+"chiều rộng bảng theo cách thủ công: chiều rộng cột sẽ được lấy từ tùy chọn "
+"Chiều rộng Bảng cố định\n"
+"                                                 (thanh công cụ trên tab "
+"Editor) hoặc được tính toán tùy thuộc vào chiều rộng cột trong trình soạn "
+"thảo bảng. <br /> <br />\n"
+"                                                 Nếu bạn không muốn áp dụng "
+"chiều rộng cột ở tất cả - bạn nên bỏ chọn tùy chọn \"Chiều rộng bảng tự động"
+"\", đặt \"Chiều rộng bảng cố định\"\n"
+"                                                 tùy chọn \"tự động\" và chọn "
+"tùy chọn \"Bảng nhỏ gọn\"."
+
+msgid ""
+"If multiple sorting for columns is not set - the table will be sorted in the "
+"specified order by the column set in the table settings: Settings-> Features-"
+"> Sorting Order / Sorting Column. Otherwise - table will be sorted by the "
+"specified custom columns in sequense, in which they are listed."
+msgstr ""
+"Nếu nhiều sắp xếp cho cột không được đặt - bảng sẽ được sắp xếp theo thứ tự "
+"được chỉ định bởi tập hợp cột trong cài đặt bảng: Cài đặt-> Tính năng-> Thứ "
+"tự sắp xếp / Cột sắp xếp. Nếu không - bảng sẽ được sắp xếp theo các cột tùy "
+"chỉnh được chỉ định theo trình tự, trong đó chúng được liệt kê."
+
+msgid ""
+"If you use some specific characters (greek, cyrillic etc.) it is better to "
+"check this box for PDF export."
+msgstr ""
+"Nếu bạn sử dụng một số ký tự cụ thể (tiếng Hy Lạp, cyrillic, vv) thì tốt hơn "
+"nên chọn hộp này để xuất PDF."
+
+msgid ""
+"If, unfortunately, you have some problem - we are ready to help you in our <a "
+"href=\"//supsystic.com/contact-us/\" target=\"_blank\">internal support.</a>"
+msgstr ""
+"Tuy nhiên, nếu bạn gặp sự cố - chúng tôi sẵn sàng trợ giúp bạn trong <a href="
+"\"//supsystic.com/contact-us/\" target=\"_blank\"> bộ phận hỗ trợ nội bộ của "
+"chúng tôi. </a>"
+
+msgid "Import"
+msgstr "Nhập"
+
+msgid "Import Data to the Table"
+msgstr "Nhập dữ liệu vào bảng"
+
+msgid "Import Settings"
+msgstr "Nhập cài đặt"
+
+msgid "Import available only in PRO version."
+msgstr "Nhập chỉ khả dụng trong phiên bản PRO."
+
+msgid "Import error"
+msgstr "Lỗi nhập"
+
+msgid "Import settings"
+msgstr "Nhập cài đặt"
+
+msgid "Import to the table"
+msgstr "Nhập vào bảng"
+
+msgid "Import/Export"
+msgstr "Nhập khẩu/ xuất khẩu"
+
+msgid ""
+"Important! Please, check the sharing settings of your spreadsheet: it must be "
+"accessed to edit for everyone who has link. In other case the data will not "
+"import to table."
+msgstr ""
+"Quan trọng! Vui lòng kiểm tra cài đặt chia sẻ của bảng tính của bạn: nó phải "
+"được truy cập để chỉnh sửa cho tất cả những người có liên kết. Trong trường "
+"hợp khác, dữ liệu sẽ không được nhập vào bảng."
+
+msgid ""
+"In case you have special or at least, basic knowledge of CSS code - you can "
+"easily change the table here. Just make sure that you know, what you are "
+"doing and you will not destroy the table."
+msgstr ""
+"Trong trường hợp bạn có kiến thức cơ bản về mã CSS - bạn có thể dễ dàng thay "
+"đổi bảng ở đây. Chỉ cần chắc chắn rằng bạn biết, những gì bạn đang làm và bạn "
+"sẽ không phá hủy bảng."
+
+msgid "Insert Link"
+msgstr "Chèn đường dẫn"
+
+msgid "Insert link"
+msgstr "Chèn đường dẫn"
+
+msgid "Insert picture"
+msgstr "Chèn ảnh"
+
+msgid "Inside by the top left corner"
+msgstr "Bên trong góc trên cùng bên trái"
+
+msgid "Invalid range specified."
+msgstr "Phạm vi không hợp lệ được chỉ định."
+
+msgid "Italic"
+msgstr "Chữ nghiêng"
+
+msgid ""
+"It’s never been so easy to create and manage pricing and comparison tables "
+"with table builder. Any element of the table can be customise with mouse "
+"click."
+msgstr ""
+"Không bao giờ dễ dàng tạo và quản lý các bảng giá cả và so sánh với trình tạo "
+"bảng. Bất kỳ phần tử nào của bảng có thể được tùy chỉnh bằng cách nhấp chuột."
+
+msgid "Landscape"
+msgstr "Phong cảnh"
+
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+msgid "Language and Text"
+msgstr "Ngôn ngữ và văn bản"
+
+msgid "Large"
+msgstr "Lớn"
+
+msgid ""
+"Learn more about how to do this <a href=\"//supsystic.com/how-to-use-tables/"
+"\" target=\"_blank\">here</a>."
+msgstr ""
+"Tìm hiểu thêm về cách thực hiện <a href=\"//supsystic.com/how-to-use-tables/"
+"\" target=\"_blank\"> tại đây </a>."
+
+msgid "Ledger"
+msgstr "Sổ cái"
+
+msgid "Left"
+msgstr "Trái"
+
+msgid "Left Columns Count"
+msgstr "Số cột còn lại"
+
+msgid "Left of the chart"
+msgstr "Bên trái của biểu đồ"
+
+msgid "Legal"
+msgstr "Hợp pháp"
+
+msgid "Legend Position"
+msgstr "Vị trí chú giải"
+
+msgid "Length text"
+msgstr "Văn bản chiều dài"
+
+msgid "Let's Start!"
+msgstr "Hãy bắt đầu!"
+
+msgid ""
+"Lets make search by fields, marked as hidden (see appropriate button on "
+"editor toolbar)"
+msgstr ""
+"Cho phép thực hiện tìm kiếm theo trường, được đánh dấu là ẩn (xem nút thích "
+"hợp trên thanh công cụ của trình soạn thảo)"
+
+msgid "Letter"
+msgstr "Lá thư"
+
+msgid "License"
+msgstr "Giấy phép"
+
+msgid "Line Chart"
+msgstr "Biểu đồ đường kẻ"
+
+msgid "Lines between slices and values"
+msgstr "Đường giữa các lát và giá trị"
+
+msgid "Link Text"
+msgstr "Văn bản liên kết"
+
+msgid "Link from Google Tables"
+msgstr "Liên kết từ Google Tables"
+
+msgid "List of columns for multiple sorting"
+msgstr "Danh sách các cột để phân loại nhiều"
+
+msgid "List of columns, disabled from manual sorting"
+msgstr "Danh sách các cột, vô hiệu hóa từ sắp xếp thủ công"
+
+msgid "List of width sizes, set for table columns:"
+msgstr "Danh sách các kích thước chiều rộng, được đặt cho các cột trong bảng:"
+
+msgid "Live Chat Plugin"
+msgstr "Pluin Live Chat"
+
+msgid "Loading your table, please wait..."
+msgstr "Đang tải bảng của bạn, vui lòng chờ ..."
+
+msgid "Logo Alignment"
+msgstr "Căn chỉnh logo"
+
+msgid "Logo Position"
+msgstr "Vị trí logo"
+
+msgid "Long Number"
+msgstr "Số dài"
+
+msgid "Main"
+msgstr "Chính"
+
+msgid ""
+"Main Settings of your first table. Here you can see main settings which are "
+"conected with languages, table elements, styling and other different editors "
+"settings. Generally it’s a tab where you can edit the visual part of the "
+"whole table, switch on/off the responsive mode, set pagination etc."
+msgstr ""
+"Cài đặt chính của bảng đầu tiên của bạn. Ở đây bạn có thể thấy các cài đặt "
+"chính được kết nối với ngôn ngữ, các yếu tố bảng, kiểu dáng và các cài đặt "
+"trình chỉnh sửa khác. Nói chung, đó là tab mà bạn có thể chỉnh sửa phần trực "
+"quan của toàn bộ bảng, bật / tắt chế độ phản hồi, đặt phân trang, v.v ..."
+
+msgid "Make data table responsive"
+msgstr "Làm cho bảng dữ liệu đáp ứng"
+
+msgid ""
+"Mandatory attribute \"id\" is not specified. ' . 'Shortcode usage example: "
+"[%s id=\"{table_id}\"]"
+msgstr ""
+"Thuộc tính bắt buộc \"id\" không được chỉ định. '. Ví dụ về sử dụng mã ngắn: "
+"[% s id = \"{table_id}\"]"
+
+msgid ""
+"Mark selected cells as hidden and remove them from frontend. Can be useful "
+"for placing information in the table for admins only. <br /><br />Importanr! "
+"To display the table correctly, please, add this property for the whole row "
+"or the whole column of table."
+msgstr ""
+"Đánh dấu các ô đã chọn là ẩn và xóa chúng khỏi giao diện người dùng. Có thể "
+"hữu ích khi đặt thông tin trong bảng chỉ dành cho quản trị viên. <br /> <br /"
+"> Importanr! Để hiển thị bảng chính xác, vui lòng thêm thuộc tính này cho "
+"toàn bộ hàng hoặc toàn bộ cột của bảng."
+
+msgid ""
+"Mark selected cells as invisible and hide them on frontend. Can be useful for "
+"placing intermediate calculations. <br /><br />To display the table "
+"correctly, please, add this property for the whole row or the whole column of "
+"table."
+msgstr ""
+"Đánh dấu các ô đã chọn là ẩn và ẩn chúng trên giao diện người dùng. Có thể "
+"hữu ích khi đặt các phép tính trung gian. <br /> <br /> Để hiển thị bảng "
+"chính xác, vui lòng thêm thuộc tính này cho toàn bộ hàng hoặc toàn bộ cột của "
+"bảng."
+
+msgid "Medium"
+msgstr "Trung bình"
+
+msgid "Membership by Supsystic"
+msgstr "Tư cách thành viên bởi Supsystic"
+
+msgid "Message"
+msgstr "Tin nhắn"
+
+msgid "Minimum Count of Characters"
+msgstr "Số lượng ký tự tối thiểu"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Name of Cloned Table"
+msgstr "Tên bảng nhân bản"
+
+msgid "Name of slice"
+msgstr "Tên lát"
+
+msgid "Newsletter Plugin"
+msgstr "Pluin Newsletter"
+
+msgid "Next"
+msgstr "Tiếp theo"
+
+msgid "No"
+msgstr "Không"
+
+msgid "No data available in table"
+msgstr "Không có dữ liệu trong bảng"
+
+msgid "No detected"
+msgstr "Không phát hiện"
+
+msgid "No legend"
+msgstr "Không có huyền thoại"
+
+msgid "No matching records are found"
+msgstr "Không tìm thấy hồ sơ phù hợp"
+
+msgid "No value"
+msgstr "Không có giá trị"
+
+msgid "None"
+msgstr "Không ai"
+
+msgid "Not displaying"
+msgstr "Không hiển thị"
+
+msgid ""
+"Note that the table may look a little different depending on your theme style."
+msgstr ""
+"Lưu ý rằng bảng có thể trông hơi khác một chút tùy thuộc vào kiểu chủ đề của "
+"bạn."
+
+msgid "Number"
+msgstr "Con số"
+
+msgid "Number Formatting"
+msgstr "Định dạng số"
+
+msgid ""
+"Number of column to apply sort order. Set no value to disable table sorting "
+"by default."
+msgstr ""
+"Số cột để áp dụng thứ tự sắp xếp. Không đặt giá trị để vô hiệu hóa sắp xếp "
+"bảng theo mặc định."
+
+msgid "Number of column to fix by left side of the table."
+msgstr "Số cột cần sửa ở bên trái của bảng."
+
+msgid "Number of column to fix by right side of the table."
+msgstr "Số cột cần sửa theo bên phải của bảng."
+
+msgid "Offset Bottom"
+msgstr "Dưới bù đắp"
+
+msgid "Offset Left"
+msgstr "Bù đắp trái"
+
+msgid "Offset Right"
+msgstr "Bù đắp phải"
+
+msgid "Offset Top"
+msgstr "Bù đắp trên"
+
+msgid "Offset for axes' area by bottom."
+msgstr "Bù đắp cho khu vực của trục ở phía dưới."
+
+msgid "Offset for axes' area by left."
+msgstr "Bù đắp cho khu vực của trục bên trái."
+
+msgid "Offset for axes' area by right."
+msgstr "Bù đắp cho khu vực trục của bên phải."
+
+msgid "Offset for axes' area by top."
+msgstr "Bù đắp cho khu vực trục của đầu."
+
+msgid ""
+"One of the best plugin for creating Contact Forms on your WordPress site. "
+"Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+"Một trong những plugin tốt nhất để tạo Biểu mẫu liên hệ trên trang web "
+"WordPress của bạn. Phông chữ có thể thay đổi, hình nền, tùy chọn thêm trường, "
+"v.v."
+
+msgid "Open in new tab"
+msgstr "Mở ra trong trang mới"
+
+msgid "Other"
+msgstr "Khác"
+
+msgid "Overview"
+msgstr "Tổng quan"
+
+msgid "Overwrite Table Text"
+msgstr "Ghi đè văn bản bảng"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "PRO option"
+msgstr "Tùy chọn PRO"
+
+msgid "PRO version"
+msgstr "Phiên bản PRO"
+
+msgid "Pagination"
+msgstr "Phân trang"
+
+msgid "Pagination List Content"
+msgstr "Nội dung danh sách phân trang"
+
+msgid "Pagination Size"
+msgstr "Kích thước phân trang"
+
+msgid "Paragraph Mode"
+msgstr "Chế độ đoạn"
+
+msgid "Paste script code here"
+msgstr "Dán mã tập lệnh tại đây"
+
+msgid "Percent"
+msgstr "Phần trăm"
+
+msgid "Percent Mode"
+msgstr "Chế độ phần trăm"
+
+msgid "Percent with Convert"
+msgstr "Phần trăm với chuyển đổi"
+
+msgid "Percentage of slice size out of total"
+msgstr "Phần trăm kích thước lát trong tổng số"
+
+msgid "Photo Gallery Plugin"
+msgstr "Plugin Photo Gallery"
+
+msgid ""
+"Photo Gallery Plugin with a great number of layouts will help you to create "
+"quality respectable portfolios and image galleries."
+msgstr ""
+"Photo Gallery Plugin với một số lượng lớn bố trí sẽ giúp bạn tạo ra danh mục "
+"đầu tư chất lượng và thư viện hình ảnh đáng kính."
+
+msgid "Pie Chart"
+msgstr "Biểu đồ tròn"
+
+msgid "Plain"
+msgstr "Trơn"
+
+msgid ""
+"Please be advised that this option is available only in %s. You can %s today "
+"and get this and other PRO option for your tables!"
+msgstr ""
+"Xin lưu ý rằng tùy chọn này chỉ có sẵn trong% s. Bạn có thể% s ngày hôm nay "
+"và nhận được tùy chọn này và PRO khác cho các bảng của bạn!"
+
+msgid "Plugin options"
+msgstr "Tùy chọn plugin"
+
+msgid "Popup Plugin"
+msgstr "Plugin bật lên"
+
+msgid "Portrait"
+msgstr "Chân dung"
+
+msgid "Preview"
+msgstr "Xem trước"
+
+msgid ""
+"Preview insert for your comfort. Before updating the table on your page - you "
+"can see the result of your efforts and changes, look at it and enjoy the "
+"final outcome."
+msgstr ""
+"Xem trước chèn cho sự thoải mái của bạn. Trước khi cập nhật bảng trên trang "
+"của bạn - bạn có thể thấy kết quả của những nỗ lực và thay đổi của bạn, hãy "
+"nhìn vào nó và tận hưởng kết quả cuối cùng."
+
+msgid "Pricing Table"
+msgstr "Bảng giá"
+
+msgid "Quantitative value of slice"
+msgstr "Giá trị định lượng của lát cắt"
+
+msgid "RA0"
+msgstr "RA0"
+
+msgid "RA1"
+msgstr "RA1"
+
+msgid "RA2"
+msgstr "RA2"
+
+msgid "RA3"
+msgstr "RA3"
+
+msgid "RA4"
+msgstr "RA4"
+
+msgid "Redo"
+msgstr "Chuẩn bị"
+
+msgid "Relative Mode"
+msgstr "Chế độ tương đối"
+
+msgid "Remove"
+msgstr "Xóa bỏ"
+
+msgid "Remove Data"
+msgstr "Xóa bỏ dữ liệu"
+
+msgid "Remove Logo"
+msgstr "Xóa bỏ logo"
+
+msgid "Renew License"
+msgstr "Gia hạn giấy phép"
+
+msgid "Report a bug"
+msgstr "Báo cáo lỗi"
+
+msgid "Require a new functionallity"
+msgstr "Yêu cầu chức năng mới"
+
+msgid "Responsive Mode"
+msgstr "Chế độ đáp ứng"
+
+msgid "Right"
+msgstr "Phải"
+
+msgid "Right Columns Count"
+msgstr "Số cột phải"
+
+msgid "Right of the chart"
+msgstr "Bên phải của biểu đồ"
+
+msgid "Role for users who can use plugin. Administrator is included by default"
+msgstr ""
+"Vai trò cho người dùng có thể sử dụng plugin. Quản trị viên được bao gồm theo "
+"mặc định"
+
+msgid "Roles"
+msgstr "Vai trò"
+
+msgid "Row"
+msgstr "Hàng"
+
+msgid "Row Striping"
+msgstr "Hàng tước"
+
+msgid "Row highlighting by mouse hover."
+msgstr "Hàng nổi bật bằng cách di chuột."
+
+msgid "Rows"
+msgstr "Hàng"
+
+msgid "Rows Count per Request"
+msgstr "Số lượng hàng cho mỗi yêu cầu"
+
+msgid "SRA0"
+msgstr "SRA0"
+
+msgid "SRA1"
+msgstr "SRA1"
+
+msgid "SRA2"
+msgstr "SRA2"
+
+msgid "SRA3"
+msgstr "SRA3"
+
+msgid "SRA4"
+msgstr "SRA4"
+
+msgid "Save"
+msgstr "Lưu"
+
+msgid "Save Frontend Fields"
+msgstr "Lưu các trường Frontend"
+
+msgid "Save as"
+msgstr "Lưu dưới dạng"
+
+msgid "Save the changes of table."
+msgstr "Lưu các thay đổi của bảng."
+
+msgid "Scientific"
+msgstr "Thuộc về khoa học"
+
+msgid "Search by Hidden Fields"
+msgstr "Tìm kiếm theo trường ẩn"
+
+msgid "Search label"
+msgstr "Tìm kiếm nhãn"
+
+msgid "Search:"
+msgstr "Tìm kiếm:"
+
+msgid "Searching"
+msgstr "Đang tìm kiếm"
+
+msgid "Select Logo"
+msgstr "Chọn logo"
+
+msgid "Select User to display its table"
+msgstr "Chọn Người dùng để hiển thị bảng của nó"
+
+msgid ""
+"Select a cell and start typing. In a cell, type an equal sign “=” to start "
+"the formula."
+msgstr ""
+"Chọn một ô và bắt đầu nhập. Trong một ô, nhập dấu bằng “=” để bắt đầu công "
+"thức."
+
+msgid "Select alignment of table logotype"
+msgstr "Chọn căn chỉnh của biểu trưng bảng"
+
+msgid "Select avalilable roles to use tables"
+msgstr "Chọn vai trò có sẵn để sử dụng bảng"
+
+msgid "Select chart type"
+msgstr "Chọn loại biểu đồ"
+
+msgid "Select file type to export table:"
+msgstr "Chọn loại tệp để xuất bảng:"
+
+msgid "Select position of table logotype"
+msgstr "Chọn vị trí của biểu trưng bảng"
+
+msgid "Select roles"
+msgstr "Chọn vai trò"
+
+msgid "Selectable fields"
+msgstr "Các trường có thể chọn"
+
+msgid ""
+"Set column width for selected columns in pixels or percents. Press \"Clear "
+"Fixed Width\" to clear fixed columns width for all table columns. All changes "
+"will be applied after table saving."
+msgstr ""
+"Đặt chiều rộng cột cho các cột được chọn theo pixel hoặc phần trăm. Nhấn "
+"\"Clear Fixed Width\" để xóa chiều rộng cột cố định cho tất cả các cột trong "
+"bảng. Tất cả thay đổi sẽ được áp dụng sau khi lưu bảng."
+
+msgid ""
+"Set count of table rows, which will be saved per one request. If you do not "
+"know why does this value need for - it's better to keep the preferred value: "
+"400."
+msgstr ""
+"Đặt số lượng hàng trong bảng, sẽ được lưu theo một yêu cầu. Nếu bạn không "
+"biết tại sao giá trị này lại cần - tốt hơn là giữ giá trị ưu tiên: 400."
+
+msgid ""
+"Set fixed table width in px, % or auto (in this case table will be adjusted "
+"by table content)"
+msgstr ""
+"Đặt chiều rộng bảng cố định bằng px,% hoặc tự động (trong trường hợp này bảng "
+"sẽ được điều chỉnh theo nội dung bảng)"
+
+msgid "Set format of all numbers in the table"
+msgstr "Đặt định dạng của tất cả các số trong bảng"
+
+msgid ""
+"Set minimum count of characters to start search in Search field. Set 0 to "
+"make search in any case."
+msgstr ""
+"Đặt số ký tự tối thiểu để bắt đầu tìm kiếm trong trường Tìm kiếm. Đặt 0 để "
+"thực hiện tìm kiếm trong mọi trường hợp."
+
+msgid ""
+"Set multiple column sorting for selected columns. Press \"Clear Multiple "
+"Sorting\" to clear multiple sorting for all table columns. All changes will "
+"be applied after table saving."
+msgstr ""
+"Đặt nhiều cột sắp xếp cho các cột đã chọn. Nhấn \"Xóa nhiều phân loại\" để "
+"xóa nhiều phân loại cho tất cả các cột trong bảng. Tất cả thay đổi sẽ được áp "
+"dụng sau khi lưu bảng."
+
+msgid ""
+"Set output format for currencies. Supports only 1 currency for 1 table. "
+"Besides here you can establish needed divider between integer and fractional "
+"parts and quantity of zeros at fractional part. For example:<br />\n"
+"                                            $ 1,000.000<br />\n"
+"                                            € 1.00"
+msgstr ""
+"Đặt định dạng đầu ra cho tiền tệ. Chỉ hỗ trợ 1 đơn vị tiền tệ cho 1 bảng. Bên "
+"cạnh đó ở đây bạn có thể thiết lập chia cần thiết giữa các số nguyên và các "
+"phần phân đoạn và số lượng các số không ở phần phân số. Ví dụ: <br />\n"
+"                                             $ 1,000.000 <br />\n"
+"                                             € 1,00"
+
+msgid ""
+"Set output format for date. For example:<br />\n"
+"                                            YYYY-MM-DD - 1991-12-25<br />\n"
+"                                            DD.MM.YY - 25.12.91"
+msgstr ""
+"Đặt định dạng đầu ra cho ngày. Ví dụ: <br />\n"
+"                                             YYYY-MM-DD - 1991-12-25 <br />\n"
+"                                             DD.MM.YY - 25.12.91"
+
+msgid "Set output format for numbers e.g. 1,000.00, 1.00"
+msgstr "Đặt định dạng đầu ra cho các số, ví dụ: 1.000,00, 1,00"
+
+msgid ""
+"Set output format for percent numbers. For example:<br />\n"
+"                                            10.00%<br />\n"
+"                                            10%"
+msgstr ""
+"Đặt định dạng đầu ra cho số phần trăm. Ví dụ: <br />\n"
+"                                             10,00% <br />\n"
+"                                             10%"
+
+msgid ""
+"Set output format for time and duration. For example:<br />\n"
+"                                             1) time<br />\n"
+"                                             HH:mm - 18:00<br />\n"
+"                                             hh:mm a - 9:00 pm<br /><br />\n"
+"                                             2) duration<br />\n"
+"                                             hh:mm - 36:40<br />\n"
+"                                             hh:mm:ss - 36:40:12"
+msgstr ""
+"Đặt định dạng đầu ra cho thời gian và thời lượng. Ví dụ:<br />\n"
+"                                             1) time<br />\n"
+"                                             HH:mm - 18:00<br />\n"
+"                                             hh:mm a - 9:00 pm<br /><br />\n"
+"                                             2) duration<br />\n"
+"                                             hh:mm - 36:40<br />\n"
+"                                             hh:mm:ss - 36:40:12"
+
+msgid "Set sort order by default"
+msgstr "Đặt thứ tự sắp xếp theo mặc định"
+
+msgid ""
+"Set the numeric value from 0 to 100, for example 10 (equals to 10%). Leave "
+"this field empty to use default offset value."
+msgstr ""
+"Đặt giá trị số từ 0 đến 100, ví dụ 10 (bằng 10%). Để trống trường này để sử "
+"dụng giá trị bù mặc định."
+
+msgid ""
+"Set the value in px or %, for example, 200 (equals to 200px) or 80%. Leave "
+"this field empty to use default height value."
+msgstr ""
+"Đặt giá trị bằng px hoặc%, ví dụ: 200 (bằng 200px) hoặc 80%. Để trống trường "
+"này để sử dụng giá trị độ cao mặc định."
+
+msgid ""
+"Set the value in px or %, for example, 400 (equals to 400px) or 90%. Leave "
+"this field empty to use default width value."
+msgstr ""
+"Đặt giá trị bằng px hoặc%, ví dụ: 400 (bằng 400px) hoặc 90%. Để trống trường "
+"này để sử dụng giá trị độ rộng mặc định."
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Short Number"
+msgstr "Số ngắn"
+
+msgid "Shortcode"
+msgstr "Mã ngắn"
+
+msgid "Show Empty Table"
+msgstr "Hiển thị bảng trống"
+
+msgid "Show Only Search Results"
+msgstr "Chỉ hiển thị kết quả tìm kiếm"
+
+msgid "Show _MENU_ entries"
+msgstr "Hiển thị các mục _MENU"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Hiển thị 0 đến 0 trong số 0 mục"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Hiển thị _START_ đến _END_ của _TOTAL_ mục"
+
+msgid "Signature"
+msgstr "Chữ ký"
+
+msgid "Signature Text"
+msgstr "Chữ ký"
+
+msgid "Slider Plugin"
+msgstr "Pluin Slider"
+
+msgid "Slider by Supsystic"
+msgstr "Slider bởi Supsystic"
+
+msgid "Small"
+msgstr "Nhỏ"
+
+msgid "Social Share Buttons"
+msgstr "Nút chia sẻ mạng xã hội"
+
+msgid ""
+"Social share buttons to increase social traffic and popularity. Social "
+"sharing to Facebook, Twitter and other social networks."
+msgstr ""
+"Nút chia sẻ xã hội để tăng lưu lượng truy cập xã hội và mức độ phổ biến. Chia "
+"sẻ xã hội lên Facebook, Twitter và các mạng xã hội khác."
+
+msgid ""
+"Some errors occurred while sending mail please send your message trough this "
+"contact form:"
+msgstr ""
+"Đã xảy ra một số lỗi khi gửi thư, vui lòng gửi tin nhắn của bạn thông qua "
+"biểu mẫu liên hệ này:"
+
+msgid "Sort order"
+msgstr "Thứ tự sắp xếp"
+
+msgid "Sorting"
+msgstr "Sắp xếp"
+
+msgid "Sorting Column"
+msgstr "Sắp xếp theo cột"
+
+msgid "Sorting Order"
+msgstr "Sắp xếp thứ tự"
+
+msgid "Stacked Columns"
+msgstr "Cột xếp chồng lên nhau"
+
+msgid "Standard Responsive mode"
+msgstr "Chế độ đáp ứng tiêu chuẩn"
+
+msgid ""
+"Standard Responsive mode - in this mode if table content doesn't fit all "
+"columns become under each other with one cell per row"
+msgstr ""
+"Chế độ đáp ứng tiêu chuẩn - trong chế độ này nếu nội dung bảng không phù hợp "
+"với tất cả các cột trở nên dưới nhau với một ô trên mỗi hàng"
+
+msgid "Step-by-step Tutorial"
+msgstr "Hướng dẫn từng bước"
+
+msgid "Strict Matching"
+msgstr "Kết hợp chặt chẽ"
+
+msgid "Subject"
+msgstr "Chủ đề"
+
+msgid "Support"
+msgstr "Hỗ trợ"
+
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will "
+"have no need to control it or send them manually. No coding, hard skills or "
+"long hours of customizing are required."
+msgstr ""
+"Supsystic Bản tin plugin cho tự động gửi thư của bạn. Bạn sẽ không cần phải "
+"kiểm soát nó hoặc gửi chúng bằng tay. Không yêu cầu mã hóa, kỹ năng cứng hoặc "
+"nhiều giờ tùy chỉnh."
+
+msgid "Switch rows / columns"
+msgstr "Chuyển đổi hàng / cột"
+
+msgid "Table Elements"
+msgstr "Các phần tử bảng"
+
+msgid "Table History"
+msgstr "Lịch sử thay đổi bảng"
+
+msgid "Table Information"
+msgstr "Thông tin bảng"
+
+msgid "Table Language"
+msgstr "Ngôn ngữ bảng"
+
+msgid "Table Loader Color"
+msgstr "Màu khi load bảng"
+
+msgid "Table Loader Icon"
+msgstr "Icon khi load bảng"
+
+msgid "Table info text"
+msgstr "Văn bản thông tin bảng"
+
+msgid "Table information display field. %s"
+msgstr "Trường hiển thị thông tin bảng. %S"
+
+msgid "Table title"
+msgstr "Tiêu đề bảng"
+
+msgid "Table will not be hidden by default , but will be empty."
+msgstr "Bảng sẽ không bị ẩn theo mặc định, nhưng sẽ trống."
+
+msgid "Tables"
+msgstr "Bảng"
+
+msgid "Tabloid"
+msgstr "Báo lá cải"
+
+msgid "Text color"
+msgstr "Màu chữ văn bản"
+
+msgid "Text on Slice"
+msgstr "Văn bản trên Slice"
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Just click here to start using "
+"it - and we will show you it's possibilities and powerfull features."
+msgstr ""
+"Cảm ơn bạn đã chọn plugin Bảng dữ liệu của chúng tôi. Chỉ cần nhấp vào đây để "
+"bắt đầu sử dụng nó - và chúng tôi sẽ cho bạn thấy khả năng của nó và các tính "
+"năng mạnh mẽ."
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Let’s make a quick tour "
+"through features and main options of the plugin. Just click “Next” button."
+msgstr ""
+"Cảm ơn bạn đã chọn plugin Bảng dữ liệu của chúng tôi. Hãy thực hiện chuyến "
+"tham quan nhanh qua các tính năng và tùy chọn chính của plugin. Chỉ cần nhấp "
+"vào nút \"Tiếp theo\"."
+
+msgid ""
+"The Best WordPress PopUp option plugin to help you gain more subscribers, "
+"social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+"Plugin tùy chọn WordPress PopUp tốt nhất để giúp bạn có được nhiều người đăng "
+"ký, người theo dõi xã hội hoặc quảng cáo hơn. Cửa sổ bật lên đáp ứng với các "
+"tùy chọn thân thiện."
+
+msgid ""
+"The most important part of settings - Editor. Here you can fill all the cells "
+"of your table, add some colors, play with fonts and sizes. This insert also "
+"allows you to change the alignment of your font, add formats (percents, "
+"currency), images and links to make your table more visual attraction."
+msgstr ""
+"Phần quan trọng nhất của cài đặt - Trình chỉnh sửa. Ở đây bạn có thể điền vào "
+"tất cả các ô của bảng, thêm một số màu, chơi với phông chữ và kích cỡ. Chèn "
+"này cũng cho phép bạn thay đổi sự liên kết của phông chữ của bạn, thêm định "
+"dạng (phần trăm, tiền tệ), hình ảnh và liên kết để làm cho bảng của bạn thu "
+"hút thị giác hơn."
+
+msgid "The table ID %s not found."
+msgstr "Không tìm thấy ID bảng% s."
+
+msgid "The table with ID %d not exists."
+msgstr "Bảng có ID% d không tồn tại."
+
+msgid "There are not all shortcode's attributes specified. Usage example"
+msgstr ""
+"Không có tất cả các thuộc tính của shortcode được chỉ định. Ví dụ sử dụng"
+
+msgid ""
+"This label can not be translated using Table Language option. You can change "
+"this label typing the custom text or hide this label typing _NONE_ as label "
+"text."
+msgstr ""
+"Không thể dịch nhãn này bằng tùy chọn Ngôn ngữ bảng. Bạn có thể thay đổi nhãn "
+"này bằng cách nhập văn bản tùy chỉnh hoặc ẩn nhãn này đang nhập _NONE_ làm "
+"văn bản nhãn."
+
+msgid ""
+"This mode allows you to separate the content into paragraphs. To move to a "
+"new line in the cell - please press CTRL + Enter."
+msgstr ""
+"Chế độ này cho phép bạn tách nội dung thành các đoạn văn. Để di chuyển đến "
+"một dòng mới trong ô - vui lòng nhấn CTRL + Enter."
+
+msgid "Time / Duration"
+msgstr "Khoảng thời gian"
+
+msgid "Title"
+msgstr "Chức vụ"
+
+msgid "Topic"
+msgstr "Đề tài"
+
+msgid "Type"
+msgstr "Kiểu"
+
+msgid "Type Google Sheet url to import data from sheet to table"
+msgstr "Nhập url của Trang tính Google để nhập dữ liệu từ trang tính vào bảng"
+
+msgid "Underline"
+msgstr "Gạch dưới"
+
+msgid "Undo"
+msgstr "Hủy bỏ"
+
+msgid "Unsupported export type: %s."
+msgstr "Loại xuất không được hỗ trợ:% s."
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Use Comma as Delimiter"
+msgstr "Sử dụng dấu phẩy làm dấu phân tách"
+
+msgid "Use Custom Colors"
+msgstr "Sử dụng màu tùy chỉnh"
+
+msgid "Use Editable Fields for Current Roles"
+msgstr "Sử dụng các trường có thể chỉnh sửa cho vai trò hiện tại"
+
+msgid "Use Export Font"
+msgstr "Sử dụng Phông chữ xuất"
+
+msgid "Use Frontend Fields for Logged In Users Only"
+msgstr "Sử dụng các trường giao diện người dùng cho người dùng đã đăng nhập"
+
+msgid ""
+"Use comma as delimiter of integer and fractional parts of number for editable "
+"fields on frontend"
+msgstr ""
+"Sử dụng dấu phẩy làm dấu phân tách các phần số nguyên và phân số cho các "
+"trường có thể chỉnh sửa trên giao diện người dùng"
+
+msgid "Use first column as labels"
+msgstr "Sử dụng cột đầu tiên làm nhãn"
+
+msgid "Use first row as headers"
+msgstr "Sử dụng hàng đầu tiên làm tiêu đề"
+
+msgid "Vertical alignment"
+msgstr "Căn chỉnh theo chiều dọc"
+
+msgid "Video Tutorial"
+msgstr "Video hướng dẫn"
+
+msgid ""
+"We are trying to make your using of our plugin maximum comfortable and easy. "
+"So we find it like the best way to tell you about some options and features "
+"of this plugin."
+msgstr ""
+"Chúng tôi đang cố gắng làm cho việc sử dụng plugin của chúng tôi tối đa thoải "
+"mái và dễ dàng. Vì vậy, chúng tôi tìm thấy nó như là cách tốt nhất để cho bạn "
+"biết về một số tùy chọn và tính năng của plugin này."
+
+msgid ""
+"We really like what we do and feel responsibility for our “child”. Constantly "
+"we are trying to change something or update the new features, but sometimes "
+"you may have a situation when you need help or have a problem. We can offer "
+"you two kinds of help: "
+msgstr ""
+"Chúng tôi thực sự thích những gì chúng tôi làm và cảm thấy có trách nhiệm với "
+"“đứa trẻ” của chúng tôi. Thường xuyên chúng tôi đang cố gắng thay đổi một cái "
+"gì đó hoặc cập nhật các tính năng mới, nhưng đôi khi bạn có thể có một tình "
+"huống khi bạn cần giúp đỡ hoặc có một vấn đề. Chúng tôi có thể cung cấp cho "
+"bạn hai loại trợ giúp:"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Welcome to Data Tables plugin by Supsystic!"
+msgstr "Chào mừng bạn đến với plugin Bảng dữ liệu bởi Supsystic!"
+
+msgid "Welcome to our plugin"
+msgstr "Chào mừng bạn đến với plugin của chúng tôi"
+
+msgid "Well done!"
+msgstr "Làm tốt!"
+
+msgid ""
+"When you use frontend fields, <a href=\"%s\" target=\"_blank\">Table History</"
+"a> allows you (using History Shortcode) to display on frontend the own table "
+"version for each logged in user. On this tab you can display any user's table "
+"- just choose the user name from dropdown list."
+msgstr ""
+"Khi bạn sử dụng các trường giao diện người dùng, <a href=\"%s\" target="
+"\"_blank\"> Bảng Hitory </a> cho phép bạn (sử dụng Shortcode lịch sử) hiển "
+"thị trên giao diện người dùng phiên bản bảng riêng cho từng người dùng đã "
+"đăng nhập. Trên tab này, bạn có thể hiển thị bảng của bất kỳ người dùng nào - "
+"chỉ cần chọn tên người dùng từ danh sách thả xuống."
+
+msgid "Width"
+msgstr "Chiều rộng"
+
+msgid ""
+"With these two buttons in our Pro version you can Import any table of csv "
+"format and Export the whole table, which you have done."
+msgstr ""
+"Với hai nút này trong phiên bản Pro của chúng tôi, bạn có thể Nhập bất kỳ "
+"bảng định dạng csv nào và Xuất toàn bộ bảng mà bạn đã thực hiện."
+
+msgid "Word wrapping"
+msgstr "Gói từ"
+
+msgid "Yes"
+msgstr "Vâng"
+
+msgid "You can change number of Columns and Rows later"
+msgstr "Bạn có thể thay đổi số lượng cột và hàng sau"
+
+msgid ""
+"You have no diagrams for now. Go to %s -> select the required data in the "
+"table and click on “Add diagram” button. Also please check the tutorial %s"
+msgstr ""
+"Bạn không có sơ đồ cho bây giờ. Đi tới% s -> chọn dữ liệu cần thiết trong "
+"bảng và nhấp vào nút “Thêm sơ đồ”. Ngoài ra, hãy kiểm tra hướng dẫn% s"
+
+msgid ""
+"You need to enable ZipArchive extension in PHP config file on your server. "
+"Please, contact to your server administrator."
+msgstr ""
+"Bạn cần bật phần mở rộng ZipArchive trong tệp cấu hình PHP trên máy chủ của "
+"bạn. Vui lòng liên hệ với quản trị viên máy chủ của bạn."
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr ""
+"Bạn sẽ không thể cập nhật phiên bản chuyên nghiệp của mình với giấy phép đã "
+"hết hạn"
+
+msgid "Your message successfully send. We contact you soon."
+msgstr "Tin nhắn của bạn đã gửi thành công. Chúng tôi liên lạc với bạn sớm."
+
+msgid "Your premium support is expired in %s days"
+msgstr "Hỗ trợ phí bảo hiểm của bạn đã hết hạn sau% s ngày"
+
+msgid "Your premium support is expired in ' ~ days ~ ' days"
+msgstr "Hỗ trợ phí bảo hiểm của bạn đã hết hạn sau '~ days ~' ngày"
+
+msgid "Zero records"
+msgstr "Bản ghi Zero"
+
+msgid "by Supsystic!"
+msgstr "bởi Supsystic!"
+
+msgid "default"
+msgstr "mặc định"
+
+msgid "disable width"
+msgstr "tắt chiều rộng"
+
+msgid "how to create Diagrams with Data Table plugin"
+msgstr "làm thế nào để tạo ra Diagrams với Data Table plugin"
+
+msgid "value"
+msgstr "giá trị"

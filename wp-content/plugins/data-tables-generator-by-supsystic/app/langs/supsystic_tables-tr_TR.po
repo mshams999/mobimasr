@@ -1,0 +1,2154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Translator: Mehmet Koçali <membus@gmail.com>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.9\n"
+
+msgid ""
+"\n"
+"                       You can set the rows and cols from the selected range, "
+"which is need to be removed from diagram.<br /><br />\n"
+"                       For example: 1r,2c<br /><br />\n"
+"                       In this case the first row and the second column will "
+"be removed from diagram.<br /><br />\n"
+"                       Leave this field blank to use all selected rows and "
+"columns."
+msgstr ""
+"\n"
+"                       Diyagramdan çıkarılması gereken satır ve sütunları "
+"seçimden ayarlayabilirsiniz.<br /><br />\n"
+"                       Örneğin: 1r,2c<br /><br />\n"
+"                       Bu durumda ilk satır ve ikinci sütun diyagramdan "
+"çıkarılır.<br /><br />\n"
+"                       Tüm seçilen satır ve sütunları kullanmak için bu alanı "
+"boş bırakın."
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "( _MAX_ toplam girişten filitrelendi)"
+
+msgid "11x17"
+msgstr "11x17"
+
+msgid "2A0"
+msgstr "2A0"
+
+msgid "3D Diagram"
+msgstr "3D Diyagram"
+
+msgid "4A0"
+msgstr "4A0"
+
+msgid "8.5x11"
+msgstr "8.5x11"
+
+msgid "8.5x14"
+msgstr "8.5x14"
+
+msgid ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> "
+"Contact us </a> through the Forum on our site - if you have some question, "
+"offer or wish."
+msgstr ""
+"Eğer sorularınız, teklifleriniz veya dilekleriniz varsa sitemizde forum "
+"aracılığı ile <a href=“//supsystic.com/forum/datatable-plugin/“ "
+"target=“_blank”> Bize Ulaşın </a>."
+
+msgid ""
+"<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - "
+"you’ll have to enter license key (you can find it in your personal account on "
+"our site). Go to the License tab and enter your email and license key. Once "
+"you have activated your PRO license - you can use all its advanced options. "
+"<br><br>That’s all. From this moment you can use your Data Table without any "
+"doubt. But if you still have some question - do not hesitate to contact us "
+"through our <a href=\"https://supsystic.com/contact-us/\">internal support</"
+"a> or on our <a href=\"http://supsystic.com/forum/datatable-plugin/"
+"\">Supsystic Forum.</a> Besides you can always describe your questions on <a "
+"href=\"https://wordpress.org/support/plugin/data-tables-generator-by-supsystic"
+"\">WordPress Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It "
+"will be nice if you`ll help us and boost plugin with <a href=\"https://"
+"wordpress.org/support/view/plugin-reviews/data-tables-generator-by-supsystic?"
+"rate=5#postform/\">Five Stars rating on WordPress.org.</a> <br><br>We hope "
+"that you like our Data Table plugin and wish you all the best! Good luck!"
+msgstr ""
+"<b>Yükseltme</b> <br>Eklentinin Premium sürümünü satın aldığınızda  - lisans "
+"anahtarınızı girmelisiniz (sitemizdeki hesabım alanında bulabilirsiniz). "
+"Lisans sekmesine gidin ve e-posta adresi ile lisans anahtarını girin. Pro "
+"lisansı aktive ettiğinizde - gelişmiş ayarları kullanabilirsiniz. "
+"<br><br>Hepsi bu. Bu noktadan sonra Data Table eklentinizi endişe etmeden "
+"kullanabilirsiniz. Fakat yine de sorularınız varsa - <a href=\"https://"
+"supsystic.com/contact-us/\">iç destek</a> veya sitemizin <a href=\"http://"
+"supsystic.com/forum/datatable-plugin/\">Supsystic Forum</a> kısımlarından "
+"bize ulaşmaktan çekinmeyin. Bunun dışında <a href=\"https://wordpress.org/"
+"support/plugin/data-tables-generator-by-supsystic\">WordPress Ultimate Forum</"
+"a>üzerinden her zaman sorularınızı yöneltebilirsiniz. <br><br><b>Eklentiyi "
+"beğendiniz mi?</b> <br> <a href=\"https://wordpress.org/support/view/plugin-"
+"reviews/data-tables-generator-by-supsystic?rate=5#postform/\">Wordpress.org "
+"'da bize Beş Yıldız vererek</a> eklentiyi güçlendirmeniz büyük incelik "
+"olacaktır <br><br>Umarız bizim Data Table beğenmişsiniz, en iyi "
+"dileklerimizle. İyi şanslar!"
+
+msgid "A small guide for the first-time user"
+msgstr "İlk kullanıcı için küçük bir rehber"
+
+msgid ""
+"A stacked column chart is a column chart that places related values atop one "
+"another.<br /><br />\n"
+"                        \"Relative Mode\" formats each value as a fraction of "
+"1.<br /><br />\n"
+"                        \"Percent Mode\" formats each value as a percentage "
+"of 100%. "
+msgstr ""
+"Yığılmış sütun grafiği birbiri üstünde bulunan ilgili sütun grafikleridir."
+"<br /><br />\n"
+"                        \"Göreceli Modu\" her bir değeri 1 olarak "
+"biçimlendirir.<br /><br />\n"
+"                        \"Yüzde Modu\" herbir değeri %100 ün parçası olarak "
+"biçimlendirir. "
+
+msgid "A0"
+msgstr "A0"
+
+msgid "A1"
+msgstr "A1"
+
+msgid "A10"
+msgstr "A10"
+
+msgid "A2"
+msgstr "A2"
+
+msgid "A3"
+msgstr "A3"
+
+msgid "A4"
+msgstr "A4"
+
+msgid "A5"
+msgstr "A5"
+
+msgid "A6"
+msgstr "A6"
+
+msgid "A7"
+msgstr "A7"
+
+msgid "A8"
+msgstr "A8"
+
+msgid "A9"
+msgstr "A9"
+
+msgid "Above table"
+msgstr "Tablonun üstünde"
+
+msgid "Above the chart"
+msgstr "Grafiğin üstünde"
+
+msgid "Actions"
+msgstr "Eylemler"
+
+msgid "Activate"
+msgstr "Aktifleştir"
+
+msgid "Activate License"
+msgstr "Lisansı aktif hale getir"
+
+msgid ""
+"Actually, Data Table plugin is very simple and has a lot of different options "
+"at the same time. That’s why when you close this article I will show you the "
+"main of them, but the very detailed one you can find on our site. I hope that "
+"you will have no questions after even this small guide. For the first time we "
+"will help you to install and create your first table, but if you need help - "
+"contact us through the internal support"
+msgstr ""
+"Aslında Data Table eklentisi çok basit ve aynı anda birçok farklı seçeneğe "
+"sahip. İşte bu makaleyi kapattığınızda sana temel unsurları göstereceğim, "
+"fakat ayrıntılı halini sitemizde bulabilirsin. Umarım bu küçük kılavuzdan "
+"sonra hiçbir sorunuz kalmaz. İlk kez, ilk tablonuzu yüklemeniz ve "
+"oluşturmanız konusunda size yardımcı olacağız, ancak yardıma ihtiyacınız "
+"olursa - dahili destek aracılığıyla bize ulaşın"
+
+msgid ""
+"Add <a href=\"%s\" target=\"_blank\">editable field</a> for selected cells to "
+"edit cell value on frontend. Enjoy the <a href=\"%s\" target=\"_blank"
+"\">practical example</a>."
+msgstr ""
+"Kullanıcıların değerlerini değiştirebileceği <a href=\"%s\" target=\"_blank"
+"\">düzenlenebilir hücre</a> ekle. <a href=\"%s\" target=\"_blank\">Pratik "
+"örneğe</a> göz atabilirsin."
+
+msgid "Add Fixed Column Width"
+msgstr "Sabit sütun genişliği ekle"
+
+msgid "Add Multiple Sorting"
+msgstr "Birden fazla sıralama Ekle"
+
+msgid "Add Option"
+msgstr "Seçenek Ekle"
+
+msgid "Add automatic highlight for table odd rows"
+msgstr "Tek satırlar için tablo satırlarının otomatik vurgulamasını ekleyin"
+
+msgid "Add column on the left"
+msgstr "Sol tarafa sütun ekle"
+
+msgid "Add diagram"
+msgstr "Diagram ekle"
+
+msgid "Add dropdown list for highlighted cell to change cell value on frontend."
+msgstr ""
+"Kullanıcıların içeriğini değiştirebileceği hücreleri vurgulayan bir aşağı "
+"açılır liste ekle."
+
+msgid "Add editable field"
+msgstr "Düzenlenebilir alan ekle"
+
+msgid "Add new table"
+msgstr "Yeni tablo ekle"
+
+msgid "Add row above"
+msgstr "Üste satır ekle"
+
+msgid "Add table"
+msgstr "Tablo ekle"
+
+msgid "Align by First Table"
+msgstr "İlk tabloya göre hizala"
+
+msgid "Alignment"
+msgstr "Hizalama"
+
+msgid "Allow export table to pdf, csv, xls on frontend"
+msgstr "Kullanıcıların tabloyu pdf, csv, xls olarak dışa aktarmasına izin ver"
+
+msgid ""
+"Allows to <a href=\"%s\" target=\"_blank\">use frontend fields only for "
+"logged in users</a>. See the next buttons on the editor toolbar:<br />\n"
+"                                            Add editable field<br />\n"
+"                                            Add dropdown list"
+msgstr ""
+"Sadece kayıtlı üyeler <a href=\"%s\" target=\"_blank\">düzenlenebilir "
+"hücreleri kullanabilsin</a>. Düzenleyici araç çubuğundaki sonraki düğmelere "
+"bakın;<br />\n"
+"                                            Düzenlebilir alan ekle<br />\n"
+"                                            Aşağı açılır liste ekle"
+
+msgid ""
+"Allows to <a href=\"%s\" target=\"_blank\">use frontend fields only for "
+"logged in users</a>. See the next buttons on the editor toolbar:<br />\n"
+"                Add editable field<br />\n"
+"                Add dropdown list"
+msgstr ""
+"Sadece kayıtlı üyeler <a href=\"%s\" target=\"_blank\">düzenlenebilir "
+"hücreleri kullanabilsin</a>. Düzenleyici araç çubuğundaki sonraki düğmelere "
+"bakın;<br />\n"
+"                 Düzenlenebilir alan ekle<br />\n"
+"                 Aşağı açılır liste ekle"
+
+msgid ""
+"Allows to choose language for the table's labels (pagination, search ets.)"
+msgstr "Tablo etiketleri (sayfalandırma, arama vb) için dil seçmenizi sağlar"
+
+msgid "Allows to execute custom javascript code after table is loaded."
+msgstr ""
+"Tablo yüklendikten sonra özel javascript kodu yürütmesine olanak sağlar."
+
+msgid ""
+"Allows to export table in pdf, csv, xls formats from the front-end. Choose "
+"needed formats"
+msgstr ""
+"Kullanıcının tabloyu pdf, csv, xls formatlarında dışa aktarımına izin verir. "
+"Gerekli biçimleri seçin"
+
+msgid ""
+"Allows to fix columns during table scrolling. Important! The fixing of "
+"columns suggests that the table will have a horisontal scroll type of "
+"responsive mode, otherwise you will not see that the fixed columns exist. So "
+"this feature is a kind of responsive mode on its own and will not work with "
+"such Responsive Modes as Standard and Automatic columns hiding."
+msgstr ""
+"Tablo kaydırma işlemi sırasında sütunları düzeltmeye izin verir. Önemli! "
+"Sütunların sabitlenmesi, tablonun yatay kaydırma tipi bir tepki modu "
+"olacağını düşündürür, aksi halde sabit sütunların var olduğunu göremezsiniz. "
+"Dolayısıyla bu özellik, kendiliğinden bir tür tepki veren moddur ve Standart "
+"ve Otomatik sütunlar gizleme gibi Duyarlı modlarla çalışmaz."
+
+msgid ""
+"Allows to fix the table's footer during table scrolling. Important! Footer "
+"option must be enabled for using this feature. Also you need to set Fixed "
+"Table Height to create a vertical scroll at the table. To see the work of "
+"this feature you should not use such Responsive Modes as Standard and "
+"Automatic columns hiding."
+msgstr ""
+"Tablo kaydırma işlemi sırasında tablonun altbilgisini düzeltmeye izin verir. "
+"Önemli! Bu özelliği kullanmak için altbilgi seçeneği etkinleştirilmelidir. "
+"Ayrıca tabloda dikey bir kaydırma oluşturmak için Sabit Yükseklik ayarlamanız "
+"gerekir. Bu özelliğin çalışmasını görmek için Standart ve Otomatik sütunlar "
+"gizleme gibi Duyarlı Modları kullanmamalısınız."
+
+msgid ""
+"Allows to fix the table's header during table scrolling. Important! Header "
+"option must be enabled for using this feature. Also you need to set Fixed "
+"Table Height to create a vertical scroll for your table. To see the work of "
+"this feature you should not use such Responsive Modes such as Standard and "
+"Automatic columns hiding."
+msgstr ""
+"Tablo kaydırma işlemi sırasında tablonun başlığını düzeltmeye izin verir. "
+"Önemli! Bu özelliği kullanmak için başlık seçeneği etkinleştirilmelidir. "
+"Ayrıca tabloda dikey bir kaydırma oluşturmak için Sabit Yükseklik ayarlamanız "
+"gerekir. Bu özelliğin çalışmasını görmek için Standart ve Otomatik sütunlar "
+"gizleme gibi Duyarlı Modları kullanmamalısınız."
+
+msgid ""
+"Allows to save data to the table through the frontend fields. See the next "
+"buttons on the editor toolbar:<br />\n"
+"                                            Add editable field<br />\n"
+"                                            Add dropdown list"
+msgstr ""
+"Düzenlenebilir alanlar vasıtasıyla tablodaki verileri kaydetmeye izin verir. "
+"Düzenleyici araç çubuğundaki sonraki düğmelere bakın;/>\n"
+"                                            Düzenlebilir alan ekle<br />\n"
+"                                            Aşağı açılır liste ekle"
+
+msgid ""
+"Allows to save data to the table through the frontend fields. See the next "
+"buttons on the editor toolbar:<br />\n"
+"                Add editable field<br />\n"
+"                Add dropdown list"
+msgstr ""
+"Düzenlenebilir alanlar vasıtasıyla tablodaki verileri kaydetmeye izin verir. "
+"Düzenleyici araç çubuğundaki sonraki düğmelere bakın;/>\n"
+"                Düzenlebilir alan ekle<br />\n"
+"                Aşağı açılır liste ekle"
+
+msgid ""
+"Allows to use editable fields only for users with selected roles. If there "
+"are no chosen roles - all logged in users will have ability to use the "
+"editable fields."
+msgstr ""
+"Düzenlenebilir alanları yalnızca seçili rollerdeki kullanıcılar için "
+"kullanmaya izin verir. Seçilen roller yoksa - tüm oturum açmış kullanıcılar "
+"düzenlenebilir alanları kullanma olanağına sahip olacaklardır."
+
+msgid "An error has occurred"
+msgstr "Bir hata oluştu"
+
+msgid "Append to existing table data"
+msgstr "Mevcut tablo verisine ekle"
+
+msgid "Area Chart"
+msgstr "Alan grafiği"
+
+msgid "Ascending"
+msgstr "Küçükten büyüğe"
+
+msgid "Auto Index"
+msgstr "Otomatik Index"
+
+msgid "Auto Table Width"
+msgstr "Otomatik tablo genişliği"
+
+msgid "Autoimport from Google Sheet"
+msgstr "Google tablolardan otomatik içe aktar"
+
+msgid "Automatic"
+msgstr "Otomatik"
+
+msgid "Automatic column hiding"
+msgstr "Otomatik sütun gizleme"
+
+msgid ""
+"Automatic column hiding - in this mode table columns will collapse from right "
+"to left if content does not fit to parent container width"
+msgstr ""
+"Otomatik sütun gizleme - Bu modda, içerik ana konteynerinin genişliğine "
+"uymuyorsa tablo sütunları sağdan sola doğru daralır"
+
+msgid "Automticaly appends selected logo for output pdf or printing"
+msgstr "Seçilen logoyu çıktı veya pdf için otomatik ekler"
+
+msgid "Axis X Format"
+msgstr "Eksen X formatı"
+
+msgid "Axis X Title"
+msgstr "Eksen X Başlığı"
+
+msgid "Axis Y Format"
+msgstr "Eksen Y formatı"
+
+msgid "Axis Y Title"
+msgstr "Eksen Y Başlığı"
+
+msgid "B0"
+msgstr "B0"
+
+msgid "B1"
+msgstr "B1"
+
+msgid "B10"
+msgstr "B10"
+
+msgid "B2"
+msgstr "B2"
+
+msgid "B3"
+msgstr "B3"
+
+msgid "B4"
+msgstr "B4"
+
+msgid "B5"
+msgstr "B5"
+
+msgid "B6"
+msgstr "B6"
+
+msgid "B7"
+msgstr "B7"
+
+msgid "B8"
+msgstr "B8"
+
+msgid "B9"
+msgstr "B9"
+
+msgid "Background color"
+msgstr "Zemin rengi"
+
+msgid "Backup Plugin"
+msgstr "Yedekleme Eklentisi"
+
+msgid ""
+"Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched "
+"DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr ""
+"Supsystic tarafından sunulan Yedekleme ve Geri Yükleme WordPress eklentisi, "
+"WordPress web siteniz için hızlı ve dokunulmamış DropBox, FTP, Amazon S3, "
+"Google Drive yedeklemesi sağlar."
+
+msgid "Bar Chart"
+msgstr "Grafik çubuğu"
+
+msgid ""
+"Be closer to your visitors and customers with Live Chat Support by Supsystic. "
+"Help you visitors, support them in real-time with exceptional Live Chat "
+"WordPress plugin by Supsystic."
+msgstr ""
+"Supsystic’in Canlı Sohbet Desteği ile ziyaretçilerinize ve müşterilerinize "
+"daha yakın olun. Ziyaretçilerinize yardım edin, Supsystic’in sıradışı Canlı "
+"Sohbet WordPress eklentisiyle gerçek zamanlı olarak destekleyin."
+
+msgid "Begin Step-by-step Tutorial"
+msgstr "Adım Adım Eğitime Başlayın"
+
+msgid "Below table"
+msgstr "Aşağıdaki tablo"
+
+msgid "Below the chart"
+msgstr "Aşağıdaki çizelge"
+
+msgid "Bold"
+msgstr "Kalın"
+
+msgid "Borders"
+msgstr "Kenarlar"
+
+msgid "Bubble Chart"
+msgstr "Kabarcık Çizelge"
+
+msgid "C0"
+msgstr "C0"
+
+msgid "C1"
+msgstr "C1"
+
+msgid "C10"
+msgstr "C10"
+
+msgid "C2"
+msgstr "C2"
+
+msgid "C3"
+msgstr "C3"
+
+msgid "C4"
+msgstr "C4"
+
+msgid "C5"
+msgstr "C5"
+
+msgid "C6"
+msgstr "C6"
+
+msgid "C7"
+msgstr "C7"
+
+msgid "C8"
+msgstr "C8"
+
+msgid "C9"
+msgstr "C9"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "CSS Editor"
+msgstr "CSS Düzenleyici"
+
+msgid "Can't decode table meta from JSON."
+msgstr "JSON'dan gelen tablo metası çözülemedi."
+
+msgid "Can't decode table rows from JSON."
+msgstr "JSON'dan gelen tablo satırları çözülemedi."
+
+msgid "Caption"
+msgstr "Resim yazısı"
+
+msgid "Catalog #10 1/2 Envelope"
+msgstr "Katalog #10 1/2 Zarf"
+
+msgid "Cell"
+msgstr "Hücre"
+
+msgid ""
+"Cell - adds border around all four sides of each cell, Row - adds border only "
+"over and under each row. (i.e. only for the rows)."
+msgstr ""
+"Hücre - her hücrenin dört kenarına kenar çizgisi ekler, Satır - sadece her "
+"satırın üstüne ve altına kenar çizgisi ekler. (ör. sadece satırlar için)"
+
+msgid "Center"
+msgstr "Merkez"
+
+msgid "Check all other FAQs"
+msgstr "Diğer tüm SSS’leri kontrol edin"
+
+msgid "Check the result of formula in the table on your site."
+msgstr "Sitenizdeki tablodaki formülün sonucunu kontrol edin."
+
+msgid "Choose Icon"
+msgstr "Simge Seç"
+
+msgid "Choose color for loader"
+msgstr "Yükleyici için renk seçin"
+
+msgid "Choose icon"
+msgstr "Simge Seç"
+
+msgid "Choose icon for loader"
+msgstr "Yükleyici için simge seçin"
+
+msgid "Choose the orientation for PDF pages"
+msgstr "PDF dışa aktarma dosyası için sayfa yönlendirmesini seçin"
+
+msgid "Choose the paper size for PDF pages"
+msgstr "PDF sayfalar için kağıt boyutu seçin"
+
+msgid "Clear"
+msgstr "Temizle"
+
+msgid ""
+"Click on the button “Add new table” and see the first form, which you need to "
+"fill in. A very simple step!"
+msgstr ""
+"“Yeni tablo ekle” düğmesine tıklayın ve doldurmanız gereken ilk formu görün. "
+"Çok basit bir adım!"
+
+msgid "Clone"
+msgstr "Klonla"
+
+msgid "Close Tutorial"
+msgstr "Eğiticiyi kapat"
+
+msgid "Column Chart"
+msgstr "Sütun Grafiği"
+
+msgid "Columns"
+msgstr "Sütunlar"
+
+msgid "Coming Soon Plugin"
+msgstr "Yakında Eklentisi"
+
+msgid ""
+"Coming soon page with drag-and-drop builder or under construction | "
+"maintenance mode to notify visitors and collects emails."
+msgstr ""
+"Sürükle-bırak yapıcı ile Yakında eklentisi veya yapım aşamasında | Bakımda "
+"modu ile ziyaretçilerinizi bilgilendirebilir ve e-posta toplar."
+
+msgid "Comment"
+msgstr "Yorum"
+
+msgid "Commerical #10 Envelope"
+msgstr "Ticari # 10 Zarf"
+
+msgid "Compact Table"
+msgstr "Kompakt tablo"
+
+msgid ""
+"Congratulations! You have successfully installed and activated PRO version of "
+"%s plugin."
+msgstr ""
+"Tebrikler! %s Eklentisinin PRO sürümünü başarılı bir şekilde yüklediniz."
+
+msgid ""
+"Congratulations! You have successfully installed and activated PRO version of "
+"' ~ environment.getMenu().getMenuTitle() ~ ' plugin."
+msgstr ""
+"Tebrikler! ' ~ environment.getMenu().getMenuTitle() ~ ' Eklentisinin PRO "
+"sürümünü başarılı bir şekilde kurup etkinleştirdiniz."
+
+msgid "Contact Form Plugin"
+msgstr "Contact Form Eklentisi"
+
+msgid "Count of Footer Rows"
+msgstr "Alt Satır Sayısı"
+
+msgid "Count of Header Rows"
+msgstr "Başlık Satırları Sayısı"
+
+msgid "Count of table rows, which will be moved to footer."
+msgstr "Alta taşınacak tablo satırları sayısı."
+
+msgid "Count of table rows, which will be moved to header."
+msgstr "Başlığa taşınacak tablo satırlarının sayısı."
+
+msgid ""
+"Create and manage beautiful data tables with custom design. No HTML knowledge "
+"is required."
+msgstr ""
+"Özel tasarımlı güzel veri tablolarını oluşturun ve yönetin. HTML bilgisi "
+"gerekmez."
+
+msgid ""
+"Create online membership community with custom user profiles, roles, FrontEnd "
+"registration and login. Members Directory, activity, groups, messages."
+msgstr ""
+"Özel kullanıcı profilleri, roller, FrontEnd kaydı ve oturum açma ile "
+"çevrimiçi üyelik topluluğu oluşturun. Üyeler Dizini, etkinlik, gruplar, "
+"mesajlar."
+
+msgid "Create your first table"
+msgstr "İlk tablonuzu oluşturun"
+
+msgid "Created"
+msgstr "Oluşturuldu"
+
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select images "
+"from your WordPress Media Library, Flickr, Instagram or Facebook, set slide "
+"captions, links and SEO fields all from one page."
+msgstr ""
+"Slider eklentisi ile slayt gösterileri oluşturmak hızlı ve kolaydır. "
+"WordPress Medya Kütüphanesi, Flickr, Instagram veya Facebook’daki görüntüleri "
+"seçmeniz, slayt başlıklarını, bağlantıları ve SEO alanlarını tek bir sayfadan "
+"ayarlamanız yeterlidir."
+
+msgid "Currency"
+msgstr "Para Birimi"
+
+msgid "Custom Footer"
+msgstr "Özel Altbilgi"
+
+msgid "Data Formats"
+msgstr "Veri Biçimleri"
+
+msgid "Data Tables Generator"
+msgstr "Veri Tabloları oluşturucu"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "Decrease the amount of whitespace in the table."
+msgstr "Tablodaki boşluk miktarını azaltın."
+
+msgid "Default"
+msgstr "Varsayılan"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Delimiter"
+msgstr "Ayırıcı"
+
+msgid "Descending"
+msgstr "Büyükten küçüğe"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "Description Text"
+msgstr "Açıklama Metni"
+
+msgid "Design"
+msgstr "Tasarım"
+
+msgid "Diagram"
+msgstr "Diyagram"
+
+msgid "Diagram Title"
+msgstr "Diyagram Başlığı"
+
+msgid "Diagrams"
+msgstr "Diagramlar"
+
+msgid ""
+"Diagrams - this is a Pro feature of our plugin, which can help you to follow "
+"the statistics of your table. Several types for every taste and any wishes."
+msgstr ""
+"Diyagramlar - tablonuzun istatistiklerini izlemenize yardımcı olabilecek "
+"eklentimizin Pro özelliğidir. Her zevke ve herhangi bir istek için bir çok "
+"çeşit."
+
+msgid "Digital Publication Plugin"
+msgstr "Dijital Yayın Eklentisi"
+
+msgid ""
+"Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, "
+"Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+"Supsystic Dijital Yayın WordPress Eklentisi, Dergiler, Kataloglar, Portföyler "
+"için. Resimleri, yazıları, PDF dosyasını sayfa çevirme kitabı haline "
+"dönüştürün."
+
+msgid "Disable"
+msgstr "Devre Dışı"
+
+msgid "Disable Responsivity"
+msgstr "Etkileşimlilik Devre Dışı Bırak"
+
+msgid "Disable Responsivity - default table fluid layout"
+msgstr "Etkileşimlilik Devre Dışı Bırak - varsayılan tablo akış düzeni"
+
+msgid "Disable Sorting"
+msgstr "Sıralama Devre Dışı Bırak"
+
+msgid "Disable Wrapping"
+msgstr "Kaydırmayı devre dışı bırakın"
+
+msgid "Disable indexing table for search bots"
+msgstr "Index tablosunu arama botları için devreden çıkarın"
+
+msgid ""
+"Disable wrapping of content in the table, so every word in the cells will be "
+"in one single line."
+msgstr ""
+"Tabloda veride kaydırmayı devreden çıkarın, böylece bir hücrede yer alan tüm "
+"veri tek hizada yer alır."
+
+msgid "Disallow Indexing"
+msgstr "Indekslemeye izin verme"
+
+msgid ""
+"Display custom Google Maps. Set markers and locations with text, images, "
+"categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+"Özel Google Haritalar’ı görüntüleyin. İşaretleyicileri ve konumları metin, "
+"resim, kategori ve bağlantılarla ayarlayın. Google haritaları basit ve "
+"sezgisel bir şekilde özelleştirin."
+
+msgid "Display only entries with matching characters in the beginning of words"
+msgstr "Yalnızca kelimelerin başında eşleşen karakterleri görüntüleme"
+
+msgid "Edit table \"%s\""
+msgstr "Şu tabloyu değiştir \"%s\""
+
+msgid "Editable fields"
+msgstr "Düzenlenebilir alanlar"
+
+msgid "Editor"
+msgstr "Düzenleyici"
+
+msgid "Editor tab"
+msgstr "Düzenleyici sekmesi"
+
+msgid "Email"
+msgstr "E-posta"
+
+msgid "Empty info text"
+msgstr "Bilgi metnini boşalt"
+
+msgid "Empty table"
+msgstr "Tabloyu boşalt"
+
+msgid "Enable"
+msgstr "Etkinleştir"
+
+msgid ""
+"Enable / disable table loader icon before table will be completely loaded."
+msgstr "Tablo tamamen yükleninceye kadar yükleyici simgesini göster / gizle."
+
+msgid "Enable Table History"
+msgstr "Tablo Geçmişini Etkinleştir"
+
+msgid "Enter the name and create Data Table"
+msgstr "Adı girin ve Veri Tablosu oluşturun"
+
+msgid "Execute JS Script After Table Is Loaded"
+msgstr "Tablo yüklendikten sonra JS Komut Dosyasını Çalıştır"
+
+msgid "Executive"
+msgstr "Yöneticisi"
+
+msgid "Export"
+msgstr "Dışarı aktar"
+
+msgid "Export Data to the File"
+msgstr "Tabloyu dışarı aktar"
+
+msgid "Export Logo"
+msgstr "Logoyu Dışa Aktar"
+
+msgid "Export Page Orientation"
+msgstr "Sayfa Yönünü Dışa Aktar"
+
+msgid "Export Paper Size"
+msgstr "Sayfa boyutunu dışarı aktar"
+
+msgid "Export available only in PRO version."
+msgstr "Dışarı aktarma sadece PRO sürümde kullanılabilir."
+
+msgid "Export label"
+msgstr "Etiketi Dışarı aktar"
+
+msgid "Export table"
+msgstr "Tabloyu Dışarı aktar"
+
+msgid "Failed to find diagram %s."
+msgstr "%s isimli diagram bulunamadı."
+
+msgid "Failed to find table %s."
+msgstr "%s isimli tablo bulunamadı."
+
+msgid "Failed to get table rows: %s"
+msgstr "Şu tablo satırları alınamadı: %s"
+
+msgid "Failed to import data from the uploaded file"
+msgstr "Yüklenen dosyadan içeriye veri aktarma başarısız oldu"
+
+msgid "Failed to import selected file"
+msgstr "Seçilmiş dosya içeriye aktarılamadı"
+
+msgid "Failed to import selected file: Wrong spreadsheet id or url"
+msgstr "Seçili dosya içe aktarılamadı: Yanlış e-tablo kimliği veya URL"
+
+msgid "Failed to save table meta data: %s"
+msgstr "%s tablosunun meta verisi kaydedilemedi"
+
+msgid "Failed to save table rows: %s"
+msgstr "Şu tablo satırları kaydedilemedi: %s"
+
+msgid "Failed to upload selected file"
+msgstr "Seçilen dosya yüklenemedi"
+
+msgid "Featured Plugins"
+msgstr "Öne Çıkan Eklentiler"
+
+msgid "Features"
+msgstr "Özellikler"
+
+msgid "Feel free to contact us and don’t worry, everything gonna be ok!"
+msgstr ""
+"Bizimle iletişime geçmekten çekinmeyin ve endişelenmeyin, her şey yoluna "
+"girecektir!"
+
+msgid "File Type"
+msgstr "Dosya tipi"
+
+msgid "File extension type"
+msgstr "Dosya uzantı tipi"
+
+msgid "Fill in the rest of the formula."
+msgstr "Formülün geri kalan kısmını doldurun."
+
+msgid ""
+"Fill the table title and choose the number of columns and rows. Don’t worry, "
+"you will be able to change it (add or delete some) later!"
+msgstr ""
+"Tablo başlığını doldurun ve sütun ve satır sayısını seçin. Endişelenme, daha "
+"sonra onu değiştirebilir (bazılarını ekleyebilir veya silebilirsiniz)!"
+
+msgid "Filtered info text"
+msgstr "Filtrelenmiş bilgi metni"
+
+msgid "Fixed Columns"
+msgstr "Sabit Kolonlar"
+
+msgid "Fixed Footer"
+msgstr "Sabit Alt Kısım"
+
+msgid "Fixed Header"
+msgstr "Sabit Başlık"
+
+msgid "Fixed Table Height"
+msgstr "Sabit Tablo Yüksekliği"
+
+msgid "Fixed Table Width"
+msgstr "Sabit Tablo Genişliği"
+
+msgid ""
+"Fixed table height in px. This value must be less than the original table "
+"height to create a vertical scroll, otherwise you will not see that the fixed "
+"header / footer exists."
+msgstr ""
+"Piksel olarak sabit tablo yüksekliği. Dikey kaydırma oluşturmak için bu değer "
+"orijinal tablo yüksekliğinden daha az olmalı, aksi takdirde sabit üstbilgi/"
+"altbilginin var olduğunu göremezsiniz."
+
+msgid "Folio"
+msgstr "Folio"
+
+msgid "Font Family"
+msgstr "Font ailesi"
+
+msgid "Font Size"
+msgstr "Font Boyutu"
+
+msgid "Font family changing available only in PRO version."
+msgstr "Font grubu değişimi sadece PRO sürümde kullanılabilir."
+
+msgid "Footer"
+msgstr "Altbilgi"
+
+msgid ""
+"Formats for cells value. All formats convert cell values to appropriate "
+"format types.\n"
+"                            <b>Percent with Convert</b> format sets percent "
+"format and convert cells value to percentage by division by 100.\n"
+"                            "
+msgstr ""
+"Hücre değerleri için formatlar. Her format hücre değerini seçinize göre "
+"düzenler.\n"
+"                            <b>Dönüşüm ile yüzde</b> hücre değerini 100 "
+"üzerinden bir değere dönüştürür.\n"
+"                            "
+
+msgid "Frequently Asked Questions"
+msgstr "Sıkça Sorulan Sorular"
+
+msgid "Frontend Export"
+msgstr "Frontend Dışa Aktar"
+
+msgid "Get Browser Language"
+msgstr "Tarayıcı dilini kullan"
+
+msgid "Get PRO"
+msgstr "PRO Satın alın"
+
+msgid "Get PRO version"
+msgstr "PRO Sürümü alın"
+
+msgid "Global Table Data Search"
+msgstr "Global veri tablosu arama"
+
+msgid "Go to Editor of Data Table."
+msgstr "Veri Tablosu Editörüne gidin."
+
+msgid "Google Maps Easy"
+msgstr "Google haritalar kolaylığı"
+
+msgid "Google Spreadsheet Url"
+msgstr "Google tablolar Url"
+
+msgid "Header"
+msgstr "Başlık"
+
+msgid "Height"
+msgstr "Yükseklik"
+
+msgid "Hello Supsystic Team!"
+msgstr "Merhaba Supsystic Takımı!"
+
+msgid "Hello! This is the Data Tables by Supsystic"
+msgstr "Merhaba! Bu, Supsystic’in Veri Tabloları’dır"
+
+msgid "Hide Table Loader"
+msgstr "Tablo yükleyicisini gizle"
+
+msgid "Hide table by default and show only if search has a result."
+msgstr "Arama sonucunda görülünceye kadar tabloyu varsayılan olarak gizle."
+
+msgid "Highlight the Order Column"
+msgstr "Hizalama yapılan sütunu renklendir"
+
+msgid "Highlighting by Mousehover"
+msgstr "Mouse Üzerine Gelince vurgula"
+
+msgid "Horizontal scroll"
+msgstr "Yatay kaydırma"
+
+msgid ""
+"Horizontal scroll - in this mode scroll bar will be added if table overflows "
+"parent container width"
+msgstr ""
+"Yatay kaydırma - tablo, üst konteynır genişliğini taşıyorsa bu modda kaydırma "
+"çubuğu eklenecektir"
+
+msgid "How to use formulas in the table?"
+msgstr "Tablodaki formülleri nasıl kullanabilirim?"
+
+msgid ""
+"I need to have line breaks/spaces between the paragraphs within the cells."
+msgstr ""
+"Hücrelerdeki paragraflar arasında satır sonları/boşlukları olması gerekir."
+
+msgid ""
+"If checked - footer will be created from the last table rows. Otherwise - "
+"footer will be created from header rows."
+msgstr ""
+"Eğer seçilirse - altbilgi tablonun son satırından oluturulur. Aksi durumda - "
+"altbilgi başlık satırlarından oluşturulur."
+
+msgid ""
+"If checked - table data on frontend will be overloaded from selected Google "
+"Sheet. <a href=\"%s\" tagget=\"_blank\">Read more</a> about how organize Auto "
+"Import form Google Sheets"
+msgstr ""
+"Eğer seçilirse - tablo verisi seçilen Google tablolardan yüklenir. Google "
+"tablolardan içe alınanları organize etme hakkında <a href=\"%s\" tagget="
+"\"_blank\">daha fazla bilgi</a>"
+
+msgid "If checked - table data will be included in the global site search"
+msgstr "Eğer seçilirse - tablo verisi genel site aramasına dahil edilir"
+
+msgid "If checked - the current sorted column will be highlighted"
+msgstr "Eğer seçilirse -mevcut sıralı sütun vurgulanır"
+
+msgid ""
+"If checked - this table will be resized by first supsystic table on page. "
+"Important! This option makes sense only if table is not on responsive mode or "
+"responsive mode is disabled. Also if the first table has different count of "
+"columns or different settings, their sizes may not be equal."
+msgstr ""
+"Eğer seçilirse - bu tablo safyadaki ilk Supsystic tablosuna göre tekrar "
+"boyutlandırılır. Önemli! Bu ayar sadece duyarlı modda değilse veya duyarlı "
+"mod etkin değilse mantıklıdır. Ayrıca tablo farklı sütun sayısına sahipse ve "
+"farklı ayarlardaysa boyutları eşit olmayabilir."
+
+msgid ""
+"If checked - width of table columns will be calculated automatically for "
+"table width 100%.<br /><br />\n"
+"                                                Otherwise - you can set table "
+"width manually: columns width will be get from Fixed Table Width option\n"
+"                                                (toolbar on Editor tab) or "
+"calculated depending on the columns width in the table editor.<br /><br />\n"
+"                                                If you do not want to apply "
+"columns width at all - you should uncheck \"Auto Table Width\" option, set "
+"\"Fixed Table Width\"\n"
+"                                                option to \"auto\" and check "
+"\"Compact Table\" option."
+msgstr ""
+"Eğer seçilirse - 100% tablo uzunluğunda kolon uzunlukları otomatik hesaplanır."
+"<br /><br />\n"
+"                                                Aksi halde - manuel "
+"ayarlayabilirsiniz: Sütun uzunlukları Sabit Tablo Uzunluğu ayarına göre "
+"hesaplanır\n"
+"                                                (Editör sekmesindeki araç "
+"çubuğu ile) yada tablo editöründeki sütun uzunluğu göre hesaplanır.<br /><br /"
+">\n"
+"                                                Eğer sütun uzunluğu ayarlamak "
+"istemiyorsanız - \"Otomatik Tablo uzunluğu\" seçeneğini işaretlemeyin, "
+"\"Sabit Tablo uzunluğu\"\n"
+"                                                ayarını \"otomatik\" seçin ve "
+"\"Kompakt Tablo\" ayarını işaretleyin."
+
+msgid ""
+"If multiple sorting for columns is not set - the table will be sorted in the "
+"specified order by the column set in the table settings: Settings-> Features-"
+"> Sorting Order / Sorting Column. Otherwise - table will be sorted by the "
+"specified custom columns in sequense, in which they are listed."
+msgstr ""
+"Eğer sütun için birden çok sıralama ayarlanmamışsa - tablo, tablo ayarlarının "
+"sütun ayarlarındaki sıraya göre ayarlanır: Ayarlar-> Özellikler-> Sıralama "
+"düzeni / Sütun sıralaması. Aksi takdirde - tablo elle ayarlamada listelenmiş "
+"dizilerden seçilene göre sıralanır."
+
+msgid ""
+"If you use some specific characters (greek, cyrillic etc.) it is better to "
+"check this box for PDF export."
+msgstr ""
+"(Yunanca, Kiril vb) bazı belirli karakterler kullanırsanız PDF çıktısı için "
+"bu kutuyu işaretlemeniz iyi olur."
+
+msgid ""
+"If, unfortunately, you have some problem - we are ready to help you in our <a "
+"href=\"//supsystic.com/contact-us/\" target=\"_blank\">internal support.</a>"
+msgstr ""
+"Eğer, maalesef bazı sorunlarınız varsa - <a href=\"//supsystic.com/contact-us/"
+"\" target=\"_blank\"> Destek </a> ile size yardımcı olmaya hazırız"
+
+msgid "Import"
+msgstr "İçeri aktar"
+
+msgid "Import Data to the Table"
+msgstr "Veri tablosunu içe aktar"
+
+msgid "Import Settings"
+msgstr "Ayarları içeri aktar"
+
+msgid "Import available only in PRO version."
+msgstr "İçeri aktarma sadece PRO sürümde kullanılabilir."
+
+msgid "Import error"
+msgstr "İçeri aktarma hatası"
+
+msgid "Import settings"
+msgstr "Ayarları içe aktar"
+
+msgid "Import to the table"
+msgstr "Tabloya aktar"
+
+msgid "Import/Export"
+msgstr "İçe Aktar/Dışa Aktar"
+
+msgid ""
+"Important! Please, check the sharing settings of your spreadsheet: it must be "
+"accessed to edit for everyone who has link. In other case the data will not "
+"import to table."
+msgstr ""
+"Önemli! Lütfen, Google e-tablonuzun paylaşım ayarlarını kontrol edin: "
+"bağlantıya sahip olan herkes için düzenlemenin etkin olması gerekir. Diğer "
+"durumda veriler tabloya aktarılmaz."
+
+msgid ""
+"In case you have special or at least, basic knowledge of CSS code - you can "
+"easily change the table here. Just make sure that you know, what you are "
+"doing and you will not destroy the table."
+msgstr ""
+"Özel veya en azından CSS kodu ile ilgili temel bilgiye sahipseniz - tablonuzu "
+"buradan kolayca değiştirebilirsiniz. Sadece ne yaptığınızı bildiğinize ve "
+"tabloyu silmediğinize emin olun."
+
+msgid "Insert Link"
+msgstr "Bağlantı ekle"
+
+msgid "Insert link"
+msgstr "Bağlantı ekle"
+
+msgid "Insert picture"
+msgstr "Resim ekle"
+
+msgid "Inside by the top left corner"
+msgstr "Sol üst köşeden içeri"
+
+msgid "Invalid range specified."
+msgstr "Geçersiz aralık belirtildi."
+
+msgid "Italic"
+msgstr "Eğik yazı"
+
+msgid ""
+"It’s never been so easy to create and manage pricing and comparison tables "
+"with table builder. Any element of the table can be customise with mouse "
+"click."
+msgstr ""
+"Fiyatlandırma ve karşılaştırma tablolarını tablo oluşturucu ile oluşturmak ve "
+"yönetmek bu kadar kolay olmamıştı. Tablonun herhangi bir unsuru fare "
+"tıklamasıyla özelleştirilebilir."
+
+msgid "Landscape"
+msgstr "Yatay"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Language and Text"
+msgstr "Dil ve Metin"
+
+msgid "Large"
+msgstr "Geniş"
+
+msgid ""
+"Learn more about how to do this <a href=\"//supsystic.com/how-to-use-tables/"
+"\" target=\"_blank\">here</a>."
+msgstr ""
+"Bunun nasıl yapılacağı hakkında daha fazla bilgi edinmek için <a href=“//"
+"supsystic.com/how-to-use-tables/“ target=“_blank”>Tıklayın</a>."
+
+msgid "Ledger"
+msgstr "Ana Hesap"
+
+msgid "Left"
+msgstr "Sol"
+
+msgid "Left Columns Count"
+msgstr "Sol Sütun Sayısı"
+
+msgid "Left of the chart"
+msgstr "Grafiğin Solunda"
+
+msgid "Legal"
+msgstr "Yasal"
+
+msgid "Legend Position"
+msgstr "Klavuz Konumu"
+
+msgid "Length text"
+msgstr "Uzunluk metni"
+
+msgid "Let's Start!"
+msgstr "Haydi Başla!"
+
+msgid ""
+"Lets make search by fields, marked as hidden (see appropriate button on "
+"editor toolbar)"
+msgstr ""
+"Hadi gizli olarak işaretlenmiş alanlara göre arama yap (editör araç çubuğunda "
+"uygun düğmeye bakın)"
+
+msgid "Letter"
+msgstr "Harf"
+
+msgid "License"
+msgstr "Lisans"
+
+msgid "Line Chart"
+msgstr "Çizgi Grafik"
+
+msgid "Lines between slices and values"
+msgstr "Dilimler ve değerler arasındaki çizgiler"
+
+msgid "Link Text"
+msgstr "Bağlantı Metni"
+
+msgid "Link from Google Tables"
+msgstr "Google Tablolarından Bağlantı"
+
+msgid "List of columns for multiple sorting"
+msgstr "Birden fazla sıralama için sütunlar listesi"
+
+msgid "List of columns, disabled from manual sorting"
+msgstr "El ile sıralamada devre dışı kalan sütun listesi"
+
+msgid "List of width sizes, set for table columns:"
+msgstr "Genişlik boyutları listesi, tablo sütunları için ayarla:"
+
+msgid "Live Chat Plugin"
+msgstr "Canlı Sohbet Eklentisi"
+
+msgid "Loading your table, please wait..."
+msgstr "Tablonuz yükleniyor, lütfen bekleyiniz..."
+
+msgid "Logo Alignment"
+msgstr "Logo Hizalama"
+
+msgid "Logo Position"
+msgstr "Logo Pozisyonu"
+
+msgid "Long Number"
+msgstr "Uzun sayı"
+
+msgid "Main"
+msgstr "Ana"
+
+msgid ""
+"Main Settings of your first table. Here you can see main settings which are "
+"conected with languages, table elements, styling and other different editors "
+"settings. Generally it’s a tab where you can edit the visual part of the "
+"whole table, switch on/off the responsive mode, set pagination etc."
+msgstr ""
+"İlk tablonuz için genel ayarlar. Burada diller, tablo öğeleri, stil ve diğer "
+"farklı düzenleyici ayarları ile bağlantılı olan ana ayarları görebilirsiniz. "
+"Genel olarak tablonun görsel bölümünü düzenleyebileceğiniz, duyarlı modu açıp "
+"kapatabileceğiniz, sayfalandırmayı vs ayarlayabileceğiniz bir sekmedir."
+
+msgid "Make data table responsive"
+msgstr "Veri tablosunu duyarlı yapın"
+
+msgid ""
+"Mandatory attribute \"id\" is not specified. ' . 'Shortcode usage example: "
+"[%s id=\"{table_id}\"]"
+msgstr ""
+"“id” zorunlu niteliği belirtilmedi. ‘ . ‘Kısa kod kullanımı örneği: [%s "
+"id=“{table_id}”]"
+
+msgid ""
+"Mark selected cells as hidden and remove them from frontend. Can be useful "
+"for placing information in the table for admins only. <br /><br />Importanr! "
+"To display the table correctly, please, add this property for the whole row "
+"or the whole column of table."
+msgstr ""
+"Seçili hücreleri site görünümünde gizlemek için işaretleyin. Sadece "
+"yöneticiler için bilgi yerleştirmede kullanışlı olabilir. <br /><br />Önemli! "
+"Tabloyu düzgün görüntülemek için lütfen bu ayarı tablodaki tüm satır veya "
+"sütuna uygulayın."
+
+msgid ""
+"Mark selected cells as invisible and hide them on frontend. Can be useful for "
+"placing intermediate calculations. <br /><br />To display the table "
+"correctly, please, add this property for the whole row or the whole column of "
+"table."
+msgstr ""
+"Seçilen hücreyi kullanıcılardan görünmez ve gizli tutun. Ara hesaplar "
+"yapabilmek için kullanışlı olabilir. <br/> <br/> Tabloyu doğru bir şekilde "
+"görüntülemek için lütfen tüm satıra veya tablonun tamamına bu özelliği "
+"ekleyin."
+
+msgid "Medium"
+msgstr "Orta"
+
+msgid "Membership by Supsystic"
+msgstr "\"Üyelik Eklentisi\" Supsystic tarafından oluşturulmuştur"
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "Minimum Count of Characters"
+msgstr "En az karakter sayısı"
+
+msgid "Name"
+msgstr "Adınız"
+
+msgid "Name of Cloned Table"
+msgstr "Klonlanmış tablonun Adı"
+
+msgid "Name of slice"
+msgstr "Dilim adı"
+
+msgid "Newsletter Plugin"
+msgstr "Bülten Eklentisi"
+
+msgid "Next"
+msgstr "Sonraki"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "No data available in table"
+msgstr "Tabloda veri yok"
+
+msgid "No detected"
+msgstr "Tespit edilmedi"
+
+msgid "No legend"
+msgstr "Kılavuz yok"
+
+msgid "No matching records are found"
+msgstr "Eşleşen kayıt bulunamadı"
+
+msgid "No value"
+msgstr "Değer Yok"
+
+msgid "None"
+msgstr "Yok"
+
+msgid "Not displaying"
+msgstr "Görüntülenmiyor"
+
+msgid ""
+"Note that the table may look a little different depending on your theme style."
+msgstr "Tema stilinize göre tablonuzun görünümünde farklılıklar olabilir."
+
+msgid "Number"
+msgstr "Numara"
+
+msgid "Number Formatting"
+msgstr "Sayı Biçimlendirme"
+
+msgid ""
+"Number of column to apply sort order. Set no value to disable table sorting "
+"by default."
+msgstr ""
+"Sıralama düzeni uygulamak için sütun sayısı. Varsayılan olarak tablo "
+"sıralamayı devre dışı bırakmak için değer girmeyin."
+
+msgid "Number of column to fix by left side of the table."
+msgstr "Tablonun sağ tarafında düzeltilecek sütun sayısı."
+
+msgid "Number of column to fix by right side of the table."
+msgstr "Tablonun sol tarafından düzeltilecek sütun sayısı."
+
+msgid "Offset Bottom"
+msgstr "Alt ofset"
+
+msgid "Offset Left"
+msgstr "Sol ofset"
+
+msgid "Offset Right"
+msgstr "Sağ ofset"
+
+msgid "Offset Top"
+msgstr "Üst Ofset"
+
+msgid "Offset for axes' area by bottom."
+msgstr "Eksen alanı için alt tarafından Ofset."
+
+msgid "Offset for axes' area by left."
+msgstr "Eksen alanı için sol tarafından Ofset."
+
+msgid "Offset for axes' area by right."
+msgstr "Eksen alanı için sağ tarafından Ofset."
+
+msgid "Offset for axes' area by top."
+msgstr "Eksen alanı için üst tarafından Ofset."
+
+msgid ""
+"One of the best plugin for creating Contact Forms on your WordPress site. "
+"Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+"WordPress sitenizde İletişim Formları oluşturmanın en iyi eklentilerinden "
+"biri. Değiştirilebilir yazı tipleri, arka planlar, alan ekleme vb. için bir "
+"seçenek."
+
+msgid "Open in new tab"
+msgstr "Yeni sekmede aç"
+
+msgid "Other"
+msgstr "Diğer"
+
+msgid "Overview"
+msgstr "Genel bakış"
+
+msgid "Overwrite Table Text"
+msgstr "Tablo verisinin üstüne yaz"
+
+msgid "PHP"
+msgstr "PHP Kodu"
+
+msgid "PRO option"
+msgstr "PRO Ayarı"
+
+msgid "PRO version"
+msgstr "PRO Sürümü"
+
+msgid "Pagination"
+msgstr "Sayfalandırma"
+
+msgid "Pagination List Content"
+msgstr "Sayfalandırma liste uzunluğu"
+
+msgid "Pagination Size"
+msgstr "Sayfalandırma Boyutu"
+
+msgid "Paragraph Mode"
+msgstr "Paragraf Modu"
+
+msgid "Paste script code here"
+msgstr "Komut dosyası kodunu buraya yapıştırın"
+
+msgid "Percent"
+msgstr "Yüzde"
+
+msgid "Percent Mode"
+msgstr "Yüzde modu"
+
+msgid "Percent with Convert"
+msgstr "Çeviri ile yüzde"
+
+msgid "Percentage of slice size out of total"
+msgstr "Toplamda dilim boyutu yüzdesi"
+
+msgid "Photo Gallery Plugin"
+msgstr "Fotoğraf Galerisi Eklentisi"
+
+msgid ""
+"Photo Gallery Plugin with a great number of layouts will help you to create "
+"quality respectable portfolios and image galleries."
+msgstr ""
+"Çok çeşitli görünümlere sahip Fotoğraf Galerisi Eklentisi size kaliteli saygı "
+"duyulacak portfolyolar ve resim galerileri oluşturmanıza yardımcı olur."
+
+msgid "Pie Chart"
+msgstr "Pasta Grafiği"
+
+msgid "Plain"
+msgstr "Sade"
+
+msgid ""
+"Please be advised that this option is available only in %s. You can %s today "
+"and get this and other PRO option for your tables!"
+msgstr ""
+"Lütfen bu seçeneğin yalnızca% s’de mevcut olduğunu unutmayın. % S bugün "
+"olabilir ve bu ve diğer PRO seçeneklerini tablolarınız için alabilirsiniz!"
+
+msgid "Plugin options"
+msgstr "Eklenti ayarları"
+
+msgid "Popup Plugin"
+msgstr "Popup Eklentisi"
+
+msgid "Portrait"
+msgstr "Dikey"
+
+msgid "Preview"
+msgstr "Ön izleme"
+
+msgid ""
+"Preview insert for your comfort. Before updating the table on your page - you "
+"can see the result of your efforts and changes, look at it and enjoy the "
+"final outcome."
+msgstr ""
+"Konforunuz için önizleme yapın. Sayfanızda tabloyu güncellemeden önce, "
+"çabalarınızın ve değişikliklerinizin sonucunu görebilir, ona bakabilir ve "
+"nihai sonucun keyfini çıkarabilirsiniz."
+
+msgid "Pricing Table"
+msgstr "Fiyatlandırma Tablosu"
+
+msgid "Quantitative value of slice"
+msgstr "Dilimin kantitatif değeri"
+
+msgid "RA0"
+msgstr "RA0"
+
+msgid "RA1"
+msgstr "RA1"
+
+msgid "RA2"
+msgstr "RA2"
+
+msgid "RA3"
+msgstr "RA3"
+
+msgid "RA4"
+msgstr "RA4"
+
+msgid "Redo"
+msgstr "İleri al"
+
+msgid "Relative Mode"
+msgstr "Göreli modu"
+
+msgid "Remove"
+msgstr "Kaldır"
+
+msgid "Remove Data"
+msgstr "Verileri kaldır"
+
+msgid "Remove Logo"
+msgstr "Logoyu Kaldır"
+
+msgid "Renew License"
+msgstr "Lisansı yenile"
+
+msgid "Report a bug"
+msgstr "Hata bildir"
+
+msgid "Require a new functionallity"
+msgstr "Yeni özellik talep et"
+
+msgid "Responsive Mode"
+msgstr "Duyarlı Mod"
+
+msgid "Right"
+msgstr "Sağ"
+
+msgid "Right Columns Count"
+msgstr "Sağ Sütun Sayısı"
+
+msgid "Right of the chart"
+msgstr "Grafiğin Sağında"
+
+msgid "Role for users who can use plugin. Administrator is included by default"
+msgstr ""
+"Eklentiyi kullanabilen kullanıcılar için rolü. Yönetici varsayılan olarak "
+"bulunur"
+
+msgid "Roles"
+msgstr "Roller"
+
+msgid "Row"
+msgstr "Satır"
+
+msgid "Row Striping"
+msgstr "Satır şeritleme"
+
+msgid "Row highlighting by mouse hover."
+msgstr "Mouse Üzerine Gelince satırı vurgula."
+
+msgid "Rows"
+msgstr "Satırlar"
+
+msgid "Rows Count per Request"
+msgstr "İstek başına satır sayısı"
+
+msgid "SRA0"
+msgstr "SRA0"
+
+msgid "SRA1"
+msgstr "SRA1"
+
+msgid "SRA2"
+msgstr "SRA2"
+
+msgid "SRA3"
+msgstr "SRA3"
+
+msgid "SRA4"
+msgstr "SRA4"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Save Frontend Fields"
+msgstr "Site alanlarını kaydet"
+
+msgid "Save as"
+msgstr "Farklı kaydet"
+
+msgid "Save the changes of table."
+msgstr "Tablonun değişikliklerini kaydedin."
+
+msgid "Scientific"
+msgstr "Bilimsel"
+
+msgid "Search by Hidden Fields"
+msgstr "Gizli alanlarla arama"
+
+msgid "Search label"
+msgstr "Arama etiketi"
+
+msgid "Search:"
+msgstr "Arama:"
+
+msgid "Searching"
+msgstr "Arama"
+
+msgid "Select Logo"
+msgstr "Logo Seç"
+
+msgid "Select User to display its table"
+msgstr "Tablosunu görüntülemek için Kullanıcı’yı seçin"
+
+msgid ""
+"Select a cell and start typing. In a cell, type an equal sign “=” to start "
+"the formula."
+msgstr ""
+"Bir hücre seçin ve yazmaya başlayın. Bir hücrede, formülü başlatmak için eşit "
+"işaret “=“ yazın."
+
+msgid "Select alignment of table logotype"
+msgstr "Tablo logotipi hizalama"
+
+msgid "Select avalilable roles to use tables"
+msgstr "Tabloları kullanmak için mevcut rolleri seçin"
+
+msgid "Select chart type"
+msgstr "Grafik türünü seçin"
+
+msgid "Select file type to export table:"
+msgstr "Tabloyu dışarı aktarmak için dosya tipi seçin:"
+
+msgid "Select position of table logotype"
+msgstr "Tablo logotipi konumunu seçin"
+
+msgid "Select roles"
+msgstr "Rolleri seç"
+
+msgid "Selectable fields"
+msgstr "Seçilebilir alanlar"
+
+msgid ""
+"Set column width for selected columns in pixels or percents. Press \"Clear "
+"Fixed Width\" to clear fixed columns width for all table columns. All changes "
+"will be applied after table saving."
+msgstr ""
+"Seçilen sütunların genişliğini pixel veya yüzde olarak ayarlayın. \"Sabit "
+"genişliği temizle\" tuşuna basarak tablodaki sabit genişlik ayarlarını "
+"temizleyin. Tüm değişiklikleri Tablo kaydettikten sonra uygulanır."
+
+msgid ""
+"Set count of table rows, which will be saved per one request. If you do not "
+"know why does this value need for - it's better to keep the preferred value: "
+"400."
+msgstr ""
+"Bir istek ile kaydolacak tablo satır sayısını ayarlayın. Bu değere neden "
+"ihtiyaç olduğunu bilmiyorsanız değeri 400 olarak ayarlamak uygun olacaktır."
+
+msgid ""
+"Set fixed table width in px, % or auto (in this case table will be adjusted "
+"by table content)"
+msgstr ""
+"Sabit tablo genişliğini px, % veya otomatik (bu durumda tablo içeriğine göre "
+"boyutlandırılır) olarak ayarlayın."
+
+msgid "Set format of all numbers in the table"
+msgstr "Tablodaki tüm sayıların biçimini ayarla"
+
+msgid ""
+"Set minimum count of characters to start search in Search field. Set 0 to "
+"make search in any case."
+msgstr ""
+"Arama kısmında aramaya başlamak için gereken en az karakter sayısını "
+"ayarlayın. Her koşulda arama için 0 olarak ayarlayın."
+
+msgid ""
+"Set multiple column sorting for selected columns. Press \"Clear Multiple "
+"Sorting\" to clear multiple sorting for all table columns. All changes will "
+"be applied after table saving."
+msgstr ""
+"Seçilen sütunlar için birden çok sütun sıralama ayarla. \"Çoklu sıralama "
+"temizle\" tuşuna basarak tablodaki çoklu sıralamaları temizleyin. Tüm "
+"değişiklikleri Tablo kaydettikten sonra uygulanır."
+
+msgid ""
+"Set output format for currencies. Supports only 1 currency for 1 table. "
+"Besides here you can establish needed divider between integer and fractional "
+"parts and quantity of zeros at fractional part. For example:<br />\n"
+"                                            $ 1,000.000<br />\n"
+"                                            € 1.00"
+msgstr ""
+"Çıktı para birimi formatını ayarlayın. Tablo başına 1 para birimi "
+"desteklenir. Bunun dışında tamsayı ve kesirli sayıları ayırıcıyı "
+"belirleyebilirsiniz Örneğin:<br />\n"
+"                                            $ 1,000.000<br />\n"
+"                                            € 1.00"
+
+msgid ""
+"Set output format for date. For example:<br />\n"
+"                                            YYYY-MM-DD - 1991-12-25<br />\n"
+"                                            DD.MM.YY - 25.12.91"
+msgstr ""
+"Çıktı için tarih formatını ayarlayın. Örneğin:<br />\n"
+"                                            YYYY-AA-GG - 1991-12-25<br />\n"
+"                                            GG.AA.YY - 25.12.91"
+
+msgid "Set output format for numbers e.g. 1,000.00, 1.00"
+msgstr "Sayılar için çıkış biçimini ayarla ör. 1,000.00, 1.00"
+
+msgid ""
+"Set output format for percent numbers. For example:<br />\n"
+"                                            10.00%<br />\n"
+"                                            10%"
+msgstr ""
+"Çıktı yüzde formatını ayarlayın. Örneğin:<br />\n"
+"                                            10.00%<br />\n"
+"                                            10%"
+
+msgid ""
+"Set output format for time and duration. For example:<br />\n"
+"                                             1) time<br />\n"
+"                                             HH:mm - 18:00<br />\n"
+"                                             hh:mm a - 9:00 pm<br /><br />\n"
+"                                             2) duration<br />\n"
+"                                             hh:mm - 36:40<br />\n"
+"                                             hh:mm:ss - 36:40:12"
+msgstr ""
+"Çıktı zaman formatını ayarlayın. örneğin:<br />\n"
+"                                             1) Zaman<br />\n"
+"                                             SS:dd - 18:00<br />\n"
+"                                             ss:dd z - 9:00 öö<br /><br />\n"
+"                                             2) süre<br />\n"
+"                                             ss:dd - 36:40<br />\n"
+"                                             ss:dd:ss - 36:40:12"
+
+msgid "Set sort order by default"
+msgstr "Sıralama düzeni varsayılan olarak ayarla"
+
+msgid ""
+"Set the numeric value from 0 to 100, for example 10 (equals to 10%). Leave "
+"this field empty to use default offset value."
+msgstr ""
+"Sayısal değeri 0 dan 100e kadar ayarlayın, örneğin 10 (% 10a eşit). "
+"Varsayılan ofset değerini kullanmak için bu alanı boş bırakın."
+
+msgid ""
+"Set the value in px or %, for example, 200 (equals to 200px) or 80%. Leave "
+"this field empty to use default height value."
+msgstr ""
+"Değeri px veya % olarak ayarlayın, örneğin 200 (200 px’e eşit) veya % 80. "
+"Varsayılan yükseklik değerini kullanmak için bu alanı boş bırakın."
+
+msgid ""
+"Set the value in px or %, for example, 400 (equals to 400px) or 90%. Leave "
+"this field empty to use default width value."
+msgstr ""
+"Değeri px veya % olarak ayarlayın, örneğin 400 (400 px’e eşit) veya % 90. "
+"Varsayılan genişlik değerini kullanmak için bu alanı boş bırakın."
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Short Number"
+msgstr "Kısa numara"
+
+msgid "Shortcode"
+msgstr "Kısakod"
+
+msgid "Show Empty Table"
+msgstr "Boş tabloyu göster"
+
+msgid "Show Only Search Results"
+msgstr "Sadece arama sonuçlarını göster"
+
+msgid "Show _MENU_ entries"
+msgstr "_MENU_ girişlerini göster"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "0 dan 0 a 0 girdileri gösteriliyor"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "_START_ den _END_ of _TOTAL_ girişler gösteriliyor"
+
+msgid "Signature"
+msgstr "İmza"
+
+msgid "Signature Text"
+msgstr "İmza metni"
+
+msgid "Slider Plugin"
+msgstr "Slider Eklentisi"
+
+msgid "Slider by Supsystic"
+msgstr "Supsystic'ten Slider"
+
+msgid "Small"
+msgstr "Küçük"
+
+msgid "Social Share Buttons"
+msgstr "Sosyal Paylaşım Düğmeleri"
+
+msgid ""
+"Social share buttons to increase social traffic and popularity. Social "
+"sharing to Facebook, Twitter and other social networks."
+msgstr ""
+"Sosyal paylaşım düğmeleri, sosyal trafiği ve popülerliği artırmak için "
+"kullanılır. Facebook, Twitter ve diğer sosyal ağlara sosyal paylaşım."
+
+msgid ""
+"Some errors occurred while sending mail please send your message trough this "
+"contact form:"
+msgstr ""
+"Posta gönderirken bazı hatalar oluştu, lütfen mesajınızı bu iletişim "
+"formundan yollayın:"
+
+msgid "Sort order"
+msgstr "Sıralama düzeni"
+
+msgid "Sorting"
+msgstr "Sıralama"
+
+msgid "Sorting Column"
+msgstr "Sıralama Sütunu"
+
+msgid "Sorting Order"
+msgstr "Sıralama Yönü"
+
+msgid "Stacked Columns"
+msgstr "Yığılmış sütunlar"
+
+msgid "Standard Responsive mode"
+msgstr "Standart duyarlı mod"
+
+msgid ""
+"Standard Responsive mode - in this mode if table content doesn't fit all "
+"columns become under each other with one cell per row"
+msgstr ""
+"Standart Duyarlı mod - Bu modda tablo içeriği uymuyorsa, tüm sütunlar sıranın "
+"her birinde bir hücre olacak şekilde birbirlerinin altına girerler"
+
+msgid "Step-by-step Tutorial"
+msgstr "Adım adım Eğitim"
+
+msgid "Strict Matching"
+msgstr "Sıkı eşleşme"
+
+msgid "Subject"
+msgstr "Konu"
+
+msgid "Support"
+msgstr "Destek"
+
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will "
+"have no need to control it or send them manually. No coding, hard skills or "
+"long hours of customizing are required."
+msgstr ""
+"Mektuplarınızın otomatik olarak gönderilmesi için Supsystic Newsletter "
+"eklentisi. Onu kontrol etmeye ya da manuel olarak göndermenize gerek kalmaz. "
+"Hiçbir kodlama, yüksek beceri veya uzun süre özelleştirme çabası gerekli "
+"değildir."
+
+msgid "Switch rows / columns"
+msgstr "Satırları / sütunları değiştir"
+
+msgid "Table Elements"
+msgstr "Tablo elementleri"
+
+msgid "Table History"
+msgstr "Tablo Tarihi"
+
+msgid "Table Information"
+msgstr "Tablo Bilgisi"
+
+msgid "Table Language"
+msgstr "Tablo Dili"
+
+msgid "Table Loader Color"
+msgstr "Tablo yükleyici rengi"
+
+msgid "Table Loader Icon"
+msgstr "Tablo yükleyici simgesi"
+
+msgid "Table info text"
+msgstr "Tablo bilgi metni"
+
+msgid "Table information display field. %s"
+msgstr "Tablo bilgisi gösterme alanı. %s"
+
+msgid "Table title"
+msgstr "Tablo başlığı"
+
+msgid "Table will not be hidden by default , but will be empty."
+msgstr "Tablo varsayılan olarak gizlenmeyecek, ancak boş kalacak."
+
+msgid "Tables"
+msgstr "Tablolar"
+
+msgid "Tabloid"
+msgstr "Tabloid"
+
+msgid "Text color"
+msgstr "Yazı rengi"
+
+msgid "Text on Slice"
+msgstr "Dilim Metni"
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Just click here to start using "
+"it - and we will show you it's possibilities and powerfull features."
+msgstr ""
+"Veri Tabloları eklentimizi seçtiğiniz için teşekkür ederiz. Kullanmaya "
+"başlamak için buraya tıklayın - size yapabilecekleriniz ve güçlü "
+"özelliklerini göstereceğiz."
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Let’s make a quick tour "
+"through features and main options of the plugin. Just click “Next” button."
+msgstr ""
+"Veri Tabloları eklentimizi seçtiğiniz için teşekkür ederiz. Eklentinin "
+"özelliklerini ve ana seçeneklerini hızlı bir şekilde inceleyelim. “İleri” "
+"düğmesini tıklamanız yeterlidir."
+
+msgid ""
+"The Best WordPress PopUp option plugin to help you gain more subscribers, "
+"social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+"Daha fazla abone, sosyal takipçi veya reklam kazanmanıza yardımcı olmak için "
+"en İyi WordPress PopUp eklentisi. Uygun seçenekleri olan duyarlı pop-up’lar."
+
+msgid ""
+"The most important part of settings - Editor. Here you can fill all the cells "
+"of your table, add some colors, play with fonts and sizes. This insert also "
+"allows you to change the alignment of your font, add formats (percents, "
+"currency), images and links to make your table more visual attraction."
+msgstr ""
+"Ayarların en önemli kısmı - Editör. Burada tablonuzun tüm hücrelerini "
+"doldurabilir, renkler ekleyebilir, yazı tipleri ve boyutlarla "
+"oynayabilirsiniz. Bu ek, yazı tipinizin hizalamasını değiştirmenize, "
+"tablolarınızı daha görsel cazibe haline getirmek için (yüzde, para birimi), "
+"resim ve bağlantılar eklemenize olanak tanır."
+
+msgid "The table ID %s not found."
+msgstr "%s tablo ID'si bulunamadı."
+
+msgid "The table with ID %d not exists."
+msgstr "%s ID nolu tablo mevcut değil."
+
+msgid "There are not all shortcode's attributes specified. Usage example"
+msgstr "Belirtilen tüm kısa kod özellikleri mevcut değil. Kullanım örneği"
+
+msgid ""
+"This label can not be translated using Table Language option. You can change "
+"this label typing the custom text or hide this label typing _NONE_ as label "
+"text."
+msgstr ""
+"Bu etiket tablo dil seçeneğini kullanarak tercüme edilebilir değil. Özel "
+"metin yazarak bu etiketini değiştirmek veya bu etiket _NONE_ etiket metni "
+"yazarak gizleyebilirsiniz."
+
+msgid ""
+"This mode allows you to separate the content into paragraphs. To move to a "
+"new line in the cell - please press CTRL + Enter."
+msgstr ""
+"Bu mod, içeriği paragraflara ayırabilmenizi sağlar. Hücredeki yeni bir satıra "
+"gitmek için lütfen CTRL + Enter tuşlarına basın."
+
+msgid "Time / Duration"
+msgstr "Zaman / Süre"
+
+msgid "Title"
+msgstr "Başlık"
+
+msgid "Topic"
+msgstr "Başlık"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Type Google Sheet url to import data from sheet to table"
+msgstr "Tabloya veri almak için Google tablolar url adresini yazın"
+
+msgid "Underline"
+msgstr "Altı Çizili"
+
+msgid "Undo"
+msgstr "Geri al"
+
+msgid "Unsupported export type: %s."
+msgstr "Desteklenmeyen dışa aktarım türü: %s."
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Use Comma as Delimiter"
+msgstr "Ayırıcı olarak virgül kullan"
+
+msgid "Use Custom Colors"
+msgstr "Özel Renkleri Kullan"
+
+msgid "Use Editable Fields for Current Roles"
+msgstr "Geçerli Roller için Düzenlenebilir Alanları Kullan"
+
+msgid "Use Export Font"
+msgstr "Dışa aktarım yazı tipini kullan"
+
+msgid "Use Frontend Fields for Logged In Users Only"
+msgstr ""
+"Yalnızca Giriş Yapan Kullanıcılar İçin Düzenlenebilir Alanlar’ı kullanın"
+
+msgid ""
+"Use comma as delimiter of integer and fractional parts of number for editable "
+"fields on frontend"
+msgstr ""
+"Kullanıcı arayüzünde ayırıcı olarak ve tamsayı ve kesirli rakamların ayracı "
+"olarak virgül kullan"
+
+msgid "Use first column as labels"
+msgstr "İlk sütunu etiketler olarak kullan"
+
+msgid "Use first row as headers"
+msgstr "İlk satırları üstbilgiler olarak kullan"
+
+msgid "Vertical alignment"
+msgstr "Dikey hizalama"
+
+msgid "Video Tutorial"
+msgstr "Videolu Eğitim"
+
+msgid ""
+"We are trying to make your using of our plugin maximum comfortable and easy. "
+"So we find it like the best way to tell you about some options and features "
+"of this plugin."
+msgstr ""
+"Eklentimizi maksimum rahat ve kullanışlı hale getirmeye çalışıyoruz. Bu "
+"yüzden, sizi bu eklentinin bazı seçeneklerini ve özelliklerini anlatmanın en "
+"iyi yolu gibi buluyoruz."
+
+msgid ""
+"We really like what we do and feel responsibility for our “child”. Constantly "
+"we are trying to change something or update the new features, but sometimes "
+"you may have a situation when you need help or have a problem. We can offer "
+"you two kinds of help: "
+msgstr ""
+"Gerçekten yaptığımız işi sevdik ve “çocuğumuz” için sorumluluk hissediyoruz. "
+"Sürekli olarak bir şeyi değiştirmeye veya yeni özellikleri güncellemeye "
+"çalışıyoruz, ancak bazen yardıma ihtiyacınız veya bir sorununuz olabilir. Bu "
+"durumda size iki çeşit yardım sunabiliriz: "
+
+msgid "Website"
+msgstr "İnternet Sitesi"
+
+msgid "Welcome to Data Tables plugin by Supsystic!"
+msgstr "Supsystic tarafından sunulan Veri Tabloları eklentisine hoş geldiniz!"
+
+msgid "Welcome to our plugin"
+msgstr "Eklentimize hoş geldiniz"
+
+msgid "Well done!"
+msgstr "Aferin!"
+
+msgid ""
+"When you use frontend fields, <a href=\"%s\" target=\"_blank\">Table History</"
+"a> allows you (using History Shortcode) to display on frontend the own table "
+"version for each logged in user. On this tab you can display any user's table "
+"- just choose the user name from dropdown list."
+msgstr ""
+"Düzenlenebilir alanları kullandığınızda, <a href=\"%s\" target=\"_blank"
+"\">Table Geçmişi</a> (Geçmiş kısakodu ile) kayıtlı kullanıcıların kendi "
+"tablolarını görüntülemenize izin verir. Bu sekmede açılır listeden kullanıcı "
+"adını seçerek - herhangi bir kullanıcının tablosunu görüntüleyebilirsiniz."
+
+msgid "Width"
+msgstr "Genişlik"
+
+msgid ""
+"With these two buttons in our Pro version you can Import any table of csv "
+"format and Export the whole table, which you have done."
+msgstr ""
+"Pro sürümümüzdeki bu iki düğme sayesinde, csv formatındaki herhangi bir "
+"tabloyu içe aktarabilir ve yaptığınız tüm tabloyu dışa aktarabilirsiniz."
+
+msgid "Word wrapping"
+msgstr "Kelime kaydırma"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "You can change number of Columns and Rows later"
+msgstr "Sütun ve Satır sayısını daha sonra değiştirebilirsiniz"
+
+msgid ""
+"You have no diagrams for now. Go to %s -> select the required data in the "
+"table and click on “Add diagram” button. Also please check the tutorial %s"
+msgstr ""
+"Şimdilik hiç diyagramınız yok. %s e gidin -> gerekli verileri tablodan "
+"seçerek \"Diyagram ekle\" düğmesine tıklayın. Ayrıca %s öğreticiye bir bakın"
+
+msgid ""
+"You need to enable ZipArchive extension in PHP config file on your server. "
+"Please, contact to your server administrator."
+msgstr ""
+"Sunucunuzdaki PHP ayarlarında Ziparchive uzantısını etkinleştirmeniz gerekli. "
+"Lütfen, sunucu yöneticinizle ile iletişim kurun."
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr "PRO sürümünüzü süresi geçmiş lisans ile güncelleyemezsiniz"
+
+msgid "Your message successfully send. We contact you soon."
+msgstr "Mesajınız başarıyla gönderildi. Size en yakın zamanda ulaşacağız."
+
+msgid "Your premium support is expired in %s days"
+msgstr "Premium destek süreniz %s gün sonra bitecek"
+
+msgid "Your premium support is expired in ' ~ days ~ ' days"
+msgstr "Premium destek süreniz ' ~ days ~ ' gün sonra bitecek"
+
+msgid "Zero records"
+msgstr "Sıfır kayıtlar"
+
+msgid "by Supsystic!"
+msgstr "supsystic tarafından!"
+
+msgid "default"
+msgstr "varsayılan"
+
+msgid "disable width"
+msgstr "genişliği devre dışı bırak"
+
+msgid "how to create Diagrams with Data Table plugin"
+msgstr "data table eklentisi ile nasıl diyagramlar oluşturulur"
+
+msgid "value"
+msgstr "değer"
+
+#~ msgid "Click to rename the table and hit [Enter]"
+#~ msgstr "Tablo adını değiştirmek için tıklayın ve sonrasında [Enter] basın."
+
+#~ msgid "Create a link"
+#~ msgstr "Bağlantı oluştur"
+
+#~ msgid "Clone Table"
+#~ msgstr "Klonla"
+
+#~ msgid "Styling"
+#~ msgstr "Stil"

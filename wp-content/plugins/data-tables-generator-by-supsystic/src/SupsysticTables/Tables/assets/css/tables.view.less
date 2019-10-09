@@ -1,0 +1,105 @@
+.tables-view {
+  .table-title-wrap {
+    margin-bottom: 15px;
+
+    .table-title {
+      float: left;
+    }
+    .table-buttons {
+      position: relative;
+      top: 8px;
+
+      .button {
+        margin-left: 5px;
+      }
+
+      & > .table-buttons-left {
+        float: left;
+      }
+
+      & > .table-buttons-right {
+        float: right;
+      }
+    }
+  }
+
+  .form-table {
+    label {
+      i.fa-question-circle {
+        color: #a4aaac;
+        &:hover {
+          color: #333;
+        }
+      }
+    }
+  }
+
+  .row-tab {
+    display: none;
+    margin-top: 15px;
+  }
+
+  .subsubsub.control-buttons {
+    margin-top: 26px;
+    float: right;
+
+    li {
+      margin-left: 5px;
+    }
+  }
+
+  .subsubsub.tabs-wrapper {
+    border-bottom: 1px solid #ccc;
+    padding-left: 16px;
+    padding-right: 32px;
+    float: left;
+
+    h2 {
+      position: relative;
+      top: 8px;
+      outline: 0 solid transparent;
+
+      &:focus {
+        outline: 0 solid transparent;
+      }
+    }
+
+    li {
+      margin-bottom: -1px;
+      margin-left: -1px;
+
+      a.button {
+        background-color: #eee;
+        border-color: #ccc !important;
+        color: #000 !important;
+        font-weight: bold;
+
+        &.current {
+          background-color: #fff;
+          border-bottom-color: #fff !important;
+
+          &:hover,
+          &:active,
+          &:focus {
+            background-color: #fff !important;
+          }
+        }
+
+        &:hover,
+        &:active,
+        &:focus {
+          background-color: #ccc !important;
+          outline: none !important;
+          -webkit-box-shadow: none;
+          -moz-box-shadow: none;
+          box-shadow: none;
+        }
+      }
+    }
+  }
+
+  #css-editor {
+    position: relative;
+    height: 200px;
+  }
+}

@@ -1,0 +1,1985 @@
+msgid ""
+"\n"
+"                       You can set the rows and cols from the selected range, which is need to be removed from diagram.<br /><br />\n"
+"                       For example: 1r,2c<br /><br />\n"
+"                       In this case the first row and the second column will be removed from diagram.<br /><br />\n"
+"                       Leave this field blank to use all selected rows and columns."
+msgstr ""
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+msgid "11x17"
+msgstr ""
+
+msgid "2A0"
+msgstr ""
+
+msgid "3D Diagram"
+msgstr ""
+
+msgid "3d Bar Chart"
+msgstr ""
+
+msgid "3d Donut Chart"
+msgstr ""
+
+msgid "3d Pie Chart"
+msgstr ""
+
+msgid "3d Pyramid"
+msgstr ""
+
+msgid "3d angle X"
+msgstr ""
+
+msgid "3d angle Y"
+msgstr ""
+
+msgid "3d angle Z"
+msgstr ""
+
+msgid "4A0"
+msgstr ""
+
+msgid "8.5x11"
+msgstr ""
+
+msgid "8.5x14"
+msgstr ""
+
+msgid "<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> Contact us </a> through the Forum on our site - if you have some question, offer or wish."
+msgstr ""
+
+msgid "<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - you’ll have to enter license key (you can find it in your personal account on our site). Go to the License tab and enter your email and license key. Once you have activated your PRO license - you can use all its advanced options. <br><br>That’s all. From this moment you can use your Data Table without any doubt. But if you still have some question - do not hesitate to contact us through our <a href=\"https://supsystic.com/contact-us/\">internal support</a> or on our <a href=\"http://supsystic.com/forum/datatable-plugin/\">Supsystic Forum.</a> Besides you can always describe your questions on <a href=\"https://wordpress.org/support/plugin/data-tables-generator-by-supsystic\">WordPress Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It will be nice if you`ll help us and boost plugin with <a href=\"https://wordpress.org/support/view/plugin-reviews/data-tables-generator-by-supsystic?rate=5#postform/\">Five Stars rating on WordPress.org.</a> <br><br>We hope that you like our Data Table plugin and wish you all the best! Good luck!"
+msgstr ""
+
+msgid "A small guide for the first-time user"
+msgstr ""
+
+msgid ""
+"A stacked column chart is a column chart that places related values atop one another.<br /><br />\n"
+"                        "Relative Mode" formats each value as a fraction of 1.<br /><br />\n"
+"                        "Percent Mode" formats each value as a percentage of 100%. "
+msgstr ""
+
+msgid "A0"
+msgstr ""
+
+msgid "A1"
+msgstr ""
+
+msgid "A10"
+msgstr ""
+
+msgid "A2"
+msgstr ""
+
+msgid "A3"
+msgstr ""
+
+msgid "A4"
+msgstr ""
+
+msgid "A5"
+msgstr ""
+
+msgid "A6"
+msgstr ""
+
+msgid "A7"
+msgstr ""
+
+msgid "A8"
+msgstr ""
+
+msgid "A9"
+msgstr ""
+
+msgid "Above table"
+msgstr ""
+
+msgid "Above the chart"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Activate License"
+msgstr ""
+
+msgid "Actually, Data Table plugin is very simple and has a lot of different options at the same time. That’s why when you close this article I will show you the main of them, but the very detailed one you can find on our site. I hope that you will have no questions after even this small guide. For the first time we will help you to install and create your first table, but if you need help - contact us through the internal support"
+msgstr ""
+
+msgid "Add <a href=\"%s\" target=\"_blank\">editable field</a> for selected cells to edit cell value on frontend. Enjoy the <a href=\"%s\" target=\"_blank\">practical example</a>."
+msgstr ""
+
+msgid "Add Fixed Column Width"
+msgstr ""
+
+msgid "Add Lightbox fo images"
+msgstr ""
+
+msgid "Add Multiple Sorting"
+msgstr ""
+
+msgid "Add Option"
+msgstr ""
+
+msgid "Add automatic highlight for table odd rows"
+msgstr ""
+
+msgid "Add column on the left"
+msgstr ""
+
+msgid "Add conditional formatting to cells."
+msgstr ""
+
+msgid "Add datepicker for selected cells to edit their values on frontend."
+msgstr ""
+
+msgid "Add diagram"
+msgstr ""
+
+msgid "Add dropdown list for highlighted cell to change cell value on frontend."
+msgstr ""
+
+msgid "Add editable field"
+msgstr ""
+
+msgid "Add new table"
+msgstr ""
+
+msgid "Add row above"
+msgstr ""
+
+msgid "Add search by table columns. Use a semicolon as separator for select any of the values."
+msgstr ""
+
+msgid "Add table"
+msgstr ""
+
+msgid "Align by First Table"
+msgstr ""
+
+msgid "Alignment"
+msgstr ""
+
+msgid "Allow Edit Data"
+msgstr ""
+
+msgid "Allow export table to pdf, csv, xls on frontend"
+msgstr ""
+
+msgid "Allows export to PDF file the fonts, which were set for table content via editor toolbar. Important! Custom fonts might not contain some specific characters (greek, cyrillic etc.), so after importing of fonts your PDF file might lost part of content."
+msgstr ""
+
+msgid ""
+"Allows to <a href="%s" target="_blank">use frontend fields only for logged in users</a>. See the next buttons on the editor toolbar:<br />\n"
+"                Add editable field<br />\n"
+"                Add dropdown list"
+msgstr ""
+
+msgid "Allows to <a href=\"%s\" target=\"_blank\">use frontend fields only for logged in users</a>. See the next buttons on the editor toolbar:<br />Add editable field<br />Add dropdown list"
+msgstr ""
+
+msgid "Allows to choose language for the table\'s labels (pagination, search ets.). The dafault language is English."
+msgstr ""
+
+msgid "Allows to edit database table data through the frontend fields."
+msgstr ""
+
+msgid "Allows to execute custom javascript code after table is loaded."
+msgstr ""
+
+msgid "Allows to export table in pdf, csv, xls formats from the front-end. Choose needed formats"
+msgstr ""
+
+msgid "Allows to fix columns during table scrolling. Important! The fixing of columns suggests that the table will have a horisontal scroll type of responsive mode, otherwise you will not see that the fixed columns exist. So this feature is a kind of responsive mode on its own and will not work with such Responsive Modes as Standard and Automatic columns hiding."
+msgstr ""
+
+msgid "Allows to fix the table\'s footer during table scrolling. Important! Footer option must be enabled for using this feature. Also you need to set Fixed Table Height to create a vertical scroll at the table. To see the work of this feature you should not use such Responsive Modes as Standard and Automatic columns hiding."
+msgstr ""
+
+msgid "Allows to fix the table\'s header during table scrolling. Important! Header option must be enabled for using this feature. Also you need to set Fixed Table Height to create a vertical scroll for your table. To see the work of this feature you should not use such Responsive Modes such as Standard and Automatic columns hiding."
+msgstr ""
+
+msgid "Allows to save data to the database table through the frontend fields."
+msgstr ""
+
+msgid "Allows to use frontend fields only for logged in users."
+msgstr ""
+
+msgid "Allows to use frontend fields only for users with selected roles. If there are no chosen roles - all logged in users will have ability to use the frontend fields."
+msgstr ""
+
+msgid "An error has occurred"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Append to existing table data"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Area Chart"
+msgstr ""
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Auto Index"
+msgstr ""
+
+msgid "Auto Table Width"
+msgstr ""
+
+msgid "Autoimport from Google Sheet"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Automatic column hiding"
+msgstr ""
+
+msgid "Automatic column hiding - in this mode table columns will collapse from right to left if content does not fit to parent container width"
+msgstr ""
+
+msgid "Automticaly appends selected logo for output pdf or printing"
+msgstr ""
+
+msgid "Axis X Format"
+msgstr ""
+
+msgid "Axis X Title"
+msgstr ""
+
+msgid "Axis Y Format"
+msgstr ""
+
+msgid "Axis Y Title"
+msgstr ""
+
+msgid "Axis Х Mode"
+msgstr ""
+
+msgid "B0"
+msgstr ""
+
+msgid "B1"
+msgstr ""
+
+msgid "B10"
+msgstr ""
+
+msgid "B2"
+msgstr ""
+
+msgid "B3"
+msgstr ""
+
+msgid "B4"
+msgstr ""
+
+msgid "B5"
+msgstr ""
+
+msgid "B6"
+msgstr ""
+
+msgid "B7"
+msgstr ""
+
+msgid "B8"
+msgstr ""
+
+msgid "B9"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Backup Plugin"
+msgstr ""
+
+msgid "Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr ""
+
+msgid "Bar Chart"
+msgstr ""
+
+msgid "Be closer to your visitors and customers with Live Chat Support by Supsystic. Help you visitors, support them in real-time with exceptional Live Chat WordPress plugin by Supsystic."
+msgstr ""
+
+msgid "Begin Step-by-step Tutorial"
+msgstr ""
+
+msgid "Below table"
+msgstr ""
+
+msgid "Below the chart"
+msgstr ""
+
+msgid "Bold"
+msgstr ""
+
+msgid "Borders"
+msgstr ""
+
+msgid "Bubble Chart"
+msgstr ""
+
+msgid "C0"
+msgstr ""
+
+msgid "C1"
+msgstr ""
+
+msgid "C10"
+msgstr ""
+
+msgid "C2"
+msgstr ""
+
+msgid "C3"
+msgstr ""
+
+msgid "C4"
+msgstr ""
+
+msgid "C5"
+msgstr ""
+
+msgid "C6"
+msgstr ""
+
+msgid "C7"
+msgstr ""
+
+msgid "C8"
+msgstr ""
+
+msgid "C9"
+msgstr ""
+
+msgid "CSS"
+msgstr ""
+
+msgid "CSS Editor"
+msgstr ""
+
+msgid "Can\'t decode table conditions from JSON."
+msgstr ""
+
+msgid "Can\'t decode table meta from JSON."
+msgstr ""
+
+msgid "Can\'t decode table rows from JSON."
+msgstr ""
+
+msgid "Caption"
+msgstr ""
+
+msgid "Catalog #10 1/2 Envelope"
+msgstr ""
+
+msgid "Cell"
+msgstr ""
+
+msgid "Cell - adds border around all four sides of each cell, Row - adds border only over and under each row. (i.e. only for the rows)."
+msgstr ""
+
+msgid "Cell Shortcode"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Check all other FAQs"
+msgstr ""
+
+msgid "Check the result of formula in the table on your site."
+msgstr ""
+
+msgid "Choose Icon"
+msgstr ""
+
+msgid "Choose color for loader"
+msgstr ""
+
+msgid "Choose icon"
+msgstr ""
+
+msgid "Choose icon for loader"
+msgstr ""
+
+msgid "Choose the orientation for PDF pages"
+msgstr ""
+
+msgid "Choose the paper size for PDF pages"
+msgstr ""
+
+msgid "Choose the period for creating of new copy of table in history for each user. If you have not chose the period - each user will have only one table copy in history. If period has been chosen - user can get any copy of his table just adding the period attribute to the History Shortcode.<br /> <b>%s</b> - for day and for week (you can set use any date of week)<br /> <b>%s</b> - for month<br /> <b>%s</b> - for year<br /><br /><b>Important!</b> You should to use PHP v.5.2.0 or greater to use the period feature for history table."
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Click on the button “Add new table” and see the first form, which you need to fill in. A very simple step!"
+msgstr ""
+
+msgid "Clone"
+msgstr ""
+
+msgid "Close Tutorial"
+msgstr ""
+
+msgid "Collapsible Rows"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Column Chart"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "Coming Soon Plugin"
+msgstr ""
+
+msgid "Coming soon page with drag-and-drop builder or under construction | maintenance mode to notify visitors and collects emails."
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Commerical #10 Envelope"
+msgstr ""
+
+msgid "Compact Table"
+msgstr ""
+
+msgid "Condition"
+msgstr ""
+
+msgid "Conditional Formatting"
+msgstr ""
+
+msgid "Congratulations! You have successfully installed and activated PRO version of %s plugin."
+msgstr ""
+
+msgid "Congratulations! You have successfully installed and activated PRO version of ' ~ environment.getMenu().getMenuTitle() ~ ' plugin."
+msgstr ""
+
+msgid "Contact Form Plugin"
+msgstr ""
+
+msgid "Content that does not fit in the cell will be clipped."
+msgstr ""
+
+msgid "Content that does not fit in the cell will be overlapping the following cells."
+msgstr ""
+
+msgid "Convert the cell content into icon with tooltip."
+msgstr ""
+
+msgid "Count of Footer Rows"
+msgstr ""
+
+msgid "Count of Header Rows"
+msgstr ""
+
+msgid "Count of table rows, which will be moved to footer."
+msgstr ""
+
+msgid "Count of table rows, which will be moved to header."
+msgstr ""
+
+msgid "Create Tooltip"
+msgstr ""
+
+msgid "Create and manage beautiful data tables with custom design. No HTML knowledge is required."
+msgstr ""
+
+msgid "Create online membership community with custom user profiles, roles, FrontEnd registration and login. Members Directory, activity, groups, messages."
+msgstr ""
+
+msgid "Create the data migration file with the \"export\" button on a source database then import all the saved tables to the current database."
+msgstr ""
+
+msgid "Create your first table"
+msgstr ""
+
+msgid "Creating slideshows with Slider plugin is fast and easy. Simply select images from your WordPress Media Library, Flickr, Instagram or Facebook, set slide captions, links and SEO fields all from one page."
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Current Range"
+msgstr ""
+
+msgid "Custom Footer"
+msgstr ""
+
+msgid "DB name"
+msgstr ""
+
+msgid "DB password"
+msgstr ""
+
+msgid "DB user"
+msgstr ""
+
+msgid "Data Formats"
+msgstr ""
+
+msgid "Data Tables Generator"
+msgstr ""
+
+msgid "Data from Database"
+msgstr ""
+
+msgid "Database"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Datepicker Fields"
+msgstr ""
+
+msgid "Decrease the amount of whitespace in the table."
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delimiter"
+msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Description Text"
+msgstr ""
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Title"
+msgstr ""
+
+msgid "Diagrams"
+msgstr ""
+
+msgid "Diagrams - this is a Pro feature of our plugin, which can help you to follow the statistics of your table. Several types for every taste and any wishes."
+msgstr ""
+
+msgid "Diamond"
+msgstr ""
+
+msgid "Digital Publication Plugin"
+msgstr ""
+
+msgid "Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Disable Responsivity"
+msgstr ""
+
+msgid "Disable Responsivity - default table fluid layout"
+msgstr ""
+
+msgid "Disable Sorting"
+msgstr ""
+
+msgid "Disable Table Cache"
+msgstr ""
+
+msgid "Disable WP Footer Fix"
+msgstr ""
+
+msgid "Disable Wrapping"
+msgstr ""
+
+msgid "Disable indexing table for search bots"
+msgstr ""
+
+msgid "Disable wrapping of content in the table, so every word in the cells will be in one single line."
+msgstr ""
+
+msgid "Disallow Indexing"
+msgstr ""
+
+msgid "Display custom Google Maps. Set markers and locations with text, images, categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+
+msgid "Display only entries with matching characters in the beginning of words"
+msgstr ""
+
+msgid "Editable Fields"
+msgstr ""
+
+msgid "Editor"
+msgstr ""
+
+msgid "Editor tab"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Empty info text"
+msgstr ""
+
+msgid "Empty table"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Enable / disable table loader icon before table will be completely loaded."
+msgstr ""
+
+msgid "Enable Table History"
+msgstr ""
+
+msgid "Enable this option if you want to include the tables data to global site search"
+msgstr ""
+
+msgid "Enter the SQL Query."
+msgstr ""
+
+msgid "Enter the name and create Data Table"
+msgstr ""
+
+msgid "Enter the name of the external database."
+msgstr ""
+
+msgid "Enter the password of the external database."
+msgstr ""
+
+msgid "Enter the username for the external database."
+msgstr ""
+
+msgid "Error establishing a database connection"
+msgstr ""
+
+msgid "Execute JS Script After Table Load"
+msgstr ""
+
+msgid "Executive"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Export / Import"
+msgstr ""
+
+msgid "Export Data to the File"
+msgstr ""
+
+msgid "Export Fonts to PDF"
+msgstr ""
+
+msgid "Export Logo"
+msgstr ""
+
+msgid "Export label"
+msgstr ""
+
+msgid "Export table"
+msgstr ""
+
+msgid "External DB"
+msgstr ""
+
+msgid "Failed to find diagram %s."
+msgstr ""
+
+msgid "Failed to find table %s."
+msgstr ""
+
+msgid "Failed to get table row: %s"
+msgstr ""
+
+msgid "Failed to get table rows: %s"
+msgstr ""
+
+msgid "Failed to import data from the uploaded file"
+msgstr ""
+
+msgid "Failed to import selected file"
+msgstr ""
+
+msgid "Failed to import selected file: %s"
+msgstr ""
+
+msgid "Failed to save table cell: %s"
+msgstr ""
+
+msgid "Failed to save table conditions: %s"
+msgstr ""
+
+msgid "Failed to save table meta data: %s"
+msgstr ""
+
+msgid "Failed to save table row: %s"
+msgstr ""
+
+msgid "Failed to save table rows: %s"
+msgstr ""
+
+msgid "Failed to upload selected file"
+msgstr ""
+
+msgid "Failed to write file to disk."
+msgstr ""
+
+msgid "Featured Plugins"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
+msgid "Feel free to contact us and don’t worry, everything gonna be ok!"
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
+msgid "File Type"
+msgstr ""
+
+msgid "File extension type"
+msgstr ""
+
+msgid "Fill in the rest of the formula."
+msgstr ""
+
+msgid "Fill the table title and choose the number of columns and rows. Don’t worry, you will be able to change it (add or delete some) later!"
+msgstr ""
+
+msgid "Filtered info text"
+msgstr ""
+
+msgid "Fixed Columns"
+msgstr ""
+
+msgid "Fixed Footer"
+msgstr ""
+
+msgid "Fixed Header"
+msgstr ""
+
+msgid "Fixed Table Height"
+msgstr ""
+
+msgid "Fixed Table Width"
+msgstr ""
+
+msgid "Fixed Table Width (mobile)"
+msgstr ""
+
+msgid "Fixed table height in px. This value must be less than the original table height to create a vertical scroll, otherwise you will not see that the fixed header / footer exists."
+msgstr ""
+
+msgid "Folio"
+msgstr ""
+
+msgid "Font Family"
+msgstr ""
+
+msgid "Font Size"
+msgstr ""
+
+msgid "Font family changing available only in PRO version."
+msgstr ""
+
+msgid "Footer"
+msgstr ""
+
+msgid ""
+"Formats for cells value. All formats convert cell values to appropriate format types.\n"
+"                            <b>Percent with Convert</b> format sets percent format and convert cells value to percentage by division by 100.\n"
+"                            "
+msgstr ""
+
+msgid "Frequently Asked Questions"
+msgstr ""
+
+msgid "Frontend Export"
+msgstr ""
+
+msgid "Frontend Fields"
+msgstr ""
+
+msgid "Frontend Import Form"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Get Browser Language"
+msgstr ""
+
+msgid "Get PRO"
+msgstr ""
+
+msgid "Go to Editor of Data Table."
+msgstr ""
+
+msgid "Google Maps Easy"
+msgstr ""
+
+msgid "Google Spreadsheet Url"
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Hello Supsystic Team!"
+msgstr ""
+
+msgid "Hello! This is the Data Tables by Supsystic"
+msgstr ""
+
+msgid "Hide Table Loader"
+msgstr ""
+
+msgid "Hide table by default and show only if search has a result."
+msgstr ""
+
+msgid "Hide the selected cells on frontend. Can be useful for placing intermediate calculations. <br /><br />To display the table correctly, please, add this property for the whole row or the whole column of table."
+msgstr ""
+
+msgid "Highlight the Order Column"
+msgstr ""
+
+msgid "Highlighting by Mousehover"
+msgstr ""
+
+msgid "History Shortcode"
+msgstr ""
+
+msgid "Horizontal scroll"
+msgstr ""
+
+msgid "Horizontal scroll - in this mode scroll bar will be added if table overflows parent container width"
+msgstr ""
+
+msgid "How many horizontal axis labels to show, where 1 means show every label, 2 means show every other label, and so on. Left the field empty to try to show as many labels as possible without overlapping."
+msgstr ""
+
+msgid "How to use formulas in the table?"
+msgstr ""
+
+msgid "I need to have line breaks/spaces between the paragraphs within the cells."
+msgstr ""
+
+msgid "If checked - footer will be created from the last table rows. Otherwise - footer will be created from header rows."
+msgstr ""
+
+msgid "If checked - table data on frontend will be overloaded from selected Google Sheet. <a href=\"%s\" tagget=\"_blank\">Read more</a> about how organize Auto Import form Google Sheets"
+msgstr ""
+
+msgid "If checked - the current sorted column will be highlighted"
+msgstr ""
+
+msgid "If checked - this table will be resized by first supsystic table on page. Important! This option makes sense only if table is not on responsive mode or responsive mode is disabled. Also if the first table has different count of columns or different settings, their sizes may not be equal."
+msgstr ""
+
+msgid ""
+"If checked - width of table columns will be calculated automatically for table width 100%.<br /><br />\n"
+"                                                Otherwise - you can set table width manually: columns width will be get from Fixed Table Width option\n"
+"                                                (toolbar on Editor tab) or calculated depending on the columns width in the table editor.<br /><br />\n"
+"                                                If you do not want to apply columns width at all - you should uncheck "Auto Table Width" option, set "Fixed Table Width"\n"
+"                                                option to "auto" and check "Compact Table" option."
+msgstr ""
+
+msgid "If multiple sorting for columns is not set - the table will be sorted in the specified order by the column set in the table settings: Settings-> Features-> Sorting Order / Sorting Column. Otherwise - table will be sorted by the specified custom columns in sequense, in which they are listed."
+msgstr ""
+
+msgid "If, unfortunately, you have some problem - we are ready to help you in our <a href=\"//supsystic.com/contact-us/\" target=\"_blank\">internal support.</a>"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import / Export"
+msgstr ""
+
+msgid "Import Data to the Table"
+msgstr ""
+
+msgid "Import Settings"
+msgstr ""
+
+msgid "Import Tables in Database"
+msgstr ""
+
+msgid "Import error"
+msgstr ""
+
+msgid "Import only raw data without formatting"
+msgstr ""
+
+msgid "Import settings"
+msgstr ""
+
+msgid "Import to the table"
+msgstr ""
+
+msgid "Import/Export"
+msgstr ""
+
+msgid "Important! Please, check the sharing settings of your spreadsheet: it must be accessed to edit for everyone who has link. In other case the data will not import to table."
+msgstr ""
+
+msgid "In case you have special or at least, basic knowledge of CSS code - you can easily change the table here. Just make sure that you know, what you are doing and you will not destroy the table."
+msgstr ""
+
+msgid "Include to Global Search"
+msgstr ""
+
+msgid "Insert Link"
+msgstr ""
+
+msgid "Insert Media"
+msgstr ""
+
+msgid "Insert link"
+msgstr ""
+
+msgid "Insert media file"
+msgstr ""
+
+msgid "Inside by the top left corner"
+msgstr ""
+
+msgid "Invalid file format."
+msgstr ""
+
+msgid "Invalid range specified."
+msgstr ""
+
+msgid "Invalid route specified: missing \"module\" key."
+msgstr ""
+
+msgid "Italic"
+msgstr ""
+
+msgid "It’s never been so easy to create and manage pricing and comparison tables with table builder. Any element of the table can be customise with mouse click."
+msgstr ""
+
+msgid "JS Script Text"
+msgstr ""
+
+msgid "Landscape"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Language and Text"
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid "Last update"
+msgstr ""
+
+msgid "Learn more about how to do this <a href=\"//supsystic.com/how-to-use-tables/\" target=\"_blank\">here</a>."
+msgstr ""
+
+msgid "Ledger"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Left Columns Count"
+msgstr ""
+
+msgid "Left of the chart"
+msgstr ""
+
+msgid "Legal"
+msgstr ""
+
+msgid "Legend Position"
+msgstr ""
+
+msgid "Length text"
+msgstr ""
+
+msgid "Let's Start!"
+msgstr ""
+
+msgid "Lets make search by fields, marked as hidden (see appropriate button on editor toolbar)"
+msgstr ""
+
+msgid "Letter"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Lightbox"
+msgstr ""
+
+msgid "Line Chart"
+msgstr ""
+
+msgid "Lines between slices and values"
+msgstr ""
+
+msgid "Link Text"
+msgstr ""
+
+msgid "Link from Google Tables"
+msgstr ""
+
+msgid "List of columns for multiple sorting"
+msgstr ""
+
+msgid "List of columns, disabled from manual sorting"
+msgstr ""
+
+msgid "List of width sizes, set for table columns:"
+msgstr ""
+
+msgid "Live Chat Plugin"
+msgstr ""
+
+msgid "Loading your table, please wait..."
+msgstr ""
+
+msgid "Logo Alignment"
+msgstr ""
+
+msgid "Logo Position"
+msgstr ""
+
+msgid "Long Number"
+msgstr ""
+
+msgid "Main"
+msgstr ""
+
+msgid "Main Settings of your first table. Here you can see main settings which are conected with languages, table elements, styling and other different editors settings. Generally it’s a tab where you can edit the visual part of the whole table, switch on/off the responsive mode, set pagination etc."
+msgstr ""
+
+msgid "Make data table responsive"
+msgstr ""
+
+msgid "Make the rows collapsible. First collapsible row become the &quot;main&quot; row with control button. Other collapsible rows will be hidden by default - user might show / hide them by pressing on control button of &quot;main&quot; row."
+msgstr ""
+
+msgid "Mandatory attribute \"id\" is not specified. ' . 'Shortcode usage example: [%s id=\"{table_id}\"]"
+msgstr ""
+
+msgid "Mandatory attribute ID is not specified."
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Membership by Supsystic"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Minimum Count of Characters"
+msgstr ""
+
+msgid "Missing a temporary folder."
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name of Cloned Table"
+msgstr ""
+
+msgid "Name of slice"
+msgstr ""
+
+msgid "Newsletter Plugin"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No data available in table"
+msgstr ""
+
+msgid "No detected"
+msgstr ""
+
+msgid "No file was uploaded."
+msgstr ""
+
+msgid "No legend"
+msgstr ""
+
+msgid "No matching records are found"
+msgstr ""
+
+msgid "No rules for now"
+msgstr ""
+
+msgid "No value"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not displaying"
+msgstr ""
+
+msgid "Note that the table may look a little different depending on your theme style."
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Number Formatting"
+msgstr ""
+
+msgid "Number of column to apply sort order. Set no value to disable table sorting by default."
+msgstr ""
+
+msgid "Number of column to fix by left side of the table."
+msgstr ""
+
+msgid "Number of column to fix by right side of the table."
+msgstr ""
+
+msgid "Number of sides which will be have points of chart in star or polygon shape. Please, use values greater than 2."
+msgstr ""
+
+msgid "Offset Bottom"
+msgstr ""
+
+msgid "Offset Left"
+msgstr ""
+
+msgid "Offset Right"
+msgstr ""
+
+msgid "Offset Top"
+msgstr ""
+
+msgid "Offset for axes\' area by bottom."
+msgstr ""
+
+msgid "Offset for axes\' area by left."
+msgstr ""
+
+msgid "Offset for axes\' area by right."
+msgstr ""
+
+msgid "Offset for axes\' area by top."
+msgstr ""
+
+msgid "One of the best plugin for creating Contact Forms on your WordPress site. Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+
+msgid "Only the selected fields will be used to build the table."
+msgstr ""
+
+msgid "Open in new tab"
+msgstr ""
+
+msgid "Operator"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Overwrite Table Text"
+msgstr ""
+
+msgid "PDF Page Orientation"
+msgstr ""
+
+msgid "PDF Paper Size"
+msgstr ""
+
+msgid "PDF export requires PHP 5.3+, your version %s"
+msgstr ""
+
+msgid "PHP code"
+msgstr ""
+
+msgid "PRO option"
+msgstr ""
+
+msgid "PRO version"
+msgstr ""
+
+msgid "Pagination"
+msgstr ""
+
+msgid "Pagination List Content"
+msgstr ""
+
+msgid "Pagination Size"
+msgstr ""
+
+msgid "Pagination in Editor"
+msgstr ""
+
+msgid "Paragraph Mode"
+msgstr ""
+
+msgid "Paste SQL query here"
+msgstr ""
+
+msgid "Paste script code here"
+msgstr ""
+
+msgid "Percent"
+msgstr ""
+
+msgid "Percent Mode"
+msgstr ""
+
+msgid "Percent with Convert"
+msgstr ""
+
+msgid "Percentage of slice size out of total"
+msgstr ""
+
+msgid "Photo Gallery Plugin"
+msgstr ""
+
+msgid "Photo Gallery Plugin with a great number of layouts will help you to create quality respectable portfolios and image galleries."
+msgstr ""
+
+msgid "Pie Chart"
+msgstr ""
+
+msgid "Plain"
+msgstr ""
+
+msgid "Please be advised that this feature available only in %s."
+msgstr ""
+
+msgid "Please, type the correct range!"
+msgstr ""
+
+msgid "Plugin options"
+msgstr ""
+
+msgid "Point Dent"
+msgstr ""
+
+msgid "Point Shape"
+msgstr ""
+
+msgid "Point Sides"
+msgstr ""
+
+msgid "Point Size"
+msgstr ""
+
+msgid "Polygon"
+msgstr ""
+
+msgid "Popup Plugin"
+msgstr ""
+
+msgid "Portrait"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Preview insert for your comfort. Before updating the table on your page - you can see the result of your efforts and changes, look at it and enjoy the final outcome."
+msgstr ""
+
+msgid "Pricing Table"
+msgstr ""
+
+msgid "Quantitative value of slice"
+msgstr ""
+
+msgid "RA0"
+msgstr ""
+
+msgid "RA1"
+msgstr ""
+
+msgid "RA2"
+msgstr ""
+
+msgid "RA3"
+msgstr ""
+
+msgid "RA4"
+msgstr ""
+
+msgid "Range for Diagrams"
+msgstr ""
+
+msgid "Range is required"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Relative Mode"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Data"
+msgstr ""
+
+msgid "Remove Logo"
+msgstr ""
+
+msgid "Remove the escaping of HTML in the selected cells. Can be useful for convert formula result to pure HTML. For example: =CONCATENATE(&#39;&lt;a href=&quot;&#39;;A1;&#39;&quot;&gt;';B1;&#39;&lt;/a&gt;&#39;)"
+msgstr ""
+
+msgid "Remove the selected cells on frontend. Can be useful for placing information for admin side only. <br /><br />Importanr! To display the table correctly, please, add this property for the whole row or the whole column of table."
+msgstr ""
+
+msgid "Renew License"
+msgstr ""
+
+msgid "Report a bug"
+msgstr ""
+
+msgid "Require a new functionallity"
+msgstr ""
+
+msgid "Responsive Mode"
+msgstr ""
+
+msgid "Retrieve data for table from the database.<br/>For the source data will be applied only general rules from the \"Settings\" tab. Styles and formatting from the \"Editor\" tab will be omitted."
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Right Columns Count"
+msgstr ""
+
+msgid "Right of the chart"
+msgstr ""
+
+msgid "Roles"
+msgstr ""
+
+msgid "Row"
+msgstr ""
+
+msgid "Row Striping"
+msgstr ""
+
+msgid "Row highlighting by mouse hover."
+msgstr ""
+
+msgid "Rows"
+msgstr ""
+
+msgid "Rows Count per Request"
+msgstr ""
+
+msgid "Rules"
+msgstr ""
+
+msgid "SQL Query"
+msgstr ""
+
+msgid "SRA0"
+msgstr ""
+
+msgid "SRA1"
+msgstr ""
+
+msgid "SRA2"
+msgstr ""
+
+msgid "SRA3"
+msgstr ""
+
+msgid "SRA4"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save Frontend Fields"
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
+msgid "Save table data entered through frontend fields. Refer to the first two buttons on the second row of the editor toolbar:<br />Add editable field<br />Add dropdown list"
+msgstr ""
+
+msgid "Save the changes of table."
+msgstr ""
+
+msgid "Scientific"
+msgstr ""
+
+msgid "Search by Columns"
+msgstr ""
+
+msgid "Search by Hidden Fields"
+msgstr ""
+
+msgid "Search label"
+msgstr ""
+
+msgid "Search:"
+msgstr ""
+
+msgid "Searching"
+msgstr ""
+
+msgid "Select Logo"
+msgstr ""
+
+msgid "Select Some Options"
+msgstr ""
+
+msgid "Select User to display its table"
+msgstr ""
+
+msgid "Select a cell and start typing. In a cell, type an equal sign “=” to start the formula."
+msgstr ""
+
+msgid "Select a database from the list of available."
+msgstr ""
+
+msgid "Select alignment of table logotype"
+msgstr ""
+
+msgid "Select avalilable roles to use tables"
+msgstr ""
+
+msgid "Select chart type"
+msgstr ""
+
+msgid "Select fields"
+msgstr ""
+
+msgid "Select file type to export table:"
+msgstr ""
+
+msgid "Select position of table logotype"
+msgstr ""
+
+msgid "Select roles"
+msgstr ""
+
+msgid "Select the fields available for editing. If nothing is selected, the editable ones will be all fields."
+msgstr ""
+
+msgid "Select the table as a data source. Click the button next to refresh the list of tables."
+msgstr ""
+
+msgid "Selectable Fields"
+msgstr ""
+
+msgid "Server-side Processing"
+msgstr ""
+
+msgid "Set column width for selected columns in pixels or percents. Press \"Clear Fixed Width\" to clear fixed columns width for all table columns. All changes will be applied after table saving. It’s better to use values in px, if you want width to be exactly the same as you’ve established – because the percentages can be re-calculated by browser in a specific way."
+msgstr ""
+
+msgid "Set fixed table width in px or %. Choose &quot;disable&quot; to make table width adjust by table content."
+msgstr ""
+
+msgid "Set format of all numbers in the table"
+msgstr ""
+
+msgid "Set how concave the star will be if you have chosen the star shape of chart points. Please, use values from 0.1 to 1."
+msgstr ""
+
+msgid "Set minimum count of characters to start search in Search field. Set 0 to make search in any case."
+msgstr ""
+
+msgid "Set multiple column sorting for selected columns. Press \"Clear Multiple Sorting\" to clear multiple sorting for all table columns. All changes will be applied after table saving."
+msgstr ""
+
+msgid ""
+"Set output format for currencies. Supports only 1 currency for 1 table. Besides here you can establish needed divider between integer and fractional parts and quantity of zeros at fractional part. For example:<br />\n"
+"                                            $ 1,000.000<br />\n"
+"                                            € 1.00"
+msgstr ""
+
+msgid ""
+"Set output format for date. For example:<br />\n"
+"                                            YYYY-MM-DD - 1991-12-25<br />\n"
+"                                            DD.MM.YY - 25.12.91"
+msgstr ""
+
+msgid "Set output format for numbers e.g. 1,000.00, 1.00"
+msgstr ""
+
+msgid ""
+"Set output format for percent numbers. For example:<br />\n"
+"                                            10.00%<br />\n"
+"                                            10%"
+msgstr ""
+
+msgid ""
+"Set output format for time and duration. For example:<br />\n"
+"                                             1) time<br />\n"
+"                                             HH:mm - 18:00<br />\n"
+"                                             hh:mm a - 9:00 pm<br /><br />\n"
+"                                             2) duration<br />\n"
+"                                             hh:mm - 36:40<br />\n"
+"                                             hh:mm:ss - 36:40:12"
+msgstr ""
+
+msgid "Set sort order by default"
+msgstr ""
+
+msgid "Set the count of table rows, which will be put into the one saving request. If your table has more rows - as many requests will be sent as need to completely save all table data.<br /><br /> It can be useful if you have a large table and can not improuve your server settings to save the table per single request.<br /><br /> If you do not have problems with saving of tables it is better to left the default value - 400."
+msgstr ""
+
+msgid "Set the numeric value from 0 to 100, for example 10 (equals to 10%). Leave this field empty to use default offset value."
+msgstr ""
+
+msgid "Set the users roles, to add permission to use the plugin. The Administrator role has set by default."
+msgstr ""
+
+msgid "Set the value in px or %, for example, 200 (equals to 200px) or 80%. Leave this field empty to use default height value."
+msgstr ""
+
+msgid "Set the value in px or %, for example, 400 (equals to 400px) or 90%. Leave this field empty to use default width value."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Short Number"
+msgstr ""
+
+msgid "Show Empty Table"
+msgstr ""
+
+msgid "Show Only Search Results"
+msgstr ""
+
+msgid "Show _MENU_ entries"
+msgstr ""
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+msgid "Signature"
+msgstr ""
+
+msgid "Signature Text"
+msgstr ""
+
+msgid "Slider Plugin"
+msgstr ""
+
+msgid "Slider by Supsystic"
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Social Share Buttons"
+msgstr ""
+
+msgid "Social share buttons to increase social traffic and popularity. Social sharing to Facebook, Twitter and other social networks."
+msgstr ""
+
+msgid "Some errors occurred while sending mail please send your message trough this contact form:"
+msgstr ""
+
+msgid "Sort order"
+msgstr ""
+
+msgid "Sorting"
+msgstr ""
+
+msgid "Sorting Column"
+msgstr ""
+
+msgid "Sorting Order"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Specify a range for diagram. Set the range in the format A1:C10 as in Excel, where the letter is the column number in alphabetical order, the digit is the row number."
+msgstr ""
+
+msgid "Square"
+msgstr ""
+
+msgid "Stacked Columns"
+msgstr ""
+
+msgid "Standard Responsive mode"
+msgstr ""
+
+msgid "Standard Responsive mode - in this mode if table content doesn\'t fit all columns become under each other with one cell per row"
+msgstr ""
+
+msgid "Standard WP theme must call the wp_footer() function in site footer (see <a href=\"%s\" target=\"_blank\">Theme Development</a>). But sometimes it is not happen in custom themes. In this case our plugin will call its function forced, because it needs it for correct work as the many other plugins. But if you have the problems in your site because of this feature - just enable this option to disable force call of wp_footer() function by our plugin."
+msgstr ""
+
+msgid "Star"
+msgstr ""
+
+msgid "Step-by-step Tutorial"
+msgstr ""
+
+msgid "Strict Matching"
+msgstr ""
+
+msgid "Styles"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Supsystic Newsletter plugin for automatic mailing of your letters. You will have no need to control it or send them manually. No coding, hard skills or long hours of customizing are required."
+msgstr ""
+
+msgid "Switch rows / columns"
+msgstr ""
+
+msgid "Table"
+msgstr ""
+
+msgid "Table Copy Period"
+msgstr ""
+
+msgid "Table Elements"
+msgstr ""
+
+msgid "Table History"
+msgstr ""
+
+msgid "Table Information"
+msgstr ""
+
+msgid "Table Language"
+msgstr ""
+
+msgid "Table Loader Color"
+msgstr ""
+
+msgid "Table Loader Icon"
+msgstr ""
+
+msgid "Table Part Shortcode"
+msgstr ""
+
+msgid "Table Shortcode"
+msgstr ""
+
+msgid "Table info text"
+msgstr ""
+
+msgid "Table information display field. %s"
+msgstr ""
+
+msgid "Table title"
+msgstr ""
+
+msgid "Table will not be hidden by default , but will be empty."
+msgstr ""
+
+msgid "Tables"
+msgstr ""
+
+msgid "Tabloid"
+msgstr ""
+
+msgid "Text color"
+msgstr ""
+
+msgid "Text on Slice"
+msgstr ""
+
+msgid "Thank you for choosing our Data Tables plugin. Just click here to start using it - and we will show you it\'s possibilities and powerfull features."
+msgstr ""
+
+msgid "Thank you for choosing our Data Tables plugin. Let’s make a quick tour through features and main options of the plugin. Just click “Next” button."
+msgstr ""
+
+msgid "The Best WordPress PopUp option plugin to help you gain more subscribers, social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+
+msgid "The most important part of settings - Editor. Here you can fill all the cells of your table, add some colors, play with fonts and sizes. This insert also allows you to change the alignment of your font, add formats (percents, currency), images and links to make your table more visual attraction."
+msgstr ""
+
+msgid "The table ID %s not found."
+msgstr ""
+
+msgid "The table IDs %s not found."
+msgstr ""
+
+msgid "The table with ID %d not exists."
+msgstr ""
+
+msgid "The uploaded file exceeds the max size of uploaded files."
+msgstr ""
+
+msgid "The uploaded file was only partially uploaded."
+msgstr ""
+
+msgid "There are not all shortcode attributes specified. Usage example"
+msgstr ""
+
+msgid "There are not all shortcode\'s attributes specified. Usage example"
+msgstr ""
+
+msgid "This feature is necessary for those cases, when table contains the shortcodes. By checking the box, you can make sure that they will be rendered correctly and won't be influenced by cache."
+msgstr ""
+
+msgid "This label can not be translated using Table Language option. You can change this label typing the custom text or hide this label typing _NONE_ as label text."
+msgstr ""
+
+msgid "This mode allows you to separate the content into paragraphs. To move to a new line in the cell - please press CTRL + Enter."
+msgstr ""
+
+msgid "This option is recommended for a large tables that cannot be processed in conventional way. The table will be sequentially loaded by ajax on a per page basis, all filtering, ordering and search clauses is server-side implemented too."
+msgstr ""
+
+msgid "This table does not contain a unique index. Editing is not possible."
+msgstr ""
+
+msgid "Time / Duration"
+msgstr ""
+
+msgid "Title can\'t be empty or more than 255 characters"
+msgstr ""
+
+msgid "To save conditional styles you should save the table."
+msgstr ""
+
+msgid "Topic"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type Google Sheet url to import data from sheet to table"
+msgstr ""
+
+msgid "Underline"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Unexpected error."
+msgstr ""
+
+msgid "Unsupported export type: %s."
+msgstr ""
+
+msgid "Url"
+msgstr ""
+
+msgid "Use Comma as Delimiter"
+msgstr ""
+
+msgid "Use Custom Colors"
+msgstr ""
+
+msgid "Use comma as delimiter of integer and fractional parts of number for editable fields on frontend"
+msgstr ""
+
+msgid "Use first column as labels"
+msgstr ""
+
+msgid "Use first row as headers"
+msgstr ""
+
+msgid "Use for Current Roles Only"
+msgstr ""
+
+msgid "Use for Logged In Users Only"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Value Shortcode"
+msgstr ""
+
+msgid "Variables: _MAX_<br />Example: (filtered from _MAX_ total entries)"
+msgstr ""
+
+msgid "Variables: _MENU_<br />Example: Show _MENU_ entries"
+msgstr ""
+
+msgid "Variables: _START_, _END_, _TOTAL_<br />Example: Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+msgid "Vertical alignment"
+msgstr ""
+
+msgid "Video Tutorial"
+msgstr ""
+
+msgid "We are trying to make your using of our plugin maximum comfortable and easy. So we find it like the best way to tell you about some options and features of this plugin."
+msgstr ""
+
+msgid "We really like what we do and feel responsibility for our “child”. Constantly we are trying to change something or update the new features, but sometimes you may have a situation when you need help or have a problem. We can offer you two kinds of help: "
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Welcome to Data Tables plugin by Supsystic!"
+msgstr ""
+
+msgid "Welcome to our plugin"
+msgstr ""
+
+msgid "Well done!"
+msgstr ""
+
+msgid "When you use frontend fields, <a href=\"%s\" target=\"_blank\">Table History</a> allows you (using History Shortcode) to display on frontend the own table version for each logged in user. On this tab you can display any user\'s table - just choose the user name from dropdown list."
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "With these two buttons in our Pro version you can Import any table of csv format and Export the whole table, which you have done."
+msgstr ""
+
+msgid "Word wrapping"
+msgstr ""
+
+msgid "Wrap text automatically."
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You are requested to the non-existing module \"%s\"."
+msgstr ""
+
+msgid "You are requested to the non-existing route: %s::%s"
+msgstr ""
+
+msgid "You can %s today and have all PRO features of data tables!"
+msgstr ""
+
+msgid "You can change number of Columns and Rows later"
+msgstr ""
+
+msgid "You have no diagrams for now. Go to %s -> select the required data in the table and click on “Add diagram” button. Also please check the tutorial %s"
+msgstr ""
+
+msgid "You need to enable ZipArchive extension in PHP config file on your server. Please, contact to your server administrator."
+msgstr ""
+
+msgid "You should to use PHP v.5.2.0 or greater to use the period feature for history table."
+msgstr ""
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr ""
+
+msgid "Your message successfully send. We contact you soon."
+msgstr ""
+
+msgid "Your premium support is expired in %s days"
+msgstr ""
+
+msgid "Your premium support is expired in ' ~ days ~ ' days"
+msgstr ""
+
+msgid "Zero records"
+msgstr ""
+
+msgid "by Supsystic!"
+msgstr ""
+
+msgid "can not edit data for SQL Query"
+msgstr ""
+
+msgid "disable"
+msgstr ""
+
+msgid "how to create Diagrams with Data Table plugin"
+msgstr ""
+
+msgid "request does not contain a table field"
+msgstr ""
+
+msgid "request does not contain a unique index"
+msgstr ""
+
+msgid "request does not contain data for a unique index"
+msgstr ""
+
+msgid "rows per page"
+msgstr ""
+
+msgid "table not found"
+msgstr ""
+
+msgid "value"
+msgstr ""
+
+msgid "value %s not saved"
+msgstr ""
+

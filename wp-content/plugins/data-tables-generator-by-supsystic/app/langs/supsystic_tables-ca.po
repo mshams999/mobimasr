@@ -1,0 +1,1633 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: metacibi <dev.metacibi@gmail.com>\n"
+"Language-Team: \n"
+"Language: ca_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+
+msgid "An error has occurred"
+msgstr "S'ha produït un error"
+
+msgid "Overview"
+msgstr "Resum"
+
+msgid "Add new table"
+msgstr "Afegeix una taula nova"
+
+msgid "Tables"
+msgstr "Taules"
+
+msgid "Settings"
+msgstr "Configuració"
+
+msgid "License"
+msgstr "Llicència"
+
+msgid "Featured Plugins"
+msgstr "Connectors destacats"
+
+msgid "Table title"
+msgstr "Títol de la taula"
+
+msgid "Columns"
+msgstr "Columnes"
+
+msgid "Rows"
+msgstr "Files"
+
+msgid "You can change number of Columns and Rows later"
+msgstr "Podeu canviar el número de columnes i files més tard"
+
+msgid "Invalid range specified."
+msgstr "L'interval especi­ficat no és vàlid."
+
+msgid "Failed to find diagram %s."
+msgstr "No s'ha pogut trobar el diagrama %s."
+
+msgid "Failed to find table %s."
+msgstr "No s'ha pogut trobar la taula %s."
+
+msgid "Add diagram"
+msgstr "Afegeix un diagrama"
+
+msgid "The table ID %s not found."
+msgstr "No s'ha trobat la taula amb ID %s."
+
+msgid "Frontend Export"
+msgstr "Exportació d'interfície d'usuari"
+
+msgid "Allow export table to pdf, csv, xls on frontend"
+msgstr "Permetre l'exportació de taules a pdf, csv, xls a la interfície d'usuari"
+
+msgid "Export Logo"
+msgstr "Exporta el logo"
+
+msgid "Automticaly appends selected logo for output pdf or printing"
+msgstr "Afegeix automàticament el logo seleccionat a la sortida PDF o impressió"
+
+msgid "Logo Position"
+msgstr "Posició del logo"
+
+msgid "Above table"
+msgstr "Damunt la taula"
+
+msgid "Below table"
+msgstr "Sota la taula"
+
+msgid "Logo Alignment"
+msgstr "Alineació del logo"
+
+msgid "Left"
+msgstr "Esquerra"
+
+msgid "Center"
+msgstr "Centre"
+
+msgid "Right"
+msgstr "Dreta"
+
+msgid "Export table"
+msgstr "Exporta la taula"
+
+msgid "Select file type to export table:"
+msgstr "Seleccioneu el tipus de fitxer per exportar la taula:"
+
+msgid "Import error"
+msgstr "Error d'importació"
+
+msgid "Failed to import selected file"
+msgstr "No s'ha pogut importar el fitxer seleccionat"
+
+msgid "Import to the table"
+msgstr "Importa a la taula"
+
+msgid "File extension type"
+msgstr "Tipus d'extensió de fitxer"
+
+msgid "Import settings"
+msgstr "Importa la configuració"
+
+msgid "Delimiter"
+msgstr "Delimitador"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Failed to import data from the uploaded file"
+msgstr "No s'han pogut importar les dades del fitxer carregat"
+
+msgid "Failed to upload selected file"
+msgstr "No s'ha pogut carregar el fitxer seleccionat"
+
+msgid "Activate License"
+msgstr "Activa la llicència"
+
+msgid "Renew License"
+msgstr "Renova la llicència"
+
+msgid "Slider by Supsystic"
+msgstr "Control lliscant de Supsystic"
+
+msgid ""
+"Congratulations! You have successfully installed and activated PRO version of ' "
+"~ environment.getMenu().getMenuTitle() ~ ' plugin."
+msgstr ""
+"Felicitats! Heu instal·lat i activat correctament la versió PRO del connector ' "
+"~ environment.getMenu().getMenuTitle() ~ '."
+
+msgid "Your premium support is expired in ' ~ days ~ ' days"
+msgstr "El vostre suport Premium caduca en ' ~ days ~ ' dies"
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr "No podreu actualitzar la vostra versió pro amb la llicència caducada"
+
+msgid "Activate"
+msgstr "Activa"
+
+msgid "Save"
+msgstr "Desa"
+
+msgid "Add editable field"
+msgstr "Afgeix camp editable"
+
+msgid "Save as"
+msgstr "Desa com a"
+
+msgid "Failed to get table rows: %s"
+msgstr "No s'han pogut obtener les files de la taula: %s"
+
+msgid "Diagram"
+msgstr "Diagrama"
+
+msgid "Type"
+msgstr "Tipus"
+
+msgid "Area Chart"
+msgstr "Gràfic d'Àea"
+
+msgid "Line Chart"
+msgstr "Gràfic de Línies"
+
+msgid "Pie Chart"
+msgstr "Gràfic de Pastís"
+
+msgid "Bar Chart"
+msgstr "Gràfic de Barres"
+
+msgid "Column Chart"
+msgstr "Gràfic de Columnes"
+
+msgid "Bubble Chart"
+msgstr "Gràfic de Bombolles"
+
+msgid "Switch rows / columns"
+msgstr "Commuta files / columnes"
+
+msgid "Use first row as headers"
+msgstr "Utilitza la primera fila com a capçcaleres"
+
+msgid "Use first column as labels"
+msgstr "Utilitza la primera columna com a etiquetes"
+
+msgid "Width"
+msgstr "Amplada"
+
+msgid ""
+"Set the value in px or %, for example, 400 (equals to 400px) or 90%. Leave this "
+"field empty to use default width value."
+msgstr ""
+"Establiu el valor en px o %, per exemple, 400 (equival a 400px) o 90%. Deixeu el "
+"camp buit per a utilitzar l'amplada per defecte."
+
+msgid "Height"
+msgstr "Alçada"
+
+msgid ""
+"Set the value in px or %, for example, 200 (equals to 200px) or 80%. Leave this "
+"field empty to use default height value."
+msgstr ""
+"Establiu el valor en px o %, per exemple, 200 (equival a 200px) o 80%. Deixeu el "
+"camp buit per a utilitzar l'alçada per defecte."
+
+msgid "Remove"
+msgstr "Esborra"
+
+msgid "Legend Position"
+msgstr "Posició de la llegenda"
+
+msgid "No legend"
+msgstr "Sense llegenda"
+
+msgid "Above the chart"
+msgstr "Damunt del gràfic"
+
+msgid "Below the chart"
+msgstr "Sota el gràfic"
+
+msgid "Left of the chart"
+msgstr "A l'esquerra del gràfic"
+
+msgid "Right of the chart"
+msgstr "A la dreta del gràfic"
+
+msgid "Lines between slices and values"
+msgstr "Línies entre porcions i valors"
+
+msgid "Inside by the top left corner"
+msgstr "Dins a dalt a la dreta"
+
+msgid "Diagram Title"
+msgstr "Títol del diagrama"
+
+msgid "Axis X Title"
+msgstr "Títol de l'eix X"
+
+msgid "Axis Y Title"
+msgstr "Títol de l'eix Y"
+
+msgid "3D Diagram"
+msgstr "Diagrama 3D"
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "Text on Slice"
+msgstr "Text dins la porció"
+
+msgid "Percentage of slice size out of total"
+msgstr "Percentatge de la porció sobre el total"
+
+msgid "Quantitative value of slice"
+msgstr "Valor quantitatiu de la porció"
+
+msgid "Name of slice"
+msgstr "Nom de la porció"
+
+msgid "Not displaying"
+msgstr "Sense mostrar"
+
+msgid "Use custom colors"
+msgstr "Personalitza els colors"
+
+msgid "Select chart type"
+msgstr "Tria el tipus de gràfic"
+
+msgid "Editor tab"
+msgstr "Pestanya de l'editor"
+
+msgid "how to create Diagrams with Data Table plugin"
+msgstr "com crear diagrames amb el connector Data Table"
+
+msgid ""
+"You have no diagrams for now. Go to %s -> select the required data in the table "
+"and click on “Add diagram” button. Also please check the tutorial %s"
+msgstr ""
+"Per ara no teniu cap diagrama. Aneu a %s -> seleccioneu les dades necessàries "
+"per la taula i feu clic al botó \"Afegeix diagrama\". També podeu comprovar el "
+"tutorial %s"
+
+msgid "Unsupported export type: %s."
+msgstr "Tipus d'exportació no suportat: %s."
+
+msgid "Export Page Orientation"
+msgstr "Orientació a l'exportar la página"
+
+msgid "Choose the page orientation for PDF export file"
+msgstr "Tria l'orientació de la página del fitxer PDF exportat"
+
+msgid "Portrait"
+msgstr "Vertical"
+
+msgid "Landscape"
+msgstr "Horitzontal"
+
+msgid "Export Data to the File"
+msgstr "Exporta les dades a fitxer"
+
+msgid "File Type"
+msgstr "Tipus de fitxer"
+
+msgid "Failed to import selected file: Wrong spreadsheet id or url"
+msgstr ""
+"No s'ha pogut importar el fitxer seleccionat: id o url de full de càlcul "
+"incorrectes"
+
+msgid "Automatically import from Google Tables"
+msgstr "Importa automàticament de Google Tables"
+
+msgid "Link from Google Tables"
+msgstr "Vincula des de Google Tables"
+
+msgid "Import Data to the Table"
+msgstr "Importa les dades a la taula"
+
+msgid "Import Settings"
+msgstr "Importa la configuració"
+
+msgid "Google Spreadsheet Url"
+msgstr "Url del Full de Google"
+
+msgid ""
+"Important! Please, check the sharing settings of your spreadsheet: it must be "
+"accessed to edit for everyone who has link. In other case the data will not "
+"import to table."
+msgstr ""
+"Important! Si us plau, comproveu la configuració d'ús compartit del full de "
+"càlcul: qualsevol que tingui l'enllaç hi haurà de tenir accés per editar. En cas "
+"contrari, les dades no s'importaran a la taula."
+
+msgid "Append to existing table data"
+msgstr "Afegeix a les dades existents"
+
+msgid "Failed to save table rows: %s"
+msgstr "No s'han pogut desar les files de la taula: %s"
+
+msgid "Save Editable Fields"
+msgstr "Desa el camps editables"
+
+msgid "Allows to save data to the table through editable fields."
+msgstr "Permet desar dades a la taula mitjançant camps editables."
+
+msgid "Use Editable Fields for Logged In Users Only"
+msgstr "Utiliza camps editables només per als usuaris registrats"
+
+msgid "Allows to use editable fields only for logged in users."
+msgstr "Permet l'ús de camps editables només per als usuaris registrats."
+
+msgid "Use Editable Fields for Current Roles"
+msgstr "Utilitza camps editables per als rols actuals"
+
+msgid ""
+"Allows to use editable fields only for users with selected roles. If there are "
+"no chosen roles - all logged in users will have ability to use the editable "
+"fields."
+msgstr ""
+"Permet utilitzar camps editables només per a usuaris de rols seleccionats. Si no "
+"s'han seleccionat rols - tots els usuaris registrats podrán editar els camps."
+
+msgid "Select roles"
+msgstr "Selecciona els rols"
+
+msgid "Enable Table History"
+msgstr "Habilita l'historial de taules"
+
+msgid "Select User to display its table"
+msgstr "Seleccioneu l'usuari per mostrar la seva taula"
+
+msgid ""
+"Note that the table may look a little different depending on your theme style."
+msgstr ""
+"Recordeu que la taula es pot veure mica diferent depenent de l'estil del vostre "
+"tema."
+
+msgid "Diagrams"
+msgstr "Diagrames"
+
+msgid "Get PRO"
+msgstr "Feu-vos PRO"
+
+msgid "Popup Plugin"
+msgstr "Connector de Finestra emergent"
+
+msgid ""
+"The Best WordPress PopUp option plugin to help you gain more subscribers, social "
+"followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+"El millor connector de Wordpress per a finestres emergents us ajuda a guanyar "
+"més subscriptors, seguidors i anuncis. Finestres emergents responsive amb "
+"opcions amigables."
+
+msgid "Slider Plugin"
+msgstr "Connector de Lliscador"
+
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select images "
+"from your WordPress Media Library, Flickr, Instagram or Facebook, set slide "
+"captions, links and SEO fields all from one page."
+msgstr ""
+"Crear presentacions amb el Connector lliscant es ràpid i fácil. Només cal "
+"seleccionar les imatges de la Mediateca de Wordpress, Flickr, Instagram o "
+"Facebook, afegir títols, enllaços i camps SEO tots des de la mateixa página."
+
+msgid "Photo Gallery Plugin"
+msgstr "Connector de Galeria de fotos"
+
+msgid ""
+"Photo Gallery Plugin with a great number of layouts will help you to create "
+"quality respectable portfolios and image galleries."
+msgstr ""
+"El connector de Galeria de Fotos té un gran número de dissenys que us ajuden a "
+"crear portafolis i galeries d'imatges de qualitat."
+
+msgid "Data Tables Generator"
+msgstr "Data Tables Generator"
+
+msgid ""
+"Create and manage beautiful data tables with custom design. No HTML knowledge is "
+"required."
+msgstr ""
+"Creeu i gestioneu elegants taules de dades amb disseny personalitzat. No cal "
+"coneixement de HTML."
+
+msgid "Social Share Buttons"
+msgstr "Botons d'accions socials"
+
+msgid ""
+"Social share buttons to increase social traffic and popularity. Social sharing "
+"to Facebook, Twitter and other social networks."
+msgstr ""
+"Botons socials per augmentar el trànsit social i la popularitat. Compartició "
+"social de Facebook, Twitter i altres xarxes socials."
+
+msgid "Live Chat Plugin"
+msgstr "Connector de Xat en línia"
+
+msgid ""
+"Be closer to your visitors and customers with Live Chat Support by Supsystic. "
+"Help you visitors, support them in real-time with exceptional Live Chat "
+"WordPress plugin by Supsystic."
+msgstr ""
+"Estigueu més a prop dels vostres visitants i clients amb el Xat de Suport en Viu "
+"de Supsystic. Ajudeu els vostres visitants, doneu-los suport en temps real amb "
+"l'excepcional connector Xat en Viu per WordPress de Supsystic."
+
+msgid "Pricing Table"
+msgstr "Taula de preus"
+
+msgid ""
+"It’s never been so easy to create and manage pricing and comparison tables with "
+"table builder. Any element of the table can be customise with mouse click."
+msgstr ""
+"Mai ha estat tan fàcil crear i gestionar taules de preus i de comparació amb el "
+"generador de taules. Qualsevol element de la taula es pot personalitzar amb un "
+"clic del ratolí."
+
+msgid "Coming Soon Plugin"
+msgstr "Connector de Properament"
+
+msgid ""
+"Coming soon page with drag-and-drop builder or under construction | maintenance "
+"mode to notify visitors and collects emails."
+msgstr ""
+"Pàgina de Properament amb constructor d'arrossegar i deixar anar o mode en "
+"construcció | manteniment per notificar als visitants i recollir adreces de "
+"correu electrònic."
+
+msgid "Backup Plugin"
+msgstr "Connector de Còpia de seguretat"
+
+msgid ""
+"Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched "
+"DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr ""
+"Connector de Wordpress de Còpia i Restauracació de Supsystic proporciona còpia "
+"de seguretat rápida i desatesa del vostre lloc de WordPress cap a Dropbox, FTP, "
+"Amazon S3, Google Drive."
+
+msgid "Google Maps Easy"
+msgstr "Mapes de Google fàcils"
+
+msgid ""
+"Display custom Google Maps. Set markers and locations with text, images, "
+"categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+"Presenteu mapes de Google personalitzats. Establiu marcadors i localitzacions "
+"amb text, imatges, categories i enllaços. Personalitzeu el mapa de Google d'una "
+"manera senzilla i intuïtiva."
+
+msgid "Digital Publication Plugin"
+msgstr "Connector de Publicació digital"
+
+msgid ""
+"Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, "
+"Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+"El connector de Publicació per a WordPress de Supsystic per a revistes, "
+"catàlegs, portafolis. Convertiu imatges, publicacions, PDF en llibres de "
+"múltiples pàgines."
+
+msgid "Contact Form Plugin"
+msgstr "Connector de Formulari de contacte"
+
+msgid ""
+"One of the best plugin for creating Contact Forms on your WordPress site. "
+"Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+"Un dels millors connectos per crear formularis de contacte al vostre lloc de "
+"WordPress. Fonts modificables, fons, una opció per afegir camps, etc."
+
+msgid "Newsletter Plugin"
+msgstr "Connector de Butlletí"
+
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will have "
+"no need to control it or send them manually. No coding, hard skills or long "
+"hours of customizing are required."
+msgstr ""
+"Connector de Butlletí de Supsystic per a l'enviament automàtic dels vostres "
+"butlletins per correu electrònic. No caldrà cap controlar o enviar res "
+"manualment. No requereix codificació, habilitats tècniques o llargues hores de "
+"personalització."
+
+msgid "Membership by Supsystic"
+msgstr "Comunitat de Supsystic"
+
+msgid ""
+"Create online membership community with custom user profiles, roles, FrontEnd "
+"registration and login. Members Directory, activity, groups, messages."
+msgstr ""
+"Creeu una comunitat de membres en línia amb perfils d'usuari personals, roles, "
+"interfície de registre i inici de sessió. Directori de membres, activitat, "
+"groups, missatges."
+
+msgid "Your message successfully send. We contact you soon."
+msgstr ""
+"El vostre missatge s'ha enviat amb èxit. Ens posarem en contacte amb vosaltres "
+"ben aviat."
+
+msgid "No detected"
+msgstr "Sense definir"
+
+msgid "Step-by-step Tutorial"
+msgstr "Tutorial pas a pas"
+
+msgid "Begin Step-by-step Tutorial"
+msgstr "Comença el Tutorial pas a pas"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Email"
+msgstr "Correu electrònic"
+
+msgid "Website"
+msgstr "Lloc web"
+
+msgid "Subject"
+msgstr "Assumpte"
+
+msgid "Topic"
+msgstr "Tema"
+
+msgid "Plugin options"
+msgstr "Opcions del connector"
+
+msgid "Report a bug"
+msgstr "Avisa d'un error"
+
+msgid "Require a new functionallity"
+msgstr "Sol·licita una nova funcionalitat"
+
+msgid "Other"
+msgstr "Altres"
+
+msgid "Message"
+msgstr "Missatge"
+
+msgid "Hello Supsystic Team!"
+msgstr "Hola Equip Supsystic!"
+
+msgid ""
+"Some errors occurred while sending mail please send your message trough this "
+"contact form:"
+msgstr ""
+"S'han produït alguns errors en enviar el correu, si us plau envieu el vostre "
+"missatge mitjançant aquest formulari de contacte:"
+
+msgid "Next"
+msgstr "Següent"
+
+msgid "Close Tutorial"
+msgstr "Tanca el tutorial"
+
+msgid "Welcome to Data Tables plugin by Supsystic!"
+msgstr "Benvingut al conenctor Data Tables de Supsystic!"
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Just click here to start using it "
+"- and we will show you it's possibilities and powerfull features."
+msgstr ""
+"Gràcies per triar el nostre plugin Data Tables. Simplement feu clic aquí per "
+"començar a usar-lo - i us mostrarem les seves possibilitats i grans "
+"característiques."
+
+msgid "Hello! This is the Data Tables by Supsystic"
+msgstr "Hola! Aquest és el Data Tables de Supsystic"
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Let’s make a quick tour through "
+"features and main options of the plugin. Just click “Next” button."
+msgstr ""
+"Gràcies per triar el nostre plugin Data Tables. Fem una ullada rápida per les "
+"característiques i principals opcions del connector. Feu clic al botó “Següent”."
+
+msgid "Create your first table"
+msgstr "Creeu la vostra primera taula"
+
+msgid ""
+"Click on the button “Add new table” and see the first form, which you need to "
+"fill in. A very simple step!"
+msgstr ""
+"Feu clic al botó \"Afegeix nova taula\" i vegeu el primer formulari, que heu "
+"d'omplir. Un pas molt senzill!"
+
+msgid "Enter the name and create Data Table"
+msgstr "Introduïu el nom i creeu la Taula de dades"
+
+msgid ""
+"Fill the table title and choose the number of columns and rows. Don’t worry, you "
+"will be able to change it (add or delete some) later!"
+msgstr ""
+"Ompliu el nom de la taula i trieu el número de columnes i files. No patiu, "
+"podreu canviar-ho (afegir-ne o treure'n) més tard!"
+
+msgid ""
+"Main Settings of your first table. Here you can see main settings which are "
+"conected with languages, table elements, styling and other different editors "
+"settings. Generally it’s a tab where you can edit the visual part of the whole "
+"table, switch on/off the responsive mode, set pagination etc."
+msgstr ""
+"Configuracions de la vostra primera taula. Aquí podeu veure la configuració "
+"principal, que està connectada amb els idiomes, elements de taula, estils i "
+"altres configuracions diferents de l'editor. En general es tracta d'una pestanya "
+"on podeu editar la part visual de tota la taula, activar/desactivar el mode "
+"responsive, establir la paginació, etc."
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid ""
+"The most important part of settings - Editor. Here you can fill all the cells of "
+"your table, add some colors, play with fonts and sizes. This insert also allows "
+"you to change the alignment of your font, add formats (percents, currency), "
+"images and links to make your table more visual attraction."
+msgstr ""
+"La part més important de la configuració - Editor. Aquí podeu omplir totes les "
+"cel·les de la taula, afegir alguns colors, jugar amb fonts i mides. També us "
+"permet canviar l'alineació de la vostra font, afegir formats (percentatges, "
+"monedes), imatges i enllaços per fer la vostra més atractiva visualment."
+
+msgid "Preview"
+msgstr "Vista prèvia"
+
+msgid ""
+"Preview insert for your comfort. Before updating the table on your page - you "
+"can see the result of your efforts and changes, look at it and enjoy the final "
+"outcome."
+msgstr ""
+"Vista prèvia per a la vostra comoditat. Abans d'actualitzar la taula de la "
+"pàgina - podeu veure el resultat dels vostres esforços i canvis, comprovar-ho i "
+"gaudir del resultat final."
+
+msgid "CSS Editor"
+msgstr "Editor CSS"
+
+msgid ""
+"In case you have special or at least, basic knowledge of CSS code - you can "
+"easily change the table here. Just make sure that you know, what you are doing "
+"and you will not destroy the table."
+msgstr ""
+"En cas que tingueu coneixement especial o almenys, bàsic de codi CSS - aquí "
+"podeu canviar fàcilment la taula. Només assegureu-vos que sabeu què esteu fent i "
+"no destruireu la taula."
+
+msgid ""
+"Diagrams - this is a Pro feature of our plugin, which can help you to follow the "
+"statistics of your table. Several types for every taste and any wishes."
+msgstr ""
+"Diagrames - aquesta és una característica Pro del nostre connector, que us pot "
+"ajudar a seguir les estadístiques de la vostra taula. Diversos tipus per a tots "
+"els gustos i desitjos."
+
+msgid "Import/Export"
+msgstr "Importació/Exportació"
+
+msgid ""
+"With these two buttons in our Pro version you can Import any table of csv format "
+"and Export the whole table, which you have done."
+msgstr ""
+"Amb aquests dos botons en la nostra versió Pro podeu Importar qualsevol taula de "
+"format CSV i Exportar tota la taula que heu creat."
+
+msgid "Well done!"
+msgstr "Ben fet!"
+
+msgid ""
+"<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - you’ll "
+"have to enter license key (you can find it in your personal account on our "
+"site). Go to the License tab and enter your email and license key. Once you have "
+"activated your PRO license - you can use all its advanced options. "
+"<br><br>That’s all. From this moment you can use your Data Table without any "
+"doubt. But if you still have some question - do not hesitate to contact us "
+"through our <a href=\"https://supsystic.com/contact-us/\">internal support</a> "
+"or on our <a href=\"http://supsystic.com/forum/datatable-plugin/\">Supsystic "
+"Forum.</a> Besides you can always describe your questions on <a href=\"https://"
+"wordpress.org/support/plugin/data-tables-generator-by-supsystic\">WordPress "
+"Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It will be nice if "
+"you`ll help us and boost plugin with <a href=\"https://wordpress.org/support/"
+"view/plugin-reviews/data-tables-generator-by-supsystic?rate=5#postform/\">Five "
+"Stars rating on WordPress.org.</a> <br><br>We hope that you like our Data Table "
+"plugin and wish you all the best! Good luck!"
+msgstr ""
+"<b>Actualització</b> <br>Quan hagueu comprat la versió Premium del connector - "
+"haureu d'introduir la clau de llicència (la podeu trobar al vostre compte "
+"personal al nostre lloc web). Aneu a la pestanya de llicència i introduïu el "
+"vostre correu electrònic i la clau de llicència. Una cop hagueu activat la "
+"llicència PRO - podeu utilitzar totes les seves opcions avançades. <br><br>Això "
+"és tot. A partir d'aquest moment podeu utilitzar el vostre Data Table sense cap "
+"tipus de dubte. Però si encara teniu alguna pregunta - no dubteu en posar-vos en "
+"contacte amb nosaltres a través del nostre <a href=\"https://supsystic.com/"
+"contact-us/\">suport intern</a> o al nostre <a href=\"http : //supsystic.com/"
+"forum/datatable-plugin/\">Fòrum Supsystic</a>. A més, sempre podeu dirigir les "
+"vostres preguntes al <a href=\"https://wordpress.org/support/plugin/data-tables -"
+"generador per supsystic\">Fórum de WordPress.</a> <br><br><b>Gaudiu d'aquest "
+"connector?</b> <br>Ens agradaría que ens ajudeu a impulsar el connector amb una "
+"<a href=\"https://wordpress.org/support/view/plugin-reviews/data-tables-"
+"generator-by-supsystic?rate=5#postform/\">Qualificació de Cinc Estrelles a "
+"WordPress.org.</a> <br><br>Esperem que us agradi el nostre connector Data Tables "
+"i us desitjem tot el millor! Bona sort!"
+
+msgid "Welcome to our plugin"
+msgstr "Benvingut al nostre connector"
+
+msgid "by Supsystic!"
+msgstr "de  Supsystic!"
+
+msgid ""
+"We are trying to make your using of our plugin maximum comfortable and easy. So "
+"we find it like the best way to tell you about some options and features of this "
+"plugin."
+msgstr ""
+"Estem tractant de fer que l'ús del nostre connector sigui el més còmode i fácil "
+"possible. Creiem que és la millor manera d'informar-vos d'algunes opcions i "
+"característiques d'aquest connector."
+
+msgid "A small guide for the first-time user"
+msgstr "Una breu guía per a l'usuari novell"
+
+msgid ""
+"Actually, Data Table plugin is very simple and has a lot of different options at "
+"the same time. That’s why when you close this article I will show you the main "
+"of them, but the very detailed one you can find on our site. I hope that you "
+"will have no questions after even this small guide. For the first time we will "
+"help you to install and create your first table, but if you need help - contact "
+"us through the internal support"
+msgstr ""
+"En realitat, el connector Data Tables és molt senzill i té un munt d'opcions "
+"diferents al mateix temps. És per això que quan tanqueu aquest article us "
+"mostrarem les principals, però podeu trobar-ne més detalls al nostre lloc web. "
+"Esperem que després d'aquesta petita guía no tindreu cap dubte. Si sou usuaris "
+"novells, us ajudarem a instal·lar i crear la vostra primera taula, però si "
+"necessiteu ajuda - poseu-vos en contacte amb nosaltres a través del suport intern"
+
+msgid "Support"
+msgstr "Suport"
+
+msgid ""
+"We really like what we do and feel responsibility for our “child”. Constantly we "
+"are trying to change something or update the new features, but sometimes you may "
+"have a situation when you need help or have a problem. We can offer you two "
+"kinds of help: "
+msgstr ""
+"Ens agrada el que fem i ens sentim responsables dels nostres \"nens\". "
+"Constantment estem tractant de canviar alguna cosa o actualitzar les noves "
+"característiques, però de vegades us podeu trobar en una situación que necessiti "
+"ajuda o tenir un problema. Us podem oferir dos tipus d'ajuda: "
+
+msgid ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> Contact "
+"us </a> through the Forum on our site - if you have some question, offer or wish."
+msgstr ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> Contacteu-"
+"nos </a> mitjançant el Fòrum del nostre lloc web - si teniu cap pregunta, "
+"oferiment o desig."
+
+msgid ""
+"If, unfortunately, you have some problem - we are ready to help you in our <a "
+"href=\"//supsystic.com/contact-us/\" target=\"_blank\">internal support.</a>"
+msgstr ""
+"Si, malauradament, teniu algún problema - estem preparats per ajudar-vos en el "
+"nostre <a href=\"//supsystic.com/contact-us/\" target=\"_blank\">suport intern.</"
+"a>"
+
+msgid "Feel free to contact us and don’t worry, everything gonna be ok!"
+msgstr ""
+"No dubteu a posar-vos en contacte amb nosaltres i no es preocupeu, tot anirà bè!"
+
+msgid "Video Tutorial"
+msgstr "Tutorial en vídeo"
+
+msgid "Frequently Asked Questions"
+msgstr "Preguntes Més Freqüents"
+
+msgid "Make data table responsive"
+msgstr "Fes que la taula de dades sigui responsive"
+
+msgid "I need to have line breaks/spaces between the paragraphs within the cells."
+msgstr ""
+"És necessari posar salts de línea/espais entre els paràgrafs dins les cel·les."
+
+msgid "How to use formulas in the table?"
+msgstr "Com utilizar fórmules en les taules?"
+
+msgid "Go to Editor of Data Table."
+msgstr "Ves a l'editor de Data Table."
+
+msgid ""
+"Select a cell and start typing. In a cell, type an equal sign “=” to start the "
+"formula."
+msgstr ""
+"Seleccioneu una cel·la i comenceu a escriure. En una cel·la, escrigueu un signe "
+"igual \"=\" per començar la fórmula."
+
+msgid "Fill in the rest of the formula."
+msgstr "Completeu la resta de la fórmula."
+
+msgid "Save the changes of table."
+msgstr "Desa els canvis de la taula."
+
+msgid "Check the result of formula in the table on your site."
+msgstr "Comproveu el resultat de la fórmula a la taula del vostre lloc web."
+
+msgid ""
+"Learn more about how to do this <a href=\"//supsystic.com/how-to-use-tables/\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"Apreneu-ne més sóbre com fer això <a href=\"//supsystic.com/how-to-use-tables/\" "
+"target=\"_blank\">aquí/a>."
+
+msgid "Check all other FAQs"
+msgstr "Reviseu totes les altres PMFs"
+
+msgid "Roles"
+msgstr "Rols"
+
+msgid "Role for users who can use plugin. Administrator is included by default"
+msgstr ""
+"Rol per als usuaris que poden utilitzar el connector. L'Administrador hi és "
+"inclòs per defecte"
+
+msgid "PRO option"
+msgstr "Opció PRO"
+
+msgid "Select avalilable roles to use tables"
+msgstr "Seleccioneu els rols que podran utilitzar taules"
+
+msgid "Can't decode table rows from JSON."
+msgstr "No es poden descodificar les files de la taula des del JSON."
+
+msgid "Can't decode table meta from JSON."
+msgstr "No es poden descodificar les metadades de la taula des del JSON."
+
+msgid "Failed to save table meta data: %s"
+msgstr "No s'han pogut desar les metadades: %s"
+
+msgid "The table with ID %d not exists."
+msgstr "La taula amb ID %d no existeix."
+
+msgid "No value"
+msgstr "Sense valor"
+
+msgid ""
+"Mandatory attribute \"id\" is not specified. ' . 'Shortcode usage example: [%s "
+"id=\"{table_id}\"]"
+msgstr ""
+"No s'ha especificat l'atribut obligatori \"id\". ' . 'Exemple d'ús de dreceres: "
+"[%s id=\"{table_id}\"]"
+
+msgid "There are not all shortcode's attributes specified. Usage example"
+msgstr "No s'han especificat tots els atributs de la drecera. Exemple d'ús"
+
+msgid "Add table"
+msgstr "Afegeix una taula"
+
+msgid "Title"
+msgstr "Títol"
+
+msgid "Created"
+msgstr "Creada"
+
+msgid "Shortcode"
+msgstr "Codi curt"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "Actions"
+msgstr "Accions"
+
+msgid "Edit table \"%s\""
+msgstr "Edita la taula \"%s\""
+
+msgid "Table History"
+msgstr "Historial de la taula"
+
+msgid "Clone"
+msgstr "Clona"
+
+msgid "Export available only in PRO version."
+msgstr "L'exportació només està disponible en la versió PRO."
+
+msgid "Export"
+msgstr "Exporta"
+
+msgid "Import available only in PRO version."
+msgstr "La importació només està disponible en la versió PRO."
+
+msgid "Import"
+msgstr "Importa"
+
+msgid "Clear"
+msgstr "Neteja"
+
+msgid "Delete"
+msgstr "Suprimeix"
+
+msgid "Click to rename the table and hit [Enter]"
+msgstr "Feu clic per canviar el nom i premeu [Retorn]"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "Main"
+msgstr "Principal"
+
+msgid "Design"
+msgstr "Disseny"
+
+msgid "Features"
+msgstr "Característiques"
+
+msgid "Language and Text"
+msgstr "Idioma i text"
+
+msgid "Table Elements"
+msgstr "Elements de la taula"
+
+msgid "Caption"
+msgstr "Títol"
+
+msgid "Description"
+msgstr "Descripció"
+
+msgid "Description Text"
+msgstr "Text de la descripció"
+
+msgid "Header"
+msgstr "Capçalera"
+
+msgid "Count of Header Rows"
+msgstr "Recompte de files de capçalera"
+
+msgid "Count of table rows, which will be moved to header."
+msgstr "Recompte de files de taula, que es mouran a la capçalera."
+
+msgid "Footer"
+msgstr "Peu"
+
+msgid "Fixed Header"
+msgstr "Capçalera fixa"
+
+msgid ""
+"Allows to fix the table's header during table scrolling. Important! Header "
+"option must be enabled for using this feature. Also you need to set Fixed Table "
+"Height to create a vertical scroll at the table. To see the work of this feature "
+"you should not use such Responsive Modes as Standard and Automatic columns "
+"hiding."
+msgstr ""
+"Permet fixar la capçalera de la taula durant el desplaçament. Important! La "
+"opció de Capçalera ha d'estar habilitada per fer servir aquesta funció. També "
+"cal establir Alçada de la taula fixa per crear un desplaçament vertical en la "
+"taula. Per a que funcioni no heu d'utilitzar els modes Responsive com ara "
+"Estàndard i Amagat de columnes automátic."
+
+msgid "Fixed Footer"
+msgstr "Peu fix"
+
+msgid ""
+"Allows to fix the table's footer during table scrolling. Important! Footer "
+"option must be enabled for using this feature. Also you need to set Fixed Table "
+"Height to create a vertical scroll at the table. To see the work of this feature "
+"you should not use such Responsive Modes as Standard and Automatic columns "
+"hiding."
+msgstr ""
+"Permet fixar el peu de la taula durant el desplaçament. Important! La opció de "
+"Peu ha d'estar habilitada per fer servir aquesta funció. També cal establir "
+"Alçada de la taula fixa per crear un desplaçament vertical en la taula. Per a "
+"que funcioni no heu d'utilitzar els modes Responsive com ara Estàndard i Amagat "
+"de columnes automátic."
+
+msgid "Fixed Table Height"
+msgstr "Alçada de taula fixa"
+
+msgid ""
+"Fixed table height in px. This value must be less than the original table height "
+"to create a vertical scroll, otherwise you will not see that the fixed header / "
+"footer exists."
+msgstr ""
+"Alçada fixa en px. Aquest valor ha de ser inferior a l'alçada original de la "
+"taula per a crear un desplaçament vertical, en cas contrari no veureu que hi ha "
+"la capçalera / el peu fix."
+
+msgid "Fixed Columns"
+msgstr "Columnes fixes"
+
+msgid ""
+"Allows to fix columns during table scrolling. Important! The fixing of columns "
+"suggests that the table will have a horisontal scroll type of responsive mode, "
+"otherwise you will not see that the fixed columns exist. So this feature is a "
+"kind of responsive mode on its own and will not work with such Responsive Modes "
+"as Standard and Automatic columns hiding."
+msgstr ""
+"Permet fixar les columnes durant el desplaçament de la taula. Important! La "
+"fixació de les columnes suggereix que la taula tindrà un tipus de desplaçament "
+"horitzontal de tipus responsive, en cas contrari no veureu que hi ha les "
+"columnes fixes. Per tant, aquesta característica és una espècie de mode "
+"responsive per si mateix i no funcionarà amb els modes Responsive com ara "
+"Estàndard i Amagat de columnes automátic."
+
+msgid "Left Columns Count"
+msgstr "Recompte de columnes a l'esquerra"
+
+msgid "Number of column to fix by left side of table."
+msgstr "Nombre de columna per a fixar al costat esquerre de la taula."
+
+msgid "Right Columns Count"
+msgstr "Recompte de columnes a la dreta"
+
+msgid "Number of column to fix by right side of table."
+msgstr "Nombre de columna per a fixar al costat dret de la taula."
+
+msgid "Auto Index"
+msgstr "Índex automàtic"
+
+msgid "Data Formats"
+msgstr "Formats de les dades"
+
+msgid "Number Formatting"
+msgstr "Format numèric"
+
+msgid "Set format of all numbers in the table"
+msgstr "Ajusta el format de tots els números de la taula"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Set output format for numbers e.g. 1,000.00, 1.00"
+msgstr "Establir format de sortida per als números, per exemple, 1.000,00, 1,00"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Set output format for currencies e.g ($ 1,000.00, € 1.00)"
+msgstr ""
+"Establir format de sortida per a les monedes, per exemple, ($ 1.000,00, € 1,00)"
+
+msgid "Percent"
+msgstr "Percentatge"
+
+msgid "Set output format for percent numbers e.g (0.00%, 1%)"
+msgstr "Establir format de sortida per als percentatges, per exemple, (0,00%, 1%)"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Set output format for date e.g (YYYY-MM-DD, MM.DD.YYYY)"
+msgstr ""
+"Establir format de sortida per a les dates, per exemple, (YYYY-MM-DD, MM.DD.YYYY)"
+
+msgid "Auto Width"
+msgstr "Amplada automàtica"
+
+msgid ""
+"Calculate the columns width on frontend automatically or depending on the "
+"columns width on the Editor Tab."
+msgstr ""
+"Càlcula l'amplada de les columnes a la interfície de forma automàtica o depenent "
+"de l'amplada de les columnes a la pestanya de l'Editor."
+
+msgid "Compact Table"
+msgstr "Compactar taula"
+
+msgid "Reduce the amount of white-space."
+msgstr "Reduïr la quantitat d'espai en blanc."
+
+msgid "Disable Wrapping"
+msgstr "Desactiva l'ajust del text"
+
+msgid ""
+"Disable wrapping of content in the table, so all text in the cells is on a "
+"single line."
+msgstr ""
+"Desactiva l'ajust del contingut de la taula, de manera que tot el text de les "
+"cel·les sigui en una sola línia."
+
+msgid "Paragraph Mode"
+msgstr "Mode de paràgraf"
+
+msgid ""
+"This mode allows you to separate the content into paragraphs. To move to a new "
+"line in the cell - please press CTRL + Enter."
+msgstr ""
+"Aquest mode us permet separar el contingut en paràgrafs. Per passar a una nova "
+"línia dinsa la cel·la, premeu CTRL + Retorn."
+
+msgid "Responsive Mode"
+msgstr "Mode Responsive"
+
+msgid ""
+"Standard Responsive mode - in this mode if table content doesn’t fit all columns "
+"become under each other with one cell per row"
+msgstr ""
+"Mode Responsive estàndard - en aquest mode si el contingut de la taula no "
+"s'ajusta, totes les columnes es situen una sota l'altre amb una cel·la per fila"
+
+msgid ""
+"Automatic column hiding - in this mode table columns will collapse from right to "
+"left if content does not fit to parent container width"
+msgstr ""
+"Amagat automàtic de columnes - en aquest mode les columnes de la taula es "
+"reduiran de dreta a Esquerra si el contingut no s'ajusta a l'amplada del "
+"contenidor pare"
+
+msgid ""
+"Horizontal scroll - in this mode scroll bar will be added if table overflows "
+"parent container width"
+msgstr ""
+"Desplaçament horitzontal - en aquest mode s'afegirà una barra de desplaçament si "
+"la taula desborda l'amplada del contenidor pare"
+
+msgid "Disable Responsivity - default table fluid layout"
+msgstr "Desactiva la responsivitat - disposició fluïda de la taula per defecte"
+
+msgid "Standard Responsive mode"
+msgstr "Mode Responsive estàndard"
+
+msgid "Automatic column hiding"
+msgstr "Amagat automàtic de columnes"
+
+msgid "Horizontal scroll"
+msgstr "Desplaçament horitzontal"
+
+msgid "Disable Responsivity"
+msgstr "Desactiva la responsivitat"
+
+msgid "Table Information"
+msgstr "Informació de la taula"
+
+msgid "Table information display field. %s"
+msgstr "Camp de visualització de la información de la taula. % s"
+
+msgid "Borders"
+msgstr "Vores"
+
+msgid ""
+"Cell - adds border around all four sides of each cell, Row – adds border only "
+"over and under each row. (i.e. only for the rows)."
+msgstr ""
+"Cel·la - afegeix vores als quatre costats de cada cel·la, Fila – afegeix vores "
+"només a sobre i a sota de cada fila. (és a dir, només per a les files)."
+
+msgid "Cell"
+msgstr "Cel·la"
+
+msgid "Row"
+msgstr "Fila"
+
+msgid "None"
+msgstr "Cap"
+
+msgid "Row Striping"
+msgstr "Ratlles de les files"
+
+msgid "Add automatic highlight of table rows for odd and even rows."
+msgstr "Afegeix realçat automàtic de files parells i senars de la taula."
+
+msgid "Highlighting by Mouseover"
+msgstr "Realça en passar el ratolí"
+
+msgid "Row highlighting on mouse over."
+msgstr "Realça la fila en passar el ratolí."
+
+msgid "Highlight the Order Column"
+msgstr "Realça l'ordre de la columna"
+
+msgid "Highlight the column that the table data is currently ordered on."
+msgstr "Realça la columna per la qual està ordenada la taula."
+
+msgid "Sorting"
+msgstr "Ordenació"
+
+msgid "Sorting Order"
+msgstr "Forma d'ordenació"
+
+msgid "Ascending"
+msgstr "Ascendent"
+
+msgid "Descending"
+msgstr "Descendent"
+
+msgid "Sorting Column"
+msgstr "Columna d'ordenació"
+
+msgid "Number of column to apply sort order."
+msgstr "Número de columna per aplicar l'ordenació."
+
+msgid "Pagination"
+msgstr "Paginació"
+
+msgid "Pagination menu length"
+msgstr "Longitud del menú de paginació"
+
+msgid "Pagination Size"
+msgstr "Mida de la paginació"
+
+msgid "Large"
+msgstr "Gran"
+
+msgid "Medium"
+msgstr "Mitjana"
+
+msgid "Small"
+msgstr "Petita"
+
+msgid "Searching"
+msgstr "Cercant"
+
+msgid "Show only search result"
+msgstr "Mostra només el resultat de la cerca"
+
+msgid "Table is empty by default and shows data only if search has a result."
+msgstr ""
+"La taula és buida per defecte i mostra dades només si la cerca té un resultat."
+
+msgid "Search by hidden fields"
+msgstr "Cerca en els camps ocults"
+
+msgid "Strict matching"
+msgstr "Coincidència estricta"
+
+msgid "Display only entries with matching characters in the beginning of words"
+msgstr ""
+"Mostra només entrades amb caràcters coincidents al començament de les paraules"
+
+msgid "Minimum characters"
+msgstr "Número de caràcters mínims"
+
+msgid "Minimum search field characters to start search"
+msgstr "Número mínim de caràcters per a començar la cerca del camp"
+
+msgid "Show empty table"
+msgstr "Mostra la taula buida"
+
+msgid "Show empty table, until you have entered the data to search field."
+msgstr "Mostra la taula buida, fins que entreu el criteri al camp de cerca."
+
+msgid "Disallow Indexing"
+msgstr "No permetre indexació"
+
+msgid "Disable indexing table for search bots"
+msgstr "Desactiva la indexació de la taula per als robots de cerca"
+
+msgid "Execute JS Script After Table Is Loaded"
+msgstr "Executa script JS després de carregar la taula"
+
+msgid "Allows to execute js script after table is loaded."
+msgstr "Permet l'execució d'scripts JS després que la taula s'hagi carregat."
+
+msgid "Paste script code here"
+msgstr "Enganxeu aquí el codi de l'script"
+
+msgid "Overwrite Table Text"
+msgstr "Sobreescriure el text de la taula"
+
+msgid "No data available in table"
+msgstr "No hi ha dades disponibles a la taula"
+
+msgid "Empty table"
+msgstr "Buida la taula"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Mostra _START_ a _END_ de _TOTAL_ entrades"
+
+msgid "Table info text"
+msgstr "Text d'info de la taula"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Mostrant les entrades 0 a 0 de 0"
+
+msgid "Empty info text"
+msgstr "Buida el text informatiu"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtrat de _MAX_ entrades totals)"
+
+msgid "Filtered info text"
+msgstr "Text informatiu filtrat"
+
+msgid "Show _MENU_ entries"
+msgstr "Mostra _MENU_ entrades"
+
+msgid "Length text"
+msgstr "Longitud del text"
+
+msgid "Search:"
+msgstr "Cerca:"
+
+msgid "Search label"
+msgstr "Etiqueta de cerca"
+
+msgid "No matching records are found"
+msgstr "No s'han trobat registres coincidents"
+
+msgid "Zero records"
+msgstr "Zero registres"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Select language"
+msgstr "Seleccioneu l'idioma"
+
+msgid "Loading your table, please wait..."
+msgstr "S'està carregant la taula, espereu..."
+
+msgid "Bold"
+msgstr "Negreta"
+
+msgid "Italic"
+msgstr "Cursiva"
+
+msgid "Underline"
+msgstr "Subratllat"
+
+msgid "Text color"
+msgstr "Color del text"
+
+msgid "Background color"
+msgstr "Color de fons"
+
+msgid "Alignment"
+msgstr "Alineació"
+
+msgid "Vertical alignment"
+msgstr "Alineació vertical"
+
+msgid "Word wrapping"
+msgstr "Ajust de paraula"
+
+msgid "Create a link"
+msgstr "Crea un enllaç"
+
+msgid "Insert picture"
+msgstr "Insereix una imatge"
+
+msgid "Comment"
+msgstr "Comentari"
+
+msgid "Formats"
+msgstr "Formats"
+
+msgid ""
+"Make the cell hidden. <br /><br />To display the table correctly, please, add "
+"hidden property for the whole row or the whole column of table."
+msgstr ""
+"Oculta la columna. <br /><br />Per a mostrar la taula correctament, afegiu una "
+"propietat oculta per a tota la fila o tota la columna de la taula."
+
+msgid "Get PRO version"
+msgstr "Obtén la versió PRO"
+
+msgid "Name of Cloned Table"
+msgstr "Nom de la còpia de la taula"
+
+msgid "Editable fields"
+msgstr "Camps editables"
+
+msgid "PRO version"
+msgstr "Versió PRO"
+
+msgid ""
+"Please be advised that this option is available only in %s. You can %s today and "
+"get this and other PRO option for your tables!"
+msgstr ""
+"Recordeu que aquesta opció només està disponible en %s. Podeu %s avui i obtenir "
+"aquesta i altres opcions PRO per a les vostres taules!"
+
+msgid "Insert url"
+msgstr "Insereix url"
+
+msgid "Link Text"
+msgstr "Text de l'enllaç"
+
+msgid "Open link in a new tab"
+msgstr "Obre l'enllaç en una pestanya nova"
+
+#~ msgid ""
+#~ "You have no diagrams for now. Go to %s -> select the required data in the "
+#~ "table and click on âAdd diagramâ button. Also please check the tutorial %s"
+#~ msgstr ""
+#~ "Per ara no teniu cap diagrama. Aneu a %s -> seleccioneu les dades necessàries "
+#~ "per la taula i feu clic al botó \"Afegeix diagrama\". També podeu comprovar "
+#~ "el tutorial %s"
+
+#~ msgid "Select file type to export table"
+#~ msgstr "Selecciona el tipus de fitxer per exportar la taula"
+
+#~ msgid ""
+#~ "Itâs never been so easy to create and manage pricing and comparison tables "
+#~ "with table builder. Any element of the table can be customise with mouse "
+#~ "click."
+#~ msgstr ""
+#~ "Mai ha estat tan fàcil crear i gestionar taules de preus i de comparació amb "
+#~ "el generador de taules. Qualsevol element de la taula es pot personalitzar "
+#~ "amb un clic del ratolí."
+
+#~ msgid "Undefined"
+#~ msgstr "Sense definir"
+
+#~ msgid ""
+#~ "Thank you for choosing our Data Tables plugin. Letâs make a quick tour "
+#~ "through features and main options of the plugin. Just click âNextâ button."
+#~ msgstr ""
+#~ "Gràcies per triar el nostre plugin Data Tables. Fem una ullada rápida per les "
+#~ "característiques i principals opcions del connector. Feu clic al botó "
+#~ "\"Següent\"."
+
+#~ msgid ""
+#~ "Click on the button âAdd new tableâ and see the first form, which you need to "
+#~ "fill in. A very simple step!"
+#~ msgstr ""
+#~ "Feu click al botó \"Afegeix nova taula\" i vegeu el primer formulari, que heu "
+#~ "d'omplir. Un pas molt senzill!"
+
+#~ msgid ""
+#~ "Fill the table title and choose the number of columns and rows. Donât worry, "
+#~ "you will be able to change it (add or delete some) later!"
+#~ msgstr ""
+#~ "Ompliu el nom de la taula i trieu el número de columnes i files. No patiu, "
+#~ "podreu canviar-ho (afegir-ne o treure'n) més tard!"
+
+#~ msgid ""
+#~ "Main Settings of your first table. Here you can see main settings which are "
+#~ "conected with languages, table elements, styling and other different editors "
+#~ "settings. Generally itâs a tab where you can edit the visual part of the "
+#~ "whole table, switch on/off the responsive mode, set pagination etc."
+#~ msgstr ""
+#~ "Configuracions de la vostra primera taula. Aquí podeu veure la configuració "
+#~ "principal, que està connectada amb els idiomes, elements de taula, estils i "
+#~ "altres configuracions diferents de l'editor. En general es tracta d'una "
+#~ "pestanya on podeu editar la part visual de tota la taula, activar/desactivar "
+#~ "el mode responsive, establir la paginació, etc."
+
+#~ msgid ""
+#~ "<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - "
+#~ "youâll have to enter license key (you can find it in your personal account on "
+#~ "our site). Go to the License tab and enter your email and license key. Once "
+#~ "you have activated your PRO license - you can use all its advanced options. "
+#~ "<br><br>Thatâs all. From this moment you can use your Data Table without any "
+#~ "doubt. But if you still have some question - do not hesitate to contact us "
+#~ "through our <a href=\"https://supsystic.com/contact-us/\">internal support</"
+#~ "a> or on our <a href=\"http://supsystic.com/forum/datatable-plugin/"
+#~ "\">Supsystic Forum.</a> Besides you can always describe your questions on <a "
+#~ "href=\"https://wordpress.org/support/plugin/data-tables-generator-by-supsystic"
+#~ "\">WordPress Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It "
+#~ "will be nice if you`ll help us and boost plugin with <a href=\"https://"
+#~ "wordpress.org/support/view/plugin-reviews/data-tables-generator-by-supsystic?"
+#~ "rate=5#postform/\">Five Stars rating on WordPress.org.</a> <br><br>We hope "
+#~ "that you like our Data Table plugin and wish you all the best! Good luck!"
+#~ msgstr ""
+#~ "<b>Actualització</b> <br>Quan hagueu comprat la versió Premium del connector "
+#~ "- haureu d'introduir la clau de llicència (la podeu trobar al vostre compte "
+#~ "personal al nostre lloc web). Aneu a la pestanya de llicència i introduïu el "
+#~ "vostre correu electrònic i la clau de llicència. Una cop hagueu activat la "
+#~ "llicència PRO - podeu utilitzar totes les seves opcions avançades. "
+#~ "<br><br>Això és tot. A partir d'aquest moment podeu utilitzar el vostre Data "
+#~ "Table sense cap tipus de dubte. Però si encara teniu alguna pregunta - no "
+#~ "dubteu en posar-vos en contacte amb nosaltres a través del nostre <a href="
+#~ "\"https://supsystic.com/contact-us/\">suport intern</a> o al nostre <a href="
+#~ "\"http : //supsystic.com/forum/datatable-plugin/\">Fòrum Supsystic</a>. A "
+#~ "més, sempre podeu dirigir les vostres preguntes al <a href=\"https://"
+#~ "wordpress.org/support/plugin/data-tables -generador per supsystic\">Fórum de "
+#~ "WordPress.</a> <br><br><b>Gaudiu d'aquest connector?</b> <br>Ens agradaría "
+#~ "que ens ajudeu a impulsar el connector amb una <a href=\"https://wordpress."
+#~ "org/support/view/plugin-reviews/data-tables-generator-by-supsystic?"
+#~ "rate=5#postform/\">Qualificació de Cinc Estrelles a WordPress.org.</a> "
+#~ "<br><br>Esperem que us agradi el nostre connector Data Tables i us desitjem "
+#~ "tot el millor! Bona sort!"
+
+#~ msgid ""
+#~ "Actually, Data Table plugin is very simple and has a lot of different options "
+#~ "at the same time. Thatâs why when you close this article I will show you the "
+#~ "main of them, but the very detailed one you can find on our site. I hope that "
+#~ "you will have no questions after even this small guide. For the first time we "
+#~ "will help you to install and create your first table, but if you need help - "
+#~ "contact us through the internal support"
+#~ msgstr ""
+#~ "En realitat, el connector Data Tables és molt simple i té un munt d'opcions "
+#~ "diferents al mateix temps. És per això que quan tanqueu aquest article us "
+#~ "mostrarém les principals, però podeu trobar-ne més detalls al nostre lloc "
+#~ "web. Espero que després d'aquesta petita guía no tindreu cap dubte. Si sou "
+#~ "usuaris novells, us ajudarem a instal·lar i crear la vostra primera taula, "
+#~ "però si necessiteu ajuda - poseu-vos en contacte amb nosaltres a través del "
+#~ "suport intern"
+
+#~ msgid ""
+#~ "We really like what we do and feel responsibility for our âchildâ. Constantly "
+#~ "we are trying to change something or update the new features, but sometimes "
+#~ "you may have a situation when you need help or have a problem. We can offer "
+#~ "you two kinds of help: "
+#~ msgstr ""
+#~ "Ens agrada el que fem i ens sentim responsables dels nostres \"nens\". "
+#~ "Constantment estem tractant de canviar alguna cosa o actualitzar les noves "
+#~ "característiques, però de vegades us podeu trobar en una situación que "
+#~ "necessiti ajuda o tenir un problema. Us podem oferir dos tipus d'ajuda: "
+
+#~ msgid "Feel free to contact us and donât worry, everything gonna be ok!"
+#~ msgstr ""
+#~ "No dubteu a posar-vos en contacte amb nosaltres i no es preocupeu, tot anirà "
+#~ "bè!"
+
+#~ msgid ""
+#~ "Select a cell and start typing. In a cell, type an equal sign â=â to start "
+#~ "the formula."
+#~ msgstr ""
+#~ "Seleccioneu una cel·la i comenceu a escriure. En una cel·la, escrigueu un "
+#~ "signe igual \"=\" per començar la fórmula."
+
+#~ msgid "Can not find table with id %s"
+#~ msgstr "No s'ha pogut trobar cap taula amb id %s"
+
+#~ msgid "Clone Table"
+#~ msgstr "Duplica la taula"
+
+#~ msgid "Set output format for currencies e.g ($ 1,000.00, â¬ 1.00)"
+#~ msgstr ""
+#~ "Establir format de sortida per a les monedes, per exemple, ($ 1.000,00, € "
+#~ "1,00)"
+
+#~ msgid "Styling"
+#~ msgstr "Estil"
+
+#~ msgid ""
+#~ "Cell - adds border around all four sides of each cell, Row â adds border only "
+#~ "over and under each row. (i.e. only for the rows)."
+#~ msgstr ""
+#~ "Cel·la - afegeix vores als quatre costats de cada cel·la, Fila – afegeix "
+#~ "vores només a sobre i a sota de cada fila. (és a dir, només per a les files)."
+
+#~ msgid "Highlighting"
+#~ msgstr "Realçament"
+
+#~ msgid ""
+#~ "Standard Responsive mode - in this mode if table content doesnât fit all "
+#~ "columns become under each other with one cell per row"
+#~ msgstr ""
+#~ "Mode Responsive estàndard - en aquest mode si el contingut de la taula no "
+#~ "s'ajusta a totes les columnes es situen una sota l'altre amb una cel·la per "
+#~ "fila"
+
+#~ msgid "Clear Data"
+#~ msgstr "Neteja les dades"
+
+#~ msgid "Table elements"
+#~ msgstr "Elements de la taula"
+
+#~ msgid "Editor settings"
+#~ msgstr "Configuració de l'editor"
+
+#~ msgid "Use Number Format"
+#~ msgstr "Utilitza format numèric"
+
+#~ msgid "Number Format"
+#~ msgstr "Format numèric"
+
+#~ msgid "Currency Format"
+#~ msgstr "Format de moneda"
+
+#~ msgid "Percent Format"
+#~ msgstr "Format de percentatge"
+
+#~ msgid "Date Format"
+#~ msgstr "Format de data"
+
+#~ msgid "Overwrite table text"
+#~ msgstr "Sobreescriu el text de la taula"
+
+#~ msgid "Info text"
+#~ msgstr "Text informatiu"
+
+#~ msgid "Info"
+#~ msgstr "Informació"
+
+#~ msgid "Compact"
+#~ msgstr "Compacte"

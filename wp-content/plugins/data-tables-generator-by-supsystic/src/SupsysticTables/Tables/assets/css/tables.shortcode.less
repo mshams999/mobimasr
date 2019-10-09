@@ -1,0 +1,50 @@
+.supsystic-tables-wrap {
+  .supsystic-table {
+    td {
+      &.bold {
+        font-weight: 700;
+      }
+      &.italic {
+        font-style: italic;
+      }
+      &.htLeft {
+        text-align: left;
+      }
+      &.htRight {
+        text-align: right;
+      }
+      &.htCenter {
+        text-align: center;
+      }
+      &.htTop {
+        vertical-align: top;
+      }
+      &.htMiddle {
+        vertical-align: middle;
+      }
+      &.htBottom {
+        vertical-align: bottom;
+      }
+    }
+    &[data-responsive-mode="1"] td.child table {
+      table-layout: fixed;
+    }
+  }
+
+  .supsystic-tables-export {
+
+    ul {
+      margin: 0 !important;
+      padding: 0 !important;
+
+      li {
+        display: inline-block !important;
+        margin-left: 10px;
+
+        &:first-child {
+          margin-left: 0;
+        }
+      }
+    }
+  }
+}

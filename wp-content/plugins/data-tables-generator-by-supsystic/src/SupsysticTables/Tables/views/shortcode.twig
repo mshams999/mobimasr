@@ -1,0 +1,518 @@
+{% macro cell(cell, rowIndex, cellIndex, tag, context) %}
+    {% set searchByHidden = context.table.settings.searching.searchByHiddenField %}
+
+    {% if cell.hiddenCell != true or cell.hiddenCell == true and searchByHidden == 'on' %}
+        {% set data = cell.data %}
+        {% set cellY = rowIndex %}
+        {% if context.isSSP == true or context.isDB == true %}
+            {% set cellY = cell.y | default(rowIndex) %}
+        {% endif %}
+
+        {% if context.table.settings.styling.paragraphMode %}
+            {% set data = data | raw | nl2br %}
+        {% endif %}
+
+        <{{tag}}
+        data-cell-id="{{ context.cols[context.countIter] ~ context.cols[context.cellIter] ~ cellY }}"
+        data-x="{{ cellIndex }}"
+        data-y="{{ cellY }}"
+        class="{{ cell.meta | join(' ') | trim }}"
+
+        {% if cell.comment is defined and cell.comment.value is defined %}
+            title="{{ cell.comment.value }}"
+        {% endif %}
+
+        {% if cell.type is not empty %}
+            data-cell-type="{{ cell.type }}"
+        {% endif %}
+
+        {% if cell.formatType is not empty %}
+            data-cell-format-type="{{ cell.formatType }}"
+        {% endif %}
+
+        {% if cell.format is not empty %}
+            data-cell-format="{{ cell.format }}"
+        {% endif %}
+
+        {% if cell.reformat is not empty %}
+            data-cell-reformat="{{ cell.reformat }}"
+        {% endif %}
+
+        {% if cell.data[:1] == '=' %}
+            data-formula="{{ cell.data | slice(1) }}"
+            {% set data = cell.calculatedValue %}
+        {% elseif cell.data[:2] == '`=' %}
+            {% set data = cell.data | slice(1) %}
+        {% endif %}
+
+        data-original-value="{{ data | e }}"
+
+        {% if cell.source is iterable %}
+            data-source="{{ cell.source | json_encode | e }}"
+        {% endif %}
+
+        {% if cell.dateOrder is defined %}
+            data-order="{{ cell.dateOrder }}"
+        {% else %}
+            data-order="{{ data | e }}"
+        {% endif %}
+        {% if 'auto_width' not in context.table.settings.features | keys
+        and (context.table.settings.styling.compact is not defined
+        or (context.table.settings.styling.compact is defined and context.table.settings.tableWidthType != 'auto'))
+        and rowIndex == '1'
+        %}
+            {% if context.table.meta.columnsFixedWidth is defined
+            and context.table.meta.columnsFixedWidth[cellIndex] is defined
+            and context.table.meta.columnsFixedWidth[cellIndex] is not empty
+            %}
+                style="min-width: {{ context.table.meta.columnsFixedWidth[cellIndex] }}; width: {{ context.table.meta.columnsFixedWidth[cellIndex] }};"
+            {% elseif context.table.meta.columnsWidth is defined
+                and context.table.meta.columnsWidth[cellIndex] is defined
+                and context.table.meta.columnsWidth[cellIndex] is not empty
+            %}
+                {#style="min-width: {{ context.table.meta.columnsWidth[cellIndex] }}%; width: {{ context.table.meta.columnsWidth[cellIndex] }}%;"#}
+                {% if context.table.settings.responsiveMode == 2 %}
+                    style="min-width: {{ context.table.meta.columnsWidth[cellIndex] }}%; width: {{ context.table.meta.columnsWidth[cellIndex] }}%;"
+                {% else %}
+                    style="min-width: {{ context.table.meta.columnsWidth[cellIndex] }}%; "
+                {% endif %}
+            {% else %}
+                style="width: {{ cell.width }}px"
+            {% endif %}
+        {% endif %}
+
+        {# cell.hidden is true if this cell was merged with another cell #}
+        {% if cell.hidden == true %}
+            {% set display = false %}
+            {% set colspan = 1 %}
+            {% set rowspan = 1 %}
+            {% for mergedCell in context.table.meta.mergedCells %}
+                {% if mergedCell.row == cellY - 1 and mergedCell.col == cellIndex %}
+                    {% set display = true %}
+                    {% set colspan = mergedCell.colspan %}
+                    {% set rowspan = mergedCell.rowspan %}
+                {% endif %}
+            {% endfor %}
+            {% if cell.rewrite.rowspan is defined %}
+                {% set rowspan = cell.rewrite.rowspan %}
+            {% endif %}
+            {% if cell.rewrite.colspan is defined %}
+                {% set colspan = cell.rewrite.colspan %}
+            {% endif %}
+            {% if cell.rewrite.display is defined %}
+                {% set display = cell.rewrite.display %}
+            {% endif %}
+            {% if display == false and context.isPageRows == false %}
+                data-hide="true"
+            {% else %}
+                data-colspan="{{ colspan }}"
+                data-rowspan="{{ rowspan }}"
+            {% endif %}
+        {% endif %}
+        >
+            {{ data | raw }}
+		</{{tag}}>
+    {% endif %}
+{% endmacro %}
+
+{% spaceless %}
+    {% import _self as m %}
+    {% set cols = 'A'..'Z' %}
+    {% set countIter = -1 %}
+    {% set cellIter = 0 %}
+    {% set isSSP = table.isSSP | default(false) %}
+    {% set isPageRows = table.isPageRows | default(false) %}
+    {% set isDB = table.isDB | default(false) %}
+    {% set settingsKeys = table.settings | keys %}
+    {% set isCaption = table.settings.elements.caption is defined or (table.settings.elements.description is defined and table.settings.elements.descriptionText is defined) %}
+    {% set fixedRowsCols = 'fixedFooter' in settingsKeys or 'fixedHeader' in settingsKeys or 'fixedColumns' in settingsKeys %}
+
+{% if isPageRows == false %}
+    {% if 'auto_width' not in table.settings.features | keys %}
+        {% if table.settings.tableWidthType == 'auto' %}
+            {% set tableWidth = 'auto' %}
+        {% else %}
+            {% set tableWidth = table.settings.tableWidth|default('100') ~ table.settings.tableWidthType|default('%') %}
+        {% endif %}
+    {% endif %}
+
+    {% if is_feed == false and table.settings.tableLoader.disable is not defined %}
+        {% set loaderClass = 'supsystic-table-loader' %}
+        {% if table.settings.tableLoader.iconName | default('default') == 'default' %}
+            <div class="{{ loaderClass }} spinner" {% if table.settings.tableLoader.color is defined %}style="background-color: {{ table.settings.tableLoader.color }}"{% endif %}></div>
+        {% else %}
+            <div class="{{ loaderClass }} la-{{ table.settings.tableLoader.iconName }} la-2x" style="color: {{ table.settings.tableLoader.color }}">
+                {% for i in 1..table.settings.tableLoader.iconItems %}
+                    <div></div>
+                {% endfor %}
+            </div>
+        {% endif %}
+    {% endif %}
+    <div id="supsystic-table-{{ table.view_id }}" class="supsystic-tables-wrap
+        {% if 'paging' in table.settings.features | keys %}
+            {{ table.settings.paginationSize | default('pagination-large') }} {# set it here to apply to the pagination block #}
+        {% endif %}
+        {% if table.settings.responsiveMode == 3 %}
+            disable-responsive
+        {% endif %}"
+         style="
+         {% if tableWidth is defined %}
+             {% if tableWidth == 'auto' %}
+                     display: inline-block;
+             {% endif %}
+                 width: {{ tableWidth }};
+         {% endif %}
+             {% if is_feed == false %}
+                     visibility: hidden;
+             {% endif %}
+                 "
+        {% if tableWidth is defined %}
+            data-table-width-fixed="{{ tableWidth }}"
+            {% if table.settings.tableWidthMobileType is defined %}
+                {% if table.settings.tableWidthMobileType == 'auto' %}
+                    {% set tableWidthMobile = 'auto' %}
+                {% elseif table.settings.tableWidthMobile is defined %}
+                    {% set tableWidthMobile = table.settings.tableWidthMobile ~ table.settings.tableWidthMobileType %}
+                {% endif %}
+                data-table-width-mobile="{{ tableWidthMobile }}"
+            {% endif %}
+        {% endif %}
+                 >
+    {% block before_table %}{% endblock %}
+	{% if table.woo_settings is defined and table.woo_settings.woocommerce.enable == 'on' and table.woo_settings.woocommerce.multiple_add_cart =='on' %}
+		<div class="stAddMultyWrapper"><button class="button stAddMultyButton stHidden" data-table-id="{{ table.id }}"><span>{{ environment.translate('Add selected to cart') }}</span></button></div>
+	{% endif %}
+    {% block caption_fixed %}
+        {% if fixedRowsCols == true and isCaption %}
+            <div class="supsystic-table-caption">
+                {% if table.settings.elements.caption is defined %}
+                    <div class="table-title">{{ table.title }}</div>
+                {% endif %}
+                {% if table.settings.elements.description is defined and table.settings.elements.descriptionText is defined %}
+                    <div class="table-desc">{{ table.settings.elements.descriptionText | raw }}</div>
+                {% endif %}
+            </div>
+        {% endif %}
+    {% endblock %}
+    <table
+            id="supsystic-table-{{ table.id }}"
+            class="supsystic-table {{ table.settings.styling | keys | join(' ') }}
+            {% if 'border' in table.settings.styling | keys %}
+                {{ table.settings.styling.border }}
+            {% endif %}"
+            data-id="{{ table.id }}"
+            data-view-id="{{ table.view_id }}"
+            data-title="{{ table.encoded_title }}"
+            data-currency-format="{{ table.settings.currencyFormat | default('$1,0.00') }}"
+            data-percent-format="{{ table.settings.percentFormat | default('1.00%') }}"
+            data-date-format="{{ table.settings.dateFormat | default('DD.MM.YYYY') }}"
+            data-time-format="{{ table.settings.timeFormat | default('HH:mm') }}"
+            data-features="{{ table.settings.features | keys | json_encode | e }}"
+            data-search-value="{{ table.search_value }}"
+            {% if 'lightboxImg' in table.settings.styling | keys %}
+                data-lightbox-img="{{ table.settings.styling.lightboxImg }}"
+            {% endif %}
+            {% if table.isSSP == true %}
+                data-server-side-processing="on"
+            {% endif %}
+            {% if 'head' in table.settings.elements | keys %}
+                data-head="{{ table.settings.elements.head }}"
+            {% endif %}
+            {% if 'headerRowsCount' in settingsKeys %}
+                data-head-rows-count="{{ table.settings.headerRowsCount | default(1) }}"
+            {% endif %}
+            {% if 'fixedHeader' in settingsKeys %}
+                data-fixed-head="{{ table.settings.fixedHeader }}"
+            {% endif %}
+            {% if 'foot' in table.settings.elements | keys %}
+                data-foot="{{ table.settings.elements.foot }}"
+            {% endif %}
+            {% if 'customFooter' in settingsKeys and 'footerRowsCount' in settingsKeys %}
+                data-foot-custom-rows-count="{{ table.settings.footerRowsCount | default(1) }}"
+            {% endif %}
+            {% if 'fixedFooter' in settingsKeys %}
+                data-fixed-foot="{{ table.settings.fixedFooter }}"
+            {% endif %}
+            {% if 'fixedHeader' in settingsKeys or 'fixedFooter' in settingsKeys %}
+                data-fixed-height = "{{ table.settings.fixedHeight|default(400) }}"
+            {% endif %}
+            {% if 'fixedColumns' in settingsKeys %}
+                data-fixed-cols="{{ table.settings.fixedColumns }}"
+                data-fixed-left="{{ table.settings.fixedLeftColumnsCount }}"
+                data-fixed-right="{{ table.settings.fixedRightColumnsCount }}"
+            {% endif %}
+            {% if 'paginationMenuLength' in settingsKeys %}
+                data-pagination-length="{{ table.settings.paginationMenuLength | default('') }}"
+            {% endif %}
+            {% if 'scrollTopByPagination' in settingsKeys %}
+                data-pagination-scroll="{{ table.settings.scrollTopByPagination | default('') }}"
+            {% endif %}
+            {% if 'alignByFirstTable' in settingsKeys and 'auto_width' not in table.settings.features | keys %}
+                data-align-by-first-table="{{ table.settings.alignByFirstTable | default('') }}"
+            {% endif %}
+            {% if 'autoIndex' in settingsKeys %}
+                data-auto-index="{{ table.settings.autoIndex }}"
+            {% endif %}
+            {% if 'searching' in settingsKeys %}
+                data-searching-settings="{{ table.settings.searching | json_encode | e  }}"
+            {% endif %}
+            {% if 'useNumberFormat' in settingsKeys %}
+                data-number-format="{{ table.settings.numberFormat | default('1,0.00') }}"
+            {% endif %}
+            {% if 'useCommaAsDelimiter' in settingsKeys %}
+                data-use-comma-as-delimiter="{{ table.settings.useCommaAsDelimiter | default('') }}"
+            {% endif %}
+            {% if 'ordering' in table.settings.features | keys %}
+                data-sort-column="{{ table.settings.sortingOrderColumn }}"
+                data-sort-order="{{ table.settings.sortingOrder }}"
+                data-multiple-sorting="{{ table.meta.columnsSortOrder | json_encode | e  }}"
+                data-disable-sorting="{{ table.meta.columnsDisableSorting | json_encode | e  }}"
+            {% endif %}
+            {% if 'after_table_loaded_script' in table.settings.features | keys
+                and 'enable_after_table_loaded_script' in table.settings.features | keys
+                and table.settings.features.enable_after_table_loaded_script == 'on'
+            %}
+                data-after-table-loaded-script="{{ table.settings.features.after_table_loaded_script | json_encode | e }}"
+            {% endif %}
+            data-lang="{{ table.settings.language.file | default('default') }}"
+            {% if 'language' in settingsKeys %}
+                data-override="{{ table.settings.language | json_encode | e }}"
+            {% endif %}
+            {% if 'translation' in settingsKeys %}
+                data-translation="{{ table.settings.translation | e }}" {# it is already json string #}
+            {% endif %}
+			{% if 'mergedCells' in table.meta | keys %}
+                data-merged="{{ table.meta.mergedCells | json_encode | e }}"
+            {% endif %}
+            data-responsive-mode="{{ table.settings.responsiveMode|default(1) }}"
+            data-from-history="{{ table.history|default(0) }}"
+            {% if 'attr_period' in table.history_data | keys %}
+                data-history-period="{{ table.history_data.attr_period }}"
+            {% endif %}
+            {% block table_attributes %}{% endblock %}
+            {% if tableWidth is defined and tableWidth == 'auto' %}
+                style="width: {{ tableWidth }};"
+            {% endif %}
+
+			{% if table.woo_settings is defined and table.woo_settings.woocommerce.enable == 'on' %}
+				data-woocommerce-table="on"
+			{% endif %}
+            {% if table.woo_settings is defined and table.woo_settings.woocommerce.multiple_add_cart =='on' %}
+                data-multiple-add-cart="{{ table.woo_settings.woocommerce.multiple_add_cart }}"
+            {% endif %}
+            >
+
+    {% block caption %}
+        {% if isCaption %}
+            {% set captionStype = fixedRowsCols == true ? 'style="display: none;"' : '' %}
+            <caption {{ captionStype | raw }}>
+                {% if table.settings.elements.caption is defined %}
+                    <div class="table-title">{{ table.title }}</div>
+                {% endif %}
+                {% if table.settings.elements.description is defined and table.settings.elements.descriptionText is defined %}
+                    <div class="table-desc">{{ table.settings.elements.descriptionText | raw }}</div>
+                {% endif %}
+            </caption>
+        {% endif %}
+    {% endblock %}
+
+    {% set head = false %}
+    {% set headRowsCount = 0 %}
+    {% if table.settings.elements.head is defined %}
+        {% set head = true %}
+        {% set headRowsCount = table.settings.headerRowsCount | default(1) %}
+        {% set headRows = table.rows | slice(0, headRowsCount) %}
+    {% else %}
+        {# there is must be at least one header row #}
+        {% set index = 0 %}
+        {% set existRow = false %}
+        {% for row in table.rows if not existRow %}
+            {% set index = index + 1 %}
+            {% for cell in row.cells if not existRow %}
+                {% if cell.hiddenCell == false %}
+                    {% set existRow = true %}
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+        {% set headRows = table.rows | slice(index - 1, 1) %} 
+    {% endif %}
+
+    {% set foot = false %}
+    {% set footRowsCount = 0 %}
+    {% if table.settings.elements.foot is defined %}
+        {% set foot = true %}
+        {% if table.settings.customFooter is defined  %}
+            {% set footRowsCount = table.settings.footerRowsCount | default(1) %}
+            {% set footRows = table.rows | slice('-' ~ footRowsCount, footRowsCount) %}
+        {% else %}
+            {% if table.mirrorFooter is not empty  %}
+                {% set footRows = table.mirrorFooter %}
+            {% else %}
+                {% set footRows = headRows | reverse %}
+            {% endif %}
+        {% endif %}
+    {% endif %}
+
+    {% set bodyRows = table.rows | slice(head ? headRowsCount : 0) %}
+    {% if foot %}
+        {% set bodyRows = bodyRows | slice(0, bodyRows | length - footRowsCount) %}
+    {% endif %}
+
+    {% block thead %}
+        <thead> {# header must be always to set columns width #}
+        {% set addHeaderAutoIndex = true %}
+        {% for row in headRows %}
+            {% set headRowNumber = loop.index %}
+            {% set existHeaderRow = false %}
+
+            {% for cellIndex, cell in row.cells %}
+                {% if cell.hiddenCell == false %}
+                    {% set existHeaderRow = true %}
+                {% endif %}
+            {% endfor %}
+
+            {% if existHeaderRow == true %}
+                <tr>
+                    {% for cellIndex, cell in row.cells %}
+                        {% if table.settings.autoIndex == 'new' and addHeaderAutoIndex == true %}
+                            <th rowspan="{{ headRowsCount }}" class="{{ cell.meta | join(' ') | trim }}" style="width: 1%; padding: 0 !important;"></th>
+                            {% set addHeaderAutoIndex = false %}
+                        {% endif %}
+                        {% if head %}
+                            {{ m.cell(cell, headRowNumber, cellIndex, 'th', _context) }}
+                            {% if cols[cellIter] == 'Z' %}
+                                {% set countIter = countIter + 1 %}
+                                {% set cellIter = -1 %}  {# set 0 because next step is cellIter = cellIter + 1 #}
+                            {% endif %}
+                            {% set cellIter = cellIter + 1 %}
+                        {% else %}
+                            {% if cell.hiddenCell != true %}
+                                {% set fakeCellClass = '' %}
+                                {% if cell.invisibleCell == true %}
+                                    {% set fakeCellClass = 'invisibleCell' %}
+                                {% endif %}
+                                <th class="{{ fakeCellClass }}" style="width:{{ table.meta.columnsWidth[cellIndex] }}%; padding: 0 !important;"></th>
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+                    {% set countIter = -1 %}
+                    {% set cellIter = 0 %}
+                </tr>
+            {% endif %}
+        {% endfor %}
+        </thead>
+    {% endblock %}
+{% else %}
+    {% set bodyRows = table.rows %}
+{% endif %}
+
+    {% block tbody %}
+        {% if isSSP == false or isPageRows == true %}
+        <tbody>
+        {% for row in bodyRows %}
+            {% set rowNumber = loop.index + (head ? headRowsCount : 0) %}
+            {% set existBodyRow = false %}
+            {% set rowHeightExists = false %}
+
+            {% for cellIndex, cell in row.cells %}
+                {% if cell.hiddenCell == false %}
+                    {% set existBodyRow = true %}
+                {% endif %}
+                {% if cell.meta is iterable and 'invisibleCell' not in cell.meta  %}
+                    {% set rowHeightExists = true %}
+                {% endif %}
+            {% endfor %}
+
+            {% if existBodyRow == true %}
+                <tr
+                        {% if rowHeightExists == true and row.height != 'NaN' and row.height matches '/^[0-9]*\\.?[0-9]+$/' %}
+                            style="height: {{ row.height }}px"
+                        {% endif %}
+                        >
+                    {% if table.settings.autoIndex == 'new' %}
+                        <td style="width: 1px;"></td>
+                    {% endif %}
+
+                    {% for cellIndex, cell in row.cells %}
+                        {% if cell.row is not empty %}
+                            {% set rowNumber = cell.row %}
+                        {% endif %}
+                        {% if cell.col is not empty %}
+                            {% set cellIndex = cell.col %}
+                        {% endif %}
+                        {{ m.cell(cell, rowNumber, cellIndex, 'td', _context) }}
+                        {% if cols[cellIter] == 'Z' %}
+                            {% set countIter = countIter + 1 %}
+                            {% set cellIter = -1 %}  {# set 0 because next step is cellIter = cellIter + 1 #}
+                        {% endif %}
+                        {% set cellIter = cellIter + 1 %}
+                    {% endfor %}
+                    {% set countIter = -1 %}
+                    {% set cellIter = 0 %}
+                </tr>
+            {% endif %}
+        {% endfor %}
+        </tbody>
+        {% endif %}
+    {% endblock %}
+
+{% if isPageRows == false %}
+    {% block tfoot %}
+        {% if foot %}
+            <tfoot>
+            {% set addFooterAutoIndex = true %}
+            {% for row in footRows %}
+                {% set footRowNumber = table.settings.customFooter is defined
+                ? headRowsCount + bodyRows | length + loop.index
+                : footRows | length + 1 - loop.index %}
+                {% set existFooterRow = false %}
+
+                {% for cellIndex, cell in row.cells %}
+                    {% if cell.hiddenCell == false %}
+                        {% set existFooterRow = true %}
+                    {% endif %}
+                {% endfor %}
+
+                {% if existFooterRow == true %}
+                    <tr>
+                        {% for cellIndex, cell in row.cells %}
+                            {% if table.settings.autoIndex == 'new' and addFooterAutoIndex == true %}
+                                <th rowspan="{{ footRowsCount }}" class="{{ cell.meta | join(' ') | trim }}" style="width: 1%; padding: 0 !important;"></th>
+                                {% set addFooterAutoIndex = false %}
+                            {% endif %}
+                            {{ m.cell(cell, footRowNumber, cellIndex, 'th', _context) }}
+                            {% if cols[cellIter] == 'Z' %}
+                                {% set countIter = countIter + 1 %}
+                                {% set cellIter = -1 %}  {# set 0 because next step is cellIter = cellIter + 1 #}
+                            {% endif %}
+                            {% set cellIter = cellIter + 1 %}
+                        {% endfor %}
+                        {% set countIter = -1 %}
+                        {% set cellIter = 0 %}
+                    </tr>
+                {% endif %}
+            {% endfor %}
+            </tfoot>
+        {% endif %}
+    {% endblock %}
+    </table>
+    {% if show_edit_link %}
+        {{ show_edit_link | raw }}
+    {% endif %}
+    <!-- /#supsystic-table-{{ table.id }}.supsystic-table -->
+
+    {% block signature %}
+        {% if table.settings.elements.signature is defined and table.settings.elements.signatureText is defined %}
+            <div class="table-signature">{{ table.settings.elements.signatureText | raw }}</div>
+        {% endif %}
+    {% endblock %}
+
+    {% block after_table %}{% endblock %}
+    </div>
+{% endif %}
+    <!-- /.supsystic-tables-wrap -->
+
+    <!-- Tables Generator by Supsystic -->
+    <!-- Version: {{ environment.getConfig().get('plugin_version') }} -->
+    <!-- http://supsystic.com/ -->
+{% endspaceless %}

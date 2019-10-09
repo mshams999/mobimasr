@@ -1,0 +1,403 @@
+#tableEditor {
+  width: 100%;
+  /* Cell states */
+  overflow: hidden !important;
+  z-index: 10;
+}
+#tableEditor .colHeader {
+  cursor: pointer;
+}
+#tableEditor .ht_clone_left .wtHolder {
+  overflow: hidden;
+}
+#tableEditor .bold {
+  font-weight: bold;
+}
+#tableEditor .italic {
+  font-style: italic;
+}
+#tableEditor .underline {
+	text-decoration: underline;
+}
+
+#tableEditor img {
+  max-width: 100%;
+  height: auto;
+}
+
+#tableEditor th.current {
+	background-color: #D9D9D9;
+}
+
+/* Toolbar */
+#tableToolbar {
+  background-color: #e2dfdf;
+  border: 1px solid #cac4c4;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+#tableToolbar > ul {
+  margin: 0;
+  display: inline;
+}
+#tableToolbar > ul > li {
+  margin: 0;
+  display: inline-block;
+}
+#tableToolbar > ul > li .toolbar-content {
+  display: none;
+}
+/*#tableToolbar > ul:after {
+  content: "|";
+  color: #d6d2d2;
+  font-size: 36px;
+  position: relative;
+  top: 3px;
+  font-weight: 100;
+}*/
+#tableToolbar button, #tableToolbar .toolContainer {
+	display: inline-block;
+	min-width: 35px;
+	min-height: 38px;
+	border: none;
+	background-color: transparent;
+	border-top: 5px solid transparent;
+	border-right: 1px solid #cac4c4;
+	border-bottom: 5px solid transparent;
+	outline: 0;
+	vertical-align: middle;
+}
+#tableToolbar button {
+	padding: 4px 7px;
+}
+#tableToolbar .toolContainer {
+	padding: 0 7px;
+}
+#tableToolbar .toolContainer #fontFamily {
+	width: 195px;
+}
+#tableToolbar .toolContainer #fontSize {
+	width: 90px;
+}
+#tableToolbar button:hover {
+	-webkit-box-shadow: 0px 0px 1px 2px #beb7b7;
+	-moz-box-shadow: 0px 0px 1px 2px #beb7b7;
+	box-shadow: 0px 0px 1px 2px #beb7b7;
+}
+#tableToolbar .inactive {
+	color: #8e8d8d;
+}
+/* Toolbar Dropdown */
+.tool-container .tool-items .tool-item i {
+  margin-top: 11px;
+  color: #333;
+}
+
+/* Formula editor */
+#formulaEditor {
+	margin-bottom: 5px;
+}
+#formulaEditor #formula {
+	width: 95%;
+	height: 33px;
+	float: right;
+	font-family: "Inconsolata", "Fira Mono", "Source Code Pro", Monaco, Consolas, "Lucida Console", monospace;
+}
+#formulaEditor .formula-icon {
+	float: left;
+	font-size: .8em;
+	line-height: 33px;
+	width: 5%;
+	text-align: center;
+}
+#formulaEditor .formula-icon .function {
+	font-family: "Inconsolata", "Fira Mono", "Source Code Pro", Monaco, Consolas, "Lucida Console", monospace;
+	font-size: 1.3em;
+}
+
+i.background-fill-icon {
+    width: 19px;
+    background-position-y: -2px;
+    opacity: 0.7;
+    height: 15px;
+    display: inline-block;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAMFBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///9agToZAAAADnRSTlMAEBIgMEZYYICDjM/f71PBSEcAAABhSURBVHgBpctREoJQCEbhHwNRBPa/3Jg7FV3zKc/jN3Nwv9QL1FJ2/tEtMs66pT+Ok3J4Ks3KcZAmWl+G6lspsvMLDBZ5723Lvi+zBmM1W9E6DFahddiEpcMgZoJPRPinJwIbBXkikWnmAAAAAElFTkSuQmCC);
+}
+
+i.toolbar-word-wrap {
+  width: 19px;
+  opacity: 0.7;
+  background-position-y: 38px;
+  height: 15px;
+  display: inline-block;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAA8CAYAAABmdppWAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3woeCBYRrfH4ygAAAOtJREFUWMPtlj0KAjEQhT+DghewEmvvYK1XsPck2mljp5ewFSuxEy/gTfxBi9XYZCGEgNkkhT/zIGzC7jzy9s1MAn8LnYtD5d6ZEKajnttxJXkohALBd9ayrx82A+LuVSTrgHEGVkDX5ahZi3J+C9hhqeIC9ICjw1HZlDawNnEbH0eMyx0Td0pxeWzNr+bZiM3DifVdC1iY9eGdZNdRm+wJPKx3BTCIkaysIGXycAf0gW2s5KnZnQop31CXZ6H9QH9IgxH89Jmi5faVlXCUuw41sHQ7d9Vj1Df2uf9hkVPy3L2FpCT2UCpFkIgXYDJe06KFdBkAAAAASUVORK5CYII=);
+}
+i.toolbar-word-wrap.word-wrap-hidden {
+  background-position-y: -2px;
+}
+i.toolbar-word-wrap.word-wrap-visible {
+  background-position-y: 18px;
+}
+
+
+#tableEditor .ww-h {
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 0;
+}
+
+#tableEditor .ww-v {
+  white-space: nowrap;
+  overflow: visible;
+  max-width: 0;
+}
+
+#tableEditor .editable, #tableEditor .selectable, #tableEditor .datefield, #tableEditor .unescapeHTML,
+#tableEditor .hiddenCell, #tableEditor .invisibleCell, #tableEditor .collapsibleCell, #tableEditor .tooltipCell, #tableEditor .formatedCell {
+	position: relative;
+}
+
+#tableEditor .formatedCell:before {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 0;
+	border-top: 7px solid #000;
+	border-left: 0 solid transparent;
+	border-right: 7px solid transparent;
+	border-bottom: 0 solid transparent;
+}
+
+#tableEditor .editable:after {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 0;
+	height: 0;
+	border-top: 0 solid transparent;
+	border-left: 0 solid transparent;
+	border-right: 7px solid #029A0E;
+	border-bottom: 7px solid transparent;
+}
+
+#tableEditor .selectable:after {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 0;
+	height: 0;
+	border-top: 0 solid transparent;
+	border-left: 0 solid transparent;
+	border-right: 7px solid #0000ff;
+	border-bottom: 7px solid transparent;
+}
+
+#tableEditor .datefield:after {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 0;
+	height: 0;
+	border-top: 0 solid transparent;
+	border-left: 0 solid transparent;
+	border-right: 7px solid #ff9406;
+	border-bottom: 7px solid transparent;
+}
+
+#tableEditor .hiddenCell:before {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 0;
+	border-top: 7px solid #FF0000;
+	border-left: 0 solid transparent;
+	border-right: 7px solid transparent;
+	border-bottom: 0 solid transparent;
+}
+
+#tableEditor .invisibleCell:before {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 0;
+	border-top: 7px solid #aa44ff;
+	border-left: 0 solid transparent;
+	border-right: 7px solid transparent;
+	border-bottom: 0 solid transparent;
+}
+
+#tableEditor .unescapeHTML:after {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 0;
+	border-top: 7px solid #95109a;
+	border-left: 0 solid transparent;
+	border-right: 7px solid transparent;
+	border-bottom: 0 solid transparent;
+	/*border-top: 0 solid transparent;
+	border-left: 7px solid transparent;
+	border-right: 0 solid transparent;
+	border-bottom: 7px solid #95109a;*/
+}
+
+#tableEditor .collapsibleCell:before {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 0;
+	border-top: 7px solid #f03cf0;
+	border-left: 0 solid transparent;
+	border-right: 7px solid transparent;
+	border-bottom: 0 solid transparent;
+}
+
+#tableEditor .tooltipCell:before {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 0;
+	border-top: 7px solid #50CDFE;
+	border-left: 0 solid transparent;
+	border-right: 7px solid transparent;
+	border-bottom: 0 solid transparent;
+}
+
+.handsontableInputHolder .handsontableInput {
+	background-color: #ffffff !important;
+	color: #000000 !important;
+}
+
+.tool-container.list {
+  height: auto!important;
+}
+
+.tool-container.list .tool-items .tool-item {
+  float: none!important;
+  width: 100%!important;
+  text-align: left;
+  line-height: 2em;
+  padding: 0 1em;
+  text-decoration: none;
+  color: #444;
+}
+
+.tool-container.list a.active {
+  font-weight: bold;
+  color: #222;
+}
+
+#tableEditor .formula.htNumeric.htInvalid {
+  background-color: transparent!important;
+}
+
+#tableToolbar i.formats-icon {
+  font-weight: bold;
+  color: #444444;
+}
+
+.colorpicker div {
+	position: absolute;
+}
+
+/* Default cells style */
+.handsontable th, .handsontable td {
+	color: #000;
+	background: #fff;
+}
+
+/* Add Diagram Pro Feature Dialog */
+#previewDiagramProFeature .tab-switch:after {
+	content: '';
+	display: block;
+	margin-bottom: 1em;
+	border-bottom: 1px solid #999;
+}
+#previewDiagramProFeature .tab-switch a {
+	display: inline-block;
+	margin: 0 5px -1px;
+	border: 1px solid #999;
+	font-size: 15px;
+	color: #28282a;
+	line-height: 31px;
+	padding: 0 8px 1px;
+	text-decoration: none;
+}
+#previewDiagramProFeature .tab-switch a.active {
+	border-bottom: 1px solid white;
+}
+#previewDiagramProFeature .tab-switch a:focus {
+	box-shadow: none;
+	outline: none;
+}
+#previewDiagramProFeature .tabs .tab {
+	display: none;
+}
+#previewDiagramProFeature .tabs .tab.active {
+	display: block;
+}
+@media (max-width: 810px) {
+	/*#tableToolbar > ul:after {
+		content: none;
+	}*/
+	#formulaEditor .formula-icon {
+		width: 10%;
+	}
+	#formulaEditor #formula {
+		width: 90%;
+	}
+}
+@media (max-width: 450px) {
+	#formulaEditor .formula-icon {
+		width: 15%;
+	}
+	#formulaEditor #formula {
+		width: 85%;
+	}
+}
+#pagination {
+	padding-top: 7px;
+}
+#pagination a {
+	text-decoration: none;
+	line-height: 2;
+	padding: 2px 5px 2px 7px;
+	margin: 2px;
+	font-size: 14px;
+	border: 1px solid #ccc;
+	color: #ccc;
+}
+.pageCur {
+	border: 1px solid #000 !important;
+	color: #000 !important;
+}
+.ui-autocomplete {
+	max-height: 200px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	padding-right: 20px;
+}

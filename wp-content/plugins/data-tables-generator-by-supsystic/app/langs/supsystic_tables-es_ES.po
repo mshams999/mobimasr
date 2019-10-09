@@ -1,0 +1,1645 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: metacibi <dev.metacibi@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+
+msgid "An error has occurred"
+msgstr "Se ha producido un error"
+
+msgid "Overview"
+msgstr "Resumen"
+
+msgid "Add new table"
+msgstr "Añadir una tabla nueva"
+
+msgid "Tables"
+msgstr "Tablas"
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "License"
+msgstr "Licencia"
+
+msgid "Featured Plugins"
+msgstr "Complementos destacados"
+
+msgid "Table title"
+msgstr "Título de la tabla"
+
+msgid "Columns"
+msgstr "Columnas"
+
+msgid "Rows"
+msgstr "Filas"
+
+msgid "You can change number of Columns and Rows later"
+msgstr "Puede cambiar el número de columnas y filas más tarde"
+
+msgid "Invalid range specified."
+msgstr "El intervalo especi­ficado no es válido."
+
+msgid "Failed to find diagram %s."
+msgstr "No se encontró el diagrama %s."
+
+msgid "Failed to find table %s."
+msgstr "No se encontró la tabla %s."
+
+msgid "Add diagram"
+msgstr "Añadir un diagrama"
+
+msgid "The table ID %s not found."
+msgstr "No se encontró la taula con ID %s."
+
+msgid "Frontend Export"
+msgstr "Exportación de interfaz de usuario"
+
+msgid "Allow export table to pdf, csv, xls on frontend"
+msgstr ""
+"Permitir la exportación de tablas a pdf, csv, xls en la interfaz de usuario"
+
+msgid "Export Logo"
+msgstr "Exportar el logo"
+
+msgid "Automticaly appends selected logo for output pdf or printing"
+msgstr "Añadir automáticamente el logo seleccionado a la salida PDF o impresión"
+
+msgid "Logo Position"
+msgstr "Posición del logo"
+
+msgid "Above table"
+msgstr "Encima de la taula"
+
+msgid "Below table"
+msgstr "Debajo de la tabla"
+
+msgid "Logo Alignment"
+msgstr "Alineación del logo"
+
+msgid "Left"
+msgstr "Izquierda"
+
+msgid "Center"
+msgstr "Centro"
+
+msgid "Right"
+msgstr "Derecha"
+
+msgid "Export table"
+msgstr "Exportar la tabla"
+
+msgid "Select file type to export table:"
+msgstr "Seleccionar el tipo de fichero para exportar la tabla:"
+
+msgid "Import error"
+msgstr "Error de importación"
+
+msgid "Failed to import selected file"
+msgstr "No se pudo importar el fichero seleccionado"
+
+msgid "Import to the table"
+msgstr "Importar a la tabla"
+
+msgid "File extension type"
+msgstr "Tipo de extensión de archivo"
+
+msgid "Import settings"
+msgstr "Importar la configuración"
+
+msgid "Delimiter"
+msgstr "Delimitador"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Failed to import data from the uploaded file"
+msgstr "No se pudieron importar los datos del archivo cargado"
+
+msgid "Failed to upload selected file"
+msgstr "No se pudo cargar el archivo seleccionado"
+
+msgid "Activate License"
+msgstr "Activar la licencia"
+
+msgid "Renew License"
+msgstr "Renovar la licencia"
+
+msgid "Slider by Supsystic"
+msgstr "Control deslizante de Supsystic"
+
+msgid ""
+"Congratulations! You have successfully installed and activated PRO version of ' "
+"~ environment.getMenu().getMenuTitle() ~ ' plugin."
+msgstr ""
+"Felicidades! Ha instalado y activado correctamente la versión PRO del "
+"complemento ' ~ environment.getMenu().getMenuTitle() ~ '."
+
+msgid "Your premium support is expired in ' ~ days ~ ' days"
+msgstr "Su soporte Premium caduca en ' ~ days ~ ' días"
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr "No podrá actualizar su versión pro con la licencia caducada"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Add editable field"
+msgstr "Añadir campo editable"
+
+msgid "Save as"
+msgstr "Guardar como"
+
+msgid "Failed to get table rows: %s"
+msgstr "No se pudieron obtener las filas de la tabla: %s"
+
+msgid "Diagram"
+msgstr "Diagrama"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Area Chart"
+msgstr "Gráfico de Área"
+
+msgid "Line Chart"
+msgstr "Gráfico de Líneas"
+
+msgid "Pie Chart"
+msgstr "Gráfico de Pastel"
+
+msgid "Bar Chart"
+msgstr "Gráfico de Barras"
+
+msgid "Column Chart"
+msgstr "Gráfico de Columnas"
+
+msgid "Bubble Chart"
+msgstr "Gráfico de Burbujas"
+
+msgid "Switch rows / columns"
+msgstr "Intercambiar filas / columnas"
+
+msgid "Use first row as headers"
+msgstr "Utilizar la primera fila como encabezados"
+
+msgid "Use first column as labels"
+msgstr "Utilizar la primera columna como etiquetas"
+
+msgid "Width"
+msgstr "Anchura"
+
+msgid ""
+"Set the value in px or %, for example, 400 (equals to 400px) or 90%. Leave this "
+"field empty to use default width value."
+msgstr ""
+"Establezca el valor en px o %, por ejemplo, 400 (equivale a 400px) o 90%. Deje "
+"el campo vacío para utilizar la anchura por defecto."
+
+msgid "Height"
+msgstr "Altura"
+
+msgid ""
+"Set the value in px or %, for example, 200 (equals to 200px) or 80%. Leave this "
+"field empty to use default height value."
+msgstr ""
+"Establezca el valor en px o %, por ejemplo, 200 (equivale a 200px) o 80%. Deje "
+"el camp vacío para utilizar la altura por defecto."
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Legend Position"
+msgstr "Posición de la leyenda"
+
+msgid "No legend"
+msgstr "Sin leyenda"
+
+msgid "Above the chart"
+msgstr "Encima del gráfico"
+
+msgid "Below the chart"
+msgstr "Debajo del gráfico"
+
+msgid "Left of the chart"
+msgstr "A la izquierda del gráfico"
+
+msgid "Right of the chart"
+msgstr "A la derecha del gráfico"
+
+msgid "Lines between slices and values"
+msgstr "Líneas entre porciones y valores"
+
+msgid "Inside by the top left corner"
+msgstr "Dentro arriba a la derecha"
+
+msgid "Diagram Title"
+msgstr "Título del diagrama"
+
+msgid "Axis X Title"
+msgstr "Título del eje X"
+
+msgid "Axis Y Title"
+msgstr "Título del eje Y"
+
+msgid "3D Diagram"
+msgstr "Diagrama 3D"
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "Text on Slice"
+msgstr "Texto dentro de la porción"
+
+msgid "Percentage of slice size out of total"
+msgstr "Porcentaje de la porción encima del total"
+
+msgid "Quantitative value of slice"
+msgstr "Valor cuantitativo de la porción"
+
+msgid "Name of slice"
+msgstr "Nombre de la porción"
+
+msgid "Not displaying"
+msgstr "Sin mostrar"
+
+msgid "Use custom colors"
+msgstr "Usar los colores personalizados"
+
+msgid "Select chart type"
+msgstr "Seleccionar el tipo de gráfico"
+
+msgid "Editor tab"
+msgstr "Pestaña del editor"
+
+msgid "how to create Diagrams with Data Table plugin"
+msgstr "cómo crear diagramas con el complemento Data Table"
+
+msgid ""
+"You have no diagrams for now. Go to %s -> select the required data in the table "
+"and click on “Add diagram” button. Also please check the tutorial %s"
+msgstr ""
+"Por ahora no hay ningún diagrama. Vaya a %s -> seleccionar los datos necesarios "
+"para la tabla y haga clic en el botón \"Añadir diagrama\". También puede "
+"comprobar el tutorial %s"
+
+msgid "Unsupported export type: %s."
+msgstr "Tipo de exportación no soportada: %s."
+
+msgid "Export Page Orientation"
+msgstr "Orientación al exportar la página"
+
+msgid "Choose the page orientation for PDF export file"
+msgstr "Seleccionar la orientación de la página del archivo PDF exportado"
+
+msgid "Portrait"
+msgstr "Vertical"
+
+msgid "Landscape"
+msgstr "Horizontal"
+
+msgid "Export Data to the File"
+msgstr "Exportar los datos a fichero"
+
+msgid "File Type"
+msgstr "Tipo de fichero"
+
+msgid "Failed to import selected file: Wrong spreadsheet id or url"
+msgstr ""
+"No se pudo importar el archivo seleccionado: Id o Url de hoja de cálculo "
+"incorrectos"
+
+msgid "Automatically import from Google Tables"
+msgstr "Importar automáticamente desde Google Tables"
+
+msgid "Link from Google Tables"
+msgstr "Vincular desde Google Tables"
+
+msgid "Import Data to the Table"
+msgstr "Importar los datos a la tabla"
+
+msgid "Import Settings"
+msgstr "Importar la configuración"
+
+msgid "Google Spreadsheet Url"
+msgstr "Url del Hoja de Google"
+
+msgid ""
+"Important! Please, check the sharing settings of your spreadsheet: it must be "
+"accessed to edit for everyone who has link. In other case the data will not "
+"import to table."
+msgstr ""
+"Importante! Por favor, compruebe la configuración de uso compartido de la hoja "
+"de cálculo: deberá ser accesible para edición por todos los que tengan el "
+"enlace. En caso contrario, los datos no se importarán a la tabla."
+
+msgid "Append to existing table data"
+msgstr "Añadir a una tabla de datos existente"
+
+msgid "Failed to save table rows: %s"
+msgstr "No se pudieron guardar las filas de la tabla: %s"
+
+msgid "Save Editable Fields"
+msgstr "Guardar los campos editables"
+
+msgid "Allows to save data to the table through editable fields."
+msgstr "Permitir guardar los datos en la tabla mediante campos editables."
+
+msgid "Use Editable Fields for Logged In Users Only"
+msgstr "Utilizar campos editables sólo para usuarios registrados"
+
+msgid "Allows to use editable fields only for logged in users."
+msgstr "Permitir el uso de campos editables sólo para los usuarios registrados."
+
+msgid "Use Editable Fields for Current Roles"
+msgstr "Utilizar campos editables para los roles actuales"
+
+msgid ""
+"Allows to use editable fields only for users with selected roles. If there are "
+"no chosen roles - all logged in users will have ability to use the editable "
+"fields."
+msgstr ""
+"Permitir utilizar campos editables sólo para usuarios de roles seleccionados. Si "
+"no se selecciona ningún rol - todos los usuarios registrados podrán editar los "
+"campos."
+
+msgid "Select roles"
+msgstr "Seleccionar los roles"
+
+msgid "Enable Table History"
+msgstr "Activar el Historial de tablas"
+
+msgid "Select User to display its table"
+msgstr "Seleccionar el usuario para mostrar su tabla"
+
+msgid ""
+"Note that the table may look a little different depending on your theme style."
+msgstr ""
+"Recuerde que la tabla se puede ver un poco diferente dependiendo del estilo de "
+"su tema."
+
+msgid "Diagrams"
+msgstr "Diagramas"
+
+msgid "Get PRO"
+msgstr "Cambiar a PRO"
+
+msgid "Popup Plugin"
+msgstr "Complemento de Ventana emergente"
+
+msgid ""
+"The Best WordPress PopUp option plugin to help you gain more subscribers, social "
+"followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+"El mejor complemento de Wordpress para ventanas emergentes le ayuda a ganar más "
+"suscriptores, seguidores y anuncios. Ventanas emergents responsive con opciones "
+"amigables."
+
+msgid "Slider Plugin"
+msgstr "Complemento de Deslizador"
+
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select images "
+"from your WordPress Media Library, Flickr, Instagram or Facebook, set slide "
+"captions, links and SEO fields all from one page."
+msgstr ""
+"Cree presentacions con el Complemento deslizante es rápido y fácil. Sólo "
+"necesita seleccionar las imágenes de la Mediateca de Wordpress, Flickr, "
+"Instagram o Facebook, añadir títulos, enlaces y campos SEO desde una misma "
+"página."
+
+msgid "Photo Gallery Plugin"
+msgstr "Complemento de Galería de fotos"
+
+msgid ""
+"Photo Gallery Plugin with a great number of layouts will help you to create "
+"quality respectable portfolios and image galleries."
+msgstr ""
+"El complemento de Galería de Fotos tiene un gran número de diseños que le ayudan "
+"a crear portafolios y galeries de imágenes de calidad."
+
+msgid "Data Tables Generator"
+msgstr "Data Tables Generator"
+
+msgid ""
+"Create and manage beautiful data tables with custom design. No HTML knowledge is "
+"required."
+msgstr ""
+"Cree y gestione elegantes tablas de datos con diseño personalizado. Sin "
+"necesidad de conocimientos de HTML."
+
+msgid "Social Share Buttons"
+msgstr "Botones de acciones sociales"
+
+msgid ""
+"Social share buttons to increase social traffic and popularity. Social sharing "
+"to Facebook, Twitter and other social networks."
+msgstr ""
+"Botones sociales para aumentar el tráfico social y la popularidad. Compartición "
+"social de Facebook, Twitter y otras redes sociales."
+
+msgid "Live Chat Plugin"
+msgstr "Complemento de Chat en línea"
+
+msgid ""
+"Be closer to your visitors and customers with Live Chat Support by Supsystic. "
+"Help you visitors, support them in real-time with exceptional Live Chat "
+"WordPress plugin by Supsystic."
+msgstr ""
+"Esté más cerca de sus visitantes y clientes con el Chat de Soporte en Vivo de "
+"Supsystic. Ayude a sus visitantes, deles soporte en tiempo real con el "
+"excepcional complemento Chat en Vivo para  WordPress de Supsystic."
+
+msgid "Pricing Table"
+msgstr "Tabla de precios"
+
+msgid ""
+"It’s never been so easy to create and manage pricing and comparison tables with "
+"table builder. Any element of the table can be customise with mouse click."
+msgstr ""
+"Nunca ha sido tan fácil crear y gestionar tablas de precios y de comparación con "
+"el generador de tablas. Cualquier elemento de la tabla se puede personalizar con "
+"un clic del ratón."
+
+msgid "Coming Soon Plugin"
+msgstr "Complemento de Próximamente"
+
+msgid ""
+"Coming soon page with drag-and-drop builder or under construction | maintenance "
+"mode to notify visitors and collects emails."
+msgstr ""
+"Página de Próximamente con constructor de arrastrar y soltar o modo en "
+"construcción | mantenimiento para notificar a los visitantes y recoger "
+"direcciones de correo electrónico."
+
+msgid "Backup Plugin"
+msgstr "Complemento de Copia de seguridad"
+
+msgid ""
+"Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched "
+"DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr ""
+"El complemento de Wordpress de Copia y Restauracación de Supsystic proporciona "
+"còpia de seguretat rápida i desatesa del vostre lloc de WordPress cap a Dropbox, "
+"FTP, Amazon S3, Google Drive."
+
+msgid "Google Maps Easy"
+msgstr "Mapas de Google fáciles"
+
+msgid ""
+"Display custom Google Maps. Set markers and locations with text, images, "
+"categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+"Presente mapas de Google personalitados. Establezca marcadores y localitzaciones "
+"con texto, imágenes, categorías y enlaces. Personalice el mapa de Google de una "
+"manera sencilla e intuitiva."
+
+msgid "Digital Publication Plugin"
+msgstr "Complemento de Publicación digital"
+
+msgid ""
+"Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, "
+"Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+"El complemento de Publicación para WordPress de Supsystic para revistas, "
+"catálogos, portafolios. Convierta imágenes, publicaciones, PDF en libros de "
+"múltiples páginas."
+
+msgid "Contact Form Plugin"
+msgstr "Complemento de Formulario de contacto"
+
+msgid ""
+"One of the best plugin for creating Contact Forms on your WordPress site. "
+"Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+"Uno de los mejores complementos para crear formularios de contacto en su sitio "
+"de WordPress. Fuentes modificables, fondos, una opción para añadir campos, etc."
+
+msgid "Newsletter Plugin"
+msgstr "Complemento de Boletín"
+
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will have "
+"no need to control it or send them manually. No coding, hard skills or long "
+"hours of customizing are required."
+msgstr ""
+"Complemento de Boletín de Supsystic para el envío automático de sus boletines "
+"por correu electrónico. No será necesario controlar o enviar nada manualmente. "
+"No requiere codificación, habilidades técnicas o largas horas de personalización."
+
+msgid "Membership by Supsystic"
+msgstr "Comunidad de Supsystic"
+
+msgid ""
+"Create online membership community with custom user profiles, roles, FrontEnd "
+"registration and login. Members Directory, activity, groups, messages."
+msgstr ""
+"Cree una comunidad de miembros en línea con perfiles de usuario personales, "
+"roles, interfaz de registro e inicio de sesión. Directorio de miembros, "
+"actividad, grupos, mensajes."
+
+msgid "Your message successfully send. We contact you soon."
+msgstr ""
+"Su mensaje se ha enviado con éxito. Nos pondremos en contacto con usted muy "
+"pronto."
+
+msgid "No detected"
+msgstr "No detectado"
+
+msgid "Step-by-step Tutorial"
+msgstr "Tutorial paso a paso"
+
+msgid "Begin Step-by-step Tutorial"
+msgstr "Empezar el Tutorial paso a paso"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "Website"
+msgstr "Sitio web"
+
+msgid "Subject"
+msgstr "Asunto"
+
+msgid "Topic"
+msgstr "Tema"
+
+msgid "Plugin options"
+msgstr "Opciones del complemento"
+
+msgid "Report a bug"
+msgstr "Informar de un error"
+
+msgid "Require a new functionallity"
+msgstr "Solicitar una nueva funcionalidad"
+
+msgid "Other"
+msgstr "Otros"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Hello Supsystic Team!"
+msgstr "Hola Equipo Supsystic!"
+
+msgid ""
+"Some errors occurred while sending mail please send your message trough this "
+"contact form:"
+msgstr ""
+"Se han producido algunos errores al enviar el correo, por favor envíe su mensaje "
+"mediante este formulario de contacto:"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Close Tutorial"
+msgstr "Cerrar el tutorial"
+
+msgid "Welcome to Data Tables plugin by Supsystic!"
+msgstr "Bienvenido al complemento Data Tables de Supsystic!"
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Just click here to start using it "
+"- and we will show you it's possibilities and powerfull features."
+msgstr ""
+"Gracias por escoger nuestro complemento Data Tables. Simplemente haga clic aquí "
+"para empezar a usarlo - y le mostraremos sus posibilidades y grandes "
+"características."
+
+msgid "Hello! This is the Data Tables by Supsystic"
+msgstr "¡Hola! Este es el Data Tables de Supsystic"
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Let’s make a quick tour through "
+"features and main options of the plugin. Just click “Next” button."
+msgstr ""
+"Gracias por escoger nuestro complemento Data Tables. Simplemente haga clic aquí "
+"para empezar a usarlo - y le mostraremos sus posibilidades y grandes "
+"características."
+
+msgid "Create your first table"
+msgstr "Cree su primera tabla"
+
+msgid ""
+"Click on the button “Add new table” and see the first form, which you need to "
+"fill in. A very simple step!"
+msgstr ""
+"Haga clic en el botón \"Añadir nueva tabla\" y verá el primer formulario, que "
+"debe rellenar. ¡Un paso muy sencillo!"
+
+msgid "Enter the name and create Data Table"
+msgstr "Introduzca el nombre y cree la Tabla de datos"
+
+msgid ""
+"Fill the table title and choose the number of columns and rows. Don’t worry, you "
+"will be able to change it (add or delete some) later!"
+msgstr ""
+"Rellene el nombre de la tabla y seleccione el número de columnas y filas. No se "
+"preocupe, ¡podrá canviarlo (añadir o quitar) más tarde!"
+
+msgid ""
+"Main Settings of your first table. Here you can see main settings which are "
+"conected with languages, table elements, styling and other different editors "
+"settings. Generally it’s a tab where you can edit the visual part of the whole "
+"table, switch on/off the responsive mode, set pagination etc."
+msgstr ""
+"Configuraciones de su primera taula. Aquí puede ver la configuración principal, "
+"que está conectada con los idiomas, elementos de tabla, estilos y otras "
+"configuraciones diferentes del editor. En general se trata de una pestaña en la "
+"que puede editar la parte visual de toda la tabla, activar/desactivar el modo "
+"responsive, establecer la paginación, etc."
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid ""
+"The most important part of settings - Editor. Here you can fill all the cells of "
+"your table, add some colors, play with fonts and sizes. This insert also allows "
+"you to change the alignment of your font, add formats (percents, currency), "
+"images and links to make your table more visual attraction."
+msgstr ""
+"La parte más importante de la configuración - Editor. Aquí puede rellenar todas "
+"las celdas de la tabla, añadir algunos colores, jugar con fuentes y tamaños. "
+"También le permite cambiar la alineación de su fuente, añadir formatos "
+"(porcentajes, monedas), imágenes y enlaces para hacer su tabla más atractiva "
+"visualmente."
+
+msgid "Preview"
+msgstr "Vista previa"
+
+msgid ""
+"Preview insert for your comfort. Before updating the table on your page - you "
+"can see the result of your efforts and changes, look at it and enjoy the final "
+"outcome."
+msgstr ""
+"Vista previa para su comodidad. Antes de actualizar la tabla de la pàgina - "
+"puede ver el resultado de sus esfuerzos y cambios, comprobarlo y disfrutar del "
+"resultado final."
+
+msgid "CSS Editor"
+msgstr "Editor CSS"
+
+msgid ""
+"In case you have special or at least, basic knowledge of CSS code - you can "
+"easily change the table here. Just make sure that you know, what you are doing "
+"and you will not destroy the table."
+msgstr ""
+"En el caso de que tenga conocimiento especial o al menos básico, de código CSS - "
+"aquí puede cambiar fácilmente la tabla. Sólamente asegúrese de que sabe qué está "
+"haciendo y no destruirá la tabla."
+
+msgid ""
+"Diagrams - this is a Pro feature of our plugin, which can help you to follow the "
+"statistics of your table. Several types for every taste and any wishes."
+msgstr ""
+"Diagramas - esta es una característica Pro de nuestro complemento, que le puede "
+"ayudar a seguir las estadísticas de su tabla. Varios tipos para todos los gustos "
+"y deseos."
+
+msgid "Import/Export"
+msgstr "Importación/Exportación"
+
+msgid ""
+"With these two buttons in our Pro version you can Import any table of csv format "
+"and Export the whole table, which you have done."
+msgstr ""
+"Con estos dos botones en nuestra versión Pro puede Importar cualquier tabla de "
+"formato CSV y Exportar toda la tabla que usted ha creado."
+
+msgid "Well done!"
+msgstr "Bien hecho!"
+
+msgid ""
+"<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - you’ll "
+"have to enter license key (you can find it in your personal account on our "
+"site). Go to the License tab and enter your email and license key. Once you have "
+"activated your PRO license - you can use all its advanced options. "
+"<br><br>That’s all. From this moment you can use your Data Table without any "
+"doubt. But if you still have some question - do not hesitate to contact us "
+"through our <a href=\"https://supsystic.com/contact-us/\">internal support</a> "
+"or on our <a href=\"http://supsystic.com/forum/datatable-plugin/\">Supsystic "
+"Forum.</a> Besides you can always describe your questions on <a href=\"https://"
+"wordpress.org/support/plugin/data-tables-generator-by-supsystic\">WordPress "
+"Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It will be nice if "
+"you`ll help us and boost plugin with <a href=\"https://wordpress.org/support/"
+"view/plugin-reviews/data-tables-generator-by-supsystic?rate=5#postform/\">Five "
+"Stars rating on WordPress.org.</a> <br><br>We hope that you like our Data Table "
+"plugin and wish you all the best! Good luck!"
+msgstr ""
+"<b>Actualización</b> <br>Cuando haya comprado la versión Premium del complemento "
+"- deberá introducir la clave de licencia (la puede encontrar en su cuenta "
+"personal de nuestro sitio web). Vaya a la pestaña de licencia e introduzca su "
+"correo electrónico y la clave de licencia. Una vez haya activado la licencia PRO "
+"- podrá utilizar todas sus opciones avanzadas. <br><br>Esto es todo. A partir de "
+"este momento podrá utilizar su Data Table sin ningún tipos de duda. Pero si "
+"todavía tiene alguna pregunta - no dude en ponerse en contacto con nosotros a "
+"través de nuestro <a href=\"https://supsystic.com/contact-us/\">suporte interno</"
+"a> o en nuestro <a href=\"http : //supsystic.com/forum/datatable-plugin/\">Foro "
+"Supsystic</a>. Además, siempre puede dirigir sus preguntas al <a href=\"https://"
+"wordpress.org/support/plugin/data-tables - generador per supsystic\">Foro de "
+"WordPress.</a> <br><br><b>¿Le gusta este complemento?</b> <br>Nos gustaría que "
+"nos ayudara a impulsar el complemento con una <a href=\"https://wordpress.org/"
+"support/view/plugin-reviews/data-tables-generator-by-supsystic?rate=5#postform/"
+"\">Calificación de Cinco Estrelles en WordPress.org.</a> <br><br>¡Esperomos que "
+"le guste nuestro complemento Data Tables y le deseamos lo mejor! ¡Buena suerte!"
+
+msgid "Welcome to our plugin"
+msgstr "Bienvenido a nuestro complemento"
+
+msgid "by Supsystic!"
+msgstr "de Supsystic!"
+
+msgid ""
+"We are trying to make your using of our plugin maximum comfortable and easy. So "
+"we find it like the best way to tell you about some options and features of this "
+"plugin."
+msgstr ""
+"Estamos tratando de hacer que el uso de nuestro complemento sea lo más cómodo y "
+"fácil posible. Creemos que es la mejor manera de informarle de algunas opciones "
+"y características de este complemento."
+
+msgid "A small guide for the first-time user"
+msgstr "Una breve guía para el usuario novato"
+
+msgid ""
+"Actually, Data Table plugin is very simple and has a lot of different options at "
+"the same time. That’s why when you close this article I will show you the main "
+"of them, but the very detailed one you can find on our site. I hope that you "
+"will have no questions after even this small guide. For the first time we will "
+"help you to install and create your first table, but if you need help - contact "
+"us through the internal support"
+msgstr ""
+"En realidad, el complemento Data Tables es muy sencillo y tiene un montón de "
+"opciones diferentes al mismo tiempo. Es por este motivo que cuando cierre este "
+"artículo le mostraremos las principales, pero puede encontrar más detalles en "
+"nuestro sitio web. Esperamos que después de esta pequeña guía no tindrá ninguna "
+"duda. Si Ud. es usuario principiante, le ayudaremso a instalar y crear su "
+"primera tabla, pero si necesita ayuda - puede ponerse en contacte con nosotros a "
+"través del soporte interno"
+
+msgid "Support"
+msgstr "Soporte"
+
+msgid ""
+"We really like what we do and feel responsibility for our “child”. Constantly we "
+"are trying to change something or update the new features, but sometimes you may "
+"have a situation when you need help or have a problem. We can offer you two "
+"kinds of help: "
+msgstr ""
+"Nos gusta lo que hacemos y nos sentimos responsables de nuestros \"niños\". "
+"Constantmente estamos tratando de cambiar alguna cosa o actualizar nuevas "
+"características, pero a veces Ud puede encontrase en una situación que necesite "
+"ayuda o tener un problema. Le podemos ofrecer dos tipus de ayuda: "
+
+msgid ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> Contact "
+"us </a> through the Forum on our site - if you have some question, offer or wish."
+msgstr ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> "
+"Contáctenos </a> mediante el Foro de nuestro sitio web - si tiene alguna "
+"pregunta, ofrecimiento o deseo."
+
+msgid ""
+"If, unfortunately, you have some problem - we are ready to help you in our <a "
+"href=\"//supsystic.com/contact-us/\" target=\"_blank\">internal support.</a>"
+msgstr ""
+"Si, desafortunadamente, tiene algún problema - estamos preparados para ayudarle "
+"en nuestro <a href=\"//supsystic.com/contact-us/\" target=\"_blank\">soporte "
+"interno.</a>"
+
+msgid "Feel free to contact us and don’t worry, everything gonna be ok!"
+msgstr ""
+"No dude en ponerse en contacto con nosotros y no se preocupe, ¡todo irá bien!"
+
+msgid "Video Tutorial"
+msgstr "Tutorial en vídeo"
+
+msgid "Frequently Asked Questions"
+msgstr "Preguntas Más Frecuentes"
+
+msgid "Make data table responsive"
+msgstr "Hacer que la tabla de datos sea responsive"
+
+msgid "I need to have line breaks/spaces between the paragraphs within the cells."
+msgstr ""
+"Es necesario insertar saltos de línea/espacios entre los párrafos dentro de las "
+"celdas."
+
+msgid "How to use formulas in the table?"
+msgstr "¿Cómo utilizar fórmulas en las tablas?"
+
+msgid "Go to Editor of Data Table."
+msgstr "Ir al editor de Data Table."
+
+msgid ""
+"Select a cell and start typing. In a cell, type an equal sign “=” to start the "
+"formula."
+msgstr ""
+"Seleccione una celda y empiece a escribir. En una celda, escriba un signo igual "
+"\"=\" para empezar la fórmula."
+
+msgid "Fill in the rest of the formula."
+msgstr "Complete el resto de la fórmula."
+
+msgid "Save the changes of table."
+msgstr "Guarde los cambios de la tabla."
+
+msgid "Check the result of formula in the table on your site."
+msgstr "Compruebe el resultado de la fórmula en la taula de su sitio web."
+
+msgid ""
+"Learn more about how to do this <a href=\"//supsystic.com/how-to-use-tables/\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"Aprenda más acerca de cómo hacer esto <a href=\"//supsystic.com/how-to-use-"
+"tables/\" target=\"_blank\">aquí/a>."
+
+msgid "Check all other FAQs"
+msgstr "Revise todas las otras PMFs"
+
+msgid "Roles"
+msgstr "Roles"
+
+msgid "Role for users who can use plugin. Administrator is included by default"
+msgstr ""
+"Rol para los usuarios que pueden utilizar el complemento. El Administrador está "
+"incluido por defecto"
+
+msgid "PRO option"
+msgstr "Opción PRO"
+
+msgid "Select avalilable roles to use tables"
+msgstr "Seleccione los roles que podrán utilizar tablas"
+
+msgid "Can't decode table rows from JSON."
+msgstr "No se pudieron decodificar las filas de la tabla dede JSON."
+
+msgid "Can't decode table meta from JSON."
+msgstr "No se pudieron decodificar los metadatos de la tabla desde JSON."
+
+msgid "Failed to save table meta data: %s"
+msgstr "No se pudieron guardar los metadatos: %s"
+
+msgid "The table with ID %d not exists."
+msgstr "La tabla con ID %d no existe."
+
+msgid "No value"
+msgstr "Sin valor"
+
+msgid ""
+"Mandatory attribute \"id\" is not specified. ' . 'Shortcode usage example: [%s "
+"id=\"{table_id}\"]"
+msgstr ""
+"No se ha especificado el atributo obligatorio \"id\". ' . 'Ejemplo de uso de "
+"código corto: [%s id=\"{table_id}\"]"
+
+msgid "There are not all shortcode's attributes specified. Usage example"
+msgstr ""
+"No se han especificado todod los atributos del código corto. Ejemplo de uso"
+
+msgid "Add table"
+msgstr "Añadir una tabla"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Created"
+msgstr "Creado"
+
+msgid "Shortcode"
+msgstr "Código corto"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Edit table \"%s\""
+msgstr "Editar la tabla \"%s\""
+
+msgid "Table History"
+msgstr "Historial de la tabla"
+
+msgid "Clone"
+msgstr "Duplicar"
+
+msgid "Export available only in PRO version."
+msgstr "La exportación sólo está disponible en la versión PRO."
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "Import available only in PRO version."
+msgstr "La importación sólo está disponible en la versión PRO."
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Clear"
+msgstr "Limpiar"
+
+msgid "Delete"
+msgstr "Suprimir"
+
+msgid "Click to rename the table and hit [Enter]"
+msgstr "Haga clic par cambiar el nombre y pulse [Enter]"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "Main"
+msgstr "Principal"
+
+msgid "Design"
+msgstr "Diseño"
+
+msgid "Features"
+msgstr "Características"
+
+msgid "Language and Text"
+msgstr "Idioma y texto"
+
+msgid "Table Elements"
+msgstr "Elementos de la tabla"
+
+msgid "Caption"
+msgstr "Título"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Description Text"
+msgstr "Texto de la descripción"
+
+msgid "Header"
+msgstr "Encabezado"
+
+msgid "Count of Header Rows"
+msgstr "Recuento de filas de encabezado"
+
+msgid "Count of table rows, which will be moved to header."
+msgstr "Recuento de filas de tabla, que se moverán al encabezado."
+
+msgid "Footer"
+msgstr "Pie"
+
+msgid "Fixed Header"
+msgstr "Encabezado fijo"
+
+msgid ""
+"Allows to fix the table's header during table scrolling. Important! Header "
+"option must be enabled for using this feature. Also you need to set Fixed Table "
+"Height to create a vertical scroll at the table. To see the work of this feature "
+"you should not use such Responsive Modes as Standard and Automatic columns "
+"hiding."
+msgstr ""
+"Permite filar el encabezado de la tabla durante el desplazamiento vertical. "
+"¡Importante! La opción de Encabezado debe estar habilitada para poder utilizar "
+"esta función. También es necesario establecer Altura de la tabla fija para que "
+"la tabla tenga desplazamiento vertical. Para que funcione no debe utilizar los "
+"modos Responsive como Estàndard u Ocultar columnas automáticamente."
+
+msgid "Fixed Footer"
+msgstr "Pie fijo"
+
+msgid ""
+"Allows to fix the table's footer during table scrolling. Important! Footer "
+"option must be enabled for using this feature. Also you need to set Fixed Table "
+"Height to create a vertical scroll at the table. To see the work of this feature "
+"you should not use such Responsive Modes as Standard and Automatic columns "
+"hiding."
+msgstr ""
+"Permite fijar el pie de la tabla durante el desplazamiento vertical. "
+"¡Importante! La opción de Pie debe estar habilitada para poder utilizar esta "
+"función. También es necesario establecer Altura de la tabla fija para que la "
+"taula tenga desplaçament vertical. Para que funcione no debe utilizar los modos "
+"Responsive com Estándar u Ocultar columnas automáticamente."
+
+msgid "Fixed Table Height"
+msgstr "Altura de tabla fija"
+
+msgid ""
+"Fixed table height in px. This value must be less than the original table height "
+"to create a vertical scroll, otherwise you will not see that the fixed header / "
+"footer exists."
+msgstr ""
+"Altura fija en px. Este valor debe ser inferior a la altura original de la tabla "
+"para crear un desplazamiento vertical, en caso contrario usted no verá que hay "
+"encabezado / peu fijo."
+
+msgid "Fixed Columns"
+msgstr "Columnas fijas"
+
+msgid ""
+"Allows to fix columns during table scrolling. Important! The fixing of columns "
+"suggests that the table will have a horisontal scroll type of responsive mode, "
+"otherwise you will not see that the fixed columns exist. So this feature is a "
+"kind of responsive mode on its own and will not work with such Responsive Modes "
+"as Standard and Automatic columns hiding."
+msgstr ""
+"Permite fijar las columnas durante el desplaçament de la tabla. ¡Importante! "
+"Fijar las columnas sugiere que la tabla tendrá un desplazamiento horizontal de "
+"tipo responsive, en caso contrario usted no verá que hay columnas fijas. Por "
+"tanto, esta característica es una especie de modo responsive por si misma y no "
+"funcionará con los modos Responsive como Estándar y Ocultar columnes "
+"automáticamente."
+
+msgid "Left Columns Count"
+msgstr "Recuento de columnas a la izquierda"
+
+msgid "Number of column to fix by left side of table."
+msgstr "Número de columna a  fijar en el lado izquierdo de la tabla."
+
+msgid "Right Columns Count"
+msgstr "Recuento de columnas a la derecha"
+
+msgid "Number of column to fix by right side of table."
+msgstr "Número de columna a  fijar en el lado derecho de la tabla."
+
+msgid "Auto Index"
+msgstr "Índice automático"
+
+msgid "Data Formats"
+msgstr "Formatos de los datos"
+
+msgid "Number Formatting"
+msgstr "Formato numérico"
+
+msgid "Set format of all numbers in the table"
+msgstr "Ajustar el formato de todos los números de la tabla"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Set output format for numbers e.g. 1,000.00, 1.00"
+msgstr "Establecer formato de salida para los números, por ejemplo, 1.000,00, 1,00"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Set output format for currencies e.g ($ 1,000.00, € 1.00)"
+msgstr ""
+"Establecer el formato de salida para las monedas, por ejemplo, ($ 1.000,00, € "
+"1,00)"
+
+msgid "Percent"
+msgstr "Porcentaje"
+
+msgid "Set output format for percent numbers e.g (0.00%, 1%)"
+msgstr ""
+"Establecer formato de salida para los porcentajes, por ejemplo, (0,00%, 1%)"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Set output format for date e.g (YYYY-MM-DD, MM.DD.YYYY)"
+msgstr ""
+"Establecer formato de salida para las fechas, por ejxemplo, (YYYY-MM-DD, MM.DD."
+"YYYY)"
+
+msgid "Auto Width"
+msgstr "Anchura automática"
+
+msgid ""
+"Calculate the columns width on frontend automatically or depending on the "
+"columns width on the Editor Tab."
+msgstr ""
+"Càlcula la anchura de las columnas en pantalla de forma automática o dependiendo "
+"de la anchura de las columnas en la pestaña del Editor."
+
+msgid "Compact Table"
+msgstr "Compactar tabla"
+
+msgid "Reduce the amount of white-space."
+msgstr "Reducir la cantidad de espacio en blanco."
+
+msgid "Disable Wrapping"
+msgstr "Desactivar el ajuste del texto"
+
+msgid ""
+"Disable wrapping of content in the table, so all text in the cells is on a "
+"single line."
+msgstr ""
+"Desactivar el ajuste del contenido de la tabla, de manera que todo el texto de "
+"las celdas esté en una sola línea."
+
+msgid "Paragraph Mode"
+msgstr "Modo de párrafo"
+
+msgid ""
+"This mode allows you to separate the content into paragraphs. To move to a new "
+"line in the cell - please press CTRL + Enter."
+msgstr ""
+"Este modo le permite separar el contenido en párrafos. Para passar a una nueva "
+"línea dentro de la celda, pulse CTRL + Enter."
+
+msgid "Responsive Mode"
+msgstr "Modo Responsive"
+
+msgid ""
+"Standard Responsive mode - in this mode if table content doesn’t fit all columns "
+"become under each other with one cell per row"
+msgstr ""
+"Modo Responsive estandar - en este modo si el contenido de la tabla no se "
+"ajusta, todas las columnas se sitúan una debajo de otra con una celda por fila"
+
+msgid ""
+"Automatic column hiding - in this mode table columns will collapse from right to "
+"left if content does not fit to parent container width"
+msgstr ""
+"Ocultar columnas automáticamente - en este modo las columnas de la tabla se "
+"reducirán de derecha a izquierda si el contenido no se ajusta a la anchura del "
+"contenedor padre"
+
+msgid ""
+"Horizontal scroll - in this mode scroll bar will be added if table overflows "
+"parent container width"
+msgstr ""
+"Desplazamiento horizontal - en este modo se añadirá una barra de desplazamiento "
+"si la tabla desborda la anchura del contenedor padre"
+
+msgid "Disable Responsivity - default table fluid layout"
+msgstr "Desactivar la responsividad - disposición fluida de la tabla por defecto"
+
+msgid "Standard Responsive mode"
+msgstr "Modo Responsive estándar"
+
+msgid "Automatic column hiding"
+msgstr "Ocultar columnas automáticamente"
+
+msgid "Horizontal scroll"
+msgstr "Desplazamiento horizontal"
+
+msgid "Disable Responsivity"
+msgstr "Desactivar la responsividad"
+
+msgid "Table Information"
+msgstr "Información de la tabla"
+
+msgid "Table information display field. %s"
+msgstr "Campo de visualización de la información de la tabla. % s"
+
+msgid "Borders"
+msgstr "Bordes"
+
+msgid ""
+"Cell - adds border around all four sides of each cell, Row – adds border only "
+"over and under each row. (i.e. only for the rows)."
+msgstr ""
+"Celda - añade bordes a los cuatro lados de cada celda, Fila – añade bordes sólo "
+"encima y debajo de cada fila. (es decir, solo para las filas)."
+
+msgid "Cell"
+msgstr "Celda"
+
+msgid "Row"
+msgstr "Fila"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Row Striping"
+msgstr "Bandas de las filas"
+
+msgid "Add automatic highlight of table rows for odd and even rows."
+msgstr "Anadir realce automático de filas pares e impares de la tabla."
+
+msgid "Highlighting by Mouseover"
+msgstr "Resalta al pasar el ratón"
+
+msgid "Row highlighting on mouse over."
+msgstr "Realzar la fila al pasar el ratón."
+
+msgid "Highlight the Order Column"
+msgstr "Realzar el orden de la columna"
+
+msgid "Highlight the column that the table data is currently ordered on."
+msgstr "Realzar la columna por la cual está ordenada la tabla."
+
+msgid "Sorting"
+msgstr "Ordenar"
+
+msgid "Sorting Order"
+msgstr "Tipo de orden"
+
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgid "Descending"
+msgstr "Descendente"
+
+msgid "Sorting Column"
+msgstr "Columna de ordenación"
+
+msgid "Number of column to apply sort order."
+msgstr "Número de columna para aplicar la ordenación."
+
+msgid "Pagination"
+msgstr "Paginación"
+
+msgid "Pagination menu length"
+msgstr "Longitud del menú de paginación"
+
+msgid "Pagination Size"
+msgstr "Tamaño de la paginación"
+
+msgid "Large"
+msgstr "Grande"
+
+msgid "Medium"
+msgstr "Mediana"
+
+msgid "Small"
+msgstr "Pequeña"
+
+msgid "Searching"
+msgstr "Buscando"
+
+msgid "Show only search result"
+msgstr "Mostrar sólo el resultado de la búsqueda"
+
+msgid "Table is empty by default and shows data only if search has a result."
+msgstr ""
+"La tabla está vacía por defecto y muestra datos sólo si la búsqueda tiene un "
+"resultado."
+
+msgid "Search by hidden fields"
+msgstr "Buscar en los campos ocultos"
+
+msgid "Strict matching"
+msgstr "Coincidencia estricta"
+
+msgid "Display only entries with matching characters in the beginning of words"
+msgstr ""
+"Mostrar solo entradas con caracteres coincidentes al principio de las palabras"
+
+msgid "Minimum characters"
+msgstr "Número de caracteres mínimo"
+
+msgid "Minimum search field characters to start search"
+msgstr "Número mínimo de caracteres para empezar la búsqueda del campo"
+
+msgid "Show empty table"
+msgstr "Mostrar la taula vacía"
+
+msgid "Show empty table, until you have entered the data to search field."
+msgstr ""
+"Mostrar la taula vacía, hasta que introduzca el criterio en el campo de búsqueda."
+
+msgid "Disallow Indexing"
+msgstr "No permitir indización"
+
+msgid "Disable indexing table for search bots"
+msgstr "Desactivar la indización de la tabla para los robots de búsqueda"
+
+msgid "Execute JS Script After Table Is Loaded"
+msgstr "Ejecutar script JS después de cargar la tabla"
+
+msgid "Allows to execute js script after table is loaded."
+msgstr ""
+"Permite la ejecución de scripts JS después de que la tabla se haya cargado."
+
+msgid "Paste script code here"
+msgstr "Pegar aquí el código del script"
+
+msgid "Overwrite Table Text"
+msgstr "Sobreescribir el texto de la tabla"
+
+msgid "No data available in table"
+msgstr "No hay datos disponibles en la tabla"
+
+msgid "Empty table"
+msgstr "Vaciar la tabla"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Mostraando _START_ to _END_ of _TOTAL_ entradas"
+
+msgid "Table info text"
+msgstr "Texto de info de la tabla"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Mostrando las entradas 0 a 0 de 0"
+
+msgid "Empty info text"
+msgstr "Vaciar el texto informativo"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtrado de _MAX_ entradas totales)"
+
+msgid "Filtered info text"
+msgstr "Texto informativo filtrado"
+
+msgid "Show _MENU_ entries"
+msgstr "Mostrar _MENU_ entradas"
+
+msgid "Length text"
+msgstr "Longitud del texto"
+
+msgid "Search:"
+msgstr "Buscar:"
+
+msgid "Search label"
+msgstr "Etiqueta de búsqueda"
+
+msgid "No matching records are found"
+msgstr "No se encontraron registros coincidentes"
+
+msgid "Zero records"
+msgstr "Cero registros"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Select language"
+msgstr "Seleccionar el idioma"
+
+msgid "Loading your table, please wait..."
+msgstr "Se está cargando la tabla, espere..."
+
+msgid "Bold"
+msgstr "Negrita"
+
+msgid "Italic"
+msgstr "Cursiva"
+
+msgid "Underline"
+msgstr "Subrayado"
+
+msgid "Text color"
+msgstr "Color del texto"
+
+msgid "Background color"
+msgstr "Color de fondo"
+
+msgid "Alignment"
+msgstr "Alineación"
+
+msgid "Vertical alignment"
+msgstr "Alineación vertical"
+
+msgid "Word wrapping"
+msgstr "Ajuste de palabra"
+
+msgid "Create a link"
+msgstr "Crear un enlace"
+
+msgid "Insert picture"
+msgstr "Insertar una imagen"
+
+msgid "Comment"
+msgstr "Comentario"
+
+msgid "Formats"
+msgstr "Formatos"
+
+msgid ""
+"Make the cell hidden. <br /><br />To display the table correctly, please, add "
+"hidden property for the whole row or the whole column of table."
+msgstr ""
+"Ocultar la columna. <br /><br />Para mostrar la tabla correctamente, añada una "
+"propiedad oculta para toda la fila o toda la columna de la tabla."
+
+msgid "Get PRO version"
+msgstr "Obtener la versión PRO"
+
+msgid "Name of Cloned Table"
+msgstr "Nombre de la copia de la tabla"
+
+msgid "Editable fields"
+msgstr "Campos editables"
+
+msgid "PRO version"
+msgstr "Versión PRO"
+
+msgid ""
+"Please be advised that this option is available only in %s. You can %s today and "
+"get this and other PRO option for your tables!"
+msgstr ""
+"Recuerde que esta opción sólo está disponible en %s. Puede %s hoy y obtener esta "
+"y otras opciones PRO para sus tables!"
+
+msgid "Insert url"
+msgstr "Insertar url"
+
+msgid "Link Text"
+msgstr "Texto del enlace"
+
+msgid "Open link in a new tab"
+msgstr "Abrir el enlace en una pestaña nueva"
+
+#~ msgid ""
+#~ "You have no diagrams for now. Go to %s -> select the required data in the "
+#~ "table and click on âAdd diagramâ button. Also please check the tutorial %s"
+#~ msgstr ""
+#~ "Por ahora no tiene ningún diagrama. Vaya a %s -> seleccione los datos "
+#~ "necessarios para la tabla y haga clic en el botón \"Añadir diagrama\". "
+#~ "También puede comprobar el tutorial %s"
+
+#~ msgid "Select file type to export table"
+#~ msgstr "Seleccionar el tipo de archivo para exportar la tabla"
+
+#~ msgid ""
+#~ "Itâs never been so easy to create and manage pricing and comparison tables "
+#~ "with table builder. Any element of the table can be customise with mouse "
+#~ "click."
+#~ msgstr ""
+#~ "Nunca fue tan fácil crear y gestionar tablas de precios y de comparación con "
+#~ "el generador de tablas. Cualquier elemento de la tabla puede personalitzarse "
+#~ "con un clic del ratón."
+
+#~ msgid "Undefined"
+#~ msgstr "Sin definir"
+
+#~ msgid ""
+#~ "Thank you for choosing our Data Tables plugin. Letâs make a quick tour "
+#~ "through features and main options of the plugin. Just click âNextâ button."
+#~ msgstr ""
+#~ "Gracias por escoger nuestro plugin Data Tables. Demos un vistazo rápido a las "
+#~ "características y principales opciones del complemento. Haga clic en el botón "
+#~ "\"Siguiente\"."
+
+#~ msgid ""
+#~ "Click on the button âAdd new tableâ and see the first form, which you need to "
+#~ "fill in. A very simple step!"
+#~ msgstr ""
+#~ "Haga clic en el botón \"Añadir nueva tabla\" y vea el primer formulario, que "
+#~ "debe rellenar. ¡Un paso muy sencillo!"
+
+#~ msgid ""
+#~ "Fill the table title and choose the number of columns and rows. Donât worry, "
+#~ "you will be able to change it (add or delete some) later!"
+#~ msgstr ""
+#~ "Rellene el nombre de la tabla y escoja el número de columnas y filas. No "
+#~ "tema, ¡podrá canviarlo (añadir o quitar) más tarde!"
+
+#~ msgid ""
+#~ "Main Settings of your first table. Here you can see main settings which are "
+#~ "conected with languages, table elements, styling and other different editors "
+#~ "settings. Generally itâs a tab where you can edit the visual part of the "
+#~ "whole table, switch on/off the responsive mode, set pagination etc."
+#~ msgstr ""
+#~ "Configuraciones de su primera tabla. Aquí puede ver la configuración "
+#~ "principal, que está relacionada con los idiomas, elementos de la tabla, "
+#~ "estilos y otras configuraciones diferentes del editor. En general se trata de "
+#~ "una pestaña donde puede editar la parte visual de toda la tabla, activar/"
+#~ "desactivar el modo responsive, establecer la paginación, etc."
+
+#~ msgid ""
+#~ "<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - "
+#~ "youâll have to enter license key (you can find it in your personal account on "
+#~ "our site). Go to the License tab and enter your email and license key. Once "
+#~ "you have activated your PRO license - you can use all its advanced options. "
+#~ "<br><br>Thatâs all. From this moment you can use your Data Table without any "
+#~ "doubt. But if you still have some question - do not hesitate to contact us "
+#~ "through our <a href=\"https://supsystic.com/contact-us/\">internal support</"
+#~ "a> or on our <a href=\"http://supsystic.com/forum/datatable-plugin/"
+#~ "\">Supsystic Forum.</a> Besides you can always describe your questions on <a "
+#~ "href=\"https://wordpress.org/support/plugin/data-tables-generator-by-supsystic"
+#~ "\">WordPress Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It "
+#~ "will be nice if you`ll help us and boost plugin with <a href=\"https://"
+#~ "wordpress.org/support/view/plugin-reviews/data-tables-generator-by-supsystic?"
+#~ "rate=5#postform/\">Five Stars rating on WordPress.org.</a> <br><br>We hope "
+#~ "that you like our Data Table plugin and wish you all the best! Good luck!"
+#~ msgstr ""
+#~ "<b>Actualización</b> <br>Cuando haya comprado la versión Premium del "
+#~ "complemento - deberá introducir la clave de licencia (la puede encontrar en "
+#~ "su cuenta personal de nuestro sitio web). Vaya a la pestaña de licencia e "
+#~ "introduzca su correo electrónico y la clave de licencia. Una vez haya "
+#~ "activado la licencia PRO - podrá utilizar todaes sus opciones avanzadas. "
+#~ "<br><br>Esto es todo. A partir de este momento podrá utilizar su Data Table "
+#~ "sin ningún tipo de duda. Pero si aun tiene alguna pregunta - no dude en "
+#~ "ponerse en contacto con nosotros a través de nuestro <a href=\"https://"
+#~ "supsystic.com/contact-us/\">soporte interno</a> o en nuestro <a href="
+#~ "\"http : //supsystic.com/forum/datatable-plugin/\">Foro Supsystic</a>. "
+#~ "Además, siempre puede dirigir sus preguntas al <a href=\"https://wordpress."
+#~ "org/support/plugin/data-tables -generador per supsystic\">Foru de WordPress.</"
+#~ "a> <br><br><b>Le gusta este complemento?</b> <br>Nos gustaría que nos ajudara "
+#~ "a impulsar el complemento con una <a href=\"https://wordpress.org/support/"
+#~ "view/plugin-reviews/data-tables-generator-by-supsystic?rate=5#postform/"
+#~ "\">Calificación de Cinco Estrellas en WordPress.org.</a> <br><br>¡Esperamos "
+#~ "que le gueste nuestro complemento Data Tables y le deseamos lo mejor! ¡Buena "
+#~ "suerte!"
+
+#~ msgid ""
+#~ "Actually, Data Table plugin is very simple and has a lot of different options "
+#~ "at the same time. Thatâs why when you close this article I will show you the "
+#~ "main of them, but the very detailed one you can find on our site. I hope that "
+#~ "you will have no questions after even this small guide. For the first time we "
+#~ "will help you to install and create your first table, but if you need help - "
+#~ "contact us through the internal support"
+#~ msgstr ""
+#~ "En realidad, el complemento Data Tables es muy simple y tiene un montón de "
+#~ "opciones diferentes al mismo tiempo. Es por esto que cuando cierre este "
+#~ "artículo le mostraremos las principales, pero podrá encontrar más detalles en "
+#~ "nuestro sitio web. Esperamos que después de esta pequeña guía no tendrá "
+#~ "ninguna duda. Si usted es usuario novato, le ayudaremos a instalar y crear su "
+#~ "primera tabla, pero si necesita ayuda - póngase en contacto con nosotros a "
+#~ "través del soporte interno"
+
+#~ msgid ""
+#~ "We really like what we do and feel responsibility for our âchildâ. Constantly "
+#~ "we are trying to change something or update the new features, but sometimes "
+#~ "you may have a situation when you need help or have a problem. We can offer "
+#~ "you two kinds of help: "
+#~ msgstr ""
+#~ "Nos gusta lo que hacemos y nos sentimos responsables de nuestras \"criaturas"
+#~ "\". Constantmente estamos tratando de cambiar alguna cosa o actualizar las "
+#~ "nuevas características, pero a veces usted puede encontrarse en una situación "
+#~ "en la que necesite ayuda o tenga un problema. Le podemos ofrecer dos tipos de "
+#~ "ayuda: "
+
+#~ msgid "Feel free to contact us and donât worry, everything gonna be ok!"
+#~ msgstr ""
+#~ "No dude en ponerse en contacto con nosotros y no se preocupe, ¡todo irá bien!"
+
+#~ msgid ""
+#~ "Select a cell and start typing. In a cell, type an equal sign â=â to start "
+#~ "the formula."
+#~ msgstr ""
+#~ "Seleccione una celda y empiece a escribir. En una celda, escriba un signo "
+#~ "igual \"=\" para empezar la fórmula."
+
+#~ msgid "Can not find table with id %s"
+#~ msgstr "No se pudo encontrar ninguna tabla con id %s"
+
+#~ msgid "Clone Table"
+#~ msgstr "Duplicar la tabla"
+
+#~ msgid "Set output format for currencies e.g ($ 1,000.00, â¬ 1.00)"
+#~ msgstr ""
+#~ "Establecer formato de salida para las monedas, por ejemplo, ($ 1.000,00, € "
+#~ "1,00)"
+
+#~ msgid "Styling"
+#~ msgstr "Estilo"
+
+#~ msgid ""
+#~ "Cell - adds border around all four sides of each cell, Row â adds border only "
+#~ "over and under each row. (i.e. only for the rows)."
+#~ msgstr ""
+#~ "Celda - añade bordes a los cuatro lados de cada celda, Fila – añade boardes "
+#~ "sólo encima y debajo de cada fila. (es decir, sólo para las filas)."
+
+#~ msgid "Highlighting"
+#~ msgstr "Realce"
+
+#~ msgid ""
+#~ "Standard Responsive mode - in this mode if table content doesnât fit all "
+#~ "columns become under each other with one cell per row"
+#~ msgstr ""
+#~ "Modo Responsive estandar - en este modo si el contenido de la tabla no se "
+#~ "ajusta a todas las columnas se sitúan una debajo de otra con una celda por "
+#~ "fila"
+
+#~ msgid "Clear Data"
+#~ msgstr "Limpiar los datos"
+
+#~ msgid "Table elements"
+#~ msgstr "Elementos de la tabla"
+
+#~ msgid "Editor settings"
+#~ msgstr "Configuración del editor"
+
+#~ msgid "Use Number Format"
+#~ msgstr "Utilitzar formato numérico"
+
+#~ msgid "Number Format"
+#~ msgstr "Formato numérico"
+
+#~ msgid "Currency Format"
+#~ msgstr "Formato de moneda"
+
+#~ msgid "Percent Format"
+#~ msgstr "Formato de porcentaje"
+
+#~ msgid "Date Format"
+#~ msgstr "Formato de fecha"
+
+#~ msgid "Overwrite table text"
+#~ msgstr "Sobreescribir el texto de la tabla"
+
+#~ msgid "Info text"
+#~ msgstr "Texto informativo"
+
+#~ msgid "Info"
+#~ msgstr "Información"
+
+#~ msgid "Compact"
+#~ msgstr "Compacto"

@@ -1,0 +1,1239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+
+msgid "An error has occurred"
+msgstr "﻿Παρουσιάστηκε σφάλμα"
+
+msgid "Overview"
+msgstr "Επισκόπηση"
+
+msgid "Add new table"
+msgstr "Προσθέστε νέο πίνακα"
+
+msgid "Tables"
+msgstr "Πίνακες"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "License"
+msgstr "Αδεια"
+
+msgid "Featured Plugins"
+msgstr "Προβεβλημένα πρόσθετα"
+
+msgid "Table title"
+msgstr "Τίτλος πίνακα"
+
+msgid "Columns"
+msgstr "Στήλες"
+
+msgid "Rows"
+msgstr "Σειρές"
+
+msgid "You can change number of Columns and Rows later"
+msgstr "Μπορείτε να αλλάξετε τον αριθμό των Στήλων και Γραμμών αργότερα"
+
+msgid "Invalid range specified."
+msgstr "Έχει καθοριστεί μη έγκυρο εύρος."
+
+msgid "Failed to find diagram %s."
+msgstr "Αποτυχία εύρεσης διαγράμματος %s."
+
+msgid "Failed to find table %s."
+msgstr "Αποτυχία εύρεσης πίνακα %s."
+
+msgid "Failed to get table rows: %s"
+msgstr "Αποτυχία δημιουργίας γραμμών πίνακα: %s"
+
+msgid "Diagram"
+msgstr "Διάγραμμα"
+
+msgid "Type"
+msgstr "Τύπος"
+
+msgid "Area Chart"
+msgstr "Γράφημα περιοχής"
+
+msgid "Line Chart"
+msgstr "Γράφημα γραμμής"
+
+msgid "Pie Chart"
+msgstr "Γράφημα πίτας"
+
+msgid "Bar Chart"
+msgstr "Ραβδόγράφημα"
+
+msgid "Column Chart"
+msgstr "Γράφημα στήλης"
+
+msgid "Bubble Chart"
+msgstr "Γράφημα φυσαλίδων"
+
+msgid "Switch rows / columns"
+msgstr "Εναλλαγή γραμμών / στηλών"
+
+msgid "Use first row as headers"
+msgstr "Χρήση πρώτης σειράς ως κεφαλίδες"
+
+msgid "Use first column as labels"
+msgstr "Χρήση πρώτης στήλης ως ετικέτες"
+
+msgid "Width"
+msgstr "Πλάτος"
+
+msgid "Set the value in px or %, for example, 400 (equals to 400px) or 90%. Leave this field empty to use default width value."
+msgstr "Ορίστε την τιμή σε px ή %, για παράδειγμα 400 (ίση με 400px) ή 90%. Αφήστε αυτό το πεδίο κενό για να χρησιμοποιήσετε την προεπιλεγμένη τιμή πλάτους."
+
+msgid "Height"
+msgstr "Ύψος"
+
+msgid "Set the value in px or %, for example, 200 (equals to 200px) or 80%. Leave this field empty to use default height value."
+msgstr "Ορίστε την τιμή σε px ή %, για παράδειγμα 200 (ίση με 200px) ή 80%. Αφήστε αυτό το πεδίο κενό για να χρησιμοποιήσετε την προεπιλεγμένη τιμή ύψους."
+
+msgid "Remove"
+msgstr "Αφαιρώ"
+
+msgid "Legend Position"
+msgstr "Θέση Υπομνήματος"
+
+msgid "No legend"
+msgstr "Δεν υπάρχει Υπόμνημα"
+
+msgid "Above the chart"
+msgstr "Πάνω από το γράφημα"
+
+msgid "Below the chart"
+msgstr "Κάτω από το γράφημα"
+
+msgid "Left of the chart"
+msgstr "Αριστερά από το γράφημα"
+
+msgid "Right of the chart"
+msgstr "Δεξιά του γραφήματος"
+
+msgid "Lines between slices and values"
+msgstr "Γραμμές μεταξύ φετών και τιμών"
+
+msgid "Inside by the top left corner"
+msgstr "Μέσα από την πάνω αριστερή γωνία"
+
+msgid "Diagram Title"
+msgstr "Τίτλος διαγράμματος"
+
+msgid "Axis X Title"
+msgstr "Τίτλος του Άξονα Χ"
+
+msgid "Axis Y Title"
+msgstr "Τίτλος Άξονα Υ"
+
+msgid "3D Diagram"
+msgstr "3D Διάγραμμα"
+
+msgid "No"
+msgstr "Όχι"
+
+msgid "Yes"
+msgstr "Ναί"
+
+msgid "Text on Slice"
+msgstr "Κείμενο σε φέτα - κομμάτι"
+
+msgid "Percentage of slice size out of total"
+msgstr "Ποσοστό του μεγέθους φέτας από το σύνολο"
+
+msgid "Quantitative value of slice"
+msgstr "Ποσοτική τιμή της φέτας"
+
+msgid "Name of slice"
+msgstr "Όνομα φέτας - κομματιού"
+
+msgid "Not displaying"
+msgstr "Δεν εμφανίζεται"
+
+msgid "Use custom colors"
+msgstr "Χρήση προσαρμοσμένων χρωμάτων"
+
+msgid "Select chart type"
+msgstr "Επιλέξτε τύπο γραφήματος"
+
+msgid "Editor tab"
+msgstr "Εργαλείο επεξεργασίας"
+
+msgid "how to create Diagrams with Data Table plugin"
+msgstr "Πώς να δημιουργήσετε διαγράμματα με το πρόσθετο των πινάκων δεδομένων"
+
+msgid "You have no diagrams for now. Go to %s -> select the required data in the table and click on “Add diagram” button. Also please check the tutorial %s"
+msgstr ""
+"Δεν έχετε διαγράμματα για τώρα. Μεταβείτε στο %s -> επιλέξτε τα απαιτούμενα δεδομένα στον πίνακα και κάντε κλικ στο κουμπί \"Προσθήκη διαγράμματοςâ\". Επίσης, ελέγξτε το φροντιστήριο %s"
+
+msgid "Add diagram"
+msgstr "Προσθήκη διαγράμματος"
+
+msgid "The table ID %s not found."
+msgstr "Το ID πίνακα %s δεν βρέθηκε."
+
+msgid "Unsupported export type: %s."
+msgstr "Μη υποστηριζόμενος τύπος εξαγωγής: %s."
+
+msgid "Frontend Export"
+msgstr "Εξώφυλλο εξαγωγής"
+
+msgid "Allow export table to pdf, csv, xls on frontend"
+msgstr "Να επιτρέπεται ο πίνακας εξαγωγής σε pdf, csv, xls στο frontend"
+
+msgid "Export Page Orientation"
+msgstr "Εξαγωγή σελίδας Προσανατολισμού"
+
+msgid "Choose the page orientation for PDF export file"
+msgstr "Επιλέξτε τον προσανατολισμό της σελίδας για το αρχείο εξαγωγής PDF"
+
+msgid "Portrait"
+msgstr "Πορτρέτο"
+
+msgid "Landscape"
+msgstr "Οριζόντιο"
+
+msgid "Export Logo"
+msgstr "Εξαγωγή Λογότυπου"
+
+msgid "Automticaly appends selected logo for output pdf or printing"
+msgstr "Αυτόματα προσθέτει το επιλεγμένο λογότυπο για την παραγωγή pdf ή την εκτύπωση"
+
+msgid "Logo Position"
+msgstr "Θέση λογότυπου"
+
+msgid "Above table"
+msgstr "Πάνω από τον πίνακα"
+
+msgid "Below table"
+msgstr "Κάτω από τον πίνακα"
+
+msgid "Logo Alignment"
+msgstr "Ευθυγράμμιση λογότυπου"
+
+msgid "Left"
+msgstr "Αριστερά"
+
+msgid "Center"
+msgstr "Κέντρο"
+
+msgid "Right"
+msgstr "Δεξιά"
+
+msgid "Export Data to the File"
+msgstr "Εξαγωγή δεδομένων στο αρχείο"
+
+msgid "File Type"
+msgstr "Τύπος αρχείου"
+
+msgid "Failed to import selected file: Wrong spreadsheet id or url"
+msgstr "Αποτυχία εισαγωγής επιλεγμένου αρχείου: Λάθος id ή διεύθυνση URL υπολογιστικού φύλλου"
+
+msgid "Failed to import data from the uploaded file"
+msgstr "Αποτυχία εισαγωγής δεδομένων από το μεταφορτωμένο αρχείο"
+
+msgid "Import error"
+msgstr "Σφάλμα εισαγωγής"
+
+msgid "Failed to import selected file"
+msgstr "Αποτυχία εισαγωγής επιλεγμένου αρχείου"
+
+msgid "Automatically import from Google Tables"
+msgstr "Αυτόματη εισαγωγή από τους πίνακες Google"
+
+msgid "Link from Google Tables"
+msgstr "Σύνδεση από τους πίνακες Google"
+
+msgid "Import Data to the Table"
+msgstr "Εισαγωγή δεδομένων στον πίνακα"
+
+msgid "Import Settings"
+msgstr "Ρυθμίσεις εισαγωγής"
+
+msgid "Delimiter"
+msgstr "Διαχωριστικό"
+
+msgid "Google Spreadsheet Url"
+msgstr "Διεύθυνση URL του υπολογιστικού φύλλου Google"
+
+msgid "Important! Please, check the sharing settings of your spreadsheet: it must be accessed to edit for everyone who has link. In other case the data will not import to table."
+msgstr ""
+"Σημαντικό! Παρακαλούμε, ελέγξτε τις ρυθμίσεις κοινής χρήσης του φύλλου σας: Πρέπει να έχετε πρόσβαση για να επεξεργαστείτε για τον καθένα που έχει σύνδεσμο. Σε άλλες περιπτώσεις, τα δεδομένα "
+"δεν θα εισαχθούν στον πίνακα."
+
+msgid "Append to existing table data"
+msgstr "Προσάρτηση στα υπάρχοντα δεδομένα πίνακα"
+
+msgid "Failed to upload selected file"
+msgstr "Αποτυχία μεταφόρτωσης του επιλεγμένου αρχείου"
+
+msgid "Activate License"
+msgstr "Ενεργοποίηση άδειας"
+
+msgid "Renew License"
+msgstr "Ανανεώσετε την άδεια"
+
+msgid "Slider by Supsystic"
+msgstr "Slider από Supsystic"
+
+msgid "Congratulations! You have successfully installed and activated PRO version of %s plugin."
+msgstr "Συγχαρητήρια! Έχετε εγκαταστήσει και ενεργοποιήσει με επιτυχία την PRO έκδοση του plugin %s ."
+
+msgid "Your premium support is expired in %s days"
+msgstr "Η υποστήριξη Premium σας έχει λήξει στις %s ημέρες"
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr "Δεν θα είστε σε θέση να ενημερώσετε έκδοση Pro σας με ληγμένη άδεια"
+
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+msgid "Save"
+msgstr "Αποθηκεύσετε"
+
+msgid "Failed to save table rows: %s"
+msgstr "Αποτυχία αποθήκευσης σειρών πινάκων: %s"
+
+msgid "Save Editable Fields"
+msgstr "Αποθήκευση επεξεργάσιμων πεδίων"
+
+msgid "Allows to save data to the table through editable fields."
+msgstr "Επιτρέπει την αποθήκευση δεδομένων στον πίνακα μέσω επεξεργάσιμων πεδίων."
+
+msgid "Use Editable Fields for Logged In Users Only"
+msgstr "Χρήση επεξεργάσιμων πεδίων μόνο για συνδεδεμένους χρήστες"
+
+msgid "Allows to use editable fields only for logged in users."
+msgstr "Επιτρέπει τη χρήση επεξεργάσιμων πεδίων μόνο για συνδεδεμένους χρήστες."
+
+msgid "Use Editable Fields for Current Roles"
+msgstr "Χρησιμοποιήστε επεξεργάσιμα πεδία για τρέχοντες ρόλους"
+
+msgid "Allows to use editable fields only for users with selected roles. If there are no chosen roles - all logged in users will have ability to use the editable fields."
+msgstr ""
+"Επιτρέπει τη χρήση επεξεργάσιμων πεδίων μόνο για χρήστες με επιλεγμένους ρόλους. Αν δεν υπάρχουν επιλεγμένοι ρόλοι, όλοι οι συνδεδεμένοι χρήστες θα έχουν τη δυνατότητα να χρησιμοποιούν τα "
+"επεξεργάσιμα πεδία."
+
+msgid "Select roles"
+msgstr "Επιλέξτε ρόλους"
+
+msgid "Enable Table History"
+msgstr "Ενεργοποίηση ιστορικού πίνακα"
+
+msgid "Select User to display its table"
+msgstr "Επιλέξτε Χρήστη για να εμφανιστεί ο πίνακας"
+
+msgid "Note that the table may look a little different depending on your theme style."
+msgstr "Σημειώστε ότι ο πίνακας μπορεί να φαίνεται λίγο διαφορετικός, ανάλογα με το στυλ του θέματος."
+
+msgid "Add editable field"
+msgstr "Προσθέστε επεξεργάσιμο πεδίο"
+
+msgid "Save as"
+msgstr "Αποθήκευση ως"
+
+msgid "Diagrams"
+msgstr "Διαγράμματα"
+
+msgid "Get PRO"
+msgstr "Αποκτήστε έκδοση PRO"
+
+msgid "Popup Plugin"
+msgstr "Αναδυόμενα παράθυρα (Popup) Plugin"
+
+msgid "The Best WordPress PopUp option plugin to help you gain more subscribers, social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+"Το καλύτερο plugin επιλογής WordPress PopUp για να σας βοηθήσει να αποκτήσετε περισσότερους συνδρομητές, κοινωνικούς οπαδούς ή διαφήμιση. Ανταποκρινόμενα αναδυόμενα παράθυρα με φιλικές "
+"επιλογές."
+
+msgid "Slider Plugin"
+msgstr "Slider Plugin"
+
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select images from your WordPress Media Library, Flickr, Instagram or Facebook, set slide captions, links and SEO fields all "
+"from one page."
+msgstr ""
+"Η δημιουργία slideshows με το Slider plugin είναι γρήγορη και εύκολη. Απλά επιλέξτε εικόνες από τη βιβλιοθήκη του WordPress Media, το Flickr, το Instagram ή το Facebook, ορίστε λεζάντες "
+"διαφανειών, συνδέσμους και πεδία SEO όλα από μια σελίδα."
+
+msgid "Photo Gallery Plugin"
+msgstr "Gallery Φωτογραφιών Plugin"
+
+msgid "Photo Gallery Plugin with a great number of layouts will help you to create quality respectable portfolios and image galleries."
+msgstr "Το Photo Gallery Plugin με μεγάλο αριθμό σχεδιαγραμμάτων θα σας βοηθήσει να δημιουργήσετε ποιοτικά αξιοσέβαστα χαρτοφυλάκια και γκαλερί εικόνων."
+
+msgid "Data Tables Generator"
+msgstr "Γεννήτρια Πινάκων Δεδομένων"
+
+msgid "Create and manage beautiful data tables with custom design. No HTML knowledge is required."
+msgstr "Δημιουργήστε και διαχειριστείτε όμορφους πίνακες δεδομένων με προσαρμοσμένο σχεδιασμό. Δεν απαιτείται γνώση HTML."
+
+msgid "Social Share Buttons"
+msgstr "Κουμπιά Social Προβολής"
+
+msgid "Social share buttons to increase social traffic and popularity. Social sharing to Facebook, Twitter and other social networks."
+msgstr ""
+"Κουμπιά κοινής χρήσης στα Κοινωνικά δίκτυα για την αύξηση της κοινωνικής επισκεψιμότητας και της δημοτικότητας. Κοινή χρήση κοινωνικών δικτύων στο Facebook, στο Twitter και σε άλλα κοινωνικά "
+"δίκτυα."
+
+msgid "Live Chat Plugin"
+msgstr "Plugin Ζωντανής Συνομιλίας Live Chat"
+
+msgid "Be closer to your visitors and customers with Live Chat Support by Supsystic. Help you visitors, support them in real-time with exceptional Live Chat WordPress plugin by Supsystic."
+msgstr ""
+"Ελάτε πιο κοντά στους επισκέπτες και τους πελάτες σας με Live Chat Support από την Supsystic. Βοηθήστε τους επισκέπτες, υποστηρίξτε τους σε πραγματικό χρόνο με το εξαιρετικό Live Chat "
+"WordPress plugin από την Supsystic."
+
+msgid "Pricing Table"
+msgstr "Πίνακες Τιμολόγησης"
+
+msgid "It’s never been so easy to create and manage pricing and comparison tables with table builder. Any element of the table can be customise with mouse click."
+msgstr ""
+
+msgid "Coming Soon Plugin"
+msgstr "Έρχεται σύντομα (Coming Soon) Plugin"
+
+msgid "Coming soon page with drag-and-drop builder or under construction | maintenance mode to notify visitors and collects emails."
+msgstr "Σύντομα Κοντά σας η σελίδα με build-drop builder ή υπό κατασκευή | Λειτουργία συντήρησης για την ενημέρωση των επισκεπτών και τη συλλογή μηνυμάτων ηλεκτρονικού ταχυδρομείου."
+
+msgid "Backup Plugin"
+msgstr "Δημιουργίας αντιγράφων ασφαλείας Plugin"
+
+msgid "Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr ""
+"Δημιουργία αντιγράφων ασφαλείας και επαναφορά του WordPress Plugin από το Supsystic παρέχει γρήγορη και απρόσκοπτη δημιουργία αρχείων DropBox, FTP, Amazon S3 και δημιουργία αντιγράφων "
+"ασφαλείας του Google Drive για τον ιστότοπό σας WordPress."
+
+msgid "Google Maps Easy"
+msgstr ""
+
+msgid "Display custom Google Maps. Set markers and locations with text, images, categories and links. Customize google map in a simple and intuitive way."
+msgstr "Εμφάνιση προσαρμοσμένων Χαρτών Google. Ορίστε δείκτες και τοποθεσίες με κείμενο, εικόνες, κατηγορίες και συνδέσμους. Προσαρμόστε το google χάρτη με έναν απλό και διαισθητικό τρόπο."
+
+msgid "Digital Publication Plugin"
+msgstr ""
+
+msgid "Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr "Ψηφιακής Δημοσίευσης WordPress Plugin από την Supysystic για Περιοδικά, Κατάλογους, Χαρτοφυλάκια. Μετατρέψτε εικόνες, δημοσιεύσεις, PDF στο βιβλίο αναστροφής σελίδας."
+
+msgid "Contact Form Plugin"
+msgstr "Φόρμα επικοινωνίας Plugin"
+
+msgid "One of the best plugin for creating Contact Forms on your WordPress site. Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr "Ένα από τα καλύτερα πρόσθετα για τη δημιουργία εντύπων επικοινωνίας στον ιστότοπό σας WordPress. Μεταβλητές γραμματοσειρές, υπόβαθρα, μια επιλογή για την προσθήκη πεδίων κ.λπ."
+
+msgid "Newsletter Plugin"
+msgstr "Ενημερωτικά δελτία Plugin"
+
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will have no need to control it or send them manually. No coding, hard skills or long hours of customizing are required."
+msgstr ""
+"Supsystic Newsletter plugin για την αυτόματη αποστολή των επιστολών σας. Δεν θα χρειαστεί να τον ελέγξετε ή να τα στείλετε με το χέρι. Δεν απαιτείται κωδικοποίηση, σκληρές δεξιότητες ή "
+"πολλές ώρες προσαρμογής."
+
+msgid "Membership by Supsystic"
+msgstr "Ιδιότητα μέλους by Supsystic"
+
+msgid "Create online membership community with custom user profiles, roles, FrontEnd registration and login. Members Directory, activity, groups, messages."
+msgstr "Δημιουργία κοινότητας μέλους με προσαρμοσμένα προφίλ χρηστών, ρόλους, εγγραφή FrontEnd και σύνδεση. Κατάλογος μελών, δραστηριότητα, ομάδες, μηνύματα."
+
+msgid "Your message successfully send. We contact you soon."
+msgstr "Το μήνυμά σας στάλθηκε με επιτυχία. Θα επικοινωνήσουμε μαζί σας σύντομα."
+
+msgid "No detected"
+msgstr "Δεν εντοπίστηκαν"
+
+msgid "Step-by-step Tutorial"
+msgstr "Βήμα προς βήμα Εκμάθηση"
+
+msgid "Begin Step-by-step Tutorial"
+msgstr "Ξεκινήστε βήμα-βήμα Εκμάθηση"
+
+msgid "Name"
+msgstr "Ονομα"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Website"
+msgstr "Ιστότοπος"
+
+msgid "Subject"
+msgstr "Τίτλος"
+
+msgid "Topic"
+msgstr "Θέμα"
+
+msgid "Plugin options"
+msgstr "Επιλογές Plugin"
+
+msgid "Report a bug"
+msgstr "Αναφορά σφάλματος"
+
+msgid "Require a new functionallity"
+msgstr "Απαίτηση μιας νέα λειτουργικότητας"
+
+msgid "Other"
+msgstr "Αλλα"
+
+msgid "Message"
+msgstr "Μήνυμα"
+
+msgid "Hello Supsystic Team!"
+msgstr "Γεια σου ομάδα Supsystic !"
+
+msgid "Some errors occurred while sending mail please send your message trough this contact form:"
+msgstr "Παρουσιάστηκαν ορισμένα σφάλματα κατά την αποστολή του μηνύματος, στείλτε το μήνυμά σας μέσω αυτής της φόρμας επικοινωνίας:"
+
+msgid "Next"
+msgstr "Επόμενο"
+
+msgid "Close Tutorial"
+msgstr "Κλείσιμο Εκμάθησης"
+
+msgid "Welcome to Data Tables plugin by Supsystic!"
+msgstr "Καλώς ορίσατε στο πρόσθετο Πίνακες Δεδομένων από το Supsystic!"
+
+msgid "Thank you for choosing our Data Tables plugin. Just click here to start using it - and we will show you it's possibilities and powerfull features."
+msgstr ""
+"Σας ευχαριστούμε που επιλέξατε το plugin μας Πίνακες Δεδομένων. Απλά κάντε κλικ εδώ για να αρχίσετε να το χρησιμοποιείτε - και θα σας δείξουμε τις δυνατότητες και τα ισχυρά χαρακτηριστικά."
+
+msgid "Hello! This is the Data Tables by Supsystic"
+msgstr "Γεια σας! Αυτοί είναι οι Πίνακες Δεδομένων από το Supsystic"
+
+msgid "Thank you for choosing our Data Tables plugin. Let’s make a quick tour through features and main options of the plugin. Just click “Next” button."
+msgstr ""
+
+msgid "Create your first table"
+msgstr "Δημιουργήστε τον πρώτο σας πίνακα"
+
+msgid "Click on the button “Add new table” and see the first form, which you need to fill in. A very simple step!"
+msgstr ""
+
+msgid "Enter the name and create Data Table"
+msgstr "Καταχωρίστε το όνομα και δημιουργήστε Πίνακα Δεδομένων"
+
+msgid "Fill the table title and choose the number of columns and rows. Don’t worry, you will be able to change it (add or delete some) later!"
+msgstr ""
+
+msgid ""
+"Main Settings of your first table. Here you can see main settings which are conected with languages, table elements, styling and other different editors settings. Generally it’s a tab where "
+"you can edit the visual part of the whole table, switch on/off the responsive mode, set pagination etc."
+msgstr ""
+
+msgid "Editor"
+msgstr "Επεξεργαστής"
+
+msgid ""
+"The most important part of settings - Editor. Here you can fill all the cells of your table, add some colors, play with fonts and sizes. This insert also allows you to change the alignment "
+"of your font, add formats (percents, currency), images and links to make your table more visual attraction."
+msgstr ""
+"Το πιο σημαντικό μέρος των ρυθμίσεων - Editor. Εδώ μπορείτε να γεμίσετε όλα τα κελιά του πίνακά σας σας, να προσθέσετε μερικά χρώματα, να παίξετε με γραμματοσειρές και μεγέθη. Αυτό το ένθετο "
+"σας επιτρέπει επίσης να αλλάξετε την ευθυγράμμιση της γραμματοσειράς σας, να προσθέσετε μορφές (ποσοστά, νόμισμα), εικόνες και συνδέσμους για να κάνετε τον πίνακά σας πιο ελκυστικό."
+
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+msgid "Preview insert for your comfort. Before updating the table on your page - you can see the result of your efforts and changes, look at it and enjoy the final outcome."
+msgstr ""
+"Εισαγάγετε προεπισκόπηση για την άνεσή σας. Πριν ενημερώσετε τον πίνακα στη σελίδα σας - μπορείτε να δείτε το αποτέλεσμα των προσπαθειών και των αλλαγών σας, να το δείτε και να απολαύσετε το "
+"τελικό αποτέλεσμα."
+
+msgid "CSS Editor"
+msgstr "Επεξεργαστής CSS"
+
+msgid ""
+"In case you have special or at least, basic knowledge of CSS code - you can easily change the table here. Just make sure that you know, what you are doing and you will not destroy the table."
+msgstr ""
+"Σε περίπτωση που έχετε ειδικές ή τουλάχιστον βασικές γνώσεις του κώδικα CSS, μπορείτε εύκολα να αλλάξετε τον πίνακα εδώ. Απλά βεβαιωθείτε ότι γνωρίζετε, τι κάνετε και δεν θα καταστρέψει τον "
+"πίνακα."
+
+msgid "Diagrams - this is a Pro feature of our plugin, which can help you to follow the statistics of your table. Several types for every taste and any wishes."
+msgstr ""
+"Διαγράμματα - αυτό είναι ένα χαρακτηριστικό Pro του plugin μας, το οποίο μπορεί να σας βοηθήσει να παρακολουθήσετε τα στατιστικά στοιχεία του πίνακά σας σας. Διάφοροι τύποι για κάθε γούστο "
+"και κάθε επιθυμία."
+
+msgid "Import/Export"
+msgstr "Εισαγωγή / Εξαγωγή"
+
+msgid "With these two buttons in our Pro version you can Import any table of csv format and Export the whole table, which you have done."
+msgstr "Με αυτά τα δύο κουμπιά στην έκδοση μας Pro μπορείτε να Εισάγετε οποιοδήποτε πίνακα του format csv και να εξάγετε ολόκληρο τον πίνακα που έχετε κάνει."
+
+msgid "Well done!"
+msgstr "Μπράβο!"
+
+msgid ""
+"<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - you’ll have to enter license key (you can find it in your personal account on our site). Go to the License tab and "
+"enter your email and license key. Once you have activated your PRO license - you can use all its advanced options. <br><br>That’s all. From this moment you can use your Data Table without "
+"any doubt. But if you still have some question - do not hesitate to contact us through our <a href=\"https://supsystic.com/contact-us/\">internal support</a> or on our <a href=\"http://"
+"supsystic.com/forum/datatable-plugin/\">Supsystic Forum.</a> Besides you can always describe your questions on <a href=\"https://wordpress.org/support/plugin/data-tables-generator-by-"
+"supsystic\">WordPress Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It will be nice if you`ll help us and boost plugin with <a href=\"https://wordpress.org/support/view/plugin-"
+"reviews/data-tables-generator-by-supsystic?rate=5#postform/\">Five Stars rating on WordPress.org.</a> <br><br>We hope that you like our Data Table plugin and wish you all the best! Good luck!"
+msgstr ""
+
+msgid "Welcome to our plugin"
+msgstr "Καλώς ήρθατε στο plugin μας"
+
+msgid "by Supsystic!"
+msgstr "από Supsystic!"
+
+msgid "We are trying to make your using of our plugin maximum comfortable and easy. So we find it like the best way to tell you about some options and features of this plugin."
+msgstr ""
+"Προσπαθούμε να κάνουμε τη χρήση του plugin μας στο μέγιστο άνετη και εύκολη. Επομένως, το βρίσκουμε σαν τον καλύτερο τρόπο να σας ενημερώσουμε για κάποιες επιλογές και δυνατότητες αυτού του "
+"plugin."
+
+msgid "A small guide for the first-time user"
+msgstr "Ένας μικρός οδηγός για το χρήστη για πρώτη φορά"
+
+msgid ""
+"Actually, Data Table plugin is very simple and has a lot of different options at the same time. That’s why when you close this article I will show you the main of them, but the very detailed "
+"one you can find on our site. I hope that you will have no questions after even this small guide. For the first time we will help you to install and create your first table, but if you need "
+"help - contact us through the internal support"
+msgstr ""
+
+msgid "Support"
+msgstr "Υποστήριξη"
+
+msgid ""
+"We really like what we do and feel responsibility for our “child”. Constantly we are trying to change something or update the new features, but sometimes you may have a situation when you "
+"need help or have a problem. We can offer you two kinds of help: "
+msgstr ""
+
+msgid "<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> Contact us </a> through the Forum on our site - if you have some question, offer or wish."
+msgstr "<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> Επικοινωνήστε μαζί μας </a> μέσω του φόρουμ στην ιστοσελίδα μας - αν έχετε κάποια ερώτηση, προσφορά ή επιθυμία."
+
+msgid "If, unfortunately, you have some problem - we are ready to help you in our <a href=\"//supsystic.com/contact-us/\" target=\"_blank\">internal support.</a>"
+msgstr "Εάν, δυστυχώς, έχετε κάποιο πρόβλημα - είμαστε έτοιμοι να σας βοηθήσουμε στην <a href=\"//supsystic.com/contact-us/\" target=\"_blank\"> εσωτερική υποστήριξη. </a>"
+
+msgid "Feel free to contact us and don’t worry, everything gonna be ok!"
+msgstr ""
+
+msgid "Video Tutorial"
+msgstr "Βίντεο εκμάθησης"
+
+msgid "Frequently Asked Questions"
+msgstr "Συνήθεις ερωτήσεις"
+
+msgid "Make data table responsive"
+msgstr "Κάντε πίνακα δεδομένων απόκρισης"
+
+msgid "I need to have line breaks/spaces between the paragraphs within the cells."
+msgstr "Πρέπει να έχουμε διαλείμματα / διαστήματα μεταξύ των παραγράφων μέσα στα κελιά."
+
+msgid "How to use formulas in the table?"
+msgstr "Πώς να χρησιμοποιήσετε τους τύπους στον πίνακα?"
+
+msgid "Go to Editor of Data Table."
+msgstr "Μεταβείτε στην επιλογή Επεξεργαστής πίνακα δεδομένων."
+
+msgid "Select a cell and start typing. In a cell, type an equal sign “=” to start the formula."
+msgstr ""
+
+msgid "Fill in the rest of the formula."
+msgstr "Συμπληρώστε τον υπόλοιπο τύπο."
+
+msgid "Save the changes of table."
+msgstr "Αποθηκεύστε τις αλλαγές του πίνακα."
+
+msgid "Check the result of formula in the table on your site."
+msgstr "Ελέγξτε το αποτέλεσμα του τύπου στον πίνακα του ιστότοπού σας."
+
+msgid "Learn more about how to do this <a href=\"//supsystic.com/how-to-use-tables/\" target=\"_blank\">here</a>."
+msgstr "Μάθετε περισσότερα σχετικά με το πώς μπορείτε να το κάνετε αυτό <a href=\"//supsystic.com/how-to-use-tables/\" target=\"_blank\"> εδώ </a>."
+
+msgid "Check all other FAQs"
+msgstr "Ελέγξτε όλες τις υπόλοιπες συχνές ερωτήσεις"
+
+msgid "Roles"
+msgstr "Ρόλοι"
+
+msgid "Role for users who can use plugin. Administrator is included by default"
+msgstr "Ρόλος για χρήστες που μπορούν να χρησιμοποιήσουν το plugin. Ο διαχειριστής συμπεριλαμβάνεται από προεπιλογή"
+
+msgid "PRO option"
+msgstr "PRO επιλογές"
+
+msgid "Select avalilable roles to use tables"
+msgstr "Επιλέξτε διαθέσιμους ρόλους για να χρησιμοποιήσετε πίνακες"
+
+msgid "Can't decode table rows from JSON."
+msgstr "Δεν είναι δυνατή η αποκωδικοποίηση σειρών πινάκων από το JSON."
+
+msgid "Can't decode table meta from JSON."
+msgstr "Δεν είναι δυνατή η αποκωδικοποίηση του meta πίνακα από το JSON."
+
+msgid "Failed to save table meta data: %s"
+msgstr "Αποτυχία αποθήκευσης μετα δεδομένων δεδομένων πίνακα: %s"
+
+msgid "The table with ID %d not exists."
+msgstr "Ο πίνακας με αναγνωριστικό ID %d δεν υπάρχει."
+
+msgid "No value"
+msgstr "Καμία αξία"
+
+msgid "Mandatory attribute \"id\" is not specified. ' . 'Shortcode usage example: [%s id=\"{table_id}\"]"
+msgstr "Το υποχρεωτικό χαρακτηριστικό \"id\" δεν έχει οριστεί. ' . 'Παράδειγμα χρήσης σύντομων κωδικών: [%s id=\"{table_id}\"]"
+
+msgid "There are not all shortcode's attributes specified. Usage example"
+msgstr "Δεν έχουν καθοριστεί όλα τα χαρακτηριστικά του shortcode. Παράδειγμα χρήσης"
+
+msgid "Add table"
+msgstr "Προσθήκη πίνακα"
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "Created"
+msgstr "Δημιουργήθηκε"
+
+msgid "Shortcode"
+msgstr "Σύντομος κωδικός"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "Actions"
+msgstr "Ενέργειες"
+
+msgid "Edit table \"%s\""
+msgstr "Επεξεργασία πίνακα \"%s\""
+
+msgid "Table History"
+msgstr "Ιστορικό πίνακα"
+
+msgid "Clone"
+msgstr "Κλώνος"
+
+msgid "Export available only in PRO version."
+msgstr "Η εξαγωγή διατίθεται μόνο σε έκδοση PRO."
+
+msgid "Export"
+msgstr "Εξαγωγή"
+
+msgid "Import available only in PRO version."
+msgstr "Η εισαγωγή διατίθεται μόνο σε έκδοση PRO."
+
+msgid "Import"
+msgstr "Εισαγωγή"
+
+msgid "Clear"
+msgstr "Καθαρός"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Click to rename the table and hit [Enter]"
+msgstr "Κάντε κλικ για να μετονομάσετε τον πίνακα και πατήστε [Enter]"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "Main"
+msgstr "Κύριο"
+
+msgid "Features"
+msgstr "Χαρακτηριστικά"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Language and Text"
+msgstr "Γλώσσα και κείμενο"
+
+msgid "Table Elements"
+msgstr "Πίνακας Στοιχείων"
+
+msgid "Caption"
+msgstr "Λεζάντα"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Description Text"
+msgstr "Κείμενο περιγραφής"
+
+msgid "Header"
+msgstr "Κεφαλίδα"
+
+msgid "Count of Header Rows"
+msgstr "Αριθμός Γραμμών Επικεφαλίδας"
+
+msgid "Count of table rows, which will be moved to header."
+msgstr "Αριθμός γραμμών πίνακα, οι οποίες θα μετακινηθούν στην κεφαλίδα."
+
+msgid "Footer"
+msgstr "Υποσέλιδο"
+
+msgid "Fixed Header"
+msgstr "Σταθερή Επικεφαλίδα"
+
+msgid ""
+"Allows to fix the table's header during table scrolling. Important! Header option must be enabled for using this feature. Also you need to set Fixed Table Height to create a vertical scroll "
+"at the table. To see the work of this feature you should not use such Responsive Modes as Standard and Automatic columns hiding."
+msgstr ""
+"Επιτρέπει την επιδιόρθωση της κεφαλίδας του πίνακα κατά την κύλιση του πίνακα. Σημαντικό! Η επιλογή κεφαλίδας πρέπει να είναι ενεργοποιημένη για τη χρήση αυτής της λειτουργίας. Επίσης, "
+"πρέπει να ορίσετε Ύψος Σταθερού Πίνακα για να δημιουργήσετε μια κάθετη κύλιση στον πίνακα. Για να δείτε το έργο αυτής της δυνατότητας, δεν πρέπει να χρησιμοποιείτε Responsive Modes ως "
+"Standard και Αυτόματες στήλες που κρύβονται."
+
+msgid "Fixed Footer"
+msgstr "Σταθερό Υποσέλιδο"
+
+msgid ""
+"Allows to fix the table's footer during table scrolling. Important! Footer option must be enabled for using this feature. Also you need to set Fixed Table Height to create a vertical scroll "
+"at the table. To see the work of this feature you should not use such Responsive Modes as Standard and Automatic columns hiding."
+msgstr ""
+"Επιτρέπει την επιδιόρθωση του υποσέλιδου του πίνακα κατά την κύλιση πίνακα. Σημαντικό! Η επιλογή υποσέλιδου πρέπει να είναι ενεργοποιημένη για τη χρήση αυτής της δυνατότητας. Επίσης, πρέπει "
+"να ορίσετε Ύψος Σταθερού Πίνακα για να δημιουργήσετε μια κάθετη κύλιση στον πίνακα. Για να δείτε το έργο αυτής της δυνατότητας, δεν πρέπει να χρησιμοποιείτε Responsive Modes ως Standard και "
+"Αυτόματες στήλες που κρύβονται."
+
+msgid "Fixed Table Height"
+msgstr "Σταθερό Ύψος Πίνακα"
+
+msgid "Fixed table height in px. This value must be less than the original table height to create a vertical scroll, otherwise you will not see that the fixed header / footer exists."
+msgstr ""
+"Σταθερό ύψος πίνακα σε px. Αυτή η τιμή πρέπει να είναι μικρότερη από το αρχικό ύψος πίνακα για να δημιουργήσετε μια κάθετη κύλιση, διαφορετικά δεν θα δείτε ότι υπάρχει το σταθερό πλαίσιο / "
+"υποσέλιδο."
+
+msgid "Fixed Columns"
+msgstr "Σταθερές Στήλες"
+
+msgid ""
+"Allows to fix columns during table scrolling. Important! The fixing of columns suggests that the table will have a horisontal scroll type of responsive mode, otherwise you will not see that "
+"the fixed columns exist. So this feature is a kind of responsive mode on its own and will not work with such Responsive Modes as Standard and Automatic columns hiding."
+msgstr ""
+"Επιτρέπει τη διόρθωση των στηλών κατά την κύλιση του πίνακα. Σημαντικό! Ο καθορισμός των στηλών υποδηλώνει ότι ο πίνακας θα έχει ένα οριζόντιο κυλιόμενου τύπου responsive, διαφορετικά δεν θα "
+"δείτε ότι υπάρχουν οι σταθερές στήλες. Έτσι, αυτή η λειτουργία είναι ένα είδος ευαίσθητου τρόπου από μόνη της και δεν θα λειτουργήσει με τέτοιες Responsive λειτουργίες ως Standard και "
+"Αυτόματες στήλες που κρύβονται."
+
+msgid "Left Columns Count"
+msgstr "Αρίθμηση Αριστερών Στηλών"
+
+msgid "Number of column to fix by left side of table."
+msgstr "Αριθμός στήλης που πρέπει να διορθωθεί από την αριστερή πλευρά του πίνακα."
+
+msgid "Right Columns Count"
+msgstr "Αρίθμηση Δξιών Στηλών"
+
+msgid "Number of column to fix by right side of table."
+msgstr "Αριθμός στήλης που πρέπει να διορθωθεί από τη δεξιά πλευρά του πίνακα."
+
+msgid "Auto Index"
+msgstr "Αυτόματο Ευρετήριο"
+
+msgid "Data Formats"
+msgstr "Μορφές δεδομένων"
+
+msgid "Number Formatting"
+msgstr "Μορφοποίηση αριθμών"
+
+msgid "Set format of all numbers in the table"
+msgstr "Ορίστε τη μορφή όλων των αριθμών στον πίνακα"
+
+msgid "Number"
+msgstr "Αριθμός"
+
+msgid "Set output format for numbers e.g. 1,000.00, 1.00"
+msgstr "Ορισμός μορφής εξόδου για αριθμούς π.χ. 1,000.00, 1.00"
+
+msgid "Currency"
+msgstr "Νόμισμα"
+
+msgid "Set output format for currencies e.g ($ 1,000.00, € 1.00)"
+msgstr "Ορίστε τη μορφή εξόδου για νομίσματα π.χ. (1.000,00 δολάρια, 1,00 δολάρια)"
+
+msgid "Percent"
+msgstr "Τοις εκατό"
+
+msgid "Set output format for percent numbers e.g (0.00%, 1%)"
+msgstr "Ορίστε τη μορφή εξόδου για ποσοστιαίες μονάδες π.χ. (0.00%, 1%)"
+
+msgid "Date"
+msgstr "Ημερομηνία"
+
+msgid "Set output format for date e.g (YYYY-MM-DD, MM.DD.YYYY)"
+msgstr "Ορίστε τη μορφή εξόδου για την ημερομηνία π.χ. (YYYY-MM-DD, MM.DD.YYYY)"
+
+msgid "Sorting"
+msgstr "Ταξινόμηση"
+
+msgid "Sorting Order"
+msgstr "Ταξινόμηση Παραγγελίας"
+
+msgid "Ascending"
+msgstr "Αύξουσα"
+
+msgid "Descending"
+msgstr "Φθίνουσα"
+
+msgid "Sorting Column"
+msgstr "Ταξινόμηση Στήλης"
+
+msgid "Number of column to apply sort order."
+msgstr "Αριθμός στήλης για την εφαρμογή σειράς ταξινόμησης."
+
+msgid "Pagination"
+msgstr "Σελιδοποίηση"
+
+msgid "Pagination menu length"
+msgstr "Σελιδοποίηση μήκους μενού"
+
+msgid "Pagination Size"
+msgstr "Μέγεθος Σελιδοποίησης"
+
+msgid "Large"
+msgstr "Μεγάλο"
+
+msgid "Medium"
+msgstr "Μεσαίο"
+
+msgid "Small"
+msgstr "Μικρό"
+
+msgid "Searching"
+msgstr "Αναζήτηση"
+
+msgid "Show only search result"
+msgstr "Εμφάνιση μόνο των αποτελεσμάτων αναζήτησης"
+
+msgid "Table is empty by default and shows data only if search has a result."
+msgstr "Ο πίνακας είναι κενός από προεπιλογή και εμφανίζει δεδομένα μόνο αν η αναζήτηση έχει αποτέλεσμα."
+
+msgid "Search by hidden fields"
+msgstr "Αναζήτηση με κρυμένα πεδία"
+
+msgid "Strict matching"
+msgstr "Αυστηρή αντιστοίχιση"
+
+msgid "Display only entries with matching characters in the beginning of words"
+msgstr "Εμφάνιση μόνο καταχωρίσεων με αντίστοιχους χαρακτήρες στην αρχή των λέξεων"
+
+msgid "Minimum characters"
+msgstr "Ελάχιστοι χαρακτήρες"
+
+msgid "Minimum search field characters to start search"
+msgstr "Ελάχιστοι χαρακτήρες πεδίου αναζήτησης για να ξεκινήσετε την αναζήτηση"
+
+msgid "Show empty table"
+msgstr "Εμφάνιση κενού πίνακα"
+
+msgid "Show empty table, until you have entered the data to search field."
+msgstr "Δείξτε τον κενό πίνακα, έως ότου καταχωρίσετε τα δεδομένα στο πεδίο αναζήτησης."
+
+msgid "Disallow Indexing"
+msgstr "Απαγόρευση Ευρετηρίασης"
+
+msgid "Disable indexing table for search bots"
+msgstr "Απενεργοποιήστε τον πίνακα ευρετηρίου για τα bots αναζήτησης"
+
+msgid "Execute JS Script After Table Is Loaded"
+msgstr "Εκτελέστε το σενάριο JS Αφού φορτωθεί ο πίνακας"
+
+msgid "Allows to execute js script after table is loaded."
+msgstr "Επιτρέπει την εκτέλεση δέσμης ενεργειών js μετά την φόρτωση του πίνακα."
+
+msgid "Paste script code here"
+msgstr "Επικολλήστε τον κώδικα δέσμης ενεργειών εδώ"
+
+msgid "Auto Width"
+msgstr "Αυτόματο Πλάτος"
+
+msgid "Calculate the columns width on frontend automatically or depending on the columns width on the Editor Tab."
+msgstr "Υπολογίστε αυτόματα το πλάτος των στηλών στο frontend ή ανάλογα με το πλάτος των στηλών στην Καρτέλα Επεξεργασία."
+
+msgid "Compact Table"
+msgstr "Συμπαγής πίνακας"
+
+msgid "Reduce the amount of white-space."
+msgstr "Μειώστε την ποσότητα του λευκού χώρου."
+
+msgid "Disable Wrapping"
+msgstr "Απενεργοποίηση Αναδίπλωσης"
+
+msgid "Disable wrapping of content in the table, so all text in the cells is on a single line."
+msgstr "Απενεργοποιήστε την αναδίπλωση του περιεχομένου στον πίνακα, έτσι ώστε όλο το κείμενο στα κελιά να βρίσκεται σε μία γραμμή."
+
+msgid "Paragraph Mode"
+msgstr "Λειτουργία παραγράφου"
+
+msgid "This mode allows you to separate the content into paragraphs. To move to a new line in the cell - please press CTRL + Enter."
+msgstr "Αυτή η λειτουργία σας επιτρέπει να διαχωρίσετε το περιεχόμενο σε παραγράφους. Για να μετακινηθείτε σε μια νέα γραμμή στο κελί - πατήστε CTRL + Enter."
+
+msgid "Responsive Mode"
+msgstr "Κατάσταση Ανταπόκρισης"
+
+msgid "Standard Responsive mode - in this mode if table content doesn't fit all columns become under each other with one cell per row"
+msgstr "Τυπική λειτουργία Κατάστασης ανταπόκρισης - σε αυτή τη λειτουργία, εάν το περιεχόμενο του πίνακα δεν ταιριάζει σε όλες τις στήλες γίνονται το ένα κάτω από το άλλο με ένα κελί ανά σειρά"
+
+msgid "Automatic column hiding - in this mode table columns will collapse from right to left if content does not fit to parent container width"
+msgstr ""
+"Αυτόματη απόκρυψη στηλών - σε αυτή τη στήλη, οι στήλες των τρόπων λειτουργίας θα συρρικνωθούν από τα δεξιά προς τα αριστερά αν το περιεχόμενο δεν ταιριάζει στο πλάτος του γονικού κοντέινερ"
+
+msgid "Horizontal scroll - in this mode scroll bar will be added if table overflows parent container width"
+msgstr "Οριζόντια κύλιση - σε αυτή τη λειτουργία η γραμμή κύλισης θα προστεθεί εάν ο πίνακας υπερχειλίσει το πλάτος του γονικού δοχείου"
+
+msgid "Disable Responsivity - default table fluid layout"
+msgstr "Απενεργοποίηση Ανταπόκρισης - προεπιλεγμένη διάταξη ρευστού πίνακα"
+
+msgid "Standard Responsive mode"
+msgstr "Τυπική λειτουργία κατάστασης Ανταπόκρισης"
+
+msgid "Automatic column hiding"
+msgstr "Αυτόματη απόκρυψη στηλών"
+
+msgid "Horizontal scroll"
+msgstr "Οριζόντια κύλιση"
+
+msgid "Disable Responsivity"
+msgstr "Απενεργοποίηση Ανταπόκρισης"
+
+msgid "Table Information"
+msgstr "Πληροφορίες Πίνακα"
+
+msgid "Table information display field. %s"
+msgstr "Πεδίο προβολής πληροφοριών πίνακα. %s"
+
+msgid "Borders"
+msgstr "Περιθόρια"
+
+msgid "Cell - adds border around all four sides of each cell, Row - adds border only over and under each row. (i.e. only for the rows)."
+msgstr "Κελιά - προσθέτει σύνορα γύρω από τις τέσσερις πλευρές κάθε κελιού, Σειρά - Προσθέτει σύνορα μόνο πάνω και κάτω από κάθε σειρά. (Δηλαδή μόνο για τις σειρές)."
+
+msgid "Cell"
+msgstr "Κελί"
+
+msgid "Row"
+msgstr "Σειρά"
+
+msgid "None"
+msgstr "Κανένας"
+
+msgid "Row Striping"
+msgstr "Διαγράμμιση Σειράς"
+
+msgid "Add automatic highlight of table rows for odd and even rows."
+msgstr "Προσθέστε αυτόματη επισήμανση γραμμών πίνακα για μονές και ομαλές σειρές."
+
+msgid "Highlighting by Mouseover"
+msgstr "Επισήμανση από το πέρασμα του Ποντικιού"
+
+msgid "Row highlighting on mouse over."
+msgstr "Τονίζει την Σειρά  οταν το ποντίκι περνά από πάνω."
+
+msgid "Highlight the Order Column"
+msgstr "Τονίστε την στήλη παραγγελίας"
+
+msgid "Highlight the column that the table data is currently ordered on."
+msgstr "Επισημάνετε τη στήλη για την οποία έχουν διαταχθεί τα δεδομένα πίνακα."
+
+msgid "Overwrite Table Text"
+msgstr "Αντικατάσταση κειμένου πίνακα"
+
+msgid "No data available in table"
+msgstr "Δεν υπάρχουν διαθέσιμα δεδομένα στον πίνακα"
+
+msgid "Empty table"
+msgstr "Άδειος Πίνακας"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Εμφάνιση _START_ σε _END_ από _TOTAL_ καταχωρήσεις"
+
+msgid "Table info text"
+msgstr "Πληροφορίες κειμένου Πίνακα"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Εμφάνιση από 0 έως 0 από 0 καταχωρήσεις"
+
+msgid "Empty info text"
+msgstr "Κενό κείμενο πληροφοριών"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(Φιλτράρεται από τις συνολικές καταχωρίσεις _MAX_ )"
+
+msgid "Filtered info text"
+msgstr "Φιλτραρισμένο κείμενο πληροφοριών"
+
+msgid "Show _MENU_ entries"
+msgstr "Εμφάνιση _MENU_ εγγραφών"
+
+msgid "Length text"
+msgstr "Μήκος κειμένου"
+
+msgid "Search:"
+msgstr "Αναζήτηση:"
+
+msgid "Search label"
+msgstr "Ετικέτα Αναζήτησης"
+
+msgid "No matching records are found"
+msgstr "Δεν βρέθηκαν αντίστοιχες εγγραφές"
+
+msgid "Zero records"
+msgstr "Μηδενικές εγγραφές"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "Select language"
+msgstr "Επιλέξτε γλώσσα"
+
+msgid "Loading your table, please wait..."
+msgstr "Φόρτωση του πίνακα σας, παρακαλώ περιμένετε ..."
+
+msgid "Bold"
+msgstr "Έντονα"
+
+msgid "Italic"
+msgstr "Italic"
+
+msgid "Underline"
+msgstr "Υπογράμμιση"
+
+msgid "Text color"
+msgstr "Χρώμα κειμένου"
+
+msgid "Background color"
+msgstr "Χρώμα του φόντου"
+
+msgid "Alignment"
+msgstr "Ευθυγράμμιση"
+
+msgid "Vertical alignment"
+msgstr "Κάθετη ευθυγράμμιση"
+
+msgid "Word wrapping"
+msgstr "Αναδίπλωση λέξεων"
+
+msgid "Create a link"
+msgstr "Δημιουργήστε έναν σύνδεσμο"
+
+msgid "Insert picture"
+msgstr "Εισαγάγετε εικόνα"
+
+msgid "Comment"
+msgstr "Σχόλιο"
+
+msgid "Formats"
+msgstr "Μορφές"
+
+msgid "Make the cell hidden. <br /><br />To display the table correctly, please, add hidden property for the whole row or the whole column of table."
+msgstr "Κάντε το κελί κρυμμένο. <br /><br />Για να εμφανίσετε σωστά τον πίνακα, προσθέστε την κρυφή ιδιότητα για ολόκληρη τη γραμμή ή για ολόκληρη τη στήλη του πίνακα."
+
+msgid "Get PRO version"
+msgstr "Αποκτήστε έκδοση PRO"
+
+msgid "Name of Cloned Table"
+msgstr "Όνομα κλωνοποιημένου πίνακα"
+
+msgid "Editable fields"
+msgstr "Επεξεργάσιμα πεδία"
+
+msgid "PRO version"
+msgstr "Έκδοση PRO"
+
+msgid "Please be advised that this option is available only in %s. You can %s today and get this and other PRO option for your tables!"
+msgstr "Λάβετε υπόψη ότι αυτή η επιλογή είναι διαθέσιμη μόνο στο %s. Μπορείτε να το %s σήμερα και να πάρετε αυτό και άλλες επιλογές PRO για τους πίνακές σας!"
+
+msgid "Insert url"
+msgstr "Εισαγωγή url"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Link Text"
+msgstr "Κείμενο Συνδέσμου"
+
+msgid "Open link in a new tab"
+msgstr "Άνοιγμα συνδέσμου σε νέα καρτέλα"
+
+#~ msgid "Export table"
+#~ msgstr "Εξαγωγή πίνακα"
+
+#~ msgid "Select file type to export table:"
+#~ msgstr "Επιλέξτε τύπο αρχείου για εξαγωγή πίνακα:"
+
+#~ msgid "Import to the table"
+#~ msgstr "Εισαγωγή στον πίνακα"
+
+#~ msgid "File extension type"
+#~ msgstr "Τύπος επέκτασης αρχείου"
+
+#~ msgid "Import settings"
+#~ msgstr "Ρυθμίσεις εισαγωγής"
+
+#~ msgid "You have no diagrams for now. Go to %s -> select the required data in the table and click on âAdd diagramâ button. Also please check the tutorial %s"
+#~ msgstr ""
+#~ "Δεν έχετε διαγράμματα για τώρα. Μεταβείτε στο %s -> επιλέξτε τα απαιτούμενα δεδομένα στον πίνακα και κάντε κλικ στο κουμπί âΠροσθήκη διαγράμματοςâ  . Επίσης, ελέγξτε το φροντιστήριο %s"
+
+#~ msgid "Itâs never been so easy to create and manage pricing and comparison tables with table builder. Any element of the table can be customise with mouse click."
+#~ msgstr ""
+#~ "Δεν ήταν ποτέ τόσο εύκολο να δημιουργήσετε και να διαχειριστείτε πίνακες τιμολόγησης και σύγκρισης με τον κατασκευαστή πινάκων. Οποιοδήποτε στοιχείο του πίνακα μπορεί να προσαρμοστεί με "
+#~ "το πάτημα του ποντικιού."
+
+#~ msgid "Thank you for choosing our Data Tables plugin. Letâs make a quick tour through features and main options of the plugin. Just click âNextâ button."
+#~ msgstr ""
+#~ "Σας ευχαριστούμε που επιλέξατε το plugin μας Πίνακες Δεδομένων. Ας κάνουμε μια γρήγορη περιήγηση μέσω των λειτουργιών και των κύριων επιλογών του plugin. Απλά κάντε κλικ στο κουμπί "
+#~ "«Επόμενο»."
+
+#~ msgid "Click on the button âAdd new tableâ and see the first form, which you need to fill in. A very simple step!"
+#~ msgstr "Κάντε κλικ στο κουμπ âΠροσθήκη νέου πίνακαâ και δείτε την πρώτη φόρμα την οποία θα πρέπει να συμπληρώσετε. Ένα πολύ απλό βήμα!"
+
+#~ msgid "Fill the table title and choose the number of columns and rows. Donât worry, you will be able to change it (add or delete some) later!"
+#~ msgstr "Συμπληρώστε τον τίτλο του πίνακα και επιλέξτε τον αριθμό των στηλών και των γραμμών. Μην ανησυχείτε, θα μπορείτε να το αλλάξετε (να προσθέσετε ή να διαγράψετε κάποια) αργότερα!"
+
+#~ msgid ""
+#~ "Main Settings of your first table. Here you can see main settings which are conected with languages, table elements, styling and other different editors settings. Generally itâs a tab "
+#~ "where you can edit the visual part of the whole table, switch on/off the responsive mode, set pagination etc."
+#~ msgstr ""
+#~ "Βασικές ρυθμίσεις του πρώτου σας πίνακα. Εδώ μπορείτε να δείτε τις κύριες ρυθμίσεις που συνδέονται με γλώσσες, στοιχεία πίνακα, στυλ και άλλες διαφορετικές ρυθμίσεις επεξεργαστών. Γενικά, "
+#~ "είναι μια καρτέλα στην οποία μπορείτε να επεξεργαστείτε το οπτικό μέρος ολόκληρου του πίνακα, να ενεργοποιήσετε / απενεργοποιήσετε τη λειτουργία απόκρισης, να ορίσετε τη σελίδα κ.λπ."
+
+#~ msgid ""
+#~ "<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - youâll have to enter license key (you can find it in your personal account on our site). Go to the License tab "
+#~ "and enter your email and license key. Once you have activated your PRO license - you can use all its advanced options. <br><br>Thatâs all. From this moment you can use your Data Table "
+#~ "without any doubt. But if you still have some question - do not hesitate to contact us through our <a href=\"https://supsystic.com/contact-us/\">internal support</a> or on our <a href="
+#~ "\"http://supsystic.com/forum/datatable-plugin/\">Supsystic Forum.</a> Besides you can always describe your questions on <a href=\"https://wordpress.org/support/plugin/data-tables-"
+#~ "generator-by-supsystic\">WordPress Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It will be nice if you`ll help us and boost plugin with <a href=\"https://wordpress.org/"
+#~ "support/view/plugin-reviews/data-tables-generator-by-supsystic?rate=5#postform/\">Five Stars rating on WordPress.org.</a> <br><br>We hope that you like our Data Table plugin and wish you "
+#~ "all the best! Good luck!"
+#~ msgstr ""
+#~ "<B> Αναβάθμιση </ b> <br> Μόλις αγοράσετε την έκδοση Premium της προσθήκης - θα πρέπει να εισάγετε το κλειδί άδειας χρήσης (μπορείτε να το βρείτε στον προσωπικό σας λογαριασμό στον "
+#~ "ιστότοπό μας). Μεταβείτε στην καρτέλα \"Άδεια\" και εισάγετε το κλειδί ηλεκτρονικού ταχυδρομείου και άδειας χρήσης. Μόλις ενεργοποιήσετε την άδεια PRO - μπορείτε να χρησιμοποιήσετε όλες "
+#~ "τις προχωρημένες επιλογές. <br> <br> Αυτό είναι όλα. Από τη στιγμή αυτή μπορείτε να χρησιμοποιήσετε τον Πίνακα Δεδομένων χωρίς καμία αμφιβολία. Εάν όμως έχετε ακόμα κάποια ερώτηση, μη "
+#~ "διστάσετε να επικοινωνήσετε μαζί μας μέσω της <a href=\"https://supsystic.com/contact-us/\"> εσωτερικής υποστήριξης </a> ή στο <a href=\"http://supsystic.com/forum/datatable-plugin/"
+#~ "\">Supsystic Forum. </a> Εκτός από εσάς μπορείτε πάντα να περιγράψετε τις ερωτήσεις σας στο<a href=\"https://wordpress.org/support/plugin/data-tables-generator-by-supsystic\">WordPress "
+#~ "Ultimate Forum. </a> <br> <br> <b> Απολαύσατε αυτό το plugin; </ b> <br> Θα είναι ωραίο αν μας βοηθήσετε και θα ενισχύσουμε το plugin <a href=\"https://wordpress.org/support/view/plugin-"
+#~ "reviews/data-tables-generator-by-supsystic?rate=5#postform/\"> Αξιολόγηση πέντε αστέρων στο WordPress.org. </ A <br> <br> <br> Ελπίζουμε ότι σας αρέσει το plugin του πίνακα δεδομένων σας "
+#~ "και σας εύχομαι ό, τι καλύτερο! Καλή τύχη!"
+
+#~ msgid ""
+#~ "Actually, Data Table plugin is very simple and has a lot of different options at the same time. Thatâs why when you close this article I will show you the main of them, but the very "
+#~ "detailed one you can find on our site. I hope that you will have no questions after even this small guide. For the first time we will help you to install and create your first table, but "
+#~ "if you need help - contact us through the internal support"
+#~ msgstr ""
+#~ "Στην πραγματικότητα, το plugin Table Data είναι πολύ απλό και έχει πολλές διαφορετικές επιλογές την ίδια στιγμή. Αυτός είναι ο λόγος για τον οποίο όταν κλείσετε αυτό το άρθρο θα σας δείξω "
+#~ "το κύριο από αυτά, αλλά το πολύ λεπτομερές που μπορείτε να βρείτε στην ιστοσελίδα μας. Ελπίζω ότι δεν θα έχετε απορίες ακόμα και μετά από αυτό το μικρό οδηγό. Για πρώτη φορά θα σας "
+#~ "βοηθήσουμε να εγκαταστήσετε και να δημιουργήσετε το πρώτο σας πίνακα, αλλά εάν χρειάζεστε βοήθεια - επικοινωνήστε μαζί μας μέσω της εσωτερικής υποστήριξης"
+
+#~ msgid ""
+#~ "We really like what we do and feel responsibility for our âchildâ. Constantly we are trying to change something or update the new features, but sometimes you may have a situation when you "
+#~ "need help or have a problem. We can offer you two kinds of help: "
+#~ msgstr ""
+#~ "Μας αρέσει πραγματικά τι κάνουμε και αισθανόμαστε την ευθύνη για το παιδί μας. Συνεχώς προσπαθούμε να αλλάξουμε κάτι ή να ενημερώσουμε τα νέα χαρακτηριστικά, αλλά μερικές φορές μπορεί να "
+#~ "έχετε μια κατάσταση όταν χρειάζεστε βοήθεια ή έχετε κάποιο πρόβλημα. Μπορούμε να σας προσφέρουμε δύο είδη βοήθειας: "
+
+#~ msgid "Feel free to contact us and donât worry, everything gonna be ok!"
+#~ msgstr "Νιώστε ελεύθεροι να επικοινωνήσετε μαζί μας και μην ανησυχείτε, όλα θα είναι εντάξει!"
+
+#~ msgid "Select a cell and start typing. In a cell, type an equal sign â=â to start the formula."
+#~ msgstr "Επιλέξτε ένα κελί και αρχίστε να πληκτρολογείτε. Σε ένα κελί, πληκτρολογήστε ένα ισό σημάδι â=â Για να ξεκινήσει ο τύπος."

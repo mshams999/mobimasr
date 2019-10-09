@@ -1,0 +1,59 @@
+.supsystic-container .settings-list {
+    white-space: pre-line;
+    line-height: 0;
+}
+
+.supsystic-container .setting {
+	border-bottom: 1px solid gray;
+	white-space: pre-line;
+    line-height: 0;
+    padding: 2rem 0;
+}
+
+.supsystic-container .supsystic-tooltip {
+	clear: both;
+	margin-left: 1em;
+}
+
+.supsystic-container a {
+	display: block;
+	margin-top: 1em;
+}
+
+.supsystic-container .setting .setting-description {
+	width: 30%;
+	display: inline-block;
+}
+
+.supsystic-container .setting .setting-description label {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.supsystic-container .setting .setting-control {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.supsystic-container .chosen-select {
+	min-width: 300px;
+}
+.table-option {
+	margin-bottom: 2rem;
+	min-height: 35px;
+}
+.table-option:last-child {
+	margin-bottom: 0;
+}
+.table-option input[type="text"] {
+	width: 300px;
+	vertical-align: middle;
+}
+.settings-list  .setting .setting-description i{
+	float: inherit;
+}
+.supsystic-plugin .setting a {
+	color: #0074a2;
+	font-size: 13px;
+	text-decoration: none;
+}

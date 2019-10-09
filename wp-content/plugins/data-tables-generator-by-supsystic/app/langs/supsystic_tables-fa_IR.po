@@ -1,0 +1,1488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: data-tables-generator-by-supsystic\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Shahab <roshanshahab@hotmail.com>\n"
+"Language-Team: Shahab - https://getifo.ge\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.9\n"
+
+msgid "An error has occurred"
+msgstr "﻿Παρουσιάστηκε σφάλμα"
+
+msgid "Overview"
+msgstr "برسی کلی"
+
+msgid "Add new table"
+msgstr "افزودن جدول جدید"
+
+msgid "Tables"
+msgstr "جداول"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "License"
+msgstr "لایسنس"
+
+msgid "Featured Plugins"
+msgstr "افزونه های برتر"
+
+msgid "Table title"
+msgstr "عنوان جدول"
+
+msgid "Columns"
+msgstr "ستون ها"
+
+msgid "Rows"
+msgstr "ردیف‌ها"
+
+msgid "You can change number of Columns and Rows later"
+msgstr "می توانید تعداد ستون ها و ردیف ها را بعدا تغییر دهید"
+
+msgid "Invalid range specified."
+msgstr "محدوده نامعتبر مشخص شده است."
+
+msgid "Failed to find diagram %s."
+msgstr "عدم موفقیت در پیدا کردن نمودار %s."
+
+msgid "Failed to find table %s."
+msgstr "عدم موفقیت در پیدا کردن جدول %s."
+
+msgid "Failed to get table rows: %s"
+msgstr "عدم موفقیت در دریافت سطرهای جدول: %s"
+
+msgid "Diagram"
+msgstr "نمودار"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "Area Chart"
+msgstr "نمودار سطحی"
+
+msgid "Line Chart"
+msgstr "نمودار خطی"
+
+msgid "Pie Chart"
+msgstr "نمودار دایره ای"
+
+msgid "Bar Chart"
+msgstr "نمودار میله ای"
+
+msgid "Column Chart"
+msgstr "نمودار ستونی"
+
+msgid "Bubble Chart"
+msgstr "نمودار حبابی"
+
+msgid "Switch rows / columns"
+msgstr "جابجایی ردیف ها / ستون ها"
+
+msgid "Use first row as headers"
+msgstr "استفاده ردیف اول به عنوان سرصفحه ها"
+
+msgid "Use first column as labels"
+msgstr "استفاده ستون اول بعنوان برچسب"
+
+msgid "Width"
+msgstr "عرض"
+
+msgid ""
+"Set the value in px or %, for example, 400 (equals to 400px) or 90%. Leave this "
+"field empty to use default width value."
+msgstr ""
+"تنظیم مقدار در واحد پیکسل یا درصد، به عنوان مثال، 400 (معادل 400px) یا 90%. این "
+"فیلد را رها کنید تا از مقدار پیشفرض استفاده شود."
+
+msgid "Height"
+msgstr "ارتفاع"
+
+msgid ""
+"Set the value in px or %, for example, 200 (equals to 200px) or 80%. Leave this "
+"field empty to use default height value."
+msgstr ""
+"تنظیم مقدار در واحد پیکسل یا درصد، به عنوان مثال، 200 (معادل 200px) یا 80%. این "
+"فیلد را رها کنید تا از مقدار پیشفرض استفاده شود."
+
+msgid "Remove"
+msgstr ""
+
+msgid "Legend Position"
+msgstr "موقعیت شرح"
+
+msgid "No legend"
+msgstr "بدون شرح"
+
+msgid "Above the chart"
+msgstr "بالای جدول"
+
+msgid "Below the chart"
+msgstr "در زیر نمودار"
+
+msgid "Left of the chart"
+msgstr "سمت چپ نمودار"
+
+msgid "Right of the chart"
+msgstr "سمت راست نمودار"
+
+msgid "Lines between slices and values"
+msgstr "خطوط بین قطعه ها و مقادیر"
+
+msgid "Inside by the top left corner"
+msgstr "داخل و گوشه بالا سمت چپ"
+
+msgid "Diagram Title"
+msgstr "عنوان نمودار"
+
+msgid "Axis X Title"
+msgstr "عنوان محور X"
+
+msgid "Axis Y Title"
+msgstr "عنوان محور Y"
+
+msgid "3D Diagram"
+msgstr "نمودار سه بعدی"
+
+msgid "No"
+msgstr "نه"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "Text on Slice"
+msgstr "متن روی قطعه"
+
+msgid "Percentage of slice size out of total"
+msgstr "درصد قطعه اندازه از کل"
+
+msgid "Quantitative value of slice"
+msgstr "مقدار عددی قطعه"
+
+msgid "Name of slice"
+msgstr "نام قطعه"
+
+msgid "Not displaying"
+msgstr "نمایش داده نمی شود"
+
+msgid "Use custom colors"
+msgstr "استفاده از رنگ های دلخواه"
+
+msgid "Select chart type"
+msgstr "انتخاب نوع نمودار"
+
+msgid "Editor tab"
+msgstr "زبانه ویرایشگر"
+
+msgid "how to create Diagrams with Data Table plugin"
+msgstr "چگونه با افزونه Data Table نمودار بسازید"
+
+msgid ""
+"You have no diagrams for now. Go to %s -> select the required data in the table "
+"and click on “Add diagram” button. Also please check the tutorial %s"
+msgstr ""
+"شما در حال حاضر نموداری ندارید. به %s بروید و اطلاعات لازم برای جدول را انتخاب "
+"نمایید. سپس روی âافزودن نمودارâ کلیک کنید. همچنین قسمت آموزش %s را مطالعه کنید"
+
+msgid "Add diagram"
+msgstr "افزودن نمودار"
+
+msgid "The table ID %s not found."
+msgstr "شناسه جدول %s پیدا نشد."
+
+msgid "Unsupported export type: %s."
+msgstr ""
+
+msgid "Frontend Export"
+msgstr "استخراج در نمای خروجی سایت"
+
+msgid "Allow export table to pdf, csv, xls on frontend"
+msgstr "اجازه دادن به استخراج جدول با فرمت PDF، CSV، XLS در نمای خروجی سایت"
+
+msgid "Export Page Orientation"
+msgstr "جهت صفحه استخراج"
+
+msgid "Choose the page orientation for PDF export file"
+msgstr "جهت صفحه را برای استخراج فایل PDF انتخاب کنید"
+
+msgid "Portrait"
+msgstr "عمودی"
+
+msgid "Landscape"
+msgstr "افقی"
+
+msgid "Export Logo"
+msgstr "استخراج لوگو"
+
+msgid "Automticaly appends selected logo for output pdf or printing"
+msgstr "لوگوی انتخابی را یصورت اتوماتیک به PDF خروجی یا پرینت اضافه می کند"
+
+msgid "Logo Position"
+msgstr "موقعیت لوگو"
+
+msgid "Above table"
+msgstr "بالای جدول"
+
+msgid "Below table"
+msgstr "پایین جدول"
+
+msgid "Logo Alignment"
+msgstr "تنظیم محل لوگو"
+
+msgid "Left"
+msgstr "چپ"
+
+msgid "Center"
+msgstr "مرکز"
+
+msgid "Right"
+msgstr "راست"
+
+msgid "Export Data to the File"
+msgstr "استخراج اطلاعات به فایل"
+
+msgid "File Type"
+msgstr "نوع فایل"
+
+msgid "Failed to import selected file: Wrong spreadsheet id or url"
+msgstr ""
+
+msgid "Failed to import data from the uploaded file"
+msgstr "وارد کردن اطلاعات از فایل بارگزاری شده موفق نبود"
+
+msgid "Import error"
+msgstr "خطای وارد کردن"
+
+msgid "Failed to import selected file"
+msgstr "وارد کردن فایل های انتخاب شده موفق نبود"
+
+msgid "Automatically import from Google Tables"
+msgstr ""
+
+msgid "Link from Google Tables"
+msgstr ""
+
+msgid "Import Data to the Table"
+msgstr "وارد کردن اطلاعات به جدول"
+
+msgid "Import Settings"
+msgstr "وارد کردن تنظیمات"
+
+msgid "Delimiter"
+msgstr "تفکیک کننده"
+
+msgid "Google Spreadsheet Url"
+msgstr "آدرس صفحه گسترده گوگل"
+
+msgid ""
+"Important! Please, check the sharing settings of your spreadsheet: it must be "
+"accessed to edit for everyone who has link. In other case the data will not "
+"import to table."
+msgstr ""
+"مهم! لطفاً تنظیمات اشتراک گذاری صفحه گسترده خود را بررسی کنید: جهت ویرایش باید "
+"برای هر کس که لینکش را دراختیار دارد قابل دسترس باشد. در غیر این صورت اطلاعات به "
+"جدول وارد نخواهد شد."
+
+msgid "Append to existing table data"
+msgstr ""
+
+msgid "Failed to upload selected file"
+msgstr "عدم موفقیت دربارگزاری فایل انتخاب شده"
+
+msgid "Activate License"
+msgstr "فعال کردن لایسنس"
+
+msgid "Renew License"
+msgstr "لایسنس خود را تمدید کنید"
+
+msgid "Slider by Supsystic"
+msgstr "اسلایدر توسط Supsystic"
+
+msgid ""
+"Congratulations! You have successfully installed and activated PRO version of %s "
+"plugin."
+msgstr ""
+"تبریک می گویم! شما بام وفقیت نسخه حرفه ای (PRO) افزونه s% ر انصب و فعال کردید."
+
+msgid "Your premium support is expired in %s days"
+msgstr "پشتیبانی حرفه ای برای شما در s% روز به پایان می رسد"
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr "شما با لایسنس منقضی قادر به به روز رسانی نسخه حرفه ای خود نمی باشید"
+
+msgid "Activate"
+msgstr "فعالسازی"
+
+msgid "Save"
+msgstr "ذخیره"
+
+msgid "Failed to save table rows: %s"
+msgstr ""
+
+msgid "Save Editable Fields"
+msgstr "فیلدهای قابل ویرایش را ذخیره کنید"
+
+msgid "Allows to save data to the table through editable fields."
+msgstr "قابلیت ذخیره اطلاعات در جدول را از طریق فیلدهای قابل ویرایش ایجاد میکند."
+
+msgid "Use Editable Fields for Logged In Users Only"
+msgstr "فیلدهای قابل ویرایش را فقط برای کاربران وارد شده به سایت استفاده کن"
+
+msgid "Allows to use editable fields only for logged in users."
+msgstr ""
+"فقط کاربران وارد شده به سایت را مجاز به استفاده از فیلدهای قابل ویرایش می کند."
+
+msgid "Use Editable Fields for Current Roles"
+msgstr "استفاده از فیلد های قابل ویرایش برای نقش های فعلی"
+
+msgid ""
+"Allows to use editable fields only for users with selected roles. If there are "
+"no chosen roles - all logged in users will have ability to use the editable "
+"fields."
+msgstr ""
+"فیلدهای قابل ویرایش را فقط در دسترس کاربران با نوع کاربری انتخاب شده قرار می "
+"دهد. اگر نوع کاربری خاصی انتخاب نشده باشد تمام کاربران وارد شده به سایت می "
+"توانند از این فیلدها استفاده کنند."
+
+msgid "Select roles"
+msgstr "انتخاب نقش ها"
+
+msgid "Enable Table History"
+msgstr ""
+
+msgid "Select User to display its table"
+msgstr ""
+
+msgid ""
+"Note that the table may look a little different depending on your theme style."
+msgstr ""
+"توجه داشته باشید که جدول ممکن است با توجه به استایل قالب شما کمی متفاوت نشان "
+"داده شود."
+
+msgid "Add editable field"
+msgstr "افزودن فیلد قابل ویرایش"
+
+msgid "Save as"
+msgstr "ذخیره نمودن به عنوان"
+
+msgid "Diagrams"
+msgstr "نمودار ها"
+
+msgid "Get PRO"
+msgstr "دریافت نسخه حرفه ای"
+
+msgid "Popup Plugin"
+msgstr "افزونه پاپ آپ"
+
+msgid ""
+"The Best WordPress PopUp option plugin to help you gain more subscribers, social "
+"followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+"بهترین افزونه پاپ آپ وردپرس برای کمک به شما در جهت داشتن اعضا بیشتر، فالوور های "
+"بیشتر و تبلیغات. پاپ آپ های واکنشگرا با گزینه های کاربر پسند."
+
+msgid "Slider Plugin"
+msgstr "افزونه اسلایدر"
+
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select images "
+"from your WordPress Media Library, Flickr, Instagram or Facebook, set slide "
+"captions, links and SEO fields all from one page."
+msgstr ""
+"ساختن اسلاید ها با افزونه اسلایدر آسان و سریع است. به آسانی عکسها را از قسمت "
+"آلبوم عکسهای وردپرس، فلیکر، اینستاگرام یا فیسبوک انتخاب کنید، توضیحات مورد نیاز، "
+"لینکها و فیلدهای مربوط به سئو را نیز همه را در یک صفحه وارد کنید."
+
+msgid "Photo Gallery Plugin"
+msgstr "افزونه گالری عکس"
+
+msgid ""
+"Photo Gallery Plugin with a great number of layouts will help you to create "
+"quality respectable portfolios and image galleries."
+msgstr ""
+"افزونه گالری عکس با لایه ها و قالب های متنوع به شما در ساختن گالری های عکس و "
+"صفحات قابل احترام کمک می کند."
+
+msgid "Data Tables Generator"
+msgstr "سازنده جداول اطلاعات Data Tables"
+
+msgid ""
+"Create and manage beautiful data tables with custom design. No HTML knowledge is "
+"required."
+msgstr ""
+"جداول اطلاعاتی زیبا با طراحی سلیقه ای را بسازید و مدیریت کنید. هیچ اطلاعات "
+"برنامه نویسی و HTML نیاز ندارید."
+
+msgid "Social Share Buttons"
+msgstr "Social Share Buttons"
+
+msgid ""
+"Social share buttons to increase social traffic and popularity. Social sharing "
+"to Facebook, Twitter and other social networks."
+msgstr ""
+"دکمه های اشتراک گذاری در شبکه های اجتماعی برای افزایش ترافیک و محبوبیت. اشتراک "
+"گذاری در شبکه های فیسبوک، توییتر و بقیه شبکه ها."
+
+msgid "Live Chat Plugin"
+msgstr "افزونه Live Chat"
+
+msgid ""
+"Be closer to your visitors and customers with Live Chat Support by Supsystic. "
+"Help you visitors, support them in real-time with exceptional Live Chat "
+"WordPress plugin by Supsystic."
+msgstr ""
+"به بازدیدکنندگان و مشتریان خود با استفاده از افزونه Live Chat که بوسیله گروه ما "
+"Supsystic ساخته شده نزدیک تر شوید. به بازدیدکنندگان خود در لحظه کمک کنید فقط و "
+"فقط با استفاده از افزونه Live Chat برای وردپرس از Supsystic."
+
+msgid "Pricing Table"
+msgstr "افزونه Pricing Table"
+
+msgid ""
+"It’s never been so easy to create and manage pricing and comparison tables with "
+"table builder. Any element of the table can be customise with mouse click."
+msgstr ""
+
+msgid "Coming Soon Plugin"
+msgstr "افزونه Coming soon"
+
+msgid ""
+"Coming soon page with drag-and-drop builder or under construction | maintenance "
+"mode to notify visitors and collects emails."
+msgstr ""
+"ساختن صفحه \"در حال ساخت\" ، \"در حال تعمیرات\" و یا \"بزودی\" با قابلیت جمع "
+"آوری ایمیل های بازدیدکنندگان فقط با حرکات موس."
+
+msgid "Backup Plugin"
+msgstr "افزونه Backup"
+
+msgid ""
+"Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched "
+"DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr ""
+"افزونه ورد پرس Backup and Restore ساخته شده توسط Supsystic وردپرس شما را به سرعت "
+"در Dropbox, FTP, Amazon S3, Google Drive پشتیبان گیری می کند."
+
+msgid "Google Maps Easy"
+msgstr "افزونه Google Maps Easy"
+
+msgid ""
+"Display custom Google Maps. Set markers and locations with text, images, "
+"categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+"این افزونه نقشه های گوگل را به سلیقه شما نشان می دهد. آدرسها و پینهای نقشه را با "
+"متن، عکس، دسته بندی و لینک نمایش دهید. نقشه گوگل را به سادگی و به زیبایی نمایش "
+"دهید."
+
+msgid "Digital Publication Plugin"
+msgstr "افزونه Digital Publication"
+
+msgid ""
+"Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, "
+"Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+"افزونه Digital Publication ورد پرس که توسط Supsystic ارائه شده، مناسب برای مجله "
+"ها، کاتالوگها و صفحات نمونه کار می باشد. عکسها، پستها و PDF های خود را به "
+"کتابهایی با قابلیت ورق خوردن در سایت خود تبدیل کنید."
+
+msgid "Contact Form Plugin"
+msgstr "افزونه Contact Form"
+
+msgid ""
+"One of the best plugin for creating Contact Forms on your WordPress site. "
+"Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+"یکی از بهترین افزونه ها برای ساختن فرمهای تماس در سایتهای وردپرسی. فونت ها و پس "
+"زمینه ها قابل تغییرند و گزینه افزودن فیلدهای مورد نیاز شما و گزینه های دیگر."
+
+msgid "Newsletter Plugin"
+msgstr "افزونه Newsletter"
+
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will have "
+"no need to control it or send them manually. No coding, hard skills or long "
+"hours of customizing are required."
+msgstr ""
+"افزونه خبرنامه تیم Supsystic برای ارسال خبرنامه و ایمیل های خودکار. نیازی به "
+"فرستادن خبرنامه ها و ایمیل ها بصورت دستی نیست و خبری از کنترل کردن فرایند هم "
+"نیست. هیچ علم برنامه نویسی یا زحمت خاصی برای کار با این افزونه نیاز نیست."
+
+msgid "Membership by Supsystic"
+msgstr ""
+
+msgid ""
+"Create online membership community with custom user profiles, roles, FrontEnd "
+"registration and login. Members Directory, activity, groups, messages."
+msgstr ""
+
+msgid "Your message successfully send. We contact you soon."
+msgstr "پیام شما ارسال شده است, ما به زودی با شما تماس خواهیم گرفت."
+
+msgid "No detected"
+msgstr ""
+
+msgid "Step-by-step Tutorial"
+msgstr "آموزش گام به گام"
+
+msgid "Begin Step-by-step Tutorial"
+msgstr "شروع آموزش گام به گام"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "Website"
+msgstr "سایت"
+
+msgid "Subject"
+msgstr "عنوان"
+
+msgid "Topic"
+msgstr "موضوع"
+
+msgid "Plugin options"
+msgstr "قابلیت های افزونه"
+
+msgid "Report a bug"
+msgstr "گزارش یک خطا"
+
+msgid "Require a new functionallity"
+msgstr "نیاز به قابلیت جدید"
+
+msgid "Other"
+msgstr "دیگر"
+
+msgid "Message"
+msgstr "پیام"
+
+msgid "Hello Supsystic Team!"
+msgstr "سلام به تیم Supsystic!"
+
+msgid ""
+"Some errors occurred while sending mail please send your message trough this "
+"contact form:"
+msgstr ""
+"در هنگام ارسال ایمیل خطایی رخ داده است، لطفا پیام خود را از طریق این فرم ارسال "
+"نمایید:"
+
+msgid "Next"
+msgstr "بعدی"
+
+msgid "Close Tutorial"
+msgstr "بستن آموزش"
+
+msgid "Welcome to Data Tables plugin by Supsystic!"
+msgstr "به افزونه Data Tables توسط Supsystic خوش آمدید!"
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Just click here to start using it "
+"- and we will show you it's possibilities and powerfull features."
+msgstr ""
+"از شما به خاطر انتخاب افزونه %s ما سپاسگزاریم. برای شروع به استفاده از آن اینجا "
+"کلیک کنید - و ما شما امکانات و ویژگی های قدرتمند آنرا نشان می دهیم."
+
+msgid "Hello! This is the Data Tables by Supsystic"
+msgstr "سلام! این جداول داده توسط Supsystic است"
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Let’s make a quick tour through "
+"features and main options of the plugin. Just click “Next” button."
+msgstr ""
+
+msgid "Create your first table"
+msgstr "ساختن اولین جدول شما"
+
+msgid ""
+"Click on the button “Add new table” and see the first form, which you need to "
+"fill in. A very simple step!"
+msgstr ""
+
+msgid "Enter the name and create Data Table"
+msgstr "نام را وارد کنید و یک جدول اطلاعات بسازید"
+
+msgid ""
+"Fill the table title and choose the number of columns and rows. Don’t worry, you "
+"will be able to change it (add or delete some) later!"
+msgstr ""
+
+msgid ""
+"Main Settings of your first table. Here you can see main settings which are "
+"conected with languages, table elements, styling and other different editors "
+"settings. Generally it’s a tab where you can edit the visual part of the whole "
+"table, switch on/off the responsive mode, set pagination etc."
+msgstr ""
+
+msgid "Editor"
+msgstr "ویرایشگر"
+
+msgid ""
+"The most important part of settings - Editor. Here you can fill all the cells of "
+"your table, add some colors, play with fonts and sizes. This insert also allows "
+"you to change the alignment of your font, add formats (percents, currency), "
+"images and links to make your table more visual attraction."
+msgstr ""
+"ویرایشگر - مهمترین قسمت تنظیمات. در اینجا شما می توانید تمام سلولهای جدول خود را "
+"پر کنید، رنگ اضافه کنید، نوع فونت و اندازه آنها را تغییر دهید. این قسمت همچنین "
+"به شما امکان می دهد جانمایی حروف خود را تغییر دهید، فرمت های مختلف (مانند درصد و "
+"یا واحد پول) و عکس و لینک برای بهتر شدن ظاهر جدولتان به آن اضافه کنید."
+
+msgid "Preview"
+msgstr "پیش نمایش"
+
+msgid ""
+"Preview insert for your comfort. Before updating the table on your page - you "
+"can see the result of your efforts and changes, look at it and enjoy the final "
+"outcome."
+msgstr ""
+"پیش نمایش برای راحتی شما. قبل از به روز رسانی جدول در سایت شما - می توانید نتیجه "
+"تلاش خود و تمام تغییرات را اینجا ببینید و از خروجی نهایی لذت ببرید."
+
+msgid "CSS Editor"
+msgstr "ویرایشگر CSS"
+
+msgid ""
+"In case you have special or at least, basic knowledge of CSS code - you can "
+"easily change the table here. Just make sure that you know, what you are doing "
+"and you will not destroy the table."
+msgstr ""
+"در صورتی که اطلاعات حرفه ای و یا حتی پایه از CSS دارید، می توانید جدول را از "
+"اینجا تغییر دهید. فقط با داشتن اطلاعات کافی اقدام به تغییر در این قسمت کنید تا "
+"جدول را نابود نکنید."
+
+msgid ""
+"Diagrams - this is a Pro feature of our plugin, which can help you to follow the "
+"statistics of your table. Several types for every taste and any wishes."
+msgstr ""
+"نمودارها - این یکی از ویژگی های نسخه حرفه ای PRO افزونه ماست که به شما امکان "
+"رهگیری آمار جدول خود را می دهد. انواع مختلف برای سلیقه ها و نیازهای متفاوت."
+
+msgid "Import/Export"
+msgstr "وارد کردن / استخراج"
+
+msgid ""
+"With these two buttons in our Pro version you can Import any table of csv format "
+"and Export the whole table, which you have done."
+msgstr ""
+"در نسخه حرفه ای PRO با این دو دکمه شما می توانید هر جدولی را با فرمت CSV وارد "
+"کنید و یا کل جدول خود را استخراج کنید."
+
+msgid "Well done!"
+msgstr "بسیار هم عالی!"
+
+msgid ""
+"<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - you’ll "
+"have to enter license key (you can find it in your personal account on our "
+"site). Go to the License tab and enter your email and license key. Once you have "
+"activated your PRO license - you can use all its advanced options. "
+"<br><br>That’s all. From this moment you can use your Data Table without any "
+"doubt. But if you still have some question - do not hesitate to contact us "
+"through our <a href=\"https://supsystic.com/contact-us/\">internal support</a> "
+"or on our <a href=\"http://supsystic.com/forum/datatable-plugin/\">Supsystic "
+"Forum.</a> Besides you can always describe your questions on <a href=\"https://"
+"wordpress.org/support/plugin/data-tables-generator-by-supsystic\">WordPress "
+"Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It will be nice if "
+"you`ll help us and boost plugin with <a href=\"https://wordpress.org/support/"
+"view/plugin-reviews/data-tables-generator-by-supsystic?rate=5#postform/\">Five "
+"Stars rating on WordPress.org.</a> <br><br>We hope that you like our Data Table "
+"plugin and wish you all the best! Good luck!"
+msgstr ""
+
+msgid "Welcome to our plugin"
+msgstr "به افزونه ما خوش آمدید"
+
+msgid "by Supsystic!"
+msgstr "توسط Supsystic!"
+
+msgid ""
+"We are trying to make your using of our plugin maximum comfortable and easy. So "
+"we find it like the best way to tell you about some options and features of this "
+"plugin."
+msgstr ""
+"ما در تلاشیم که استفاده شما از افزونه با حداکثر راحتی و سادگی باشد. بنابراین در "
+"نظر گرفته ایم تا درباره امکانات و ویژگی های این افزونه کمی با شما همراه باشیم."
+
+msgid "A small guide for the first-time user"
+msgstr "راهنمای کوچک برای اولین استفاده شما"
+
+msgid ""
+"Actually, Data Table plugin is very simple and has a lot of different options at "
+"the same time. That’s why when you close this article I will show you the main "
+"of them, but the very detailed one you can find on our site. I hope that you "
+"will have no questions after even this small guide. For the first time we will "
+"help you to install and create your first table, but if you need help - contact "
+"us through the internal support"
+msgstr ""
+
+msgid "Support"
+msgstr "پشتیبانی"
+
+msgid ""
+"We really like what we do and feel responsibility for our “child”. Constantly we "
+"are trying to change something or update the new features, but sometimes you may "
+"have a situation when you need help or have a problem. We can offer you two "
+"kinds of help: "
+msgstr ""
+
+msgid ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> Contact "
+"us </a> through the Forum on our site - if you have some question, offer or wish."
+msgstr ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\">تماس با "
+"ما</a> از طریق انجمن در سایت ما - اگر شما سوال، پیشنهاد و یا خواسته ای دارید."
+
+msgid ""
+"If, unfortunately, you have some problem - we are ready to help you in our <a "
+"href=\"//supsystic.com/contact-us/\" target=\"_blank\">internal support.</a>"
+msgstr ""
+"اگر متاسفانه با مشکلی مواجه شدید - ما در <a href=\"//supsystic.com/contact-us/\" "
+"target=\"_blank\">قسمت پشتیبانی</a> به شما کمک خواهیم کرد"
+
+msgid "Feel free to contact us and don’t worry, everything gonna be ok!"
+msgstr ""
+
+msgid "Video Tutorial"
+msgstr "آموزش ویدئویی"
+
+msgid "Frequently Asked Questions"
+msgstr "پرسش و پاسخهای متداول"
+
+msgid "Make data table responsive"
+msgstr "جدول اطلاعات را واکنش گرا کنید"
+
+msgid "I need to have line breaks/spaces between the paragraphs within the cells."
+msgstr "من نیاز به خط فاصله یا فاصله بین پاراگرافهای جدول در یک سلول دارم."
+
+msgid "How to use formulas in the table?"
+msgstr "چگونه از فرمولها در جدول استفاه کنید؟"
+
+msgid "Go to Editor of Data Table."
+msgstr "به ویرایشگر جدول اطلاعات بروید."
+
+msgid ""
+"Select a cell and start typing. In a cell, type an equal sign “=” to start the "
+"formula."
+msgstr ""
+
+msgid "Fill in the rest of the formula."
+msgstr "بقیه فرمول را پر کنید."
+
+msgid "Save the changes of table."
+msgstr "ذخیره تغییرات جدول."
+
+msgid "Check the result of formula in the table on your site."
+msgstr "نتیجه فرمول در جدول را در سایت خود را بررسی کنید."
+
+msgid ""
+"Learn more about how to do this <a href=\"//supsystic.com/how-to-use-tables/\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"اطلاعات بیشتر در مورد نحوه انجام این کار <a href=\"//supsystic.com/how-to-use-"
+"tables/\" target=\"_blank\">در اینجا</a>."
+
+msgid "Check all other FAQs"
+msgstr "تمام سوالات متداول را بررسی کنید"
+
+msgid "Roles"
+msgstr "نقش ها"
+
+msgid "Role for users who can use plugin. Administrator is included by default"
+msgstr ""
+"نقش کاربرانی که می توانند از افزونه استفاده کنند. مدیریت به صورت پیشفرض اضافه "
+"شده است"
+
+msgid "PRO option"
+msgstr "قابلیت نسخه PRO"
+
+msgid "Select avalilable roles to use tables"
+msgstr "نقش اعضای استفاده کننده از جدول را انتخاب کنید"
+
+msgid "Can't decode table rows from JSON."
+msgstr "اطلاعات سطرهای جدول از فایل JSON قابل بازیابی نیست."
+
+msgid "Can't decode table meta from JSON."
+msgstr "اطلاعات جدول از فایل JSON قابل بازیابی نیست."
+
+msgid "Failed to save table meta data: %s"
+msgstr "ذخیره اطلاعات جدول مقدور نبود: %s"
+
+msgid "The table with ID %d not exists."
+msgstr "جدول با شناسه %d وجود ندارد."
+
+msgid "No value"
+msgstr "بدون مقدار"
+
+msgid ""
+"Mandatory attribute \"id\" is not specified. ' . 'Shortcode usage example: [%s "
+"id=\"{table_id}\"]"
+msgstr ""
+
+msgid "There are not all shortcode's attributes specified. Usage example"
+msgstr "این ها تمام خاصیت های کدهای میانبر نیستند. مثال نحوه استفاده"
+
+msgid "Add table"
+msgstr "افزودن جدول"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Created"
+msgstr "ایجاد شد"
+
+msgid "Shortcode"
+msgstr "میان بر"
+
+msgid "PHP"
+msgstr "کد php"
+
+msgid "Actions"
+msgstr "اعمال"
+
+msgid "Edit table \"%s\""
+msgstr "ویرایش جدول \"%s\""
+
+msgid "Table History"
+msgstr ""
+
+msgid "Clone"
+msgstr ""
+
+msgid "Export available only in PRO version."
+msgstr "استخراج فقط در نسخه حرفه ای PRO در دسترس است."
+
+msgid "Export"
+msgstr "استخراج"
+
+msgid "Import available only in PRO version."
+msgstr "وارد کردن فقط در نسخه حرفه ای PRO در دسترس است."
+
+msgid "Import"
+msgstr "واردکردن"
+
+msgid "Clear"
+msgstr "پاک کردن"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Click to rename the table and hit [Enter]"
+msgstr "برای تغییر نام جدول کلیک کنید و اینتر را بزنید [Enter]"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "Main"
+msgstr ""
+
+msgid "Features"
+msgstr "ویژگی ها"
+
+msgid "Design"
+msgstr ""
+
+msgid "Language and Text"
+msgstr ""
+
+msgid "Table Elements"
+msgstr "عناصر جدول"
+
+msgid "Caption"
+msgstr "شرح"
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Description Text"
+msgstr "متن توضیحات"
+
+msgid "Header"
+msgstr "هدر"
+
+msgid "Count of Header Rows"
+msgstr "تعداد ردیف های هدر"
+
+msgid "Count of table rows, which will be moved to header."
+msgstr "تعداد ردیفهای جدول که به هدر منتقل خواهند شد."
+
+msgid "Footer"
+msgstr "فوتر"
+
+msgid "Fixed Header"
+msgstr "سربرگ ثابت"
+
+msgid ""
+"Allows to fix the table's header during table scrolling. Important! Header "
+"option must be enabled for using this feature. Also you need to set Fixed Table "
+"Height to create a vertical scroll at the table. To see the work of this feature "
+"you should not use such Responsive Modes as Standard and Automatic columns "
+"hiding."
+msgstr ""
+"این گزینه هدر جدول را در حین اسکرول نمودن ثابت نگه می دارد. مهم! گزینه هدر باید "
+"فعال شده باشد تا این گزینه کارایی داشته باشد. همچنین باید ارتفاع ثابت جدول را "
+"جهت ایجاد اسکرول عمودی تنظیم کنید. برای اینکه این گزینه به درستی کار کند لازم "
+"است از حالت استاندارد واکنشگرا و مخفی کننده خودکار ستونها استفاده نکنید."
+
+msgid "Fixed Footer"
+msgstr "فوتر ثابت"
+
+msgid ""
+"Allows to fix the table's footer during table scrolling. Important! Footer "
+"option must be enabled for using this feature. Also you need to set Fixed Table "
+"Height to create a vertical scroll at the table. To see the work of this feature "
+"you should not use such Responsive Modes as Standard and Automatic columns "
+"hiding."
+msgstr ""
+"این گزینه فوتر جدول را در حین اسکرول نمودن ثابت نگه می دارد. مهم! گزینه فوتر "
+"باید فعال شده باشد تا این گزینه کارایی داشته باشد. همچنین باید ارتفاع ثابت جدول "
+"را جهت ایجاد اسکرول عمودی تنظیم کنید. برای اینکه این گزینه به درستی کار کند لازم "
+"است از حالت استاندارد واکنشگرا و مخفی کننده خودکار ستونها استفاده نکنید."
+
+msgid "Fixed Table Height"
+msgstr "ارتفاع ثابت جدول"
+
+msgid ""
+"Fixed table height in px. This value must be less than the original table height "
+"to create a vertical scroll, otherwise you will not see that the fixed header / "
+"footer exists."
+msgstr ""
+"ارتفاع ثابت جدول با واحد پیکسل. این مقدار باید از مقدار اصلی ارتفاع جدول کمتر "
+"باشد در غیر این صورت شما هدر و فوتر ثابت را نخواهید دید."
+
+msgid "Fixed Columns"
+msgstr "ستون های ثابت"
+
+msgid ""
+"Allows to fix columns during table scrolling. Important! The fixing of columns "
+"suggests that the table will have a horisontal scroll type of responsive mode, "
+"otherwise you will not see that the fixed columns exist. So this feature is a "
+"kind of responsive mode on its own and will not work with such Responsive Modes "
+"as Standard and Automatic columns hiding."
+msgstr ""
+"ثابت کردن ستونها در حین اسکرول شدن جدول را فعال می کند. مهم! قابلیت ثابت کردن "
+"ستونها به تنهایی یک اسکرول افقی به جدول می افزاید در غیر این صورت شما ستونهای "
+"ثابت شده را نخواهید دید پس خود یک حالت واکنش گراست. بنا براین این گزینه با بقیه "
+"حالت های واکنش گرا مثل حالت استاندارد و یا پنهان کننده خودکار ستونها کار نخواهد "
+"کرد."
+
+msgid "Left Columns Count"
+msgstr "تعداد ستون های سمت چپ"
+
+msgid "Number of column to fix by left side of table."
+msgstr "تعداد ستونهایی که می خواهید در سمت چپ جدول ثابت شوند."
+
+msgid "Right Columns Count"
+msgstr "تعداد ستون های سمت راست"
+
+msgid "Number of column to fix by right side of table."
+msgstr "تعداد ستونهایی که می خواهید در سمت راست جدول ثابت شوند."
+
+msgid "Auto Index"
+msgstr "عنوان گزاری خودکار"
+
+msgid "Data Formats"
+msgstr "فرمت های اطلاعات"
+
+msgid "Number Formatting"
+msgstr "فرمت عددی"
+
+msgid "Set format of all numbers in the table"
+msgstr "تنظیم فرمت تمام اعداد در جدول"
+
+msgid "Number"
+msgstr "عدد"
+
+msgid "Set output format for numbers e.g. 1,000.00, 1.00"
+msgstr "تنظیم خروجی با فرمت برای اعداد مانند 1,000.00 1.00"
+
+msgid "Currency"
+msgstr "واحد پول"
+
+msgid "Set output format for currencies e.g ($ 1,000.00, € 1.00)"
+msgstr "تنظیم فرمت خروجی برای واحد پول به عنوان مثال (1,000.00 دلار، € 1.00)"
+
+msgid "Percent"
+msgstr "درصد"
+
+msgid "Set output format for percent numbers e.g (0.00%, 1%)"
+msgstr "تنظیم فرمت خروجی برای اعداد با فرمت درصد به عنوان مثال (0.00%، 1%)"
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "Set output format for date e.g (YYYY-MM-DD, MM.DD.YYYY)"
+msgstr "تنظیم فرمت خروجی برای تاریخ به عنوان مثال (YYYY-MM-DD, MM. DD. YYYY)"
+
+msgid "Sorting"
+msgstr "مرتب سازی"
+
+msgid "Sorting Order"
+msgstr "ترتیب چیدمان"
+
+msgid "Ascending"
+msgstr "صعودی"
+
+msgid "Descending"
+msgstr "نزولی"
+
+msgid "Sorting Column"
+msgstr "ستون مرتب سازی"
+
+msgid "Number of column to apply sort order."
+msgstr "تعداد ستونهایی که ترتیب چیدمان بر آنها اعمال می شود."
+
+msgid "Pagination"
+msgstr "صفحه بندی"
+
+msgid "Pagination menu length"
+msgstr "طول منوی صفحه بندی"
+
+msgid "Pagination Size"
+msgstr "اندازه صفحه بندی"
+
+msgid "Large"
+msgstr "بزرگ"
+
+msgid "Medium"
+msgstr "متوسط"
+
+msgid "Small"
+msgstr "کوچک"
+
+msgid "Searching"
+msgstr "در حال جستجو"
+
+msgid "Show only search result"
+msgstr ""
+
+msgid "Table is empty by default and shows data only if search has a result."
+msgstr ""
+
+msgid "Search by hidden fields"
+msgstr ""
+
+msgid "Strict matching"
+msgstr ""
+
+msgid "Display only entries with matching characters in the beginning of words"
+msgstr ""
+
+msgid "Minimum characters"
+msgstr ""
+
+msgid "Minimum search field characters to start search"
+msgstr ""
+
+msgid "Show empty table"
+msgstr ""
+
+msgid "Show empty table, until you have entered the data to search field."
+msgstr ""
+
+msgid "Disallow Indexing"
+msgstr "موتور جستجو لیست نکند"
+
+msgid "Disable indexing table for search bots"
+msgstr "لیست کردن جدول را برای رباتهای موتورهای جستجو غیر فعال می کند"
+
+msgid "Execute JS Script After Table Is Loaded"
+msgstr ""
+
+msgid "Allows to execute js script after table is loaded."
+msgstr ""
+
+msgid "Paste script code here"
+msgstr ""
+
+msgid "Auto Width"
+msgstr "عرض خودکار"
+
+msgid ""
+"Calculate the columns width on frontend automatically or depending on the "
+"columns width on the Editor Tab."
+msgstr ""
+"عرض ستونها در خروجی نمایش سایت بصورت خودکار محاسبه شود یا بر اساس تنظیمات قسمت "
+"ویرایش در نظر گرفته شود."
+
+msgid "Compact Table"
+msgstr "جدول جمع و جور"
+
+msgid "Reduce the amount of white-space."
+msgstr "مقدار فضای سفید را کاهش می دهد."
+
+msgid "Disable Wrapping"
+msgstr "غیر فعال کردن بسته بندی سلولها"
+
+msgid ""
+"Disable wrapping of content in the table, so all text in the cells is on a "
+"single line."
+msgstr ""
+"بسته بندی محتوای جدول را غیر فعال می کند و تمام اطلاعات هر سلول در یک سطر نمایش "
+"داده می شود."
+
+msgid "Paragraph Mode"
+msgstr "حالت پاراگراف"
+
+msgid ""
+"This mode allows you to separate the content into paragraphs. To move to a new "
+"line in the cell - please press CTRL + Enter."
+msgstr ""
+"این حالت به شما اجازه می دهد محتوا را به پاراگراف ها دسته بندی کنید. برای حرکت "
+"به خط جدید در سلول جدول - لطفا کلیدهای کنترل و اینتر کیبورد را با هم استفاده "
+"کنید."
+
+msgid "Responsive Mode"
+msgstr "حالت واکنشگرا"
+
+msgid ""
+"Standard Responsive mode - in this mode if table content doesn't fit all columns "
+"become under each other with one cell per row"
+msgstr ""
+"حالت استاندارد واکنش گرا - در این حالت در صورتی که محتوای جدول فضا نداشته باشد "
+"تمام ستون به زیر هم می روند و در هر سطر یک سلول"
+
+msgid ""
+"Automatic column hiding - in this mode table columns will collapse from right to "
+"left if content does not fit to parent container width"
+msgstr ""
+"پنهان کردن خودکار ستون - در این حالت در صورتی که جدول  از اندازه قالب خود بزرگتر "
+"شود ستون ها از راست به چپ مخفی خواهند شد"
+
+msgid ""
+"Horizontal scroll - in this mode scroll bar will be added if table overflows "
+"parent container width"
+msgstr ""
+"اسکرول افقی - در این حالت اگر جدول از اندازه قالب خود بزرگتر شود نوار اسکرول به "
+"آن اضافه می گردد"
+
+msgid "Disable Responsivity - default table fluid layout"
+msgstr "غیر فعال کردن حالت واکنش گرا - حالت پیشفرض شناور جدول"
+
+msgid "Standard Responsive mode"
+msgstr "حالت واکنش گرای استاندارد"
+
+msgid "Automatic column hiding"
+msgstr "پنهان کردن خودکار ستون"
+
+msgid "Horizontal scroll"
+msgstr "اسکرول افقی"
+
+msgid "Disable Responsivity"
+msgstr "غیر فعال کردن واکنش گرایی"
+
+msgid "Table Information"
+msgstr "اطلاعات جدول"
+
+msgid "Table information display field. %s"
+msgstr "فیلد نمایش اطلاعات جدول. %s"
+
+msgid "Borders"
+msgstr "حاشیه ها"
+
+msgid ""
+"Cell - adds border around all four sides of each cell, Row - adds border only "
+"over and under each row. (i.e. only for the rows)."
+msgstr ""
+"سلول - برای هر چهار طرف هر سلول مرز می کشد، سطر - مرز را فقط به بالا و پایین هر "
+"سطر وارد می کند (مثل: فقط برای سطر ها)."
+
+msgid "Cell"
+msgstr "سلول"
+
+msgid "Row"
+msgstr "سطر"
+
+msgid "None"
+msgstr "هیچکدام"
+
+msgid "Row Striping"
+msgstr "ردیف نواری"
+
+msgid "Add automatic highlight of table rows for odd and even rows."
+msgstr "نمایش برجسته (هایلایت) خودکار سطرها برای سطرهای زوج و فرد."
+
+msgid "Highlighting by Mouseover"
+msgstr ""
+
+msgid "Row highlighting on mouse over."
+msgstr "سطر در هنگام حضور موس هایلایت شود."
+
+msgid "Highlight the Order Column"
+msgstr "ستون ترتیب گزاری هایلایت شود"
+
+msgid "Highlight the column that the table data is currently ordered on."
+msgstr ""
+"ستونی که اطلاعات جدول بر اساس آن مرتب شده است را برجسته (هایلایت) نمایش می دهد."
+
+msgid "Overwrite Table Text"
+msgstr "بازنویسی روی متن جدول"
+
+msgid "No data available in table"
+msgstr "اطلاعاتی در جدول وجود ندارد"
+
+msgid "Empty table"
+msgstr "جدول خالی"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "نمایش از شروع به پايان همه ي داده ها"
+
+msgid "Table info text"
+msgstr "متن اطلاعات جدول"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "نمایش 0 تا 0 از 0 ورودی"
+
+msgid "Empty info text"
+msgstr "متن اطلاعات جدول خالی"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(فیلتر شده از_بیشترین_اطلاعات وارد شده)"
+
+msgid "Filtered info text"
+msgstr "متن اطلاعات فیلتر شده"
+
+msgid "Show _MENU_ entries"
+msgstr "نمایش_منوهای_ورودی"
+
+msgid "Length text"
+msgstr "طول متن"
+
+msgid "Search:"
+msgstr "جستجو:"
+
+msgid "Search label"
+msgstr "برچسب جست‌وجو"
+
+msgid "No matching records are found"
+msgstr "هیچ سابقه تطبیق يافته اي پيدا نشد"
+
+msgid "Zero records"
+msgstr "موردی نیست"
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "Select language"
+msgstr "انتخاب زبان"
+
+msgid "Loading your table, please wait..."
+msgstr "درحال بارگذاری جدول شما، ، لطفا صبر کنید..."
+
+msgid "Bold"
+msgstr "تو پُر"
+
+msgid "Italic"
+msgstr "کج"
+
+msgid "Underline"
+msgstr "زیر خط دار"
+
+msgid "Text color"
+msgstr "رنگ متن"
+
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+msgid "Alignment"
+msgstr "تنظیم محل"
+
+msgid "Vertical alignment"
+msgstr "تنظیم محل عمودی"
+
+msgid "Word wrapping"
+msgstr "بسته بندی کلمات"
+
+msgid "Create a link"
+msgstr "ایجاد یک پیوند"
+
+msgid "Insert picture"
+msgstr "وارد کردن عکس"
+
+msgid "Comment"
+msgstr "دیدگاه"
+
+msgid "Formats"
+msgstr "فرمت ها"
+
+msgid ""
+"Make the cell hidden. <br /><br />To display the table correctly, please, add "
+"hidden property for the whole row or the whole column of table."
+msgstr ""
+"سلول را مخفی کنید. <br /><br /> برای نمایش صحیح جدول، لطفا، گزینه مخفی کردن را "
+"برای کل سطر یا ستون اعمال کنید."
+
+msgid "Get PRO version"
+msgstr "دریافت نسخه حرفه ای"
+
+msgid "Name of Cloned Table"
+msgstr ""
+
+msgid "Editable fields"
+msgstr "فیلد های قابل ویرایش"
+
+msgid "PRO version"
+msgstr "نسخه حرفه ای"
+
+msgid ""
+"Please be advised that this option is available only in %s. You can %s today and "
+"get this and other PRO option for your tables!"
+msgstr ""
+"توجه داشته باشید که ای گزینه فقط در %s قابل دسترس است. شما می توانید امروز %s و "
+"این گزینه و دیگر گزینه های نسخه حرفه ای PRO را برای جدول های خود دریافت کنید!"
+
+msgid "Insert url"
+msgstr "افزودن URL"
+
+msgid "Url"
+msgstr ""
+
+msgid "Link Text"
+msgstr "متن لینک"
+
+msgid "Open link in a new tab"
+msgstr "باز کردن لینک در یک تب جدید"
+
+#~ msgid "Select file type to export table:"
+#~ msgstr "انتخاب نوع فایل برای استخراج جدول:"
+
+#~ msgid ""
+#~ "You have no diagrams for now. Go to %s -> select the required data in the "
+#~ "table and click on âAdd diagramâ button. Also please check the tutorial %s"
+#~ msgstr ""
+#~ "شما در حال حاضر نموداری ندارید. به %s بروید و اطلاعات لازم برای جدول را "
+#~ "انتخاب نمایید. سپس روی âافزودن نمودارâ کلیک کنید. همچنین قسمت آموزش %s را "
+#~ "مطالعه کنید"
+
+#~ msgid "Select file type to export table"
+#~ msgstr "نو ع فایل را جهت استخراج انتخاب کنید"
+
+#~ msgid ""
+#~ "Itâs never been so easy to create and manage pricing and comparison tables "
+#~ "with table builder. Any element of the table can be customise with mouse "
+#~ "click."
+#~ msgstr ""
+#~ "تاکنون ساختن جداول قیمت و مقایسه به این آسانی نبوده است. هر نقطه از جدول شما "
+#~ "با استفاده از کلیک موس قابل شخصی سازی و تغییر است."
+
+#~ msgid "Undefined"
+#~ msgstr "تعریف نشده"
+
+#~ msgid ""
+#~ "Thank you for choosing our Data Tables plugin. Letâs make a quick tour "
+#~ "through features and main options of the plugin. Just click âNextâ button."
+#~ msgstr ""
+#~ "از شما به خاطر انتخاب افزونه Data Tables سپاسگزاریم. اجازه بدهید در یک تور "
+#~ "کوچک و سریع امکانات و ویژگی های اصلی افزونه را به شما نشان دهیم. کافیست روی "
+#~ "âبعدیâ کلیک کنید."
+
+#~ msgid ""
+#~ "Click on the button âAdd new tableâ and see the first form, which you need to "
+#~ "fill in. A very simple step!"
+#~ msgstr ""
+#~ "روی دکمه â افزودن جدول جدیدâ کلیک کنید و اولین فرمی که باید پر کنید را "
+#~ "ببینید. یک مرحله خیلی ساده!"
+
+#~ msgid ""
+#~ "Fill the table title and choose the number of columns and rows. Donât worry, "
+#~ "you will be able to change it (add or delete some) later!"
+#~ msgstr ""
+#~ "نام جدول و تعداد سطر و ستونهای آنرا مشخص کنید. نگران نباشید بعدا می توانید "
+#~ "آنها را تغییر دهید (کم یا زیاد کنید)!"
+
+#~ msgid ""
+#~ "Main Settings of your first table. Here you can see main settings which are "
+#~ "conected with languages, table elements, styling and other different editors "
+#~ "settings. Generally itâs a tab where you can edit the visual part of the "
+#~ "whole table, switch on/off the responsive mode, set pagination etc."
+#~ msgstr ""
+#~ "تنظیمات اصلی اولین جدول شما. در اینجا شما می توانید تنظیمات اصلی مربوط به "
+#~ "زبان، اجزاء جدول، استایلها و همچنین دیگر تنظیمات ویرایشی را انجام دهید. در کل "
+#~ "یک برگه جهت ویرایش ظاهری کل جدول، روشن و خاموش کردن حالت واکنش گرا، تنظیمات "
+#~ "صفحه بندی و غیره است."
+
+#~ msgid ""
+#~ "<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - "
+#~ "youâll have to enter license key (you can find it in your personal account on "
+#~ "our site). Go to the License tab and enter your email and license key. Once "
+#~ "you have activated your PRO license - you can use all its advanced options. "
+#~ "<br><br>Thatâs all. From this moment you can use your Data Table without any "
+#~ "doubt. But if you still have some question - do not hesitate to contact us "
+#~ "through our <a href=\"https://supsystic.com/contact-us/\">internal support</"
+#~ "a> or on our <a href=\"http://supsystic.com/forum/datatable-plugin/"
+#~ "\">Supsystic Forum.</a> Besides you can always describe your questions on <a "
+#~ "href=\"https://wordpress.org/support/plugin/data-tables-generator-by-supsystic"
+#~ "\">WordPress Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It "
+#~ "will be nice if you`ll help us and boost plugin with <a href=\"https://"
+#~ "wordpress.org/support/view/plugin-reviews/data-tables-generator-by-supsystic?"
+#~ "rate=5#postform/\">Five Stars rating on WordPress.org.</a> <br><br>We hope "
+#~ "that you like our Data Table plugin and wish you all the best! Good luck!"
+#~ msgstr ""
+#~ "<b>ارتقا دادن</b> <br>زمانی که شما نسخه حرفه ای PRO افزونه را خریداری کردید - "
+#~ "نیاز است تا کد لایسنس خریداری شده را (که می توانید در اکانت خود در سایت ما "
+#~ "بیابید) وارد نمایید. به برگه لایسنس بروید و ایمیل و کد لایسنس خود را وارد "
+#~ "کنید. به محض فعالسازی لایسنس حرفه ای خود می توانید از تمام ویژگی ها و امکانات "
+#~ "آن استفاده کنید. <br><br> به همین راحتی. از همین لحظه می توانید از افزونه خود "
+#~ "بدون هیچ شک و محدودیتی استفاده کنید. اما اگر همچنان سوالاتی دارید - در اولین "
+#~ "فرصت از طریق <a href=\"https://supsystic.com/contact-us/\"> قسمت پشتیبانی </"
+#~ "a> و یا <a href=\"http://supsystic.com/forum/datatable-plugin/\"> فروم سایت "
+#~ "ما </a> با ما تماس بگیرید. در کنار این راهها شما همیشه می توانید از طریق <a "
+#~ "href=\"https://wordpress.org/support/plugin/data-tables-generator-by-supsystic"
+#~ "\">فروم پشتیبانی وردپرس</a> سوالات خود را مطرح کنید. <br><br><b> از این "
+#~ "افزونه لذت می برید؟</b> <br>خیلی عالی می شود اگر در معرفی افزونه با <a href="
+#~ "\"https://wordpress.org/support/view/plugin-reviews/data-tables-generator-by-"
+#~ "supsystic?rate=5#postform/\">امتیاز 5 ستاره دادن در وردپرس</a> به ما کمک کنید."
+#~ "<br><br> ما امیدواریم شما افزونه Data Table ما را دوست داشته باشید! موفق "
+#~ "باشید!"
+
+#~ msgid ""
+#~ "Actually, Data Table plugin is very simple and has a lot of different options "
+#~ "at the same time. Thatâs why when you close this article I will show you the "
+#~ "main of them, but the very detailed one you can find on our site. I hope that "
+#~ "you will have no questions after even this small guide. For the first time we "
+#~ "will help you to install and create your first table, but if you need help - "
+#~ "contact us through the internal support"
+#~ msgstr ""
+#~ "در واقع افزونه Data Table در حین سادگی گزینه ها و امکانات زیادی در اختیار شما "
+#~ "قرار می دهد. به همین دلیل وقتی که این متن را ببندید من به شما امکانات اصلی را "
+#~ "نمایش خواهم داد، اما برای جزییات بیشتر می توانید به وبسایت ما مراجعه کنید. "
+#~ "امیدوارم حتی بعد از این راهنمایی کوچک سوالی برای شما باقی نماند. برای دفعه "
+#~ "اول ما به شما جهت ساختن اولین جدول کمک خواهیم کرد اما اگر کمک بیشتری نیاز "
+#~ "دارید از طریق قسمت پشتیبانی با ما تماس بگبرید"
+
+#~ msgid ""
+#~ "We really like what we do and feel responsibility for our âchildâ. Constantly "
+#~ "we are trying to change something or update the new features, but sometimes "
+#~ "you may have a situation when you need help or have a problem. We can offer "
+#~ "you two kinds of help: "
+#~ msgstr ""
+#~ "ما واقعا به کاری که میکنیم علاقه داریم و در مقابل \"فرزند\" خود احساس مسئولیت "
+#~ "داریم. ما دائما در حال تغییر دادن و یا به روز رسانی قابلیتها و ویژگی ها "
+#~ "هستیم، اما گاهی شما در موقعیتی نیاز به کمک دارید یا با مشکلی مواجه هستید. ما "
+#~ "به شما دو راه کمک پیشنهاد می کنیم: "
+
+#~ msgid "Feel free to contact us and donât worry, everything gonna be ok!"
+#~ msgstr "با ما تماس بگیرید و نگران نباشید، همه چیز درست خواهد شد!"
+
+#~ msgid ""
+#~ "Select a cell and start typing. In a cell, type an equal sign â=â to start "
+#~ "the formula."
+#~ msgstr ""
+#~ "سلول را انتخاب کنید و شروع به تایپ نمایید. در یک سلول علامتâ =â را وارد کنید "
+#~ "تا فرمول نویسی شروع شود."
+
+#~ msgid "Can not find table with id %s"
+#~ msgstr "عدم موفقیت در پیدا کردن جدول با شناسه %s"
+
+#~ msgid "Clone Table"
+#~ msgstr "تکثیر جدول"
+
+#~ msgid "Styling"
+#~ msgstr "استایل"
+
+#~ msgid "Highlighting"
+#~ msgstr "برجسته سازی یا هایلایت"

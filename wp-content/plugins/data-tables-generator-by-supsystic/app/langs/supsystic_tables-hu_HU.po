@@ -1,0 +1,1493 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+
+msgid "An error has occurred"
+msgstr "Hiba történt"
+
+msgid "Overview"
+msgstr "Áttekintés"
+
+msgid "Add new table"
+msgstr "Új táblázat készítés"
+
+msgid "Tables"
+msgstr "Táblázatok"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "License"
+msgstr "Licenc"
+
+msgid "Featured Plugins"
+msgstr "Kiemelt bővítmények"
+
+msgid "Table title"
+msgstr "Táblázat cím"
+
+msgid "Columns"
+msgstr "Oszlopok"
+
+msgid "Rows"
+msgstr "Sorok"
+
+msgid "You can change number of Columns and Rows later"
+msgstr "Módosíthatja az oszlopok és a sorok számát később is."
+
+msgid "Invalid range specified."
+msgstr "Érvénytelen érték."
+
+msgid "Failed to find diagram %s."
+msgstr "Nem sikerült megtalálni a diagramot: %s."
+
+msgid "Failed to find table %s."
+msgstr "Nem sikerült megtalálni a táblázatot: %s."
+
+msgid "Failed to get table rows: %s"
+msgstr "Nem sikerült a táblázat %s sorát lekérni."
+
+msgid "Diagram"
+msgstr "Diagram"
+
+msgid "Type"
+msgstr "Típus"
+
+msgid "Area Chart"
+msgstr "Területdiagram"
+
+msgid "Line Chart"
+msgstr "Vonaldiagram"
+
+msgid "Pie Chart"
+msgstr "Kördiagram"
+
+msgid "Bar Chart"
+msgstr "Sávdiagram"
+
+msgid "Column Chart"
+msgstr "Oszlopdiagram"
+
+msgid "Bubble Chart"
+msgstr "Buborékdiagram"
+
+msgid "Switch rows / columns"
+msgstr "Sorok és oszlopok váltása"
+
+msgid "Use first row as headers"
+msgstr "Az első sort használjuk fejlécként"
+
+msgid "Use first column as labels"
+msgstr "Az első oszlopot használjuk címkeként"
+
+msgid "Width"
+msgstr "Szélesség"
+
+msgid ""
+"Set the value in px or %, for example, 400 (equals to 400px) or 90%. Leave this "
+"field empty to use default width value."
+msgstr ""
+"Állítsa be az értéket px-ben vagy %-ban. Például: 400 (egyenlő 400px) vagy 90%. "
+"Hagyja a mezőt üresen az alapértelmezett szélesség használatához."
+
+msgid "Height"
+msgstr "Magasság"
+
+msgid ""
+"Set the value in px or %, for example, 200 (equals to 200px) or 80%. Leave this "
+"field empty to use default height value."
+msgstr ""
+"Állítsa be az értéket px-ben vagy %-ban. Például: 200 (egyenlő 200px) vagy 80%. "
+"Hagyja a mezőt üresen az alapértelmezett magasság használatához."
+
+msgid "Remove"
+msgstr ""
+
+msgid "Legend Position"
+msgstr "Felirat pozíció"
+
+msgid "No legend"
+msgstr "Nincs felirat"
+
+msgid "Above the chart"
+msgstr "A diagram felett"
+
+msgid "Below the chart"
+msgstr "A diagram alatt"
+
+msgid "Left of the chart"
+msgstr "A diagram bal oldalán"
+
+msgid "Right of the chart"
+msgstr "A diagram jobb oldalán"
+
+msgid "Lines between slices and values"
+msgstr "Vonalak a szeletek és értékek között"
+
+msgid "Inside by the top left corner"
+msgstr "Belül, a bal-felső sarokban"
+
+msgid "Diagram Title"
+msgstr "Diagram cím"
+
+msgid "Axis X Title"
+msgstr "X-tengely neve"
+
+msgid "Axis Y Title"
+msgstr "Y-tengely neve"
+
+msgid "3D Diagram"
+msgstr "3D diagram"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "Text on Slice"
+msgstr "Szöveg a szeleten"
+
+msgid "Percentage of slice size out of total"
+msgstr "Százalékos aránya a szelet méretének"
+
+msgid "Quantitative value of slice"
+msgstr "Mennyiségi értéke a szeletnek"
+
+msgid "Name of slice"
+msgstr "Szelet neve"
+
+msgid "Not displaying"
+msgstr "Nem mutat"
+
+msgid "Use custom colors"
+msgstr "Egyéni szín"
+
+msgid "Select chart type"
+msgstr "Diagramtípus választás"
+
+msgid "Editor tab"
+msgstr "Szerkesztő fül"
+
+msgid "how to create Diagrams with Data Table plugin"
+msgstr "Hogy készítsünk diagramot az Adattábla bővítménnyel"
+
+msgid ""
+"You have no diagrams for now. Go to %s -> select the required data in the table "
+"and click on “Add diagram” button. Also please check the tutorial %s"
+msgstr ""
+
+msgid "Add diagram"
+msgstr "Diagram hozzáadása"
+
+msgid "The table ID %s not found."
+msgstr "A táblázat azonosító %s nem található."
+
+msgid "Unsupported export type: %s."
+msgstr ""
+
+msgid "Frontend Export"
+msgstr "Felhasználói export"
+
+msgid "Allow export table to pdf, csv, xls on frontend"
+msgstr ""
+"Táblázat export engedélyezése a felhasználóknak pdf, csv és xls formátumban."
+
+msgid "Export Page Orientation"
+msgstr "Export oldalirány"
+
+msgid "Choose the page orientation for PDF export file"
+msgstr "Válasszon oldalirányányt a PDF exporthoz"
+
+msgid "Portrait"
+msgstr "Álló"
+
+msgid "Landscape"
+msgstr "Fekvő"
+
+msgid "Export Logo"
+msgstr "Export logó"
+
+msgid "Automticaly appends selected logo for output pdf or printing"
+msgstr ""
+"Automatikusan tegyük rá a kiválasztott logót a pdf-ekre vagy a lapra nyomtatás "
+"esetén."
+
+msgid "Logo Position"
+msgstr "Logó pozíció"
+
+msgid "Above table"
+msgstr "Táblázat felett"
+
+msgid "Below table"
+msgstr "Táblázat alatt"
+
+msgid "Logo Alignment"
+msgstr "Logó elrendezése"
+
+msgid "Left"
+msgstr "Bal"
+
+msgid "Center"
+msgstr "Közép"
+
+msgid "Right"
+msgstr "Jobb"
+
+msgid "Export Data to the File"
+msgstr "Táblázat exportálása"
+
+msgid "File Type"
+msgstr "Fájl típus"
+
+msgid "Failed to import selected file: Wrong spreadsheet id or url"
+msgstr ""
+
+msgid "Failed to import data from the uploaded file"
+msgstr "Nem sikerült az adatokat importálni a feltöltött fájlból."
+
+msgid "Import error"
+msgstr "Import hiba"
+
+msgid "Failed to import selected file"
+msgstr "Nem sikerült a kijelölt fájl importálása"
+
+msgid "Automatically import from Google Tables"
+msgstr ""
+
+msgid "Link from Google Tables"
+msgstr ""
+
+msgid "Import Data to the Table"
+msgstr "Importálás a táblázatba"
+
+msgid "Import Settings"
+msgstr "Import beállítások"
+
+msgid "Delimiter"
+msgstr "Határolójel"
+
+msgid "Google Spreadsheet Url"
+msgstr "Google Spreadsheet Url"
+
+msgid ""
+"Important! Please, check the sharing settings of your spreadsheet: it must be "
+"accessed to edit for everyone who has link. In other case the data will not "
+"import to table."
+msgstr ""
+"Fontos! Kérem, ellenőrízze a megosztási beállításokat: mindenkinek hozzá kell "
+"férnie, akinek megvan a link. Különben az adat nem kerül a táblázatba."
+
+msgid "Append to existing table data"
+msgstr ""
+
+msgid "Failed to upload selected file"
+msgstr "Nem sikerült feltölteni a kiválasztott fájlt."
+
+msgid "Activate License"
+msgstr "Licenc aktíválása"
+
+msgid "Renew License"
+msgstr "Licenc megújítása"
+
+msgid "Slider by Supsystic"
+msgstr "Supsystic slider"
+
+msgid ""
+"Congratulations! You have successfully installed and activated PRO version of %s "
+"plugin."
+msgstr ""
+"Gratulálunk! Sikeresen telepítette és aktíválta a PRO verzióját a %s "
+"bővítménynek."
+
+msgid "Your premium support is expired in %s days"
+msgstr "A prémium támogatás lejár %s nap múlva."
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr "Nem tudja frissíteni a PRO verziót lejárt licenc-szel."
+
+msgid "Activate"
+msgstr "Aktívál"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Failed to save table rows: %s"
+msgstr ""
+
+msgid "Save Editable Fields"
+msgstr "Adatok mentése szerkeszthető mezőkkel"
+
+msgid "Allows to save data to the table through editable fields."
+msgstr "Engedélyezzük adatok mentését a táblázatba a szerkeszthető mezőknél."
+
+msgid "Use Editable Fields for Logged In Users Only"
+msgstr "Módosítható mezők használata csak bejelentkezett felhasználók számára"
+
+msgid "Allows to use editable fields only for logged in users."
+msgstr "Csak belépett felhasználók használhatják a szerkeszthető mezőket."
+
+msgid "Use Editable Fields for Current Roles"
+msgstr "Szerkeszthető mezők csak a következő jogosultságokkal rendelkezőknek"
+
+msgid ""
+"Allows to use editable fields only for users with selected roles. If there are "
+"no chosen roles - all logged in users will have ability to use the editable "
+"fields."
+msgstr ""
+"Csak a megjelelölt jogosultsággal bíró felhasználók használhatják a "
+"szerkeszthető mezőket. Ha nem jelöl meg jogosultságokat, minden belépett "
+"felhasználó számára elérhetőek."
+
+msgid "Select roles"
+msgstr "Válasszon jogosultsági köröket"
+
+msgid "Enable Table History"
+msgstr ""
+
+msgid "Select User to display its table"
+msgstr ""
+
+msgid ""
+"Note that the table may look a little different depending on your theme style."
+msgstr ""
+"A táblázat másképp nézhet ki, mint ahogy most látja. Ez a weboldalon használt "
+"sablontól függ."
+
+msgid "Add editable field"
+msgstr "Szerkeszthető mező hozzáadása"
+
+msgid "Save as"
+msgstr "Mentés másként"
+
+msgid "Diagrams"
+msgstr "Diagramok"
+
+msgid "Get PRO"
+msgstr "PRO megvásárlása"
+
+msgid "Popup Plugin"
+msgstr "Popup bővítmény"
+
+msgid ""
+"The Best WordPress PopUp option plugin to help you gain more subscribers, social "
+"followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+"A legjobb WordPress PopUp bővítmény, amellyel több feliratkozója, rajongója vagy "
+"hirdetése lesz. Reszponzív popup-ok kiváló funkciókkal."
+
+msgid "Slider Plugin"
+msgstr "Slider bővítmény"
+
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select images "
+"from your WordPress Media Library, Flickr, Instagram or Facebook, set slide "
+"captions, links and SEO fields all from one page."
+msgstr ""
+"A slideshow készítés a Slider bővítménnyel gyors és egyszerű. Egyszerűen "
+"válasszon képeket a WordPress Médiatárból, Flickr-ről, Instagram-ról vagy "
+"Facebook-ról. Állítsa be a szövegeket, linkeket és seo mezőket egyetlen oldalról."
+
+msgid "Photo Gallery Plugin"
+msgstr "Galéria bővítmény"
+
+msgid ""
+"Photo Gallery Plugin with a great number of layouts will help you to create "
+"quality respectable portfolios and image galleries."
+msgstr ""
+"Galéria bővítmény sokféle megjelenéssel, magas színvonalú portfoliók és "
+"képgalériák összeállításához."
+
+msgid "Data Tables Generator"
+msgstr "Adattáblázat generáló"
+
+msgid ""
+"Create and manage beautiful data tables with custom design. No HTML knowledge is "
+"required."
+msgstr ""
+"Készítsen és menedzseljen gyönyörű adattáblákat egyedi megjelenéssel. Nincs "
+"szükség hozzá HTML tudásra."
+
+msgid "Social Share Buttons"
+msgstr "Közösségi megosztás gombok"
+
+msgid ""
+"Social share buttons to increase social traffic and popularity. Social sharing "
+"to Facebook, Twitter and other social networks."
+msgstr ""
+"Közösségi média megosztás gombok a közösségi médiákból jövő forgalom "
+"növeléséért. Facebook, Twitter és más közösségi hálozatok."
+
+msgid "Live Chat Plugin"
+msgstr "Élő chat bővítmény"
+
+msgid ""
+"Be closer to your visitors and customers with Live Chat Support by Supsystic. "
+"Help you visitors, support them in real-time with exceptional Live Chat "
+"WordPress plugin by Supsystic."
+msgstr ""
+"Legyen közvetlen kapcsolata a weboldal látogatóival és vásárlóival a Live Chat "
+"Support bővítménnyel. Segítse a látogatókat abban a pillanatban, amikor "
+"szükségük van rá. Live Chat WordPress bővítmény a Supsystic-től."
+
+msgid "Pricing Table"
+msgstr "Ártáblázat"
+
+msgid ""
+"It’s never been so easy to create and manage pricing and comparison tables with "
+"table builder. Any element of the table can be customise with mouse click."
+msgstr ""
+
+msgid "Coming Soon Plugin"
+msgstr "Hamarosan jövünk bővítmény"
+
+msgid ""
+"Coming soon page with drag-and-drop builder or under construction | maintenance "
+"mode to notify visitors and collects emails."
+msgstr ""
+"Hamarosan jövünk lap készítes drag-and-drop módszerrel, karbantartási mód a "
+"látogatók tájékoztatása miatt és email címek gyűjtéséhez."
+
+msgid "Backup Plugin"
+msgstr "Biztonsági mentés bővítmény"
+
+msgid ""
+"Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched "
+"DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr ""
+"Biztonsági mentés és visszaállítás bővítmény a Supsystic-től. DropBox, FTP, "
+"Amazon S3, Google Drive mentések a WordPress weboldalának."
+
+msgid "Google Maps Easy"
+msgstr "Google Térkép könnyen"
+
+msgid ""
+"Display custom Google Maps. Set markers and locations with text, images, "
+"categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+"Egyedi Google Térképek megjelenítése. Jelöljön helyszíneket szöveggel, képpel, "
+"kategóriával és linkkel. Egyédi Google térkép egyszerű, intuitív módon."
+
+msgid "Digital Publication Plugin"
+msgstr "Digitális publikálás bővítmény"
+
+msgid ""
+"Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, "
+"Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+"Digitális publikáció bővítmény a Supsystic-től magazinok, katalógusok, "
+"portfóliók megjelenítéséhez. Konvertálja a képeket, bejegyzéseket, PDF-eket "
+"lapozható könyvvé."
+
+msgid "Contact Form Plugin"
+msgstr "Kapcsolat űrlap bővítmény"
+
+msgid ""
+"One of the best plugin for creating Contact Forms on your WordPress site. "
+"Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+"Az egyik legjobb bővítmény kapcsolatfelvételi űrlapok készítéséhez. "
+"Változtatható betűtípus, háttér, egyedi mezők, stb."
+
+msgid "Newsletter Plugin"
+msgstr "Hírlevél bővítmény"
+
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will have "
+"no need to control it or send them manually. No coding, hard skills or long "
+"hours of customizing are required."
+msgstr ""
+"Supsystic hírlevél bővítmény a levelezés automatizálásához. Nem szükséges "
+"beavatkoznia vagy manuálisan küldenie. Nem szükséges kódolás, hosszú órák a "
+"személyre szabáshoz."
+
+msgid "Membership by Supsystic"
+msgstr ""
+
+msgid ""
+"Create online membership community with custom user profiles, roles, FrontEnd "
+"registration and login. Members Directory, activity, groups, messages."
+msgstr ""
+
+msgid "Your message successfully send. We contact you soon."
+msgstr "Az üzenetet elküldte. Hamarosan jelentkezünk."
+
+msgid "No detected"
+msgstr ""
+
+msgid "Step-by-step Tutorial"
+msgstr "Oktatóanyag, lépésről lépésre"
+
+msgid "Begin Step-by-step Tutorial"
+msgstr "Oktatóanyag elkezdése"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Website"
+msgstr "Weboldal"
+
+msgid "Subject"
+msgstr "Tárgy"
+
+msgid "Topic"
+msgstr "Téma"
+
+msgid "Plugin options"
+msgstr "Bővítmény beállítások"
+
+msgid "Report a bug"
+msgstr "Hiba jelentése"
+
+msgid "Require a new functionallity"
+msgstr "Új funkció kérés"
+
+msgid "Other"
+msgstr "Egyéb"
+
+msgid "Message"
+msgstr "Üzenet"
+
+msgid "Hello Supsystic Team!"
+msgstr "Helló Supsystic Csapat!"
+
+msgid ""
+"Some errors occurred while sending mail please send your message trough this "
+"contact form:"
+msgstr ""
+"Hiba történt az üzenet küldése közben. Kérjük, küldje el az üzenetét a következő "
+"űrlapon keresztül:"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "Close Tutorial"
+msgstr "Oktatóanyag bezárása"
+
+msgid "Welcome to Data Tables plugin by Supsystic!"
+msgstr "Üdvözöljük a Supsystic Adattáblák bővítménynél! "
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Just click here to start using it "
+"- and we will show you it's possibilities and powerfull features."
+msgstr ""
+"Köszönjük, hogy az Adattábla bővítményt választotta. Kattintson ide a "
+"használatának megkezdéséhez. Megmutatjuk a lehetőségeit és fejlett funkcióit."
+
+msgid "Hello! This is the Data Tables by Supsystic"
+msgstr "Helló! Ez a Data Tables a Supsystic-től."
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Let’s make a quick tour through "
+"features and main options of the plugin. Just click “Next” button."
+msgstr ""
+
+msgid "Create your first table"
+msgstr "Készítse el első táblázatát"
+
+msgid ""
+"Click on the button “Add new table” and see the first form, which you need to "
+"fill in. A very simple step!"
+msgstr ""
+
+msgid "Enter the name and create Data Table"
+msgstr "Adja meg a nevet és készítsen adattáblázatot"
+
+msgid ""
+"Fill the table title and choose the number of columns and rows. Don’t worry, you "
+"will be able to change it (add or delete some) later!"
+msgstr ""
+
+msgid ""
+"Main Settings of your first table. Here you can see main settings which are "
+"conected with languages, table elements, styling and other different editors "
+"settings. Generally it’s a tab where you can edit the visual part of the whole "
+"table, switch on/off the responsive mode, set pagination etc."
+msgstr ""
+
+msgid "Editor"
+msgstr "Szerkesztő"
+
+msgid ""
+"The most important part of settings - Editor. Here you can fill all the cells of "
+"your table, add some colors, play with fonts and sizes. This insert also allows "
+"you to change the alignment of your font, add formats (percents, currency), "
+"images and links to make your table more visual attraction."
+msgstr ""
+"A legfontosabb része a beállításoknak - a Szerkesztő. Itt feltudja tölteni a "
+"mezőket, színeket adahat meg, beállíthatja a betűket, méreteiket. Beállíthatja a "
+"betűk elrendezését, hozzáadhat formátumokat, képeket és linkeket, hogy a "
+"táblázat vizuálisan még szebb legyen."
+
+msgid "Preview"
+msgstr "Előnézet"
+
+msgid ""
+"Preview insert for your comfort. Before updating the table on your page - you "
+"can see the result of your efforts and changes, look at it and enjoy the final "
+"outcome."
+msgstr ""
+"Előnézeti kép a kényelem miatt. Mielőtt frissítené a táblázatot a weboldalon, "
+"meg tudja nézni az eredményét a változtatásoknak."
+
+msgid "CSS Editor"
+msgstr "CSS szerkesztő"
+
+msgid ""
+"In case you have special or at least, basic knowledge of CSS code - you can "
+"easily change the table here. Just make sure that you know, what you are doing "
+"and you will not destroy the table."
+msgstr ""
+"Amennyiben speciális vagy alapfokú tudása van CSS kódolásról, könnyedén "
+"módosíthatja a táblázatot itt. Csak legyen biztos benne, hogy mit csinál és úgy "
+"nem fogja elrontani a táblázatot."
+
+msgid ""
+"Diagrams - this is a Pro feature of our plugin, which can help you to follow the "
+"statistics of your table. Several types for every taste and any wishes."
+msgstr ""
+"Diagramok - Ez egy PRO funkciója a bővítménynek, amellyel a táblázat "
+"statisztikáját követheti nyomon. Számos típus minden ízléshez és kívánsághoz."
+
+msgid "Import/Export"
+msgstr "Import/Export"
+
+msgid ""
+"With these two buttons in our Pro version you can Import any table of csv format "
+"and Export the whole table, which you have done."
+msgstr ""
+"Ezzel a két gombbal a PRO verzióban importálhat csv táblázatokat és "
+"exportálhatja az egész táblázatot, amit készített."
+
+msgid "Well done!"
+msgstr "Szép munka!"
+
+msgid ""
+"<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - you’ll "
+"have to enter license key (you can find it in your personal account on our "
+"site). Go to the License tab and enter your email and license key. Once you have "
+"activated your PRO license - you can use all its advanced options. "
+"<br><br>That’s all. From this moment you can use your Data Table without any "
+"doubt. But if you still have some question - do not hesitate to contact us "
+"through our <a href=\"https://supsystic.com/contact-us/\">internal support</a> "
+"or on our <a href=\"http://supsystic.com/forum/datatable-plugin/\">Supsystic "
+"Forum.</a> Besides you can always describe your questions on <a href=\"https://"
+"wordpress.org/support/plugin/data-tables-generator-by-supsystic\">WordPress "
+"Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It will be nice if "
+"you`ll help us and boost plugin with <a href=\"https://wordpress.org/support/"
+"view/plugin-reviews/data-tables-generator-by-supsystic?rate=5#postform/\">Five "
+"Stars rating on WordPress.org.</a> <br><br>We hope that you like our Data Table "
+"plugin and wish you all the best! Good luck!"
+msgstr ""
+
+msgid "Welcome to our plugin"
+msgstr "Üdvözöljük!"
+
+msgid "by Supsystic!"
+msgstr "Készítette: Supsystic"
+
+msgid ""
+"We are trying to make your using of our plugin maximum comfortable and easy. So "
+"we find it like the best way to tell you about some options and features of this "
+"plugin."
+msgstr ""
+"A legkényelmesebbé, legkönnyebbé próbáljuk tenni a bővítmény használatát. Így a "
+"legjobbnak azt tartjuk, ha mesélünk az opcióiról, lehetőségeiről."
+
+msgid "A small guide for the first-time user"
+msgstr "Rövid útmutat, amennyiben először használja a bővítményt"
+
+msgid ""
+"Actually, Data Table plugin is very simple and has a lot of different options at "
+"the same time. That’s why when you close this article I will show you the main "
+"of them, but the very detailed one you can find on our site. I hope that you "
+"will have no questions after even this small guide. For the first time we will "
+"help you to install and create your first table, but if you need help - contact "
+"us through the internal support"
+msgstr ""
+
+msgid "Support"
+msgstr "Segítség"
+
+msgid ""
+"We really like what we do and feel responsibility for our “child”. Constantly we "
+"are trying to change something or update the new features, but sometimes you may "
+"have a situation when you need help or have a problem. We can offer you two "
+"kinds of help: "
+msgstr ""
+
+msgid ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> Contact "
+"us </a> through the Forum on our site - if you have some question, offer or wish."
+msgstr ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> Lépjen "
+"velünk kapcsolatba </a> a weboldalunk fórumján keresztül - ha kérdése van, "
+"ajánlata vagy kívánsága."
+
+msgid ""
+"If, unfortunately, you have some problem - we are ready to help you in our <a "
+"href=\"//supsystic.com/contact-us/\" target=\"_blank\">internal support.</a>"
+msgstr ""
+"Ha sajnálatosan valamilyen hibát tapasztal, készek vagyunk segíteni a <a href="
+"\"//supsystic.com/contact-us/\" target=\"_blank\">belső supportunkkal</a>"
+
+msgid "Feel free to contact us and don’t worry, everything gonna be ok!"
+msgstr ""
+
+msgid "Video Tutorial"
+msgstr "Videó oktatóanyag"
+
+msgid "Frequently Asked Questions"
+msgstr "Gyakran ismételt kérdések"
+
+msgid "Make data table responsive"
+msgstr "Tegye az adattáblát reszponzívvá"
+
+msgid "I need to have line breaks/spaces between the paragraphs within the cells."
+msgstr "Szükséges sortörés/szóköz a bekezdések között a mezőben."
+
+msgid "How to use formulas in the table?"
+msgstr "Hogy használhatóak a függvények a táblázatban?"
+
+msgid "Go to Editor of Data Table."
+msgstr "Menj Data Table Editor-hoz"
+
+msgid ""
+"Select a cell and start typing. In a cell, type an equal sign “=” to start the "
+"formula."
+msgstr ""
+
+msgid "Fill in the rest of the formula."
+msgstr "Töltse ki a függvény további részeit."
+
+msgid "Save the changes of table."
+msgstr "Mentse a táblázat változásait."
+
+msgid "Check the result of formula in the table on your site."
+msgstr "Ellenőrízze a függvény eredményeit a táblázatban a weblapon."
+
+msgid ""
+"Learn more about how to do this <a href=\"//supsystic.com/how-to-use-tables/\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"Tudjon meg többet erről <a href=\"//supsystic.com/how-to-use-tables/\" target="
+"\"_blank\">itt</a>."
+
+msgid "Check all other FAQs"
+msgstr "Nézze meg az összes gyakran ismételt kérdést"
+
+msgid "Roles"
+msgstr "Jogosultságok"
+
+msgid "Role for users who can use plugin. Administrator is included by default"
+msgstr ""
+"Jogosultságok arra vonatkozóan, hogy ki használhatja a bővítményt. Az "
+"adminsztrátor alapértelmezetten jogosult a használatra."
+
+msgid "PRO option"
+msgstr "PRO opció"
+
+msgid "Select avalilable roles to use tables"
+msgstr "Válasszon az elérhető jogosultságok közül"
+
+msgid "Can't decode table rows from JSON."
+msgstr "Nem tudja dekódolni a táblázat sorát JSON-ból."
+
+msgid "Can't decode table meta from JSON."
+msgstr "Nem tudja dekódolni a táblázat meta adatát JSON-ból."
+
+msgid "Failed to save table meta data: %s"
+msgstr "A táblázat meta adat mentése nem sikerült: %s"
+
+msgid "The table with ID %d not exists."
+msgstr "A táblázat ID %d nem létezik."
+
+msgid "No value"
+msgstr "Nincs érték"
+
+msgid ""
+"Mandatory attribute \"id\" is not specified. ' . 'Shortcode usage example: [%s "
+"id=\"{table_id}\"]"
+msgstr ""
+
+msgid "There are not all shortcode's attributes specified. Usage example"
+msgstr "Nincs meghatározva valamennyi attributum. Minta a használathoz"
+
+msgid "Add table"
+msgstr "Táblázat hozzáadása"
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "Created"
+msgstr "Készült"
+
+msgid "Shortcode"
+msgstr "Kód"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "Actions"
+msgstr "Műveletek"
+
+msgid "Edit table \"%s\""
+msgstr "Táblázat szerkesztése \"%s\""
+
+msgid "Table History"
+msgstr ""
+
+msgid "Clone"
+msgstr ""
+
+msgid "Export available only in PRO version."
+msgstr "Az exportálás csak a PRO verzióban elérhető."
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Import available only in PRO version."
+msgstr "Az importálás csak a PRO verzióban elérhető."
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Clear"
+msgstr ""
+
+msgid "Delete"
+msgstr "Töröl"
+
+msgid "Click to rename the table and hit [Enter]"
+msgstr "Kattintson a táblázat átnevezéséhez és nyomja meg az [Enter]-t"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "Main"
+msgstr ""
+
+msgid "Features"
+msgstr "Funkciók"
+
+msgid "Design"
+msgstr ""
+
+msgid "Language and Text"
+msgstr ""
+
+msgid "Table Elements"
+msgstr "Táblázat elemek"
+
+msgid "Caption"
+msgstr "Táblázat cím"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Description Text"
+msgstr "Leírás szövege"
+
+msgid "Header"
+msgstr "Fejléc"
+
+msgid "Count of Header Rows"
+msgstr "Fejléc sorok száma"
+
+msgid "Count of table rows, which will be moved to header."
+msgstr "Sorok száma, amelyek a fejlécben lesznek."
+
+msgid "Footer"
+msgstr "Lábléc"
+
+msgid "Fixed Header"
+msgstr "Rögzített fejléc"
+
+msgid ""
+"Allows to fix the table's header during table scrolling. Important! Header "
+"option must be enabled for using this feature. Also you need to set Fixed Table "
+"Height to create a vertical scroll at the table. To see the work of this feature "
+"you should not use such Responsive Modes as Standard and Automatic columns "
+"hiding."
+msgstr ""
+"Engedélyezi a táblázat fejlécének rögzítését a táblázat gördítése közben. "
+"Fontos! A fejléc opciónak engedélyezve kell, hogy legyen. Be kell állítania a "
+"rögzített táblázat magasságot, hogy függőleges gördítést lehetővé tegye. Hogy "
+"lássan ennek a funkciónak a működését nem szabad használnia a reszponzív módokat "
+"általános és automatikus oszlop elrejtés módban."
+
+msgid "Fixed Footer"
+msgstr "Rögzített lábléc"
+
+msgid ""
+"Allows to fix the table's footer during table scrolling. Important! Footer "
+"option must be enabled for using this feature. Also you need to set Fixed Table "
+"Height to create a vertical scroll at the table. To see the work of this feature "
+"you should not use such Responsive Modes as Standard and Automatic columns "
+"hiding."
+msgstr ""
+"Engedélyezi a táblázat láblécének rögzítését a táblázat görgetése közben. "
+"Fontos! A lábléc opciónak engedélyezve kell, hogy legyen. Be kell állítania a "
+"rögzített táblázat magasságot, hogy függőleges gördítést lehetővé tegye. Hogy "
+"lássan ennek a funkciónak a működését nem szabad használnia a reszponzív módokat "
+"általános és automatikus oszlop elrejtés módban."
+
+msgid "Fixed Table Height"
+msgstr "Rögzített táblázat magasság"
+
+msgid ""
+"Fixed table height in px. This value must be less than the original table height "
+"to create a vertical scroll, otherwise you will not see that the fixed header / "
+"footer exists."
+msgstr ""
+"Fix táblázat magasság pixelben. Ez az érték kevesebb kell, hogy legyen mint az "
+"eredeti táblázat magasság, hogy a függőleges gördítés lehetővé válljon. "
+"Egyébként nem látja a rögzített fejlécet / láblécet."
+
+msgid "Fixed Columns"
+msgstr "Rögzített oszlopok"
+
+msgid ""
+"Allows to fix columns during table scrolling. Important! The fixing of columns "
+"suggests that the table will have a horisontal scroll type of responsive mode, "
+"otherwise you will not see that the fixed columns exist. So this feature is a "
+"kind of responsive mode on its own and will not work with such Responsive Modes "
+"as Standard and Automatic columns hiding."
+msgstr ""
+"Engedélyezi az oszlopok rögzítését a táblázat gördítése közben. Fontos! Az "
+"oszlopok rögzítése feltételezi, hogy a táblázat vízszintes gördítési lehetőségen "
+"van a reszponzív módnál. Egyébként nem fogja látni, hogy az oszlopok "
+"rögzítettek. Ez a funkció egyfaja reszponzív mód önmagában, és nem működik olyen "
+"reszponzív módoknál mint az általános és az automatikus oszlop elrejtés."
+
+msgid "Left Columns Count"
+msgstr "Bal oszlopok száma"
+
+msgid "Number of column to fix by left side of table."
+msgstr "Rögzített oszlopok száma a táblázat bal oldalán."
+
+msgid "Right Columns Count"
+msgstr "Jobb oszlopok száma"
+
+msgid "Number of column to fix by right side of table."
+msgstr "Rögzített oszlopok száma a táblázat jobb oldalán."
+
+msgid "Auto Index"
+msgstr "Automatikus indexelés"
+
+msgid "Data Formats"
+msgstr "Szerkesztő beállítások"
+
+msgid "Number Formatting"
+msgstr "Számformátum"
+
+msgid "Set format of all numbers in the table"
+msgstr "A számok formátuma a táblázatban"
+
+msgid "Number"
+msgstr "Számformátum"
+
+msgid "Set output format for numbers e.g. 1,000.00, 1.00"
+msgstr "Számformátum beállítása, pl. 1,000.00, 1.00"
+
+msgid "Currency"
+msgstr "Pénz formátum"
+
+msgid "Set output format for currencies e.g ($ 1,000.00, € 1.00)"
+msgstr "Pénzformátum beállítása, pl. $ 1,000.00"
+
+msgid "Percent"
+msgstr "Százalék formátum"
+
+msgid "Set output format for percent numbers e.g (0.00%, 1%)"
+msgstr "Százalék formátum beállítása, pl. 0.00%, 1%"
+
+msgid "Date"
+msgstr "Dátum formátum"
+
+msgid "Set output format for date e.g (YYYY-MM-DD, MM.DD.YYYY)"
+msgstr "Dátum formátum beállítása, pl. YYYY-MM-DD, MM.DD.YYYY"
+
+msgid "Sorting"
+msgstr "Rendezés"
+
+msgid "Sorting Order"
+msgstr "Rendezési sorrend"
+
+msgid "Ascending"
+msgstr "Növekvő"
+
+msgid "Descending"
+msgstr "Csökkenő"
+
+msgid "Sorting Column"
+msgstr "Oszlop sorrend"
+
+msgid "Number of column to apply sort order."
+msgstr "Oszlopokszáma, amelyekre alkalmazzuk a rendezést."
+
+msgid "Pagination"
+msgstr "Lapozás"
+
+msgid "Pagination menu length"
+msgstr "Lapozó menü hossza"
+
+msgid "Pagination Size"
+msgstr "Lapozás mérete"
+
+msgid "Large"
+msgstr "Nagy"
+
+msgid "Medium"
+msgstr "Közepes"
+
+msgid "Small"
+msgstr "Kicsi"
+
+msgid "Searching"
+msgstr "Keresés"
+
+msgid "Show only search result"
+msgstr ""
+
+msgid "Table is empty by default and shows data only if search has a result."
+msgstr ""
+
+msgid "Search by hidden fields"
+msgstr ""
+
+msgid "Strict matching"
+msgstr ""
+
+msgid "Display only entries with matching characters in the beginning of words"
+msgstr ""
+
+msgid "Minimum characters"
+msgstr ""
+
+msgid "Minimum search field characters to start search"
+msgstr ""
+
+msgid "Show empty table"
+msgstr ""
+
+msgid "Show empty table, until you have entered the data to search field."
+msgstr ""
+
+msgid "Disallow Indexing"
+msgstr "Indexelés tiltása"
+
+msgid "Disable indexing table for search bots"
+msgstr "A keresőrobotok számára tiltsuk a táblázatok indexelését."
+
+msgid "Execute JS Script After Table Is Loaded"
+msgstr ""
+
+msgid "Allows to execute js script after table is loaded."
+msgstr ""
+
+msgid "Paste script code here"
+msgstr ""
+
+msgid "Auto Width"
+msgstr "Automatikus szélesség"
+
+msgid ""
+"Calculate the columns width on frontend automatically or depending on the "
+"columns width on the Editor Tab."
+msgstr ""
+"Kiszámolja az oszlopok szélességét automatikusan vagy az oszlopszélesség a "
+"szerkesztő fülön látható szélességtől függ."
+
+msgid "Compact Table"
+msgstr "Kompakt"
+
+msgid "Reduce the amount of white-space."
+msgstr "Az üres részek csökkentése."
+
+msgid "Disable Wrapping"
+msgstr "Sortörés tiltása"
+
+msgid ""
+"Disable wrapping of content in the table, so all text in the cells is on a "
+"single line."
+msgstr "A sortörés tiltásával minden szöveg egy mezőben egy sorban fog megjelenni."
+
+msgid "Paragraph Mode"
+msgstr "Bekezdés mód"
+
+msgid ""
+"This mode allows you to separate the content into paragraphs. To move to a new "
+"line in the cell - please press CTRL + Enter."
+msgstr ""
+"Ez a mód lehetővé teszi, hogy a tartalmat külön bekezdésekbe rendezze. "
+"Sorváltáshoz nyomja meg a CTRL + Enter billentyűket."
+
+msgid "Responsive Mode"
+msgstr "Reszponzív mód"
+
+msgid ""
+"Standard Responsive mode - in this mode if table content doesn't fit all columns "
+"become under each other with one cell per row"
+msgstr ""
+"Általános reszponzív mód - Ebben a módban, ha a táblázat nem fér el, akkor a "
+"mezők egymás alatt jelennek."
+
+msgid ""
+"Automatic column hiding - in this mode table columns will collapse from right to "
+"left if content does not fit to parent container width"
+msgstr ""
+"Automatikus oszlop elrejtés - Ebben a módban az oszlopok összezárnak jobbról "
+"balra, ha a tartalom nem fér el a rendelkezésre álló felületen."
+
+msgid ""
+"Horizontal scroll - in this mode scroll bar will be added if table overflows "
+"parent container width"
+msgstr ""
+"Vízszintes görgetés - Ebben a módban görgető sáv jelenik meg, ha a táblázat nem "
+"fér el a rendelkezésre álló felületen."
+
+msgid "Disable Responsivity - default table fluid layout"
+msgstr "Reszponzívitás tiltása - alapértelmezett table fluid elrendezés"
+
+msgid "Standard Responsive mode"
+msgstr "Általános reszponzív mód"
+
+msgid "Automatic column hiding"
+msgstr "Automatikus oszlop elrejtés"
+
+msgid "Horizontal scroll"
+msgstr "Vízszintes csúsztatás"
+
+msgid "Disable Responsivity"
+msgstr "Reszponzív mód tiltása"
+
+msgid "Table Information"
+msgstr ""
+
+msgid "Table information display field. %s"
+msgstr "Táblázat információkat mutató mező. %s"
+
+msgid "Borders"
+msgstr "Keretek"
+
+msgid ""
+"Cell - adds border around all four sides of each cell, Row - adds border only "
+"over and under each row. (i.e. only for the rows)."
+msgstr ""
+"Mező - mind a négy oldalhoz hozzáad egy keretet, Sor - csak a mezők fölé és alá "
+"tesz határoló vonalat."
+
+msgid "Cell"
+msgstr "Mező"
+
+msgid "Row"
+msgstr "Sor"
+
+msgid "None"
+msgstr "Nincs"
+
+msgid "Row Striping"
+msgstr "Sorok sávos kiemelése"
+
+msgid "Add automatic highlight of table rows for odd and even rows."
+msgstr "Elkülöníti háttérszínnel a páros és páratlan sorokat."
+
+msgid "Highlighting by Mouseover"
+msgstr "Kiemelés"
+
+msgid "Row highlighting on mouse over."
+msgstr "Kiemelés, ha az egér a sor felett van."
+
+msgid "Highlight the Order Column"
+msgstr "A rendező oszlop kiemelése"
+
+msgid "Highlight the column that the table data is currently ordered on."
+msgstr "Kiemeltté válik az az oszlop, amely alapján rendezve vannak a sorok."
+
+msgid "Overwrite Table Text"
+msgstr "Táblázat szöveg felülírása"
+
+msgid "No data available in table"
+msgstr "Nincs adat a táblázatban"
+
+msgid "Empty table"
+msgstr "Táblázat kiürítése"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Mutat _START_ -tól _END_ -ig _TOTAL_ -ból"
+
+msgid "Table info text"
+msgstr ""
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Mutat 0 -tól 0 -ig, 0 -ból"
+
+msgid "Empty info text"
+msgstr "Info szöveg törlése"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(szűrve _MAX_ -ból)"
+
+msgid "Filtered info text"
+msgstr "Szűrő info szöveg"
+
+msgid "Show _MENU_ entries"
+msgstr "Mutat _MENU_ entries"
+
+msgid "Length text"
+msgstr "Szöveg hosszúság"
+
+msgid "Search:"
+msgstr "Keres:"
+
+msgid "Search label"
+msgstr "Keresés címke"
+
+msgid "No matching records are found"
+msgstr ""
+
+msgid "Zero records"
+msgstr "Nulla rekord"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "Select language"
+msgstr "Nyelv választás"
+
+msgid "Loading your table, please wait..."
+msgstr "Táblázat betöltése. Kérjük, várjon."
+
+msgid "Bold"
+msgstr "Félkövér"
+
+msgid "Italic"
+msgstr "Dőlt"
+
+msgid "Underline"
+msgstr "Aláhúz"
+
+msgid "Text color"
+msgstr "Betűszín"
+
+msgid "Background color"
+msgstr "Háttérszín"
+
+msgid "Alignment"
+msgstr "Rendezés"
+
+msgid "Vertical alignment"
+msgstr "Függőleges rendezés"
+
+msgid "Word wrapping"
+msgstr "Szavak tördelése"
+
+msgid "Create a link"
+msgstr "Link létrehozása"
+
+msgid "Insert picture"
+msgstr "Kép beillesztése"
+
+msgid "Comment"
+msgstr "Hozzászólás"
+
+msgid "Formats"
+msgstr "Formátumok"
+
+msgid ""
+"Make the cell hidden. <br /><br />To display the table correctly, please, add "
+"hidden property for the whole row or the whole column of table."
+msgstr ""
+"Rejtsük el a mezőt.<br /><br />A táblázat megfelelő megjelenítéséhez, kérjük, "
+"hogy adjon rejtett mezőket a sorhoz vagy teljes oszlopot a táblázathoz."
+
+msgid "Get PRO version"
+msgstr "Vedd meg a PRO verziót"
+
+msgid "Name of Cloned Table"
+msgstr ""
+
+msgid "Editable fields"
+msgstr "Szerkeszthető mezők"
+
+msgid "PRO version"
+msgstr "PRO verzió"
+
+msgid ""
+"Please be advised that this option is available only in %s. You can %s today and "
+"get this and other PRO option for your tables!"
+msgstr ""
+"Kérjük, vegye figyelembe, hogy ez az opció csak a %s verzióban érhető el. You "
+"can %s today and get this and other PRO option for your tables!"
+
+msgid "Insert url"
+msgstr "URL beillesztés"
+
+msgid "Url"
+msgstr ""
+
+msgid "Link Text"
+msgstr "Link szöveg"
+
+msgid "Open link in a new tab"
+msgstr "Link megnyitása új ablakban"
+
+#~ msgid "Select file type to export table:"
+#~ msgstr "Válasszon fájltípust az exportáláshoz:"
+
+#~ msgid ""
+#~ "You have no diagrams for now. Go to %s -> select the required data in the "
+#~ "table and click on âAdd diagramâ button. Also please check the tutorial %s"
+#~ msgstr ""
+#~ "Még nem készített diagramot. Menjen %s -> válassza ki a kötelező adatokat a "
+#~ "táblázatban és kattintson a Diagram hozzáadása gombra. Kérjük, nézze meg az "
+#~ "oktatóanyagot is! %s"
+
+#~ msgid "Select file type to export table"
+#~ msgstr "Válasszon fájltípust a táblázat exportálásához"
+
+#~ msgid ""
+#~ "Itâs never been so easy to create and manage pricing and comparison tables "
+#~ "with table builder. Any element of the table can be customise with mouse "
+#~ "click."
+#~ msgstr ""
+#~ "Sose volt még ilyen könnyű ártáblák és összehasonlító táblák készítése és "
+#~ "menedzselése. A táblázat minden eleme változtatható néhány gomb nyomással."
+
+#~ msgid "Undefined"
+#~ msgstr "Nem meghatározott"
+
+#~ msgid ""
+#~ "Thank you for choosing our Data Tables plugin. Letâs make a quick tour "
+#~ "through features and main options of the plugin. Just click âNextâ button."
+#~ msgstr ""
+#~ "Köszönjük, hogy a Data Tables bővítményt választotta. Engedje meg, hogy "
+#~ "gyorsan megmutassuk képességeit és fő opcióit. Csak kattintson a Következő "
+#~ "gombra."
+
+#~ msgid ""
+#~ "Click on the button âAdd new tableâ and see the first form, which you need to "
+#~ "fill in. A very simple step!"
+#~ msgstr ""
+#~ "Kattintson az Új táblázat gomra, és nézze meg az első űrlapot, amit ki kell "
+#~ "töltenie. Ez egy nagyon egyszerű lépés."
+
+#~ msgid ""
+#~ "Fill the table title and choose the number of columns and rows. Donât worry, "
+#~ "you will be able to change it (add or delete some) later!"
+#~ msgstr ""
+#~ "Töltse ki a táblázat címét és adja meg az oszlopok és a sorok számát. Ne "
+#~ "aggódjon, később tudja ezt módosítani."
+
+#~ msgid ""
+#~ "Main Settings of your first table. Here you can see main settings which are "
+#~ "conected with languages, table elements, styling and other different editors "
+#~ "settings. Generally itâs a tab where you can edit the visual part of the "
+#~ "whole table, switch on/off the responsive mode, set pagination etc."
+#~ msgstr ""
+#~ "Fő beállítási lehetőségei az első táblázatának. Itt találja a fő beállítási "
+#~ "lehetőségeket: nyelvekhez, táblázat elemekhez, stílushoz kapcsolódnak és "
+#~ "egyéb szerkesztői beállítások. Általában fületk, ahol szerkesztheti a "
+#~ "vizuális részét az egész táblázatnak, be- és kikapcsolahatja a reszponzív "
+#~ "módot, beállíthatja a lapozást, stb."
+
+#~ msgid ""
+#~ "<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - "
+#~ "youâll have to enter license key (you can find it in your personal account on "
+#~ "our site). Go to the License tab and enter your email and license key. Once "
+#~ "you have activated your PRO license - you can use all its advanced options. "
+#~ "<br><br>Thatâs all. From this moment you can use your Data Table without any "
+#~ "doubt. But if you still have some question - do not hesitate to contact us "
+#~ "through our <a href=\"https://supsystic.com/contact-us/\">internal support</"
+#~ "a> or on our <a href=\"http://supsystic.com/forum/datatable-plugin/"
+#~ "\">Supsystic Forum.</a> Besides you can always describe your questions on <a "
+#~ "href=\"https://wordpress.org/support/plugin/data-tables-generator-by-supsystic"
+#~ "\">WordPress Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It "
+#~ "will be nice if you`ll help us and boost plugin with <a href=\"https://"
+#~ "wordpress.org/support/view/plugin-reviews/data-tables-generator-by-supsystic?"
+#~ "rate=5#postform/\">Five Stars rating on WordPress.org.</a> <br><br>We hope "
+#~ "that you like our Data Table plugin and wish you all the best! Good luck!"
+#~ msgstr ""
+#~ "<b>Frissítés</b> <br>A prémium verzió megvásárlását követően meg kell adnia a "
+#~ "licenc kulcsot (a személyes fiókjánál találja a weboldalunkon). Lépjen a "
+#~ "License fülhöz adja meg az email címét és a licenc kulcsot. Amint aktíválta a "
+#~ "PRO licenct, hozzáfér az összetett funkciókhoz. <br><br>Ez mind. Innentől "
+#~ "minden kétség nélkül használhatja az adattáblákat. De ha mégis lenne kérdése, "
+#~ "ne hezitáljon, keressen minket a <a href=\"https://supsystic.com/contact-us/"
+#~ "\">belső supportnál</a> vagy írjon <a href=\"http://supsystic.com/forum/"
+#~ "datatable-plugin/\">Supsystic Fórumra.</a> Ezenkívül leírhatja a kérdéseit "
+#~ "itt is: <a href=\"https://wordpress.org/support/plugin/data-tables-generator-"
+#~ "by-supsystic\">WordPress Ultimate Forum</a>. <br><br><b>Tetszik a bővítmény?</"
+#~ "b> <br>Megköszönjük, ha <a href=\"https://wordpress.org/support/view/plugin-"
+#~ "reviews/data-tables-generator-by-supsystic?rate=5#postform/\">öt csillaggal "
+#~ "értékeli a WordPress.org-on</a>. <br><br>Reméljük, hogy elnyeri tetszését a "
+#~ "bővítmény, és a legjobbakat kívánjuk! Jó szerencsét!"
+
+#~ msgid ""
+#~ "Actually, Data Table plugin is very simple and has a lot of different options "
+#~ "at the same time. Thatâs why when you close this article I will show you the "
+#~ "main of them, but the very detailed one you can find on our site. I hope that "
+#~ "you will have no questions after even this small guide. For the first time we "
+#~ "will help you to install and create your first table, but if you need help - "
+#~ "contact us through the internal support"
+#~ msgstr ""
+#~ "Valójában a Data Table bővítmény nagyon egyszerű, ugyanakkor rengeteg "
+#~ "különböző opcióval felvértezett. Emiatt mikor bezárja ezt a cikket megmutatom "
+#~ "a lefontosabb opciókat. Részletezve a weboldalunkon találja ezek leírását. "
+#~ "Remélem, hogy nem marad kérdése ez utána a rövid útmutató után. Először "
+#~ "segítünk létrehozni az első táblázatát. Ha szüksége van segítségre lépjen "
+#~ "velünk kapcsolatba a belső supportunkon keresztül."
+
+#~ msgid ""
+#~ "We really like what we do and feel responsibility for our âchildâ. Constantly "
+#~ "we are trying to change something or update the new features, but sometimes "
+#~ "you may have a situation when you need help or have a problem. We can offer "
+#~ "you two kinds of help: "
+#~ msgstr ""
+#~ "Igazán szeretjük, amit csinálunk, és felelőséget érzünk a gyermekünk iránt. "
+#~ "Folyamatosan próbáljuk fejleszteni a funkciókat, de néha szüksége lehet "
+#~ "segítségre, ha problémába ütközik. Kétféle segítséget tudunk felajánlani:"
+
+#~ msgid "Feel free to contact us and donât worry, everything gonna be ok!"
+#~ msgstr "Bátran keressen meg, és ne aggódjon, minden rendben lesz!"
+
+#~ msgid ""
+#~ "Select a cell and start typing. In a cell, type an equal sign â=â to start "
+#~ "the formula."
+#~ msgstr ""
+#~ "Válasszon ki egy mezőt és kezdjen gépelni. A mezőben írjon egy "
+#~ "egyenlőségjelet a függvény elkezdéséhez."
+
+#~ msgid "Can not find table with id %s"
+#~ msgstr "Nem található a következő azonosítójú tábla: %s"
+
+#~ msgid "Clone Table"
+#~ msgstr "Másol"
+
+#~ msgid "Clear Data"
+#~ msgstr "Adatok törlése"
+
+#~ msgid "Info text"
+#~ msgstr "Info szöveg"
+
+#~ msgid "No matching records found"
+#~ msgstr "Nincsenek ilyen rekordok"
+
+#~ msgid "Info"
+#~ msgstr "Információ"
+
+#~ msgid "Styling"
+#~ msgstr "Stílus"

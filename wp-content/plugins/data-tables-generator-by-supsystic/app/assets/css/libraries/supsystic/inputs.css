@@ -1,0 +1,20 @@
+.supsystic-plugin input.regular-text {
+    width: 100%;
+}
+
+.supsystic-plugin .form-table label {
+    font-weight: normal;
+}
+
+.supsystic-plugin label.label-bold {
+    font-weight: bold;
+}
+
+.supsystic-plugin label.label-bigger {
+    font-size: 1.1em;
+}
+
+.supsystic-plugin label.supsystic-radio {
+    position: relative;
+    top: 7px;
+}

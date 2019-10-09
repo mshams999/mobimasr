@@ -1,0 +1,127 @@
+{% extends 'layout.twig' %}
+{% import '@ui/tooltip.twig' as tooltip %}
+
+{% block content %}
+
+	<div class="supsystic-item tables-view">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="table-title-wrap">
+						<form action="{{ environment.generateUrl('settings', 'saveSettings') }}" method="POST">
+                            {% block beforeSettingsList %}
+								<button class="button">
+									<i class="fa fa-fw fa-save"></i>
+                                    {{ environment.translate('Save') }}
+								</button>
+							{% endblock %}
+							<div class="settings-list">
+								{% block beforeSettings %}{% endblock %}
+								<div class="setting">
+									<div class="table-search-option table-option">
+										<div class="setting-description">
+											<label>{{ environment.translate('Include to Global Search') }}</label>
+                                            {{ tooltip.icon(environment.translate('Enable this option if you want to include the tables data to global site search'), 'top', true) }} </label>
+										</div>
+										<div class="setting-control">
+											<input type="checkbox"  name="settings[table_search]" {% if settings.table_search == 'on' %} checked {%  endif %}>
+										</div>
+									</div>
+                                    <div class="table-disable-wp-footer-fix-option table-option">
+                                        <div class="setting-description">
+                                            <label>{{ environment.translate('Disable WP Footer Fix') }}</label>
+                                            {{ tooltip.icon(environment.translate('Standard WP theme must call the wp_footer() function in site footer (see <a href="%s" target="_blank">Theme Development</a>). But sometimes it is not happen in custom themes. In this case our plugin will call its function forced, because it needs it for correct work as the many other plugins. But if you have the problems in your site because of this feature - just enable this option to disable force call of wp_footer() function by our plugin.') | format('//codex.wordpress.org/Theme_Development'), 'top', true) }} </label>
+                                        </div>
+                                        <div class="setting-control">
+                                            <input type="checkbox"  name="settings[disable_wp_footer_fix]" {% if settings.disable_wp_footer_fix == 'on' %} checked {%  endif %}>
+                                        </div>
+                                    </div>
+									<div class="table-pagination-option table-option">
+										<div class="setting-description">
+											<label>{{ environment.translate('Pagination in Editor') }}</label>
+												{{ tooltip.icon('Add pages to your table in Editor', 'top', true) }}
+											</label>
+										</div>
+										<div class="setting-control">
+											<input type="checkbox" name="settings[editor_pagination]" {% if settings.editor_pagination == 'on' %} checked {%  endif %}>
+											<div style="margin-top: 10px;">
+                                                <input type="text"
+                                                       name="settings[editor_pagination_rows]"
+                                                       id="settings_editor_pagination_rows"
+                                                       style="width:60px"
+                                                       value="{{ settings.editor_pagination_rows | default('500') }}" />
+                                                <label for="settings_editor_pagination_rows"> {{ environment.translate('rows per page') }}</label>
+											</div>
+										</div>
+									</div>
+									<div class="table-step-option table-option">
+										<div class="setting-description">
+											<label>{{ environment.translate('Rows Count per Request') }}</label>
+                                            {{ tooltip.icon(environment.translate('Set the count of table rows, which will be put into the one saving request. If your table has more rows - as many requests will be sent as need to completely save all table data.<br /><br /> It can be useful if you have a large table and can not improuve your server settings to save the table per single request.<br /><br /> If you do not have problems with saving of tables it is better to left the default value - 400.'), 'top', true) }} </label>
+										</div>
+										<div class="setting-control">
+											<input type="text"  name="settings[table_step]" value="{{ settings.table_step | default(400) }}">
+										</div>
+									</div>
+                                    <div class="table-global-page-search-option table-option">
+                                        <div class="setting-description">
+                                            <label>{{ environment.translate('Global Page Search Form') }}</label>
+                                            {{ tooltip.icon(environment.translate('Use this form to make global search by all tables on page'), 'top', true) }}
+
+                                            {% if environment.isPro() == false %}
+                                                <a target="_blank" href="{{ build_pro_url({ 'utm_medium': 'global_page_search' }) }}">
+                                                    {{ environment.translate('PRO option') }}
+                                                </a>
+                                            {% endif %}
+                                        </div>
+                                        <div class="setting-control">
+                                            <input type="text" value="{{ '[supsystic-tables-global-page-search]' }}" class="stbCopyTextCode" readonly="readonly" />
+                                        </div>
+                                    </div>
+                                    <div class="table-roles-option table-option">
+                                        <div class="setting-description">
+                                            <label>{{ environment.translate('Roles') }}</label>
+                                            {{ tooltip.icon(environment.translate('Set the users roles, to add permission to use the plugin. The Administrator role has set by default.'), 'top', true) }}
+
+                                            {% if environment.isPro() == false %}
+                                                <a target="_blank" href="{{ build_pro_url({ 'utm_medium': 'manage_roles' }) }}">
+                                                    {{ environment.translate('PRO option') }}
+                                                </a>
+                                            {% endif %}
+
+                                        </div>
+                                        <div class="setting-control">
+                                            {% if environment.isPro() != false %}
+                                                <select multiple="multiple" name="settings[access_roles][]" class="chosen-select" data-placeholder="{{ environment.translate('Select avalilable roles to use tables')}}">
+                                                    <option value="administrator" disabled selected>Administrator</option>
+                                                    {% for role, title in wpRoles %}
+                                                        {% if role != 'administrator' %}
+                                                            <option value="{{ role }}"
+                                                                    {% if role in settings.access_roles %}
+                                                                        selected="selected"
+                                                                    {% endif %}
+                                                                    >{{ title }}
+                                                            </option>
+                                                        {% endif %}
+                                                    {% endfor %}
+                                                </select>
+                                            {% endif %}
+                                        </div>
+                                    </div>
+								</div>
+
+								{% block afterSettings %}{% endblock %}
+							</div>
+							{% block afterSettingsList %}{% endblock %}
+						</form>
+						<div class="clear"></div>
+						<!-- /.clear -->
+					</div>
+					<!-- /.table-title-wrap -->
+				</div>
+				<!-- /.col-xs-12 -->
+			</div>
+		</div>
+	</div>
+	<!-- /.supsystic-item -->
+{% endblock %}

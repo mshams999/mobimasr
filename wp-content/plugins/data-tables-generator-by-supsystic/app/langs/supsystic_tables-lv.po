@@ -1,0 +1,2146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Data Tables Generator by Supsystic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-15 14:09+0000\n"
+"PO-Revision-Date: 2018-10-10 15:08+0300\n"
+"Last-Translator: Janis <johnny09@inbox.lv>\n"
+"Language-Team: Latvian\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+
+msgid ""
+"\n"
+"                       You can set the rows and cols from the selected range, "
+"which is need to be removed from diagram.<br /><br />\n"
+"                       For example: 1r,2c<br /><br />\n"
+"                       In this case the first row and the second column will "
+"be removed from diagram.<br /><br />\n"
+"                       Leave this field blank to use all selected rows and "
+"columns."
+msgstr ""
+"\n"
+"                       Jūs varat iestatīt rindas un kolonnas no izvēlētā "
+"diapazona, kas ir jānoņemamas no diagrammas. <br /> <br />\n"
+"                       Piemēram: 1r, 2c <br /> <br />\n"
+"                       Šajā gadījumā pirmā rinda un otrā kolonna tiks noņemta "
+"no diagrammas. <br /> <br />\n"
+"                       Atstājiet šo lauku tukšu, lai izmantotu visas "
+"atlasītās rindas un kolonnas."
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtered from _MAX_ total entries)"
+
+msgid "11x17"
+msgstr "11x17"
+
+msgid "2A0"
+msgstr "2A0"
+
+msgid "3D Diagram"
+msgstr "3D Diagramma"
+
+msgid "4A0"
+msgstr "4A0"
+
+msgid "8.5x11"
+msgstr "8.5x11"
+
+msgid "8.5x14"
+msgstr "8.5x14"
+
+msgid ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> "
+"Contact us </a> through the Forum on our site - if you have some question, "
+"offer or wish."
+msgstr ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> "
+"Sazinieties ar mums </a>, izmantojot forumu mūsu mājas lapā - ja jums rodas "
+"kāds jautājums, droši sazinieties ar mums."
+
+msgid ""
+"<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - "
+"you’ll have to enter license key (you can find it in your personal account on "
+"our site). Go to the License tab and enter your email and license key. Once "
+"you have activated your PRO license - you can use all its advanced options. "
+"<br><br>That’s all. From this moment you can use your Data Table without any "
+"doubt. But if you still have some question - do not hesitate to contact us "
+"through our <a href=\"https://supsystic.com/contact-us/\">internal support</"
+"a> or on our <a href=\"http://supsystic.com/forum/datatable-plugin/"
+"\">Supsystic Forum.</a> Besides you can always describe your questions on <a "
+"href=\"https://wordpress.org/support/plugin/data-tables-generator-by-supsystic"
+"\">WordPress Ultimate Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It "
+"will be nice if you`ll help us and boost plugin with <a href=\"https://"
+"wordpress.org/support/view/plugin-reviews/data-tables-generator-by-supsystic?"
+"rate=5#postform/\">Five Stars rating on WordPress.org.</a> <br><br>We hope "
+"that you like our Data Table plugin and wish you all the best! Good luck!"
+msgstr ""
+"<b> Atjaunot </b> <br> Kad esat iegādājies spraudņa Premium versiju, jums būs "
+"jāievada licences atslēga (to varat atrast savā personīgajā kontā mūsu mājas "
+"lapā). Atveriet cilni Licence un ievadiet savu e-pastu un licences atslēgu. "
+"Tiklīdz esat aktivizējis PRO licenci, jūs varat izmantot visas papildu "
+"iespējas. <br><br> Tas viss. No šī brīža jūs bez šaubām varat izmantot Data "
+"Table. Bet, ja jums joprojām ir kāds jautājums - nevilcinieties sazināties ar "
+"mums, izmantojot mūsu <a href=\"https://supsystic.com/contact-us/\"> iekšējo "
+"atbalstu </a> vai mūsu <a href = \"http : //supsystic.com/forum/datatable-"
+"plugin/ \"> Supsystic forumu. </a> Bez tam jūs vienmēr varat aprakstīt savus "
+"jautājumus <a href =\" https://wordpress.org/support/plugin/data-tables -"
+"generator-by-supsystic \"> WordPress Ultimate forumā. </a> <br> <br> <b> "
+"Izbaudiet šo spraudni? </ b> <br> Tas būs jauki, ja jūs mums palīdzēsiet un "
+"papildināt spraudni ar <a href=\"https://wordpress.org/support/view/plugin-"
+"reviews/data-tables-generator-by-supsystic?rate=5#postform/\"> piecu zvaigžņu "
+"vērtējums vietnē WordPress.org. </ a > <br> <br> Mēs ceram, ka jums patīk "
+"mūsu Data Table spraudnis un novēlam Jums visu to labāko! Veiksmi!"
+
+msgid "A small guide for the first-time user"
+msgstr "Mazs ceļvedis pirmreizējam lietotājam"
+
+msgid ""
+"A stacked column chart is a column chart that places related values atop one "
+"another.<br /><br />\n"
+"                        \"Relative Mode\" formats each value as a fraction of "
+"1.<br /><br />\n"
+"                        \"Percent Mode\" formats each value as a percentage "
+"of 100%. "
+msgstr ""
+"Sakrauta kolonnu diagramma ir kolonnu diagramma, kurā saistītās vērtības "
+"pievieno viens otram. <br /> <br />\n"
+"                        \"Relatīvā režīma\" formāts katrai vērtībai ir kā "
+"daļa no 1. <br /> <br />\n"
+"                        \"Procentu režīms\" katrai vērtībai veido 100% "
+"procentuālo daļu."
+
+msgid "A0"
+msgstr "A0"
+
+msgid "A1"
+msgstr "A1"
+
+msgid "A10"
+msgstr "A10"
+
+msgid "A2"
+msgstr "A2"
+
+msgid "A3"
+msgstr "A3"
+
+msgid "A4"
+msgstr "A4"
+
+msgid "A5"
+msgstr "A5"
+
+msgid "A6"
+msgstr "A6"
+
+msgid "A7"
+msgstr "A7"
+
+msgid "A8"
+msgstr "A8"
+
+msgid "A9"
+msgstr "A9"
+
+msgid "Above table"
+msgstr "Virs tabulas"
+
+msgid "Above the chart"
+msgstr "Virs diagrammas"
+
+msgid "Actions"
+msgstr "Darbības"
+
+msgid "Activate"
+msgstr "Aktivizēt"
+
+msgid "Activate License"
+msgstr "Aktivizēt licenci"
+
+msgid ""
+"Actually, Data Table plugin is very simple and has a lot of different options "
+"at the same time. That’s why when you close this article I will show you the "
+"main of them, but the very detailed one you can find on our site. I hope that "
+"you will have no questions after even this small guide. For the first time we "
+"will help you to install and create your first table, but if you need help - "
+"contact us through the internal support"
+msgstr ""
+"Patiesībā Data Table spraudnis ir ļoti vienkāršs un tajā pašā laikā tam ir "
+"daudz un dažādu iespēju. Tāpēc, aizverot šo rakstu, es jums parādīšu galveno "
+"no tiem, bet ļoti detalizēti, kuru varat arī atrast mūsu mājas lapā. Es ceru, "
+"ka pēc šī mazā ceļveža jums nebūs jautājumu. Pirmo reizi mēs palīdzēsim jums "
+"instalēt un izveidot savu pirmo tabulu, bet, ja jums nepieciešama palīdzība, "
+"sazinieties ar mums, izmantojot iekšējo atbalstu"
+
+msgid ""
+"Add <a href=\"%s\" target=\"_blank\">editable field</a> for selected cells to "
+"edit cell value on frontend. Enjoy the <a href=\"%s\" target=\"_blank"
+"\">practical example</a>."
+msgstr ""
+"Pievienot izvēlētajām šūnām <a href=\"%s\" target=\"_blank\"> rediģējamo "
+"lauku </a>, lai rediģētu šūnas vērtību priekšpusē. Izbaudiet <a href=\"%s\" "
+"target=\"_blank\"> praktisko piemēru </a>."
+
+msgid "Add Fixed Column Width"
+msgstr "Pievienot fiksēto kolonnu platumu"
+
+msgid "Add Multiple Sorting"
+msgstr "Pievienot papildus šķirošanu"
+
+msgid "Add Option"
+msgstr "Pievienot opciju"
+
+msgid "Add automatic highlight for table odd rows"
+msgstr "Pievienojiet automātisko izcelšanu nepāra tabulu rindām"
+
+msgid "Add column on the left"
+msgstr "Pievienot kreisajā pusē kolonnu"
+
+msgid "Add diagram"
+msgstr "Pievienot diagrammu"
+
+msgid "Add dropdown list for highlighted cell to change cell value on frontend."
+msgstr ""
+"Pievienojiet nolaižamo sarakstu izceltajai šūnai, lai mainītu šūnu vērtību uz "
+"priekšu."
+
+msgid "Add editable field"
+msgstr "Pievienot rediģējamu lauku"
+
+msgid "Add new table"
+msgstr "Pievienot jaunu tabulu"
+
+msgid "Add row above"
+msgstr "Pievienot rindu augšā"
+
+msgid "Add table"
+msgstr "Pievienot tabulu"
+
+msgid "Align by First Table"
+msgstr "Izlīdzināt ar pirmo tabulu"
+
+msgid "Alignment"
+msgstr "Izlīdzinājums"
+
+msgid "Allow export table to pdf, csv, xls on frontend"
+msgstr "Atļaut tabulu eksportēšanu pdf, csv, xls uz priekšpusi"
+
+msgid ""
+"Allows to <a href=\"%s\" target=\"_blank\">use frontend fields only for "
+"logged in users</a>. See the next buttons on the editor toolbar:<br />\n"
+"                                            Add editable field<br />\n"
+"                                            Add dropdown list"
+msgstr ""
+"Atļaut <a href=\"%s\" target=\"_blank\"> izmantot priekšpuses laukus tikai "
+"reģistrētiem lietotājiem </a>. Skatīties nākamās pogas redaktora rīkjoslā: "
+"<br />\n"
+"                                            Pievienot rediģējamu lauku <br /"
+">\n"
+"                                            Pievienot nolaižamo sarakstu"
+
+msgid ""
+"Allows to <a href=\"%s\" target=\"_blank\">use frontend fields only for "
+"logged in users</a>. See the next buttons on the editor toolbar:<br />\n"
+"                Add editable field<br />\n"
+"                Add dropdown list"
+msgstr ""
+"Atļaut <a href=\"%s\" target=\"_blank\"> izmantot priekšpuses laukus tikai "
+"reģistrētiem lietotājiem </a>. Skatīties nākamās pogas redaktora rīkjoslā: "
+"<br />\n"
+"                Pievienot rediģējamu lauku <br />\n"
+"                Pievienot nolaižamo sarakstu"
+
+msgid ""
+"Allows to choose language for the table's labels (pagination, search ets.)"
+msgstr ""
+"Atļaut izvēlēties tabulas etiķetes valodu (lappuses, meklēšana un citi.)"
+
+msgid "Allows to execute custom javascript code after table is loaded."
+msgstr "Atļaut izpildīt pielāgotu javascript kodu pēc tabulu ielādes."
+
+msgid ""
+"Allows to export table in pdf, csv, xls formats from the front-end. Choose "
+"needed formats"
+msgstr ""
+"Atļaut eksportēt tabulu pdf, csv, xls formātā no priekšpuses. Izvēlieties "
+"nepieciešamos formātus"
+
+msgid ""
+"Allows to fix columns during table scrolling. Important! The fixing of "
+"columns suggests that the table will have a horisontal scroll type of "
+"responsive mode, otherwise you will not see that the fixed columns exist. So "
+"this feature is a kind of responsive mode on its own and will not work with "
+"such Responsive Modes as Standard and Automatic columns hiding."
+msgstr ""
+"Atļaut iestatīt kolonnas tabulas ritināšanas laikā. Svarīgi! Kolonnu "
+"fiksēšana liecina, ka tabulā būs horizontālā ritināšanas veids jeb jutīgais "
+"režīms, pretējā gadījumā jūs neredzēsiet, ka ir izveidotas fiksētās slejas. "
+"Tātad šī funkcija pati par sevi ir savietojama ar reaģēšanas režīmu un "
+"nedarbosies ar tādiem reaģējošiem režīmiem kā standarta un automātiskās "
+"slejas."
+
+msgid ""
+"Allows to fix the table's footer during table scrolling. Important! Footer "
+"option must be enabled for using this feature. Also you need to set Fixed "
+"Table Height to create a vertical scroll at the table. To see the work of "
+"this feature you should not use such Responsive Modes as Standard and "
+"Automatic columns hiding."
+msgstr ""
+"Atļaut salabot tabulas kājeni tabulas ritināšanas laikā. Svarīgi! Lai "
+"izmantotu šo funkciju, ir jābūt aktivizētam kājenes opcijai. Arī jums ir "
+"jāiestata fiksētais tabulas augstums, lai izveidotu vertikālu ritināšanu "
+"tabulā. Lai apskatītu šīs funkcijas darbu, jums nevajadzētu izmantot tādus "
+"atbildīgus režīmus kā slēpšanas standartā un automātiskās slejas."
+
+msgid ""
+"Allows to fix the table's header during table scrolling. Important! Header "
+"option must be enabled for using this feature. Also you need to set Fixed "
+"Table Height to create a vertical scroll for your table. To see the work of "
+"this feature you should not use such Responsive Modes such as Standard and "
+"Automatic columns hiding."
+msgstr ""
+"Atļaut salabot tabulas galveni tabulas ritināšanas laikā. Svarīgi! Lai "
+"izmantotu šo funkciju, ir jābūt iespējotai opcijai Galvene jeb Header. Arī "
+"jums jāiestata fiksētais galda augstums, lai izveidotu vertikālu ritināšanu "
+"savai tabulai. Lai redzētu šīs funkcijas darbu, jums nevajadzētu izmantot "
+"tādus reaģējošos režīmus kā standarta un automātiskās slejas."
+
+msgid ""
+"Allows to save data to the table through the frontend fields. See the next "
+"buttons on the editor toolbar:<br />\n"
+"                                            Add editable field<br />\n"
+"                                            Add dropdown list"
+msgstr ""
+"Atļaut saglabāt datus pie tabulas, izmantojot priekšpuses laukus. Skatīties "
+"nākamās pogas redaktora rīkjoslā: <br />\n"
+"                                            Pievienot rediģējamu lauku <br /"
+">\n"
+"                                            Pievienot nolaižamo sarakstu"
+
+msgid ""
+"Allows to save data to the table through the frontend fields. See the next "
+"buttons on the editor toolbar:<br />\n"
+"                Add editable field<br />\n"
+"                Add dropdown list"
+msgstr ""
+"Atļaut saglabāt datus tabulā, izmantojot priekšpuses laukus. Skatīties "
+"nākamās pogas redaktora rīkjoslā: <br />\n"
+"                Pievienot rediģējamu lauku <br />\n"
+"                Pievienot nolaižamo sarakstu"
+
+msgid ""
+"Allows to use editable fields only for users with selected roles. If there "
+"are no chosen roles - all logged in users will have ability to use the "
+"editable fields."
+msgstr ""
+"Atļaut rediģējamos laukus izmantot tikai lietotājiem ar atlasītām lomām. Ja "
+"izvēlētajām lomām nav, visi lietotāji, kuri piesasitīti varēs izmantot "
+"rediģējamos laukus."
+
+msgid "An error has occurred"
+msgstr "Ir radusies kļūda"
+
+msgid "Append to existing table data"
+msgstr "Pievienot esošajiem tabulas datiem"
+
+msgid "Area Chart"
+msgstr "Apgabala diagramma"
+
+msgid "Ascending"
+msgstr "Augošā secībā"
+
+msgid "Auto Index"
+msgstr "Auto indekss"
+
+msgid "Auto Table Width"
+msgstr "Auto tabulas platums"
+
+msgid "Autoimport from Google Sheet"
+msgstr "Importēt no Google Sheet"
+
+msgid "Automatic"
+msgstr "Automātiska"
+
+msgid "Automatic column hiding"
+msgstr "Automātiskās sleja slēpšana"
+
+msgid ""
+"Automatic column hiding - in this mode table columns will collapse from right "
+"to left if content does not fit to parent container width"
+msgstr ""
+"Automātiskā slejas slēpšana - šajā režīmā tabulas kolonnas tiks paslēptas no "
+"labās uz kreiso pusi, ja saturs neatbilst noklusējuma konteinera platumam"
+
+msgid "Automticaly appends selected logo for output pdf or printing"
+msgstr ""
+"Automātiski pievienot izvēlēto logotipu printējot pdf vai drukājot ko citu"
+
+msgid "Axis X Format"
+msgstr "Ass X formāts"
+
+msgid "Axis X Title"
+msgstr "Ass X nosaukums"
+
+msgid "Axis Y Format"
+msgstr "Ass Y formāts"
+
+msgid "Axis Y Title"
+msgstr "Ass Y nosaukums"
+
+msgid "B0"
+msgstr "B0"
+
+msgid "B1"
+msgstr "B1"
+
+msgid "B10"
+msgstr "B10"
+
+msgid "B2"
+msgstr "B2"
+
+msgid "B3"
+msgstr "B3"
+
+msgid "B4"
+msgstr "B4"
+
+msgid "B5"
+msgstr "B5"
+
+msgid "B6"
+msgstr "B6"
+
+msgid "B7"
+msgstr "B7"
+
+msgid "B8"
+msgstr "B8"
+
+msgid "B9"
+msgstr "B9"
+
+msgid "Background color"
+msgstr "Fona krāsa"
+
+msgid "Backup Plugin"
+msgstr "Backup Plugin"
+
+msgid ""
+"Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched "
+"DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr ""
+"Backup and Restore WordPress spraudnis izmantojot Supsystic, nodrošina ātru "
+"DropBox, FTP, Amazon S3, Google diska rezerves kopijas izveidošanu no jūsu "
+"WordPress mājas lapas."
+
+msgid "Bar Chart"
+msgstr "Joslu diagramma"
+
+msgid ""
+"Be closer to your visitors and customers with Live Chat Support by Supsystic. "
+"Help you visitors, support them in real-time with exceptional Live Chat "
+"WordPress plugin by Supsystic."
+msgstr ""
+"Pārvaldiet savus apmeklētājus un klientus, izmantojot Live Chat Support no "
+"Supsystic. Palīdziet saviem apmeklētājiem reālā laikā palīdzēt izmantojot "
+"Supsystic Live Chat WordPress spraudni."
+
+msgid "Begin Step-by-step Tutorial"
+msgstr "Soli pa solim"
+
+msgid "Below table"
+msgstr "Zem tabulas"
+
+msgid "Below the chart"
+msgstr "Zem diagrammas"
+
+msgid "Bold"
+msgstr "Bold"
+
+msgid "Borders"
+msgstr "Robežas"
+
+msgid "Bubble Chart"
+msgstr "Burbuļu diagramma"
+
+msgid "C0"
+msgstr "C0"
+
+msgid "C1"
+msgstr "C1"
+
+msgid "C10"
+msgstr "C10"
+
+msgid "C2"
+msgstr "C2"
+
+msgid "C3"
+msgstr "C3"
+
+msgid "C4"
+msgstr "C4"
+
+msgid "C5"
+msgstr "C5"
+
+msgid "C6"
+msgstr "C6"
+
+msgid "C7"
+msgstr "C7"
+
+msgid "C8"
+msgstr "C8"
+
+msgid "C9"
+msgstr "C9"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "CSS Editor"
+msgstr "CSS redaktors"
+
+msgid "Can't decode table meta from JSON."
+msgstr "Nevar atšifrēt table meta no JSON."
+
+msgid "Can't decode table rows from JSON."
+msgstr "Nevar atšifrēt table rows no JSON."
+
+msgid "Caption"
+msgstr "Paraksts"
+
+msgid "Catalog #10 1/2 Envelope"
+msgstr "Catalog #10 1/2 Envelope"
+
+msgid "Cell"
+msgstr "Šūna"
+
+msgid ""
+"Cell - adds border around all four sides of each cell, Row - adds border only "
+"over and under each row. (i.e. only for the rows)."
+msgstr ""
+"Šūna - pievieno robežu ap visām četrām šūnas malām, Rinda - rinda tiek "
+"pievienota tikai un pēc katras rindas. (t.i., tikai rindām)."
+
+msgid "Center"
+msgstr "Centrēt"
+
+msgid "Check all other FAQs"
+msgstr "Pārbaudiet visus citus bieži uzdotos jautājumus"
+
+msgid "Check the result of formula in the table on your site."
+msgstr "Pārbaudiet formulas rezultātu savas vietnes tabulā."
+
+msgid "Choose Icon"
+msgstr "Izvēlieties ikonu"
+
+msgid "Choose color for loader"
+msgstr "Izvēlieties krāsu iekrāvējam"
+
+msgid "Choose icon"
+msgstr "Izvēlieties ikonu"
+
+msgid "Choose icon for loader"
+msgstr "Izvēlieties krāsu iekrāvējam"
+
+msgid "Choose the orientation for PDF pages"
+msgstr "Izvēlieties PDF lapu orientāciju"
+
+msgid "Choose the paper size for PDF pages"
+msgstr "Izvēlieties papīra izmēru PDF lapām"
+
+msgid "Clear"
+msgstr "Notīrīt"
+
+msgid ""
+"Click on the button “Add new table” and see the first form, which you need to "
+"fill in. A very simple step!"
+msgstr ""
+"Noklikšķiniet uz pogas \"Pievienot jaunu tabulu\" un apskataties pirmo "
+"veidlapu, kas jums jāaizpilda. Ļoti vienkāršs solis!"
+
+msgid "Clone"
+msgstr "Duplicēt"
+
+msgid "Close Tutorial"
+msgstr "Aizvērt pamācību"
+
+msgid "Column Chart"
+msgstr "Kolonna"
+
+msgid "Columns"
+msgstr "Kolonnas"
+
+msgid "Coming Soon Plugin"
+msgstr "Drīzuma spraudnis"
+
+msgid ""
+"Coming soon page with drag-and-drop builder or under construction | "
+"maintenance mode to notify visitors and collects emails."
+msgstr ""
+"Drīzuma mājas lapa ar drag-and-drop builder vai under construction | "
+"maintenance mode, lai informētu apmeklētājus un apkopotu e-pastus."
+
+msgid "Comment"
+msgstr "Komentēt"
+
+msgid "Commerical #10 Envelope"
+msgstr "Commerical #10 aploksne"
+
+msgid "Compact Table"
+msgstr "Kompakta tabula"
+
+msgid ""
+"Congratulations! You have successfully installed and activated PRO version of "
+"%s plugin."
+msgstr ""
+"Apsveicam! Jūs esat veiksmīgi instalējis un PRO versija ir aktivizēta %s"
+
+msgid ""
+"Congratulations! You have successfully installed and activated PRO version of "
+"' ~ environment.getMenu().getMenuTitle() ~ ' plugin."
+msgstr ""
+"Apsveicam! Jūs esat veiksmīgi instalējis un PRO versija ir aktivizēta ' ~ "
+"environment.getMenu().getMenuTitle() ~ ' spraudnis."
+
+msgid "Contact Form Plugin"
+msgstr "Kontaktformas spraudnis"
+
+msgid "Count of Footer Rows"
+msgstr "Kājenes rindu skaits"
+
+msgid "Count of Header Rows"
+msgstr "Virsrakstu rindu skaits"
+
+msgid "Count of table rows, which will be moved to footer."
+msgstr "Tabulu rindu skaits, kas tiks pārvietots uz kājeni."
+
+msgid "Count of table rows, which will be moved to header."
+msgstr "Tabulu rindu skaits, kas tiks pārvietots uz galveni."
+
+msgid ""
+"Create and manage beautiful data tables with custom design. No HTML knowledge "
+"is required."
+msgstr ""
+"Izveidojiet un pārvaldiet skaistas datu tabulas ar pielāgotu dizainu. HTML "
+"zināšanas nav nepieciešamas."
+
+msgid ""
+"Create online membership community with custom user profiles, roles, FrontEnd "
+"registration and login. Members Directory, activity, groups, messages."
+msgstr ""
+"Izveidojiet tiešsaistes dalības kopienu ar lietotāja profiliem, lomām, "
+"FrontEnd reģistrāciju un pieteikšanos. Lietotāju katalogs, aktivitāte, "
+"grupas, ziņojumi."
+
+msgid "Create your first table"
+msgstr "Izveidojiet savu pirmo tabulu"
+
+msgid "Created"
+msgstr "Izveidots"
+
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select images "
+"from your WordPress Media Library, Flickr, Instagram or Facebook, set slide "
+"captions, links and SEO fields all from one page."
+msgstr ""
+"Slīdrādes izveide ar Slider spraudni ir ātra un vienkārša. Vienkārši atlasiet "
+"attēlus no savas WordPress Media Library, Flickr, Instagram vai Facebook, no "
+"vienas lapas iestatiet slaidu virsrakstus, saites un SEO laukus."
+
+msgid "Currency"
+msgstr "Valūta"
+
+msgid "Custom Footer"
+msgstr "Pielāgota kājene"
+
+msgid "Data Formats"
+msgstr "Datu formāti"
+
+msgid "Data Tables Generator"
+msgstr "Datu tabulu ģenerators"
+
+msgid "Date"
+msgstr "Datums"
+
+msgid "Decrease the amount of whitespace in the table."
+msgstr "Samazināt atstarpes apjomu tabulā."
+
+msgid "Default"
+msgstr "Noklusējums"
+
+msgid "Delete"
+msgstr "Izdzēst"
+
+msgid "Delimiter"
+msgstr "Atdalītājs"
+
+msgid "Descending"
+msgstr "Dilstošā secībā"
+
+msgid "Description"
+msgstr "Apraksts"
+
+msgid "Description Text"
+msgstr "Apraksta teksts"
+
+msgid "Design"
+msgstr "Dizains"
+
+msgid "Diagram"
+msgstr "Diagramma"
+
+msgid "Diagram Title"
+msgstr "Diagrammas virsraksts"
+
+msgid "Diagrams"
+msgstr "Diagrammas"
+
+msgid ""
+"Diagrams - this is a Pro feature of our plugin, which can help you to follow "
+"the statistics of your table. Several types for every taste and any wishes."
+msgstr ""
+"Diagrammas - šī ir mūsu spraudņa Pro funkcija, kas var palīdzēt jums sekot "
+"jūsu tabulas statistikai. Vairāki veidi katrai gaumei un vēlmēm."
+
+msgid "Digital Publication Plugin"
+msgstr "Digitālā publikācijas spraudnis"
+
+msgid ""
+"Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, "
+"Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+"Digital Publication WordPress spraudnis ar Supsystic priekšs žurnāliem, "
+"katalogiem, portfolio. Konvertējiet attēlus, ziņas, PDF lapas lappuses "
+"grāmatā."
+
+msgid "Disable"
+msgstr "Atspējot"
+
+msgid "Disable Responsivity"
+msgstr "Atspējot Responsivity"
+
+msgid "Disable Responsivity - default table fluid layout"
+msgstr "Atspējot Responsivity - noklusējuma tabulas sķidrais izkārtojums"
+
+msgid "Disable Sorting"
+msgstr "Atspējot šķirošanu"
+
+msgid "Disable Wrapping"
+msgstr "Atspējot iesaiņošanu"
+
+msgid "Disable indexing table for search bots"
+msgstr "Atspējot meklēšanas robotu indeksēšanas tabulu"
+
+msgid ""
+"Disable wrapping of content in the table, so every word in the cells will be "
+"in one single line."
+msgstr ""
+"Atspējot satura ietīšanu tabulā, tāpēc katrs vārds šūnās būt vienā rindā."
+
+msgid "Disallow Indexing"
+msgstr "Neatļaut indeksēšanu"
+
+msgid ""
+"Display custom Google Maps. Set markers and locations with text, images, "
+"categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+"Parādīt pielāgotu Google Maps. Iestatīt marķierus un atrašanās vietas ar "
+"tekstu, attēliem, kategorijām un saitēm. Pielāgojiet Google karti vienkāršā "
+"un intuitīvā veidā."
+
+msgid "Display only entries with matching characters in the beginning of words"
+msgstr "Parādiet tikai ierakstus ar atbilstošām rakstzīmēm vārdu sākumā"
+
+msgid "Edit table \"%s\""
+msgstr "Rediģēt tabulu \"% s\""
+
+msgid "Editable fields"
+msgstr "Rediģējamie lauki"
+
+msgid "Editor"
+msgstr "Redaktors"
+
+msgid "Editor tab"
+msgstr "Cilnes redaktors"
+
+msgid "Email"
+msgstr "Epasts"
+
+msgid "Empty info text"
+msgstr "Tukšs informācijas teksts"
+
+msgid "Empty table"
+msgstr "Tukša tabula"
+
+msgid "Enable"
+msgstr "Iespējot"
+
+msgid ""
+"Enable / disable table loader icon before table will be completely loaded."
+msgstr ""
+"Iespējot / atspējot tabula ielādes ikonu, pirms tabula tiek pilnībā ielādēta."
+
+msgid "Enable Table History"
+msgstr "Iespējot tabulas vēsturi"
+
+msgid "Enter the name and create Data Table"
+msgstr "Ievadiet nosaukumu un izveidojiet datu tabulu"
+
+msgid "Execute JS Script After Table Is Loaded"
+msgstr "Izpildīt JS skriptu pēc tam, kad tabula ir ielādēta"
+
+msgid "Executive"
+msgstr "Izpilddirektors"
+
+msgid "Export"
+msgstr "Eksportēt"
+
+msgid "Export Data to the File"
+msgstr "Eksportēt datus uz failu"
+
+msgid "Export Logo"
+msgstr "Eksporta logotips"
+
+msgid "Export Page Orientation"
+msgstr "Eksporta lapas orientācija"
+
+msgid "Export Paper Size"
+msgstr "Eksportēt papīra izmēru"
+
+msgid "Export available only in PRO version."
+msgstr "Eksports pieejams tikai PRO versijā."
+
+msgid "Export label"
+msgstr "Eksportēt etiķeti"
+
+msgid "Export table"
+msgstr "Eksportēt tabulu"
+
+msgid "Failed to find diagram %s."
+msgstr "Neizdevās atrast diagrammu% s."
+
+msgid "Failed to find table %s."
+msgstr "Neizdevās atrast tabulu% s."
+
+msgid "Failed to get table rows: %s"
+msgstr "Neizdevās iegūt tabulu rindas:% s"
+
+msgid "Failed to import data from the uploaded file"
+msgstr "Neizdevās importēt datus no augšupielādētā faila"
+
+msgid "Failed to import selected file"
+msgstr "Neizdevās importēt izvēlēto failu"
+
+msgid "Failed to import selected file: Wrong spreadsheet id or url"
+msgstr "Neizdevās importēt atlasīto failu: Nepareizs izklājlapas ID vai URL"
+
+msgid "Failed to save table meta data: %s"
+msgstr "Neizdevās saglabāt tabulas metadatus:% s"
+
+msgid "Failed to save table rows: %s"
+msgstr "Neizdevās saglabāt tabulas rindas:% s"
+
+msgid "Failed to upload selected file"
+msgstr "Neizdevās augšupielādēt izvēlēto failu"
+
+msgid "Featured Plugins"
+msgstr "Piedāvātie spraudņi"
+
+msgid "Features"
+msgstr "Iespējas"
+
+msgid "Feel free to contact us and don’t worry, everything gonna be ok!"
+msgstr "Aicinam sazināties ar mums un neuztraucieties, viss būs kārtībā!"
+
+msgid "File Type"
+msgstr "Faila tips"
+
+msgid "File extension type"
+msgstr "Faila paplašinājuma tips"
+
+msgid "Fill in the rest of the formula."
+msgstr "Aizpildiet pārējo formulu."
+
+msgid ""
+"Fill the table title and choose the number of columns and rows. Don’t worry, "
+"you will be able to change it (add or delete some) later!"
+msgstr ""
+"Aizpildiet tabulas nosaukumu un izvēlieties kolonnu un rindu skaitu. "
+"Neuztraucieties, to varēsiet mainīt (pievienot vai dzēst) vēlāk!"
+
+msgid "Filtered info text"
+msgstr "Filtrēts informācijas teksts"
+
+msgid "Fixed Columns"
+msgstr "Fiksētās slejas"
+
+msgid "Fixed Footer"
+msgstr "Fiksēta kājene"
+
+msgid "Fixed Header"
+msgstr "Fiksēta galvene"
+
+msgid "Fixed Table Height"
+msgstr "Fiksēts tabulas augstums"
+
+msgid "Fixed Table Width"
+msgstr "Fiksēts tabulas platums"
+
+msgid ""
+"Fixed table height in px. This value must be less than the original table "
+"height to create a vertical scroll, otherwise you will not see that the fixed "
+"header / footer exists."
+msgstr ""
+"Fiksēts tabulas augstums px. Lai izveidotu vertikālu ritināšanu, šai vērtībai "
+"jābūt mazākai par sākotnējo tabulas augstumu, pretējā gadījumā jūs "
+"neredzēsiet, ka pastāv fiksēta galvene / kājene."
+
+msgid "Folio"
+msgstr "Folio"
+
+msgid "Font Family"
+msgstr "Fontu ģimene"
+
+msgid "Font Size"
+msgstr "Fonta izmērs"
+
+msgid "Font family changing available only in PRO version."
+msgstr "Fontu nomainīt var tikai PRO versijā."
+
+msgid "Footer"
+msgstr "Kājene"
+
+msgid ""
+"Formats for cells value. All formats convert cell values to appropriate "
+"format types.\n"
+"                            <b>Percent with Convert</b> format sets percent "
+"format and convert cells value to percentage by division by 100.\n"
+"                            "
+msgstr ""
+"Šūnu vērtības formāti. Visi formāti pārveido šūnu vērtības atbilstošiem "
+"formāta veidiem.\n"
+"                            <b> Procenti ar konvertēšanu </ b> formāts nosaka "
+"procentu formātu un pārveido šūnas vērtību procentos sadalījumā pa 100."
+
+msgid "Frequently Asked Questions"
+msgstr "Bieži uzdotie jautājumi"
+
+msgid "Frontend Export"
+msgstr "Priekšpuses eksports (Frontend Export)"
+
+msgid "Get Browser Language"
+msgstr "Iegūstiet pārlūkprogrammas valodu"
+
+msgid "Get PRO"
+msgstr "Iegūt PRO"
+
+msgid "Get PRO version"
+msgstr "Iegūt PRO versiju"
+
+msgid "Global Table Data Search"
+msgstr "Globālo tabulu datu meklēšana"
+
+msgid "Go to Editor of Data Table."
+msgstr "Doties uz datu tabulas redaktoru."
+
+msgid "Google Maps Easy"
+msgstr "Google Maps viegli"
+
+msgid "Google Spreadsheet Url"
+msgstr "Google Spreadsheet Url"
+
+msgid "Header"
+msgstr "Galvene"
+
+msgid "Height"
+msgstr "Augstums"
+
+msgid "Hello Supsystic Team!"
+msgstr "Sveika Supsystic komanda!"
+
+msgid "Hello! This is the Data Tables by Supsystic"
+msgstr "Sveiki! Šis ir Supsystic datu tabulas"
+
+msgid "Hide Table Loader"
+msgstr "Slēpt tabulu ielādi"
+
+msgid "Hide table by default and show only if search has a result."
+msgstr ""
+"Nerādīt tabulu pēc noklusējuma un rādīt tikai tad, ja meklēšanas rezultāts ir "
+"atrodams."
+
+msgid "Highlight the Order Column"
+msgstr "Izcelt pasūtījuma kolonnu"
+
+msgid "Highlighting by Mousehover"
+msgstr "Izcelt ar Mousehover"
+
+msgid "Horizontal scroll"
+msgstr "Horizontālā ritināšana"
+
+msgid ""
+"Horizontal scroll - in this mode scroll bar will be added if table overflows "
+"parent container width"
+msgstr ""
+"Horizontālā ritināšana - šajā režīmā ritināšana tiks pievienota, ja tabula "
+"pārpildīs vecāko konteinera platumu"
+
+msgid "How to use formulas in the table?"
+msgstr "Kā izmantot formulas tabulā?"
+
+msgid ""
+"I need to have line breaks/spaces between the paragraphs within the cells."
+msgstr "Man vajag līniju pārtraukumus / atstarpes starp šūnu punktiem."
+
+msgid ""
+"If checked - footer will be created from the last table rows. Otherwise - "
+"footer will be created from header rows."
+msgstr ""
+"Ja ir atzīmēts, pēdējās tabulas rindas tiks izveidotas. Pretējā gadījumā - "
+"kājene tiks izveidota no galvenes rindām."
+
+msgid ""
+"If checked - table data on frontend will be overloaded from selected Google "
+"Sheet. <a href=\"%s\" tagget=\"_blank\">Read more</a> about how organize Auto "
+"Import form Google Sheets"
+msgstr ""
+"Ja izvēlēts - Google lapā tiks pārsniegta pārbaudāmā tabulas informācija. <a "
+"href=\"%s\" tagget=\"_blank\"> Lasiet vairāk </a> par to, kā organizēt "
+"automātisko importa veidlapu Google izklājlapas"
+
+msgid "If checked - table data will be included in the global site search"
+msgstr ""
+"Ja izvēlēts - pārbaudītās tabulas dati tiks iekļauti globālajā vietnes "
+"meklēšanā"
+
+msgid "If checked - the current sorted column will be highlighted"
+msgstr "Ja izvēlēts - pašreizējā sakārtotajā slejā tiks iezīmēta"
+
+msgid ""
+"If checked - this table will be resized by first supsystic table on page. "
+"Important! This option makes sense only if table is not on responsive mode or "
+"responsive mode is disabled. Also if the first table has different count of "
+"columns or different settings, their sizes may not be equal."
+msgstr ""
+"Ja izvēlēts - šī tabula tiks mainīta, izmantojot pirmo tabulas sākumu lapā. "
+"Svarīgi! Šī opcija ir pielietojama tikai tad, ja tabulā nav reaģējoša režīma "
+"vai reaģējošais režīms ir atspējots. Arī tad, ja pirmajā tabulā ir atšķirīgs "
+"kolonnu vai dažādu iestatījumu skaits, to izmēri var nebūt vienādi."
+
+msgid ""
+"If checked - width of table columns will be calculated automatically for "
+"table width 100%.<br /><br />\n"
+"                                                Otherwise - you can set table "
+"width manually: columns width will be get from Fixed Table Width option\n"
+"                                                (toolbar on Editor tab) or "
+"calculated depending on the columns width in the table editor.<br /><br />\n"
+"                                                If you do not want to apply "
+"columns width at all - you should uncheck \"Auto Table Width\" option, set "
+"\"Fixed Table Width\"\n"
+"                                                option to \"auto\" and check "
+"\"Compact Table\" option."
+msgstr ""
+"Ja tas ir atzīmēts, tabulas kolonnu platums tiks automātiski aprēķināts pēc "
+"tabulas platuma 100%. <br /> <br />\n"
+"                                      Pretējā gadījumā galda platumu varat "
+"iestatīt manuāli: kolonnu platums būs no fiksētā gala platuma opcijas\n"
+"                                      (rīkjosla cilnē Rediģēt) vai aprēķina "
+"pēc sleju platuma tabulas redaktorā. <br /> <br />\n"
+"                                      Ja nevēlaties vispār pielietot kolonnu "
+"platumu - jums vajadzētu noņemt atzīmi no opcijas \"Auto tabulas platums\", "
+"iestatiet \"Fiksēto tabulu platums\"\n"
+"                                      opcija \"auto\" un pārbaudiet opciju "
+"\"Compact Table\"."
+
+msgid ""
+"If multiple sorting for columns is not set - the table will be sorted in the "
+"specified order by the column set in the table settings: Settings-> Features-"
+"> Sorting Order / Sorting Column. Otherwise - table will be sorted by the "
+"specified custom columns in sequense, in which they are listed."
+msgstr ""
+"Ja ir iestatīta vairāku kolonnu šķirošana - tabula tiks sakārtota norādītajā "
+"secībā pēc tabulas iestatījumos norādītās kolonnas: Iestatījumi-> Funkcijas-> "
+"Kārtošanas secības / šķirošanas kolonna. Pretējā gadījumā tabula tiks "
+"sakārtota pēc norādītajām pielāgotajām slejām secībā, kurā tie ir uzskaitīti."
+
+msgid ""
+"If you use some specific characters (greek, cyrillic etc.) it is better to "
+"check this box for PDF export."
+msgstr ""
+"Ja izmantojat dažas īpašas rakstzīmes (grieķu, cyrillic uc), labāk ir atzīmēt "
+"šo lodziņu PDF eksportam."
+
+msgid ""
+"If, unfortunately, you have some problem - we are ready to help you in our <a "
+"href=\"//supsystic.com/contact-us/\" target=\"_blank\">internal support.</a>"
+msgstr ""
+"Ja jums, diemžēl, ir kāda problēma - mēs esam gatavi jums palīdzēt mūsu <a "
+"href=\"//supsystic.com/contact-us/\" target=\"_blank\"> iekšējā atbalstā </a>."
+
+msgid "Import"
+msgstr "Importēt"
+
+msgid "Import Data to the Table"
+msgstr "Importēt datus uz tabulu"
+
+msgid "Import Settings"
+msgstr "Importēšanas iestatījumi"
+
+msgid "Import available only in PRO version."
+msgstr "Importēšana ir pieejama tikai PRO versijā."
+
+msgid "Import error"
+msgstr "Importēšanas kļūda"
+
+msgid "Import settings"
+msgstr "Importēšanas iestatījumi"
+
+msgid "Import to the table"
+msgstr "Importēt tabulā"
+
+msgid "Import/Export"
+msgstr "Importēt/eksportēt"
+
+msgid ""
+"Important! Please, check the sharing settings of your spreadsheet: it must be "
+"accessed to edit for everyone who has link. In other case the data will not "
+"import to table."
+msgstr ""
+"Svarīgi! Lūdzu, pārbaudiet savas izklājlapas kopīgošanas iestatījumus: tai ir "
+"jābūt pieejamai rediģēšanai visiem, kam ir saite / links. Citos gadījumos "
+"dati netiks importēti tabulā."
+
+msgid ""
+"In case you have special or at least, basic knowledge of CSS code - you can "
+"easily change the table here. Just make sure that you know, what you are "
+"doing and you will not destroy the table."
+msgstr ""
+"Gadījumā, ja jums ir īpašas vai vismaz pamatzināšanas par CSS kodu, šeit "
+"varat viegli mainīt tabulu. Vienkārši pārliecinieties, ka jūs zināt, ko jūs "
+"darāt, un jūs neiznīcināsiet savu tabulu."
+
+msgid "Insert Link"
+msgstr "Ievietojiet saiti"
+
+msgid "Insert link"
+msgstr "Ievietojiet saiti"
+
+msgid "Insert picture"
+msgstr "Ievietojiet attēlu"
+
+msgid "Inside by the top left corner"
+msgstr "Iekšpusē augšējā kreisajā stūrī"
+
+msgid "Invalid range specified."
+msgstr "Nederīgs diapazons."
+
+msgid "Italic"
+msgstr "Italic"
+
+msgid ""
+"It’s never been so easy to create and manage pricing and comparison tables "
+"with table builder. Any element of the table can be customise with mouse "
+"click."
+msgstr ""
+"Nekad nav bijis tik viegli izveidot un pārvaldīt cenu no salīdzināšanas "
+"tabulas ar tabulas veidotāju. Jebkurus tabulas elementus var pielāgot ar "
+"peles klikšķi."
+
+msgid "Landscape"
+msgstr "Ainava"
+
+msgid "Language"
+msgstr "Valoda"
+
+msgid "Language and Text"
+msgstr "Valoda un teksts"
+
+msgid "Large"
+msgstr "Liels"
+
+msgid ""
+"Learn more about how to do this <a href=\"//supsystic.com/how-to-use-tables/"
+"\" target=\"_blank\">here</a>."
+msgstr ""
+"Uzziniet vairāk par to, kā to izdarīt <a href=\"//supsystic.com/how-to-use-"
+"tables/\" target=\"_blank\"> šeit </a>."
+
+msgid "Ledger"
+msgstr "Ledger"
+
+msgid "Left"
+msgstr "Pa kreisi"
+
+msgid "Left Columns Count"
+msgstr "Kreisā kolonnas skaits"
+
+msgid "Left of the chart"
+msgstr "Pa kreisi no diagrammas"
+
+msgid "Legal"
+msgstr "Juridiski"
+
+msgid "Legend Position"
+msgstr "Leģendāra pozīcija"
+
+msgid "Length text"
+msgstr "Garuma teksts"
+
+msgid "Let's Start!"
+msgstr "Sāksim!"
+
+msgid ""
+"Lets make search by fields, marked as hidden (see appropriate button on "
+"editor toolbar)"
+msgstr ""
+"Ļauj veikt meklēšanu pēc laukiem, kuri atzīmēti kā slēpti (skatīt atbilstošo "
+"pogu redaktora rīkjoslā)."
+
+msgid "Letter"
+msgstr "Vēstule"
+
+msgid "License"
+msgstr "Licence"
+
+msgid "Line Chart"
+msgstr "Līnijas diagramma"
+
+msgid "Lines between slices and values"
+msgstr "Rindas starp šķēlītēm un vērtībām"
+
+msgid "Link Text"
+msgstr "Saites teksts"
+
+msgid "Link from Google Tables"
+msgstr "Saite no Google tabulām"
+
+msgid "List of columns for multiple sorting"
+msgstr "Kolonu saraksts priekšs šķirošanas"
+
+msgid "List of columns, disabled from manual sorting"
+msgstr "Sleju saraksts, kas atspējo no manuālas šķirošanas"
+
+msgid "List of width sizes, set for table columns:"
+msgstr "Platuma izmēru saraksts priekšs kolonu tabulām:"
+
+msgid "Live Chat Plugin"
+msgstr "Live Chat spraudnis"
+
+msgid "Loading your table, please wait..."
+msgstr "Augšupielādējam tabulu, lūdzu uzgaidiet ..."
+
+msgid "Logo Alignment"
+msgstr "Logo pielīdzināšana"
+
+msgid "Logo Position"
+msgstr "Logo Pozīcija"
+
+msgid "Long Number"
+msgstr "Garšs numurs"
+
+msgid "Main"
+msgstr "Galvenais"
+
+msgid ""
+"Main Settings of your first table. Here you can see main settings which are "
+"conected with languages, table elements, styling and other different editors "
+"settings. Generally it’s a tab where you can edit the visual part of the "
+"whole table, switch on/off the responsive mode, set pagination etc."
+msgstr ""
+"Jūsu pirmās tabulas galvenie iestatījumi. Šeit varat redzēt galvenos "
+"iestatījumus, kas ir savienoti ar valodām, tabulas elementiem, stilu un "
+"citiem dažādiem redaktoru iestatījumiem. Parasti tā ir cilne, kurā varat "
+"rediģēt visu tabulas vizuālo daļu, ieslēgt / izslēgt reaģējošo režīmu, "
+"iestatīt \"pagnation\" utt."
+
+msgid "Make data table responsive"
+msgstr "Datu tabulas pielāgošana"
+
+msgid ""
+"Mandatory attribute \"id\" is not specified. ' . 'Shortcode usage example: "
+"[%s id=\"{table_id}\"]"
+msgstr ""
+"Obligātais atribūts \"id\" nav norādīts. \" 'Īstermiņa kodēšanas lietojuma "
+"piemērs: [%s id = \"{table_id}\"]"
+
+msgid ""
+"Mark selected cells as hidden and remove them from frontend. Can be useful "
+"for placing information in the table for admins only. <br /><br />Importanr! "
+"To display the table correctly, please, add this property for the whole row "
+"or the whole column of table."
+msgstr ""
+"Atzīmējiet atlasītās šūnas kā slēptas un noņemiet tās no pārlūka. Var būt "
+"lietderīgi izvietot informāciju tabulā tikai administratoriem. <br /> <br /> "
+"Svarīgi! Lai pareizi parādītu tabulu, lūdzu, pievienojiet šo īpašumu visai "
+"rindai vai visai tabulas slejai."
+
+msgid ""
+"Mark selected cells as invisible and hide them on frontend. Can be useful for "
+"placing intermediate calculations. <br /><br />To display the table "
+"correctly, please, add this property for the whole row or the whole column of "
+"table."
+msgstr ""
+"Atzīmējiet atlasītās šūnas kā neredzamas un paslēpiet tās no ārpasaules. Var "
+"būt noderīgi, lai veiktu starpprognozējumus. <br /> <br /> Lai pareizi "
+"parādītu tabulu, lūdzu, pievienojiet šo īpašumu visai rindai vai visai "
+"tabulas slejai."
+
+msgid "Medium"
+msgstr "Vidējs"
+
+msgid "Membership by Supsystic"
+msgstr "Dalība ar Supsystic"
+
+msgid "Message"
+msgstr "Ziņa"
+
+msgid "Minimum Count of Characters"
+msgstr "Minimālais simbolu skaits"
+
+msgid "Name"
+msgstr "Vārds"
+
+msgid "Name of Cloned Table"
+msgstr "Klonētas tabulas nosaukums"
+
+msgid "Name of slice"
+msgstr "Šķēles nosaukums"
+
+msgid "Newsletter Plugin"
+msgstr "Informatīvā izdevuma spraudnis"
+
+msgid "Next"
+msgstr "Nākamais"
+
+msgid "No"
+msgstr "Nē"
+
+msgid "No data available in table"
+msgstr "Tabulā nav pieejami dati"
+
+msgid "No detected"
+msgstr "Nav konstatēts"
+
+msgid "No legend"
+msgstr "Nav leģendu"
+
+msgid "No matching records are found"
+msgstr "Nav atbilstošu ierakstu"
+
+msgid "No value"
+msgstr "Nav vērtības"
+
+msgid "None"
+msgstr "Nav"
+
+msgid "Not displaying"
+msgstr "Nav redzams"
+
+msgid ""
+"Note that the table may look a little different depending on your theme style."
+msgstr ""
+"Ņemiet vērā, ka tabula var nedaudz atšķirties atkarībā no jūsu motīvu stila."
+
+msgid "Number"
+msgstr "Numurs"
+
+msgid "Number Formatting"
+msgstr "Numuru formatēšana"
+
+msgid ""
+"Number of column to apply sort order. Set no value to disable table sorting "
+"by default."
+msgstr ""
+"Kolonnas numurs, lai izmantotu šķirošanas secību. Noklikšķiniet uz vērtības, "
+"lai pēc noklusējuma atspējotu tabulu šķirošanu."
+
+msgid "Number of column to fix by left side of the table."
+msgstr "Kolonnas numurs, kas jānostiprina ar galda kreiso pusi."
+
+msgid "Number of column to fix by right side of the table."
+msgstr "Kolonnas numurs, kas jālabo tabulas labajā pusē."
+
+msgid "Offset Bottom"
+msgstr "Nobīdīt apakšā"
+
+msgid "Offset Left"
+msgstr "Nobīdīt pa kreisi"
+
+msgid "Offset Right"
+msgstr "Nobīdīt pa labi"
+
+msgid "Offset Top"
+msgstr "Nobīdīt augšā"
+
+msgid "Offset for axes' area by bottom."
+msgstr "Asu platuma nobīde no apakšas."
+
+msgid "Offset for axes' area by left."
+msgstr "Kreisās ass platums."
+
+msgid "Offset for axes' area by right."
+msgstr "Asu platuma nobīde pa labi."
+
+msgid "Offset for axes' area by top."
+msgstr "Asu platuma nobīde no augšas."
+
+msgid ""
+"One of the best plugin for creating Contact Forms on your WordPress site. "
+"Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+"Viens no labākajiem spraudņiem veidojot kontaktu formas WordPress vietnē. "
+"Maināmi fonti, foni un iespēja pievienot jaunus laukus utt."
+
+msgid "Open in new tab"
+msgstr "Atvērt jaunā cilnē"
+
+msgid "Other"
+msgstr "Cits"
+
+msgid "Overview"
+msgstr "Pārskats"
+
+msgid "Overwrite Table Text"
+msgstr "Pārrakstīt tabulas tekstu"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "PRO option"
+msgstr "PRO opcija"
+
+msgid "PRO version"
+msgstr "PRO versija"
+
+msgid "Pagination"
+msgstr "Paginācija"
+
+msgid "Pagination List Content"
+msgstr "Pagināciju saraksta saturs"
+
+msgid "Pagination Size"
+msgstr "Paginācijas izmērs"
+
+msgid "Paragraph Mode"
+msgstr "Punkta režīms"
+
+msgid "Paste script code here"
+msgstr "Ielīmējiet skripta kodu šeit"
+
+msgid "Percent"
+msgstr "Procenti"
+
+msgid "Percent Mode"
+msgstr "Procentu režīms"
+
+msgid "Percent with Convert"
+msgstr "Procentuālā vērtība ar konvertēšanu"
+
+msgid "Percentage of slice size out of total"
+msgstr "No kopējā izgriezuma lieluma procentuālā daļa"
+
+msgid "Photo Gallery Plugin"
+msgstr "Foto galerijas spraudnis"
+
+msgid ""
+"Photo Gallery Plugin with a great number of layouts will help you to create "
+"quality respectable portfolios and image galleries."
+msgstr ""
+"Foto galerijas spraudnis ar lielu izkārtojumu skaitu palīdzēs jums izveidot "
+"kvalitatīvus respektablus portfolio un attēlu galerijas."
+
+msgid "Pie Chart"
+msgstr "Pie diagramma"
+
+msgid "Plain"
+msgstr "Plain"
+
+msgid ""
+"Please be advised that this option is available only in %s. You can %s today "
+"and get this and other PRO option for your tables!"
+msgstr ""
+"Lūdzu, ņemiet vērā, ka šī opcija ir pieejama tikai %s. Jūs varat %s šodien un "
+"iegūt šo un citu PRO opciju jūsu tabulām!"
+
+msgid "Plugin options"
+msgstr "Plugin iespējas"
+
+msgid "Popup Plugin"
+msgstr "Uznirstošais spraudnis"
+
+msgid "Portrait"
+msgstr "Portrets"
+
+msgid "Preview"
+msgstr "Priekšskatījums"
+
+msgid ""
+"Preview insert for your comfort. Before updating the table on your page - you "
+"can see the result of your efforts and changes, look at it and enjoy the "
+"final outcome."
+msgstr ""
+"Priekšskatījuma ievietošana jūsu ērtībai. Pirms atjaunināt tabulas lapu - jūs "
+"varat redzēt savu centienu un izmaiņu rezultātu, apskatīt to un baudīt gala "
+"rezultātu."
+
+msgid "Pricing Table"
+msgstr "Cenu tabula"
+
+msgid "Quantitative value of slice"
+msgstr "Šķēles kvantitatīvā vērtība"
+
+msgid "RA0"
+msgstr "RA0"
+
+msgid "RA1"
+msgstr "RA1"
+
+msgid "RA2"
+msgstr "RA2"
+
+msgid "RA3"
+msgstr "RA3"
+
+msgid "RA4"
+msgstr "RA4"
+
+msgid "Redo"
+msgstr "Atkārtoti"
+
+msgid "Relative Mode"
+msgstr "Relatīvais režīms"
+
+msgid "Remove"
+msgstr "Noņemt"
+
+msgid "Remove Data"
+msgstr "Noņemt datus"
+
+msgid "Remove Logo"
+msgstr "Noņemt logotipu"
+
+msgid "Renew License"
+msgstr "Atjaunot licenci"
+
+msgid "Report a bug"
+msgstr "Ziņot par kļūdu"
+
+msgid "Require a new functionallity"
+msgstr "Nepieciešama jauna funkcija"
+
+msgid "Responsive Mode"
+msgstr "Atbildīgs režīms"
+
+msgid "Right"
+msgstr "Pa labi"
+
+msgid "Right Columns Count"
+msgstr "Labo kolonnu skaits"
+
+msgid "Right of the chart"
+msgstr "Diagrammas tiesības"
+
+msgid "Role for users who can use plugin. Administrator is included by default"
+msgstr ""
+"Loma lietotājiem, kuri var izmantot spraudni. Administrators ir iekļauts pēc "
+"noklusējuma"
+
+msgid "Roles"
+msgstr "Lomas"
+
+msgid "Row"
+msgstr "Rinda"
+
+msgid "Row Striping"
+msgstr "Rindu virskārta"
+
+msgid "Row highlighting by mouse hover."
+msgstr "Rindas izcelšana ar peles kursoru."
+
+msgid "Rows"
+msgstr "Rindas"
+
+msgid "Rows Count per Request"
+msgstr "Rindu skaits uz pieprasījumu"
+
+msgid "SRA0"
+msgstr "SRA0"
+
+msgid "SRA1"
+msgstr "SRA1"
+
+msgid "SRA2"
+msgstr "SRA2"
+
+msgid "SRA3"
+msgstr "SRA3"
+
+msgid "SRA4"
+msgstr "SRA4"
+
+msgid "Save"
+msgstr "Saglabāt"
+
+msgid "Save Frontend Fields"
+msgstr "Saglabāt priekšpusē laukus"
+
+msgid "Save as"
+msgstr "Saglabāt"
+
+msgid "Save the changes of table."
+msgstr "Saglabāt tabulas izmaiņas."
+
+msgid "Scientific"
+msgstr "Zinātniskais"
+
+msgid "Search by Hidden Fields"
+msgstr "Meklēt pēc slēptiem laukiem"
+
+msgid "Search label"
+msgstr "Meklēšanas etiķete"
+
+msgid "Search:"
+msgstr "Meklēt:"
+
+msgid "Searching"
+msgstr "Meklēšana"
+
+msgid "Select Logo"
+msgstr "Izvēlieties Logo"
+
+msgid "Select User to display its table"
+msgstr "Atlasiet lietotāju, lai parādītu tā tabulu"
+
+msgid ""
+"Select a cell and start typing. In a cell, type an equal sign “=” to start "
+"the formula."
+msgstr ""
+"Izvēlieties šūnu un sāciet rakstīt. Šūnā ierakstiet vienādības zīmi \"=\", "
+"lai uzsāktu formulu."
+
+msgid "Select alignment of table logotype"
+msgstr "Atlasiet tabulas logotipa pielīdzināšanu"
+
+msgid "Select avalilable roles to use tables"
+msgstr "Izvēlieties publiski pieejamās lomas, lai izmantotu tabulas"
+
+msgid "Select chart type"
+msgstr "Atlasīt diagrammas veidu"
+
+msgid "Select file type to export table:"
+msgstr "Atlasīt faila tipu tabulas eksportēšanai:"
+
+msgid "Select position of table logotype"
+msgstr "Atlasiet tabulas logotipa pozīciju"
+
+msgid "Select roles"
+msgstr "Atlasiet lomas"
+
+msgid "Selectable fields"
+msgstr "Atlasāmie lauki"
+
+msgid ""
+"Set column width for selected columns in pixels or percents. Press \"Clear "
+"Fixed Width\" to clear fixed columns width for all table columns. All changes "
+"will be applied after table saving."
+msgstr ""
+"Iestatīt kolonnu platumu atlasītajām kolonnām pikseļos vai procentos. "
+"Nospiediet \"Notīrīt fiksēto platumu\", lai notīrītu visu stabiņu kolonnu "
+"fiksēto sleju platumu. Visas izmaiņas tiks veiktas pēc tabulu saglabāšanas."
+
+msgid ""
+"Set count of table rows, which will be saved per one request. If you do not "
+"know why does this value need for - it's better to keep the preferred value: "
+"400."
+msgstr ""
+"Iestatiet tabulas rindu skaitu, kas tiks saglabāts uz vienu pieprasījumu. Ja "
+"jūs nezināt, kāpēc šī vērtība ir nepieciešama, labāk saglabāt vēlamo vērtību: "
+"400."
+
+msgid ""
+"Set fixed table width in px, % or auto (in this case table will be adjusted "
+"by table content)"
+msgstr ""
+"Iestatīt fiksēto tabulas platumu px, % vai auto (šajā gadījumā tabulu "
+"noregulēs pēc tabulas satura)"
+
+msgid "Set format of all numbers in the table"
+msgstr "Iestatiet visu tabulas numuru"
+
+msgid ""
+"Set minimum count of characters to start search in Search field. Set 0 to "
+"make search in any case."
+msgstr ""
+"Iestatiet minimālo rakstzīmju skaitu, lai sāktu meklēšanu laukā Meklēšana. "
+"Iestatiet 0, lai veiktu meklēšanu jebkurā gadījumā."
+
+msgid ""
+"Set multiple column sorting for selected columns. Press \"Clear Multiple "
+"Sorting\" to clear multiple sorting for all table columns. All changes will "
+"be applied after table saving."
+msgstr ""
+"Iestatīt vairāku kolonnu šķirošanu atlasītajām slejām. Nospiediet \"Notīrīt "
+"vairākkārtēju šķirošanu\", lai izdzēstu visu tabulas kolonnu vairākkārtēju "
+"šķirošanu. Visas izmaiņas tiks veiktas pēc tabulas saglabāšanas."
+
+msgid ""
+"Set output format for currencies. Supports only 1 currency for 1 table. "
+"Besides here you can establish needed divider between integer and fractional "
+"parts and quantity of zeros at fractional part. For example:<br />\n"
+"                                            $ 1,000.000<br />\n"
+"                                            € 1.00"
+msgstr ""
+"Iestatīt valūtu izvades formātu. Atbalsta tikai 1 valūtu 1 tabulā. Bez tam "
+"šeit jūs varat izveidot nepieciešamo dalītāju starp veselu skaitli un daļējām "
+"daļām un nulles daudzumu frakcionētajā daļā. Piemēram: <br />\n"
+"                                            $ 1 000 000 <br />\n"
+"                                            € 1,00"
+
+msgid ""
+"Set output format for date. For example:<br />\n"
+"                                            YYYY-MM-DD - 1991-12-25<br />\n"
+"                                            DD.MM.YY - 25.12.91"
+msgstr ""
+"Iestatiet datuma izvades formātu. Piemēram: <br />\n"
+"                                            GGGG-MM-DD - 1991-12-25 <br />\n"
+"                                            DD.MM.YY - 25.12.91"
+
+msgid "Set output format for numbers e.g. 1,000.00, 1.00"
+msgstr "Iestatiet skaitļu izvades formātu, piem., 1,000.00, 1.00"
+
+msgid ""
+"Set output format for percent numbers. For example:<br />\n"
+"                                            10.00%<br />\n"
+"                                            10%"
+msgstr ""
+"Iestatiet izvades formātu procentiem. Piemēram: <br />\n"
+"                                            10,00% <br />\n"
+"                                            10%"
+
+msgid ""
+"Set output format for time and duration. For example:<br />\n"
+"                                             1) time<br />\n"
+"                                             HH:mm - 18:00<br />\n"
+"                                             hh:mm a - 9:00 pm<br /><br />\n"
+"                                             2) duration<br />\n"
+"                                             hh:mm - 36:40<br />\n"
+"                                             hh:mm:ss - 36:40:12"
+msgstr ""
+"Iestatiet izejas formātu par laiku un ilgumu. Piemēram: <br />\n"
+"                                             1) laiks <br />\n"
+"                                             HH:mm - 18:00 <br />\n"
+"                                             hh:mm - 9:00 <br /> <br />\n"
+"                                             2) ilgums <br />\n"
+"                                             hh:mm - 36:40 <br />\n"
+"                                             hh:mm:ss - 36:40:12"
+
+msgid "Set sort order by default"
+msgstr "Kārtot sec;ibu pēc noklusējuma"
+
+msgid ""
+"Set the numeric value from 0 to 100, for example 10 (equals to 10%). Leave "
+"this field empty to use default offset value."
+msgstr ""
+"Iestatiet ciparu vērtību no 0 līdz 100, piemēram, 10 (vienāds ar 10%). "
+"Atstājiet šo lauku tukšu, lai izmantotu noklusējuma kompensācijas vērtību."
+
+msgid ""
+"Set the value in px or %, for example, 200 (equals to 200px) or 80%. Leave "
+"this field empty to use default height value."
+msgstr ""
+"Iestatiet vērtību px vai %, piemēram, 200 (vienāda ar 200 px) vai 80%. "
+"Atstājiet šo lauku tukšā, lai izmantotu noklusējuma augstuma vērtību."
+
+msgid ""
+"Set the value in px or %, for example, 400 (equals to 400px) or 90%. Leave "
+"this field empty to use default width value."
+msgstr ""
+"Iestatiet vērtību px vai %, piemēram, 400 (vienāds ar 400 px) vai 90%. "
+"Atstājiet šo lauku tukšā, lai izmantotu noklusējuma platuma vērtību."
+
+msgid "Settings"
+msgstr "Iestatījumi"
+
+msgid "Short Number"
+msgstr "Īss numurs"
+
+msgid "Shortcode"
+msgstr "Īsais kods"
+
+msgid "Show Empty Table"
+msgstr "Rādīt tukšo tabulu"
+
+msgid "Show Only Search Results"
+msgstr "Rādīt tikai meklēšanas rezultātus"
+
+msgid "Show _MENU_ entries"
+msgstr "Atrādīt _MENU_ ierakstus"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Rāda 0 līdz 0 no 0 ierakstiem"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Atrādīt _START_ līdz _END_ no _TOTAL_ ierakstiem"
+
+msgid "Signature"
+msgstr "Paraksts"
+
+msgid "Signature Text"
+msgstr "Teksta paraksts"
+
+msgid "Slider Plugin"
+msgstr "\"Slider\" spraudnis"
+
+msgid "Slider by Supsystic"
+msgstr "\"Slider\" ar Supsystic"
+
+msgid "Small"
+msgstr "Mazs"
+
+msgid "Social Share Buttons"
+msgstr "Sociālās koplietošanas pogas"
+
+msgid ""
+"Social share buttons to increase social traffic and popularity. Social "
+"sharing to Facebook, Twitter and other social networks."
+msgstr ""
+"Sociālās koplietošanas pogas palielina sociālo satiksmi un popularitāti. "
+"Sociālā koplietošana Facebook, Twitter un citos sociālajos tīklos."
+
+msgid ""
+"Some errors occurred while sending mail please send your message trough this "
+"contact form:"
+msgstr "Sūtot e-pastu, radās kļūdas, lūdzu nosūtiet ziņu caur šo saziņas formu:"
+
+msgid "Sort order"
+msgstr "Šķirošanas secība"
+
+msgid "Sorting"
+msgstr "Šķirošana"
+
+msgid "Sorting Column"
+msgstr "Šķirot kolonna"
+
+msgid "Sorting Order"
+msgstr "Šķirošanas secība"
+
+msgid "Stacked Columns"
+msgstr "Stacked kolonnas"
+
+msgid "Standard Responsive mode"
+msgstr "Standarta reaģējošais režīms"
+
+msgid ""
+"Standard Responsive mode - in this mode if table content doesn't fit all "
+"columns become under each other with one cell per row"
+msgstr ""
+"Standarta reaģēšanas režīms - šajā režīmā, ja tabulu saturs neatbilst visām "
+"kolonnām, tas kļūst viens zem otra ar vienu šūnu katrā rindā"
+
+msgid "Step-by-step Tutorial"
+msgstr "Soli pa solim"
+
+msgid "Strict Matching"
+msgstr "\"Strict\" atbilstība"
+
+msgid "Subject"
+msgstr "Nosaukums"
+
+msgid "Support"
+msgstr "Atbalsts"
+
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will "
+"have no need to control it or send them manually. No coding, hard skills or "
+"long hours of customizing are required."
+msgstr ""
+"Supsystic Newsletter spraudnis automātiskai vēstules nosūtīšanai. Jums nebūs "
+"nepieciešams to kontrolēt vai nosūtīt tos manuāli. Nav nepieciešama kodēšana, "
+"prasmes vai ilgstošas ​​pielāgošanas stundas."
+
+msgid "Switch rows / columns"
+msgstr "Pārslēgt rindas / kolonnas"
+
+msgid "Table Elements"
+msgstr "Tabulas elementi"
+
+msgid "Table History"
+msgstr "Tabulas vēsture"
+
+msgid "Table Information"
+msgstr ""
+"Tabula informācija\n"
+"="
+
+msgid "Table Language"
+msgstr "Tabulas valoda"
+
+msgid "Table Loader Color"
+msgstr "\"Table Loader \" krāsa"
+
+msgid "Table Loader Icon"
+msgstr "\"Table Loader \" ikona"
+
+msgid "Table info text"
+msgstr "Tabulas informācijas teksts"
+
+msgid "Table information display field. %s"
+msgstr "Tabulas informācijas displeja lauks. %s"
+
+msgid "Table title"
+msgstr "Tabulas virsraksts"
+
+msgid "Table will not be hidden by default , but will be empty."
+msgstr "Tabula pēc noklusējuma netiks paslēpta, bet būs tukša."
+
+msgid "Tables"
+msgstr "Tabulas"
+
+msgid "Tabloid"
+msgstr "Tabloids"
+
+msgid "Text color"
+msgstr "Teksta krāsa"
+
+msgid "Text on Slice"
+msgstr "Teksts uz šķēles"
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Just click here to start using "
+"it - and we will show you it's possibilities and powerfull features."
+msgstr ""
+"Paldies, ka izvēlējāties mūsu Data Table spraudni. Vienkārši noklikšķiniet "
+"šeit, lai sāktu to lietot - un mēs jums parādīsim tās iespējas un spēcīgas "
+"funkcijas."
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Let’s make a quick tour "
+"through features and main options of the plugin. Just click “Next” button."
+msgstr ""
+"Paldies, ka izvēlējāties mūsu Data Tables spraudni. Padarēsim ātru ceļojumu, "
+"izmantojot spraudņa funkcijas un galvenās iespējas. Vienkārši noklikšķiniet "
+"uz pogas Tālāk."
+
+msgid ""
+"The Best WordPress PopUp option plugin to help you gain more subscribers, "
+"social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+"Labākās WordPress PopUp opcijas spraudnis, kas palīdzēs jums iegūt vairāk "
+"abonentu, sociālo sekotāju vai reklāmu. Atbildīgi uznirstošie logi ar "
+"draudzīgām iespējām."
+
+msgid ""
+"The most important part of settings - Editor. Here you can fill all the cells "
+"of your table, add some colors, play with fonts and sizes. This insert also "
+"allows you to change the alignment of your font, add formats (percents, "
+"currency), images and links to make your table more visual attraction."
+msgstr ""
+"Vissvarīgākā iestatījumu daļa - redaktors. Šeit jūs varat aizpildīt visas "
+"tabulas šūnas, pievienot dažas krāsas, spēlēties ar fontiem un to izmēriem. "
+"Šis ieliktnis ļauj arī mainīt fonta izlīdzināšanu, pievienot formātus "
+"(procentus, valūtu), attēlus un saites, lai padarītu tabulu par vizuāli "
+"pievilcīgu."
+
+msgid "The table ID %s not found."
+msgstr "Tabulas ID %s nav atrasts."
+
+msgid "The table with ID %d not exists."
+msgstr "Tabula ar ID %d neeksistē."
+
+msgid "There are not all shortcode's attributes specified. Usage example"
+msgstr "Nav norādīti visi īsie koda atribūti. Lietošanas piemērs"
+
+msgid ""
+"This label can not be translated using Table Language option. You can change "
+"this label typing the custom text or hide this label typing _NONE_ as label "
+"text."
+msgstr ""
+"Šo etiķeti nevar pārtulkot, izmantojot tabulas valodas opciju. Varat mainīt "
+"šo iezīmi, ierakstot pielāgoto tekstu vai paslēpjot šo marķējumu, ierakstot "
+"_NONE_ kā etiķetes tekstu."
+
+msgid ""
+"This mode allows you to separate the content into paragraphs. To move to a "
+"new line in the cell - please press CTRL + Enter."
+msgstr ""
+"Šis režīms ļauj sadalīt saturu paragrāfos. Lai pārvietotu uz jaunu līniju "
+"šūnu, lūdzu, nospiediet CTRL + Enter."
+
+msgid "Time / Duration"
+msgstr "Laiks / ilgums"
+
+msgid "Title"
+msgstr "Nosaukums"
+
+msgid "Topic"
+msgstr "Temats"
+
+msgid "Type"
+msgstr "Tips"
+
+msgid "Type Google Sheet url to import data from sheet to table"
+msgstr "Ierakstiet Google Sheet URL, lai importētu datus no lapas uz tabulu"
+
+msgid "Underline"
+msgstr "Pasvītrot"
+
+msgid "Undo"
+msgstr "Atsaukt"
+
+msgid "Unsupported export type: %s."
+msgstr "Neatbalstīts eksporta veids: %s."
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Use Comma as Delimiter"
+msgstr "Izmantojiet komatu kā atdalītāju"
+
+msgid "Use Custom Colors"
+msgstr "Izmantojiet pielāgotas krāsas"
+
+msgid "Use Editable Fields for Current Roles"
+msgstr "Izmantojiet rediģējamos laukus pašreizējām lomām"
+
+msgid "Use Export Font"
+msgstr "Izmantojiet eksporta fontu"
+
+msgid "Use Frontend Fields for Logged In Users Only"
+msgstr "Izmantot frontend laukus tikai reģistrētiem lietotājiem"
+
+msgid ""
+"Use comma as delimiter of integer and fractional parts of number for editable "
+"fields on frontend"
+msgstr ""
+"Izmantojiet komatu kā veselu skaitļu delimitatoru un daļēji rediģējamu numuru "
+"skaitu lauku priekšpusē"
+
+msgid "Use first column as labels"
+msgstr "Izmantojiet pirmo sleju kā etiķeti"
+
+msgid "Use first row as headers"
+msgstr "Izmantojiet pirmo rindu kā galveni"
+
+msgid "Vertical alignment"
+msgstr "Vertikālā izlīdzināšana"
+
+msgid "Video Tutorial"
+msgstr "Video apmācība"
+
+msgid ""
+"We are trying to make your using of our plugin maximum comfortable and easy. "
+"So we find it like the best way to tell you about some options and features "
+"of this plugin."
+msgstr ""
+"Mēs cenšamies padarīt mūsu spraudņa lietošanu maksimāli ērtu un vieglu. Tāpēc "
+"mēs uzskatām, ka tas ir labākais veids, kā pastāstīt par dažām šī spraudņa "
+"iespējām un priekšrocībām."
+
+msgid ""
+"We really like what we do and feel responsibility for our “child”. Constantly "
+"we are trying to change something or update the new features, but sometimes "
+"you may have a situation when you need help or have a problem. We can offer "
+"you two kinds of help: "
+msgstr ""
+"Mums patiešām patīk, ko mēs darām, un jūtam atbildību par mūsu \"bērnu\". Mēs "
+"pastāvīgi cenšamies mainīt kaut ko vai atjaunināt jaunās funkcijas, taču "
+"dažreiz jums var būt situācija, kad jums nepieciešama palīdzība, lai "
+"atrisinātu problēmu. Mēs varam piedāvāt divu veidu palīdzību:"
+
+msgid "Website"
+msgstr "Mājas lapa"
+
+msgid "Welcome to Data Tables plugin by Supsystic!"
+msgstr "Esiet sveicināts Supsystic Data Tables spraudņā datu tabulās!"
+
+msgid "Welcome to our plugin"
+msgstr "Laipni lūdzam mūsu spraudnī"
+
+msgid "Well done!"
+msgstr "Labi padarīts!"
+
+msgid ""
+"When you use frontend fields, <a href=\"%s\" target=\"_blank\">Table History</"
+"a> allows you (using History Shortcode) to display on frontend the own table "
+"version for each logged in user. On this tab you can display any user's table "
+"- just choose the user name from dropdown list."
+msgstr ""
+"Kad izmantojat frontend laukus, <a href=\"%s\" target=\"_blank\"> tabulu "
+"vēsture </a> , tas atļauj (izmantojot vēstures īskodu) un parāda tabulas "
+"versiju ik vienam ielogojušam lietotājam. Šajā tabulā jūs varat parādīt "
+"jebkuru lietotāja tabulu - vienkārši izvēlieties lietotājvārdu no nolaižamā "
+"saraksta."
+
+msgid "Width"
+msgstr "Platums"
+
+msgid ""
+"With these two buttons in our Pro version you can Import any table of csv "
+"format and Export the whole table, which you have done."
+msgstr ""
+"Izmantojot šīs divas pogas mūsu Pro versijā, jūs varat importēt jebkuru csv "
+"formāta tabulu un eksportēt visu tabulu, ko esat pabeidzis."
+
+msgid "Word wrapping"
+msgstr "Vārdu iesaiņošana (Word wrapping)"
+
+msgid "Yes"
+msgstr "Jā"
+
+msgid "You can change number of Columns and Rows later"
+msgstr "Jūs varat mainīt kolonnu skaitu un rindas vēlāk"
+
+msgid ""
+"You have no diagrams for now. Go to %s -> select the required data in the "
+"table and click on “Add diagram” button. Also please check the tutorial %s"
+msgstr ""
+"Patreiz jums nav diagrammu. Atveriet %s -> atlasiet vajadzīgos datu tabulā un "
+"noklikšķiniet uz pogas \"Pievienot diagrammu\". Lūdzu, arī pārbaudiet "
+"apmācības programmu %s"
+
+msgid ""
+"You need to enable ZipArchive extension in PHP config file on your server. "
+"Please, contact to your server administrator."
+msgstr ""
+"Jums ir jāiespējo ZipArchive paplašinājums uz sava servera iekšs PHP "
+"konfigurācijas faila. Lūdzu, sazinieties ar savu servera administratoru."
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr "Jūs nevarat atjaunināt savu pro versiju ar izbeigušos licences datumu"
+
+msgid "Your message successfully send. We contact you soon."
+msgstr "Jūsu ziņa ir veiksmīgi nosūtīta. Drīzumā mēs sazināsimies ar jums."
+
+msgid "Your premium support is expired in %s days"
+msgstr "Jūsu piemaksu atbalsts ir beidzies %s dienās"
+
+msgid "Your premium support is expired in ' ~ days ~ ' days"
+msgstr "Jūsu premium atbalsts beidzies pēc ' ~ dienas ~ '"
+
+msgid "Zero records"
+msgstr "Nulle ierakstu"
+
+msgid "by Supsystic!"
+msgstr "ar Supsystic!"
+
+msgid "default"
+msgstr "noklusējums"
+
+msgid "disable width"
+msgstr "atspējot platumu"
+
+msgid "how to create Diagrams with Data Table plugin"
+msgstr "kā izveidot diagrammas ar Data Table spraudni"
+
+msgid "value"
+msgstr "vērtība"

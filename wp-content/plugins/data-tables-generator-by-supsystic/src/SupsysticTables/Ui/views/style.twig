@@ -1,0 +1,13 @@
+{% spaceless %}
+    {%- if selectors | length -%}
+        <style type="text/css" media="all">
+            {%- for selector in selectors -%}
+                {{ selector.name }} {
+                    {%- for prop, value in selector.properties -%}
+                        {{- prop -}}: {{- value -}};
+                    {%- endfor -%}
+                }
+            {%- endfor -%}
+        </style>
+    {%- endif -%}
+{% endspaceless %}

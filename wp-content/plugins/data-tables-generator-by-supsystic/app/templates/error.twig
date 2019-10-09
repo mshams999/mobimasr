@@ -1,0 +1,38 @@
+{% extends 'layout.twig' %}
+
+{% block content %}
+    <div class="supsystic-item supsystic-item-autoheight">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h1>{{ environment.translate('An error has occurred') }}</h1>
+                    <h3>{{ exception.message }}</h3>
+                </div>
+                <!-- /.col-xs-12 -->
+            </div>
+            <!-- /.row -->
+            <div class="row">
+                <div class="col-xs-12" style="font-family: monospace; margin-top: 10px; background-color: #eee;">
+                    {% for trace in exception.getTrace() %}
+                        <div>
+                            <p>
+                                <strong>{{ trace.class | default('std') }}::{{ trace.function }}(</strong>{{ trace.args | json_encode | e }}<strong>)</strong>
+                            </p>
+                            <p style="font-size: .7em;">
+                            {% if trace.file %}
+                                @ {{ trace.file }}:{{ trace.line }}
+                            {% else %}
+                                No data
+                            {% endif %}
+                            </p>
+                        </div>
+                    {% endfor %}
+                </div>
+                <!-- /.col-xs-12 -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container-fluid -->
+    </div>
+    <!-- /.supsystic-item supsystic-item-autoheight -->
+{% endblock %}

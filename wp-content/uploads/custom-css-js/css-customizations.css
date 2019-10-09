@@ -1,0 +1,145 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+@import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+ { 
+	font-family: 'Cairo', sans-serif !important;
+}
+/* about us h2 modifications */
+ #content h2{
+	background-color:#0df598;
+  color:#291c5d;
+  margin:15px;
+  padding:15px;
+}
+
+@media only screen and (max-width:767px) {
+  #content h2{
+  	text-align:center;
+    background-color:none;
+    font-size:16px
+  }
+   /* modifications of the blog posts page */
+  .blog-entry.post{
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 10px;
+  }
+  .blog-entry.thumbnail-entry .blog-entry-inner{
+    flex-direction: row !important;
+  }
+  .blog-entry.thumbnail-entry .center .thumbnail, .blog-entry.thumbnail-entry .center .blog-entry-content{
+    border-radius: 20px !important; 
+    margin: 10px 10px 10px 20px; 
+    
+  }
+  .blog-entry.thumbnail-entry .thumbnail a{
+    border-radius: 20px;
+  }
+  .blog-entry.post .thumbnail img{
+    width: 100%;
+    border-radius: 20px;
+  }
+  .blog-entry.post .blog-entry-header{
+    margin-bottom: 10px;
+  }
+  .entry-content h3, .post-content h3, .page-content h3, #content h3{
+    font-family: "Cairo";
+    font-size: 14px;
+  }
+  .blog-entry.post .blog-entry-header .entry-title a{
+    font-weight: bold;
+    letter-spacing: 0px;
+    font-size: 14px !important;
+    line-height: 0px !important;
+  }
+  
+  
+  .blog-entry.thumbnail-entry .center .thumbnail{
+    width: 35%;
+  }
+  .blog-entry.thumbnail-entry .center .blog-entry-content {
+    width: 65%
+  }
+  .blog-entry.post .thumbnail .overlay{
+    border-radius: 20px;
+  }
+}
+
+/* modifications for the blog entries large pc page */
+.blog-entry.thumbnail-entry{
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 20px;
+}
+.blog-entry.thumbnail-entry .thumbnail{
+  border-radius: 20px;
+  width: 26%;
+}
+.blog-entry.thumbnail-entry .left-position .blog-entry-content{
+  width: 74%;
+}
+.blog-entry.post .thumbnail a{
+  border-radius: 20px
+}
+.blog-entry.post .thumbnail img{
+  border-radius: 20px
+}
+.blog-entry.post .thumbnail .overlay{
+  border-radius: 20px
+}
+.blog-entry.thumbnail-entry .left-position .blog-entry-content{
+  padding-right: 1.5em;
+    padding-left: 0;
+}
+.blog-entry.post .blog-entry-header {
+  margin-bottom: 10px;
+}
+.entry-content h3, .post-content h3, .page-content h3, #content h3{
+  font-size: 1.4em;
+  letter-spacing: 0;
+}
+.blog-entry.post .blog-entry-header .entry-title a{
+  letter-spacing: 0;
+}
+.blog-entry.thumbnail-entry .blog-entry-summary{
+  margin-bottom: 5px
+}
+
+
+#scroll-top{
+	background-position: center;
+  transition: background 0.8s;
+}
+
+#scroll-top:hover{
+	background: #163159 radial-gradient(circle, transparent 1%, #49f19b 1%) center/15000%;
+}
+#scroll-top:active {
+  background-color: #49f19b;
+  background-size: 100%;
+  transition: background 0s;
+}
+
+
+
+
+
+
+
+
+
+
+</style>
+<!-- end Simple Custom CSS and JS -->

@@ -1,0 +1,48 @@
+.dataTables_filter {
+	float: left !important;
+}
+.dt_rigth {
+	float: right !important;
+	text-align: right !important;
+}
+.dataTables_paginate {
+	float: right !important;
+	text-align: left !important;
+	width: 40%;
+}
+.dataTables_info {
+	padding: 0.4em !important;
+}
+.current {
+	font-weight: 700;
+}
+.paginate_links {
+	box-sizing: border-box;
+	display: inline-block;
+	min-width: 1em;
+	padding: 0.5em;
+	margin-left: 2px;
+	text-align: center;
+	text-decoration: none !important;
+	cursor: pointer;
+	color: #333 !important;
+	border: 1px solid transparent;
+	border-radius: 2px;
+}
+.dataTables_scrollBody {
+	border: 0 !important;
+}
+.sorting_disabled {
+	font-family: Verdana,Arial,sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+}
+.dt-center {
+	text-align: center;
+}
+td.dt-right {
+	text-align: right;
+}
+.group_button {
+	margin: 8px !important;
+}

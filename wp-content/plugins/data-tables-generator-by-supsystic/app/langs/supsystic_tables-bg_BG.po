@@ -1,0 +1,773 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Supsystic Table\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "An error has occurred"
+msgstr "Възникна грешка"
+
+msgid "Overview"
+msgstr "Преглед"
+
+msgid "Add new table"
+msgstr "Добави нова таблица"
+
+msgid "Tables"
+msgstr "Таблици"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "License"
+msgstr "Лиценз"
+
+msgid "Table title"
+msgstr "Заглавие на таблицата"
+
+msgid "Columns"
+msgstr "Колони"
+
+msgid "Rows"
+msgstr "Редове"
+
+msgid "You can change number of Columns and Rows later"
+msgstr ""
+
+msgid "Invalid range specified."
+msgstr "Посочен е невалиден диапазон."
+
+msgid "Failed to find diagram %s."
+msgstr "Грешка при намирането на диаграма %s."
+
+msgid "Failed to find table %s."
+msgstr "Грешка при намирането на таблица %s."
+
+msgid "Add diagram"
+msgstr "Добави Диаграма"
+
+msgid "The table ID %s not found."
+msgstr "Таблица %s не беше намерена."
+
+msgid "Frontend Export"
+msgstr ""
+
+msgid "Allow export table to pdf, csv, xls on frontend"
+msgstr ""
+
+msgid "Export Logo"
+msgstr ""
+
+msgid "Automticaly appends selected logo for output pdf or printing"
+msgstr ""
+
+msgid "Logo Position"
+msgstr ""
+
+msgid "Above table"
+msgstr ""
+
+msgid "Below table"
+msgstr ""
+
+msgid "Logo Alignment"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Export Data to the File"
+msgstr "Експорт на таблица"
+
+msgid "Select file type to export table"
+msgstr "Изберете типа на файла за експорт на таблицата"
+
+msgid "Import error"
+msgstr "Грешка при импортиране"
+
+msgid "Failed to import selected file"
+msgstr "Не може да се импортира избрания файл"
+
+msgid "Import Data to the Table"
+msgstr "Импортиране в таблицата"
+
+msgid "File Type"
+msgstr "Тип разширение на файла"
+
+msgid "Import Settings"
+msgstr "Настройки на импортиране"
+
+msgid "Delimiter"
+msgstr "Разделител"
+
+msgid "Google Spreadsheet Url"
+msgstr "Google Spreadsheet Url"
+
+msgid "Failed to import data from the uploaded file"
+msgstr "Неуспешно импортиране на данни от качения файл"
+
+msgid "Failed to upload selected file"
+msgstr "Неуспешно качване на избрания файл"
+
+msgid "Activate License"
+msgstr "Активирай Лиценз"
+
+msgid "Renew License"
+msgstr "Подновяване на Лиценз"
+
+msgid "Slider by Supsystic"
+msgstr "Slider by Supsystic"
+
+msgid ""
+"Congratulations! You have successfully installed and activated PRO version "
+"of %s plugin."
+msgstr ""
+"Поздравления! Вие успешно инсталирахте и активирахте PRO версията на %s "
+"плъгин."
+
+msgid "Your premium support is expired in %s days"
+msgstr "Платената поддръжка ще изтече след %s дена"
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr "Вие няма да можете да обновите своята PRO версия с изтекъл лиценз"
+
+msgid "Activate"
+msgstr "Активирай"
+
+msgid "Save"
+msgstr "Запази"
+
+msgid "Add editable field"
+msgstr ""
+
+msgid "Save as"
+msgstr "Запази като"
+
+msgid "Diagrams"
+msgstr "Диаграми"
+
+msgid "Get PRO"
+msgstr "Вземи PRO"
+
+msgid "Your message successfully send. We contact you soon."
+msgstr ""
+
+msgid "Undefined"
+msgstr ""
+
+msgid "Step-by-step Tutorial"
+msgstr ""
+
+msgid "Begin Step-by-step Tutorial"
+msgstr ""
+
+msgid "Name"
+msgstr "Име"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Subject"
+msgstr "Тема"
+
+msgid "Topic"
+msgstr "Тема"
+
+msgid "Plugin options"
+msgstr "Опции на плъгина"
+
+msgid "Report a bug"
+msgstr "Докладване за бъг"
+
+msgid "Require a new functionallity"
+msgstr "Изискване на нова функционалност"
+
+msgid "Other"
+msgstr "Други"
+
+msgid "Message"
+msgstr "Съобщение"
+
+msgid "Hello Supsystic Team!"
+msgstr "Hello Supsystic Team!"
+
+msgid ""
+"Some errors occurred while sending mail please send your message trough this "
+"contact form:"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Close Tutorial"
+msgstr ""
+
+msgid "Welcome to Data Tables plugin by Supsystic!"
+msgstr ""
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Just click here to start "
+"using it - and we will show you it's possibilities and powerfull features."
+msgstr ""
+
+msgid "Hello! This is the Data Tables by Supsystic"
+msgstr ""
+
+msgid ""
+"Thank you for choosing our Data Tables plugin. Let’s make a quick tour "
+"through features and main options of the plugin. Just click “Next” button."
+msgstr ""
+
+msgid "Create your first table"
+msgstr ""
+
+msgid ""
+"Click on the button “Add new table” and see the first form, which you need "
+"to fill in. A very simple step!"
+msgstr ""
+
+msgid "Enter the name and create Data Table"
+msgstr ""
+
+msgid ""
+"Fill the table title and choose the number of columns and rows. Don’t worry, "
+"you will be able to change it (add or delete some) later!"
+msgstr ""
+
+msgid ""
+"Main Settings of your first table. Here you can see main settings which are "
+"conected with languages, table elements, styling and other different editors "
+"settings. Generally it’s a tab where you can edit the visual part of the "
+"whole table, switch on/off the responsive mode, set pagination etc."
+msgstr ""
+
+msgid "Editor"
+msgstr "Редактор"
+
+msgid ""
+"The most important part of settings - Editor. Here you can fill all the "
+"cells of your table, add some colors, play with fonts and sizes. This insert "
+"also allows you to change the alignment of your font, add formats (percents, "
+"currency), images and links to make your table more visual attraction."
+msgstr ""
+
+msgid "Preview"
+msgstr "Преглед"
+
+msgid ""
+"Preview insert for your comfort. Before updating the table on your page - "
+"you can see the result of your efforts and changes, look at it and enjoy the "
+"final outcome."
+msgstr ""
+
+msgid "CSS Editor"
+msgstr ""
+
+msgid ""
+"In case you have special or at least, basic knowledge of CSS code - you can "
+"easily change the table here. Just make sure that you know, what you are "
+"doing and you will not destroy the table."
+msgstr ""
+
+msgid ""
+"Diagrams - this is a Pro feature of our plugin, which can help you to follow "
+"the statistics of your table. Several types for every taste and any wishes."
+msgstr ""
+
+msgid "Import/Export"
+msgstr ""
+
+msgid ""
+"With these two buttons in our Pro version you can Import any table of csv "
+"format and Export the whole table, which you have done."
+msgstr ""
+
+msgid "Well done!"
+msgstr ""
+
+msgid ""
+"<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - "
+"you’ll have to enter license key (you can find it in your personal account "
+"on our site). Go to the License tab and enter your email and license key. "
+"Once you have activated your PRO license - you can use all its advanced "
+"options. <br><br>That’s all. From this moment you can use your Data Table "
+"without any doubt. But if you still have some question - do not hesitate to "
+"contact us through our <a href=\"https://supsystic.com/contact-us/"
+"\">internal support</a> or on our <a href=\"http://supsystic.com/forum/"
+"datatable-plugin/\">Supsystic Forum.</a> Besides you can always describe "
+"your questions on <a href=\"https://wordpress.org/support/plugin/data-tables-"
+"generator-by-supsystic\">WordPress Ultimate Forum.</a> <br><br><b>Enjoy this "
+"plugin?</b> <br>It will be nice if you`ll help us and boost plugin with <a "
+"href=\"https://wordpress.org/support/view/plugin-reviews/data-tables-"
+"generator-by-supsystic?rate=5#postform/\">Five Stars rating on WordPress.org."
+"</a> <br><br>We hope that you like our Data Table plugin and wish you all "
+"the best! Good luck!"
+msgstr ""
+
+msgid "Welcome to our plugin"
+msgstr ""
+
+msgid "by Supsystic!"
+msgstr ""
+
+msgid ""
+"We are trying to make your using of our plugin maximum comfortable and easy. "
+"So we find it like the best way to tell you about some options and features "
+"of this plugin."
+msgstr ""
+
+msgid "A small guide for the first-time user"
+msgstr ""
+
+msgid ""
+"Actually, Data Table plugin is very simple and has a lot of different "
+"options at the same time. That’s why when you close this article I will show "
+"you the main of them, but the very detailed one you can find on our site. I "
+"hope that you will have no questions after even this small guide. For the "
+"first time we will help you to install and create your first table, but if "
+"you need help - contact us through the internal support"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid ""
+"We really like what we do and feel responsibility for our “child”. "
+"Constantly we are trying to change something or update the new features, but "
+"sometimes you may have a situation when you need help or have a problem. We "
+"can offer you two kinds of help: "
+msgstr ""
+
+msgid ""
+"<a href=\"//supsystic.com/forum/datatable-plugin/\" target=\"_blank\"> "
+"Contact us </a> through the Forum on our site - if you have some question, "
+"offer or wish."
+msgstr ""
+
+msgid ""
+"If, unfortunately, you have some problem - we are ready to help you in our "
+"<a href=\"//supsystic.com/contact-us/\" target=\"_blank\">internal support.</"
+"a>"
+msgstr ""
+
+msgid "Feel free to contact us and don’t worry, everything gonna be ok!"
+msgstr ""
+
+msgid "Video Tutorial"
+msgstr ""
+
+msgid "Frequently Asked Questions"
+msgstr ""
+
+msgid "Make data table responsive"
+msgstr ""
+
+msgid ""
+"I need to have line breaks/spaces between the paragraphs within the cells."
+msgstr ""
+
+msgid "How to use formulas in the table?"
+msgstr ""
+
+msgid "Go to Editor of Data Table."
+msgstr ""
+
+msgid ""
+"Select a cell and start typing. In a cell, type an equal sign “=” to start "
+"the formula."
+msgstr ""
+
+msgid "Fill in the rest of the formula."
+msgstr ""
+
+msgid "Save the changes of table."
+msgstr ""
+
+msgid "Check the result of formula in the table on your site."
+msgstr ""
+
+msgid ""
+"Learn more about how to do this <a href=\"//supsystic.com/how-to-use-tables/"
+"\" target=\"_blank\">here</a>."
+msgstr ""
+
+msgid "Check all other FAQs"
+msgstr ""
+
+msgid "PRO option"
+msgstr "PRO опция"
+
+msgid "Can't decode table rows from JSON."
+msgstr "Не могат да се декодират табличните редове от JSON."
+
+msgid "Can't decode table meta from JSON."
+msgstr "Не могат да се декодират табличните данни от JSON."
+
+msgid "Failed to save table meta data: %s"
+msgstr "Не може да се запазят метаданните на таблицата: %s"
+
+msgid "The table with ID %d not exists."
+msgstr "Таблица %d не съществува."
+
+msgid "Add table"
+msgstr "Добави таблица"
+
+msgid "Title"
+msgstr "Заглавие"
+
+msgid "Created"
+msgstr "Създаден"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "Edit table \"%s\""
+msgstr "Редактирай таблица \"%s\""
+
+msgid "Click to rename the table and hit [Enter]"
+msgstr "Кликнете, за да преименувате таблицата и натиснете [Enter]"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "Delete"
+msgstr "Изтрий"
+
+msgid "Clone Table"
+msgstr "Дубликат"
+
+msgid "Export available only in PRO version."
+msgstr "Експорта е достъпен само в PRO версията."
+
+msgid "Export"
+msgstr "Експорт"
+
+msgid "Import available only in PRO version."
+msgstr "Импорта е достъпен само в PRO версията."
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Loading your table, please wait..."
+msgstr "Зареждане на таблицата, моля изчакайте ..."
+
+msgid "Bold"
+msgstr "Одебелен"
+
+msgid "Italic"
+msgstr "Италик"
+
+msgid "Text color"
+msgstr "Цвят на текста"
+
+msgid "Background color"
+msgstr "Цвят на фона"
+
+msgid "Alignment"
+msgstr "Подравняване"
+
+msgid "Vertical alignment"
+msgstr "Вертикално подравняване"
+
+msgid "Word wrapping"
+msgstr "Форматиране на думите"
+
+msgid "Create a link"
+msgstr "Създай линк"
+
+msgid "Insert picture"
+msgstr "Вмъкни изображение"
+
+msgid "Comment"
+msgstr "Коментар"
+
+msgid "Formats"
+msgstr ""
+
+msgid "Table Elements"
+msgstr "Таблични елементи"
+
+msgid "Caption"
+msgstr "Надпис"
+
+msgid "Header"
+msgstr "Header"
+
+msgid "Footer"
+msgstr "Footer"
+
+msgid "Auto Index"
+msgstr "Auto индекс"
+
+msgid "Language"
+msgstr "Език"
+
+msgid "Select language"
+msgstr "Избери език"
+
+msgid "Overwrite Table Text"
+msgstr "Презаписване текст в таблицата"
+
+msgid "No data available in table"
+msgstr ""
+
+msgid "Empty table"
+msgstr ""
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+msgid "Table info text"
+msgstr ""
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+msgid "Empty info text"
+msgstr ""
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+msgid "Filtered info text"
+msgstr ""
+
+msgid "Show _MENU_ entries"
+msgstr ""
+
+msgid "Length text"
+msgstr ""
+
+msgid "Search:"
+msgstr ""
+
+msgid "Search label"
+msgstr ""
+
+msgid "No matching records are found"
+msgstr ""
+
+msgid "Zero records"
+msgstr ""
+
+msgid "Features"
+msgstr "Характеристика"
+
+msgid "Auto Width"
+msgstr "Auto широчина"
+
+msgid "Sorting"
+msgstr "Сортиране"
+
+msgid "Sorting Order"
+msgstr "Ред на Сортиране"
+
+msgid "Ascending"
+msgstr "Възходящ"
+
+msgid "Descending"
+msgstr "Низходящ"
+
+msgid "Sorting Column"
+msgstr "Колона на Сортиране"
+
+msgid "Number of column to apply sort order."
+msgstr "Брой на колоните, на които се прилага сортиране."
+
+msgid "Pagination"
+msgstr "Номериране на страници"
+
+msgid "Pagination menu length"
+msgstr "Дължина на менюто на страниците"
+
+msgid "Searching"
+msgstr "Търсене"
+
+msgid "Table Information"
+msgstr "Инфо"
+
+msgid "Table information display field. %s"
+msgstr "Поле за информация относно таблицата. %s"
+
+msgid "Disallow Indexing"
+msgstr "Забрана за индексиране"
+
+msgid "Disable indexing table for search bots"
+msgstr "Изключване на индексирането на таблицата за търсещите ботове."
+
+msgid "Data Formats"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Set output format for currencies e.g ($ 1,000.00, € 1.00)"
+msgstr ""
+
+msgid "Percent"
+msgstr ""
+
+msgid "Set output format for percent numbers e.g (0.00%, 1%)"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid ""
+"Cell - adds border around all four sides of each cell, Row - adds border "
+"only over and under each row (i.e. only for the rows)."
+msgstr "Клетка - поставя рамка от четирите страни на всяка клетка, Ред - добавя "
+"рамка под и над реда (i.e. само за редове)."
+
+msgid "Set output format for date e.g (YYYY-MM-DD, MM.DD.YYYY)"
+msgstr ""
+
+msgid "Styling"
+msgstr "Стил"
+
+msgid "Borders"
+msgstr "Рамки"
+
+msgid "Cell"
+msgstr "Клетка"
+
+msgid "Row"
+msgstr "Ред"
+
+msgid "Compact Table"
+msgstr "Компактна"
+
+msgid "Reduce the amount of white-space."
+msgstr "Намаляване на размера на празното пространство."
+
+msgid "Highlighting by Mouseover"
+msgstr "Отбелязване"
+
+msgid "Row highlighting on mouse over."
+msgstr "Подчертаване на реда при поставяне на мишката върху него."
+
+msgid "Disable Wrapping"
+msgstr "Деактивиране на форматиране"
+
+msgid ""
+"Disable wrapping of content in the table, so all text in the cells is on a "
+"single line."
+msgstr ""
+"Деактивиране групирането на съдържание в таблицата, така че целия текст в "
+"клетките да е на един ред."
+
+msgid "Highlight the Order Column"
+msgstr "Маркирайте сортирането на колоната"
+
+msgid "Row Striping"
+msgstr "Поставяне на ивици на реда"
+
+msgid "Responsive Mode"
+msgstr ""
+
+msgid ""
+"Standard Responsive mode - in this mode if table content doesn't fit all "
+"columns become under each other with one cell per row"
+msgstr ""
+
+msgid ""
+"Automatic column hiding - in this mode table columns will collapse from "
+"right to left if content does not fit to parent container width"
+msgstr ""
+
+msgid ""
+"Horizontal scroll - in this mode scroll bar will be added if table overflows "
+"parent container width"
+msgstr ""
+
+msgid "Disable Responsivity - default table fluid layout"
+msgstr ""
+
+msgid "Standard Responsive mode"
+msgstr ""
+
+msgid "Automatic column hiding"
+msgstr ""
+
+msgid "Horizontal scroll"
+msgstr ""
+
+msgid "Disable Responsivity"
+msgstr ""
+
+msgid "Paragraph Mode"
+msgstr ""
+
+msgid ""
+"This mode allows you to separate the content into paragraphs. To move to a "
+"new line in the cell - please press CTRL + Enter."
+msgstr ""
+
+msgid ""
+"Note that the table may look a little different depending on your theme "
+"style."
+msgstr ""
+"Имайте предвид, че таблицата може да бъде леко различна според стила, който "
+"има темата."
+
+msgid "Get PRO version"
+msgstr "Вземи PRO версия"
+
+msgid "Editable fields"
+msgstr ""
+
+msgid "PRO version"
+msgstr ""
+
+msgid ""
+"Please be advised that this option is available only in %s. You can %s today "
+"and get this and other PRO option for your tables!"
+msgstr ""
+
+msgid "Insert url"
+msgstr ""
+
+msgid "Link Text"
+msgstr ""
+
+msgid "Open link in a new tab"
+msgstr ""
+
+#~ msgid "Choose file to import:"
+#~ msgstr "Избери файл за импортиране:"
+
+#~ msgid "All tables"
+#~ msgstr "Всички таблици"
+
+#~ msgid "Ordering"
+#~ msgstr "Сортиране"
+
+#~ msgid ""
+#~ "Note that the table may be minor changes to the style that has your theme."
+#~ msgstr ""
+#~ "Имайте предвид, че таблицата може да бъде леко различна според стила, "
+#~ "който има темата."

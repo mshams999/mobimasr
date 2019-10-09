@@ -1,0 +1,203 @@
+<p class="devintro" style="text-align: center;">
+    This documentation will help experienced developers to plug any other service with our plugin. Here are all actions and filters for this plugin, if you need some more, feel free to ask by using this for     <strong>         <a data-link-type="custom" href="https://www.joomunited.com/support/pre-sales-forum/ask-for-hooks-and-filters-developers" target="_blank" title="">dedicated forum.</a> </strong>Thanks for using our plugin!
+</p>
+
+
+                <div class="hook action">
+                    <h2 class="hook_name">
+                        <span class="hook_type action"></span>
+                        wplp_save_widget
+                    </h2>
+                    <p  class="hook_description">Action after WP Latest Posts saves settings to database.</p>
+                    <div class="hook_params">
+                        <p class="hook_params_title">Parameters :</p>
+                        <p class="hook_params_content"><span class="hook_param_type">integer</span> <span class="hook_param_comment">widget ID</span><br/></p></div>
+                     <div class="hook_return">
+                        <p class="hook_return_title">Return :</p>
+                        <p class="hook_return_content">void</p>
+                    </div>
+                    <div class="hook_files">
+                        <p class="hook_files_title">In files : </p>
+                        <p class="hook_files_content"><span> line 160</span><br/></p>
+                    </div>
+                </div>
+                <div class="hook filter">
+                    <h2 class="hook_name">
+                        <span class="hook_type filter"></span>
+                        wplp_box_layout_position
+                    </h2>
+                    <p  class="hook_description">Post fields to display on each part of the layout<br/>You can add / remove post fields on any layout part (top, right, bottom, left)</p>
+                    <div class="hook_params">
+                        <p class="hook_params_title">Parameters :</p>
+                        <p class="hook_params_content"><span class="hook_param_type">array</span> <span class="hook_param_comment">Default items</span><br/><span class="hook_param_type">string</span> <span class="hook_param_comment">Box position</span><br/><span class="hook_param_type">integer</span> <span class="hook_param_comment">Widget ID</span><br/><span class="hook_param_type">string</span> <span class="hook_param_comment">Theme name</span><br/></p></div>
+                     <div class="hook_return">
+                        <p class="hook_return_title">Return :</p>
+                        <p class="hook_return_content">array</p>
+                    </div>
+                    <div class="hook_files">
+                        <p class="hook_files_title">In files : </p>
+                        <p class="hook_files_content"><span> line 159</span><br/><span> line 184</span><br/><span> line 213</span><br/><span> line 227</span><br/><span> line 293</span><br/><span> line 307</span><br/></p>
+                    </div>
+                </div>
+                <div class="hook filter">
+                    <h2 class="hook_name">
+                        <span class="hook_type filter"></span>
+                        wplp_change_thumbnail_link
+                    </h2>
+                    <p  class="hook_description"> Filter post thumbnail link for front-end display</p>
+                    <div class="hook_params">
+                        <p class="hook_params_title">Parameters :</p>
+                        <p class="hook_params_content"><span class="hook_param_type">string</span> <span class="hook_param_comment">Thumbnail url</span><br/><span class="hook_param_type">integer</span> <span class="hook_param_comment">Post ID</span><br/><span class="hook_param_type">string</span> <span class="hook_param_comment">Image size</span><br/></p></div>
+                     <div class="hook_return">
+                        <p class="hook_return_title">Return :</p>
+                        <p class="hook_return_content">string</p>
+                    </div>
+                    <div class="hook_files">
+                        <p class="hook_files_title">In files : </p>
+                        <p class="hook_files_content"><span> line 2485</span><br/></p>
+                    </div>
+                </div>
+                <div class="hook filter">
+                    <h2 class="hook_name">
+                        <span class="hook_type filter"></span>
+                        wplp_front_author_field
+                    </h2>
+                    <p  class="hook_description"> Filter author name for front-end display.</p>
+                    <div class="hook_params">
+                        <p class="hook_params_title">Parameters :</p>
+                        <p class="hook_params_content"><span class="hook_param_type">string</span> <span class="hook_param_comment">Author field</span><br/></p></div>
+                     <div class="hook_return">
+                        <p class="hook_return_title">Return :</p>
+                        <p class="hook_return_content">string</p>
+                    </div>
+                    <div class="hook_files">
+                        <p class="hook_files_title">In files : </p>
+                        <p class="hook_files_content"><span> line 2808</span><br/></p>
+                    </div>
+                </div>
+                <div class="hook filter">
+                    <h2 class="hook_name">
+                        <span class="hook_type filter"></span>
+                        wplp_front_category_field
+                    </h2>
+                    <p  class="hook_description"> Filter category name for front-end display.</p>
+                    <div class="hook_params">
+                        <p class="hook_params_title">Parameters :</p>
+                        <p class="hook_params_content"><span class="hook_param_type">string</span> <span class="hook_param_comment">Category name</span><br/></p></div>
+                     <div class="hook_return">
+                        <p class="hook_return_title">Return :</p>
+                        <p class="hook_return_content">string</p>
+                    </div>
+                    <div class="hook_files">
+                        <p class="hook_files_title">In files : </p>
+                        <p class="hook_files_content"><span> line 2780</span><br/></p>
+                    </div>
+                </div>
+                <div class="hook filter">
+                    <h2 class="hook_name">
+                        <span class="hook_type filter"></span>
+                        wplp_front_date_field
+                    </h2>
+                    <p  class="hook_description"> Filter date for front-end display</p>
+                    <div class="hook_params">
+                        <p class="hook_params_title">Parameters :</p>
+                        <p class="hook_params_content"><span class="hook_param_type">string</span> <span class="hook_param_comment">Date</span><br/></p></div>
+                     <div class="hook_return">
+                        <p class="hook_return_title">Return :</p>
+                        <p class="hook_return_content">string</p>
+                    </div>
+                    <div class="hook_files">
+                        <p class="hook_files_title">In files : </p>
+                        <p class="hook_files_content"><span> line 2834</span><br/></p>
+                    </div>
+                </div>
+                <div class="hook filter">
+                    <h2 class="hook_name">
+                        <span class="hook_type filter"></span>
+                        wplp_front_image_field
+                    </h2>
+                    <p  class="hook_description"> Filter image displayed for front-end display</p>
+                    <div class="hook_params">
+                        <p class="hook_params_title">Parameters :</p>
+                        <p class="hook_params_content"><span class="hook_param_type">string</span> <span class="hook_param_comment">Image</span><br/><span class="hook_param_type">array</span> <span class="hook_param_comment">Latest posts settings</span><br/></p></div>
+                     <div class="hook_return">
+                        <p class="hook_return_title">Return :</p>
+                        <p class="hook_return_content">string</p>
+                    </div>
+                    <div class="hook_files">
+                        <p class="hook_files_title">In files : </p>
+                        <p class="hook_files_content"><span> line 2124</span><br/><span> line 2630</span><br/></p>
+                    </div>
+                </div>
+                <div class="hook filter">
+                    <h2 class="hook_name">
+                        <span class="hook_type filter"></span>
+                        wplp_front_readmore_field
+                    </h2>
+                    <p  class="hook_description"> Filter readmore link for front-end display.</p>
+                    <div class="hook_params">
+                        <p class="hook_params_title">Parameters :</p>
+                        <p class="hook_params_content"><span class="hook_param_type">string</span> <span class="hook_param_comment">Readmore link</span><br/></p></div>
+                     <div class="hook_return">
+                        <p class="hook_return_title">Return :</p>
+                        <p class="hook_return_content">string</p>
+                    </div>
+                    <div class="hook_files">
+                        <p class="hook_files_title">In files : </p>
+                        <p class="hook_files_content"><span> line 2652</span><br/></p>
+                    </div>
+                </div>
+                <div class="hook filter">
+                    <h2 class="hook_name">
+                        <span class="hook_type filter"></span>
+                        wplp_front_text_field
+                    </h2>
+                    <p  class="hook_description"> Filter main text for front-end display</p>
+                    <div class="hook_params">
+                        <p class="hook_params_title">Parameters :</p>
+                        <p class="hook_params_content"><span class="hook_param_type">string</span> <span class="hook_param_comment">Post text</span><br/></p></div>
+                     <div class="hook_return">
+                        <p class="hook_return_title">Return :</p>
+                        <p class="hook_return_content">string</p>
+                    </div>
+                    <div class="hook_files">
+                        <p class="hook_files_title">In files : </p>
+                        <p class="hook_files_content"><span> line 2039</span><br/></p>
+                    </div>
+                </div>
+                <div class="hook filter">
+                    <h2 class="hook_name">
+                        <span class="hook_type filter"></span>
+                        wplp_front_title_field
+                    </h2>
+                    <p  class="hook_description"> Filter title for front-end display</p>
+                    <div class="hook_params">
+                        <p class="hook_params_title">Parameters :</p>
+                        <p class="hook_params_content"><span class="hook_param_type">string</span> <span class="hook_param_comment">Title</span><br/></p></div>
+                     <div class="hook_return">
+                        <p class="hook_return_title">Return :</p>
+                        <p class="hook_return_content">string</p>
+                    </div>
+                    <div class="hook_files">
+                        <p class="hook_files_title">In files : </p>
+                        <p class="hook_files_content"><span> line 1954</span><br/></p>
+                    </div>
+                </div>
+                <div class="hook filter">
+                    <h2 class="hook_name">
+                        <span class="hook_type filter"></span>
+                        wplp_src_category_args
+                    </h2>
+                    <p  class="hook_description">Filter list argument to get posts.</p>
+                    <div class="hook_params">
+                        <p class="hook_params_title">Parameters :</p>
+                        <p class="hook_params_content"><span class="hook_param_type">array</span> <span class="hook_param_comment">List argument</span><br/><span class="hook_param_type">array</span> <span class="hook_param_comment">List settings</span><br/></p></div>
+                     <div class="hook_return">
+                        <p class="hook_return_title">Return :</p>
+                        <p class="hook_return_content">array</p>
+                    </div>
+                    <div class="hook_files">
+                        <p class="hook_files_title">In files : </p>
+                        <p class="hook_files_content"><span> line 490</span><br/><span> line 524</span><br/><span> line 555</span><br/><span> line 591</span><br/><span> line 651</span><br/><span> line 736</span><br/></p>
+                    </div>
+                </div>

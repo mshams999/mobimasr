@@ -1,0 +1,227 @@
+{% extends 'layout.twig' %}
+
+{% block content %}
+    <div class="supsystic-overview">
+        <div class="half-page half-page-left">
+            <div class="tutorial">
+                <h3>{{ translate('Step-by-step Tutorial') }}</h3>
+                <a href="{{ environment.generateUrl('promo', 'showTutorial') }}" class="button button-primary button-hero">
+                    <i class="fa fa-info-circle"></i>
+                    {{ translate('Begin Step-by-step Tutorial') }}
+                </a>
+                <div class="clear"></div>
+            </div>
+            <div class="faq-list">
+                <h3>FAQ and Documentation</h3>
+                <div class="faq-title">
+                    <i class="fa fa-info-circle"></i>
+                    Data Tables Plugin Installation
+                    <div class="description" hidden>
+                        One more advantage of Data Tables WordPress Plugin is an easy installation. To install it, you should make three following steps:
+                        1. Download Data Tables Generator by Supsystic plugin.<br/>
+                        2. Upload to your WordPress plugins directory. <br/>
+                        3. Activate and enjoy.
+                    </div>
+                </div>
+                <div class="faq-title">
+                    <i class="fa fa-info-circle"></i>
+                    How to use Data Tables Generator plugin?
+                    <div class="description" hidden>
+                        <strong>Step 1: Creating Responsive Data Table</strong><br/>
+                        1. On the left navigation menu click “Add new table”.
+                        <br/>
+                        2. Enter the title of table, set the number of Rows and Columns.
+                        <br/>
+                        3. Click “OK”. <br/>
+                        <strong>Step 2: Adding data to the Tables by Supsystic</strong>
+                        <br/>
+                        More detail information you can find here –
+                        <a href="http://supsystic.com/how-to-create-data-tables-in-wordpress/">How to Create Data Tables in WordPress</a>
+                    </div>
+                </div>
+                <div class="faq-title">
+                    <i class="fa fa-info-circle"></i>
+                    How to make table responsive?
+                    <div class="description" hidden>
+                        Data Tables Generator by Supsystic automatically creates responsive tables. So you don’t need to activate for this any options, it will be responsive by default. <br>Besides on Settings tab you can find “Responsive mode” option with which you are able to choose different responsive modes for your table (Standard Responsive mode, Automatic column hiding, Horizontal scroll or simply disable it).
+                    </div>
+                </div>
+
+                <div class="faq-title">
+                    <i class="fa fa-info-circle"></i>
+                    How to search by the table?
+                    <div class="description" hidden>
+                        1. In the Settings of a table go to “Features” section.
+                        <br/>
+                        2. Find “Searching” option and activate it. <br/>
+                        3. Over the table will appear the search field.
+                    </div>
+                </div>
+
+                <div class="faq-title">
+                    <i class="fa fa-info-circle"></i>
+                    How to sort the table?
+                    <div class="description" hidden>
+                        With Data Tables by Supsystic you can alter the ordering characteristics of the table. Using ordering (sorting) option, you can set the table to display the data in exactly the order that you want.
+                        <br/>
+                        1. In the Settings of a table go to “Features” section.
+                        <br/>
+                        2. Find “Ordering” option and activate it.
+                    </div>
+                </div>
+
+                <div class="faq-title">
+                    <i class="fa fa-info-circle"></i>
+                    How to use formulas in the table?
+                    <div class="description" hidden>
+                        1. In the Settings of a table go to “Features” section.Go to Editor of Data Table.
+                        <br/>
+                        2. Select a cell and start typing. In a cell, type an equal sign “=” to start the formula.
+						<br/>
+						3. Fill in the rest of the formula.
+						<br/>
+                        4. Save the changes of table.
+						<br/>
+                        5. Check the result of formula in the table on your site.
+						<br/>
+						<br/>
+						Learn more about how to do this <a href="//supsystic.com/how-to-use-tables/" target="_blank">here</a>.
+                    </div>
+                </div>
+
+                <div class="faq-title">
+                    <i class="fa fa-info-circle"></i>
+                    How to format content of the table?
+                    <div class="description" hidden>
+                        In order to format content of the table – click “Editor” button. Here you can:
+                        <br/>
+                         - insert row and column to the table <br/>
+                         - set the font of text – bold and italic <br/>
+                         - choose text and background color <br/>
+                         - specify horizontal and vertical alignment <br/>
+                         Besides, by clicking the right button of the mouse (choose the certain cell, column or row and click the right button of mouse) you have such abilities –
+                        <br/>
+                         - cancel or restore your actions <br/>
+                         - insert row or column where you want <br/>
+                         - remove row or column <br/>
+                         - enable “Read only” mode for any cells, rows and columns and even for the whole table
+                        <br/>
+                         - set the alignment of text <br/>
+                         - Also you have the ability to change the column / row width – use your mouse, move the cursor on right side of the column boundary / (bottom side of the row boundary) you want until it becomes a resize cursor, and then drag the boundary.
+                    </div>
+                </div>
+
+                <div style="clear: both;"></div>
+                <a href="http://supsystic.com/plugins/data-tables-generator-plugin/#faq?utm_source=plugin&utm_medium=faq&utm_campaign=tables" class="button button-primary button-hero">
+                    <i class="fa fa-info-circle"></i>
+                    Check all FAQs
+                </a>
+                <div style="clear: both;"></div>
+            </div>
+            <div class="video">
+                <h3>Video tutorial</h3>
+                <iframe type="text/html"
+                        width="80%"
+                        height="240px"
+                        src="https://www.youtube.com/embed/Fa3EI7-oBfc"
+                        frameborder="0">
+                </iframe>
+            </div>
+            <div class="server-settings">
+                <h3>Server Settings</h3>
+                <ul class="settings-list">
+                    {% for title, element in serverSettings %}
+                        <li class="settings-line" style="float: none;">
+                            <div class="settings-title">{{ title|trim }}:</div>
+                            <span>{{ element.value|trim }}</span>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <div class="half-page half-page-right">
+            <div class="supsystic-overview-news-container">
+                <h3>News</h3>
+                <div class="supsystic-overview-news">
+                    {{ news|raw }}
+                </div>
+                <a href="http://supsystic.com/plugins/data-tables-generator-plugin/" class="button button-primary button-hero">
+                    <i class="fa fa-info-circle"></i>All news
+                </a>
+                <div class="clear"></div>
+            </div>
+            <div class="overview-contact-form">
+                <h3>Contact form</h3>
+                {#<div class="description">Translate plugin in your language and get a Premium license for FREE</div>#}
+                {% import '@core/form.twig' as form %}
+
+                {{ form.open('post', environment.generateUrl('overview', 'sendMail'), { 'id': 'form-settings', 'style': 'max-width: 428px;' }) }}
+
+                <table class="contact-form-table" style="width: 100%;">
+                    <thead>
+                    {{ form.row(translate('Name') ~ ' *',
+                        form.text('name', contactForm.name, { 'required': '' })) }}
+
+                    {{ form.row(translate('Email') ~ ' *',
+                        form.text('email', contactForm.email, { 'required': '' })) }}
+
+                    {{ form.row(translate('Website') ~ ' *',
+                        form.text('website', contactForm.website, { 'required': '' })) }}
+
+                    {{ form.row(translate('Subject') ~ ' *',
+                        form.text('subject', '', { 'required': '' })) }}
+                    <tr>
+                        <th scope="row">
+                            <label for="select-question">{{ translate('Topic') }}</label>
+                        </th>
+                        <td>
+                            <select id="select-question" name="question">
+                                <option value="plugin_options">
+                                    {{ translate('Plugin options') }}
+                                </option>
+                                <option value="bug">
+                                    {{ translate('Report a bug') }}
+                                </option>
+                                <option value="functionallity">
+                                    {{ translate('Require a new functionallity') }}
+                                </option>
+                                <option value="other">
+                                    {{ translate('Other') }}
+                                </option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row" style="vertical-align: top;">
+                            <label for="mail-text">{{ translate('Message') ~ ' *' }}</label>
+                        </th>
+                        <td>
+                            <textarea id="mail-text" name="message" cols="50" rows="3" placeholder="{{ translate('Hello Supsystic Team!') }}" required=""></textarea>
+                        </td>
+                    </tr>
+                    </thead>
+                </table>
+                <button id="send-mail" type="submit" class="button button-primary button-hero">
+                    <i class="fa fa-upload"></i>
+                    Send email
+                </button>
+                <div class="required-notification" style="color: red; float: left;" hidden>Fields with * are required to fill</div>
+                {{ form.close() }}
+                <div class="clear"></div>
+            </div>
+            <div class="banner">
+                <div class="text-block">{{ translate('If you want to host a business site or a blog, Kinsta managed WordPress hosting is the best place to stop on. Without any hesitation, we can say Kinsta is incredible when it comes to uptime and speed.') }}</div>
+                <a href="https://kinsta.com?kaid=MNRQQASUYJRT">
+                    <img src="{{ plugin_directory_url('app/assets/img/kinsta_banner.png') }}" style="width: 300px;height: 250px;" />
+                </a>
+            </div>
+        </div>
+        <div id="contact-form-dialog" hidden>
+            <div class="on-error" style="display:none">
+                <p>{{ translate('Some errors occurred while sending mail please send your message trough this contact form:') }}</p>
+                <p><a href="http://supsystic.com/plugins/data-tables-generator-plugin/#contact" target="_blank">http://supsystic.com/plugins/data-tables-generator-plugin/#contact</a></p>
+            </div>
+            <div class="message"></div>
+        </div>
+    </div>
+{% endblock %}

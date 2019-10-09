@@ -1,0 +1,22 @@
+<div class="row row-tab" id="row-tab-table-history">
+    {% set url = build_pro_url({ 'utm_medium': 'table_history' })  %}
+
+    {% block content %}
+        {% import '@ui/tooltip.twig' as tooltip %}
+            <div class="col-xs-12">
+            <h3 style="display:inline-block;">
+            {{ environment.translate('Table History') }}&nbsp;
+            {{ tooltip.icon('Сreate editable tables for your logged in users and easily view the changes. Information about table changes will be displayed on this tab, where you can select a user from the available list to check the content, date and time changes.' | raw, 'top', true)}}
+            </h3>
+            </br>
+            <a href="{{ url }}" class="button button-hero" target="_blank">
+                {{ environment.translate('Get PRO') }}
+            </a>
+        </div>
+        <div class="col-xs-12">
+            <a href="{{ url }}" target="_blank">
+                <img style="max-width:100%" src="{{ environment.getModule('core').getCdnUrl() }}_assets/tables/img/settings/history_table.gif" alt="Tables History" title="Available in PRO version" style="width: 100%; height: auto;">
+            </a>
+        </div>
+    {% endblock %}
+</div>

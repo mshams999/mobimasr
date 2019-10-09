@@ -1,0 +1,89 @@
+{% extends 'layout.twig' %}
+
+{% block content %}
+    <section>
+        <div class="supsystic-item supsystic-panel supsystic-plugin supsystic-plugin-promo">
+            <div id="containerWrapper">
+                <div class="col-sm-12">
+                    <h2>
+                        {{ environment.translate('Welcome to our plugin') }} {{ plugin_name }} v. {{ plugin_version }}  {{ environment.translate('by Supsystic!') }}
+                    </h2>
+                    <p class="col-sm-6" style="white-space: normal; width: 100%;">
+                        {{ environment.translate('We are trying to make your using of our plugin maximum comfortable and easy. So we find it like the best way to tell you about some options and features of this plugin.') }}
+                    </p>
+                </div>
+                <div class="col-sm-8">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <h3>{{ environment.translate('A small guide for the first-time user') }}</h3>
+                            <p>
+                                {{ environment.translate('Actually, Data Table plugin is very simple and has a lot of different options at the same time. That’s why when you close this article I will show you the main of them, but the very detailed one you can find on our site. I hope that you will have no questions after even this small guide. For the first time we will help you to install and create your first table, but if you need help - contact us through the internal support') }}
+                            </p>
+                        </div>
+                        <div class="col-sm-6">
+                            <h3>{{ environment.translate('Support') }}</h3>
+                            <p>
+                                {{ environment.translate('We really like what we do and feel responsibility for our “child”. Constantly we are trying to change something or update the new features, but sometimes you may have a situation when you need help or have a problem. We can offer you two kinds of help: ')|raw }}
+                            </p>
+                            <ul style="font-size: 13px; list-style: disc; padding: inherit;">
+                                <li>{{ environment.translate('<a href="//supsystic.com/forum/datatable-plugin/" target="_blank"> Contact us </a> through the Forum on our site - if you have some question, offer or wish.')|raw }}</li>
+                                <li>{{ environment.translate('If, unfortunately, you have some problem - we are ready to help you in our <a href="//supsystic.com/contact-us/" target="_blank">internal support.</a>')|raw }}</li>
+                            </ul>
+                            <p>{{ environment.translate('Feel free to contact us and don’t worry, everything gonna be ok!')|raw }} </p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h3>{{ environment.translate('Video Tutorial') }}</h3>
+                            <iframe type="text/html"
+                                    width="90%"
+                                    height="330px"
+                                    src="https://www.youtube.com/embed/Fa3EI7-oBfc"
+                                    frameborder="0">
+                            </iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <h3>
+                        {{ environment.translate('Frequently Asked Questions') }}
+                    </h3>
+
+                    <section>
+                        <h4>{{ environment.translate('Make data table responsive') }}</h4>
+                        <p>Data Tables Generator by Supsystic automatically creates responsive tables. So you don’t need to activate for this any options, it will be responsive by default. <br>Besides on Settings tab you can find “Responsive mode” option with which you are able to choose different responsive modes for your table (Standard Responsive mode, Automatic column hiding, Horizontal scroll or simply disable it).</p>
+                    </section>
+
+                    <section>
+                        <h4>{{ environment.translate('I need to have line breaks/spaces between the paragraphs within the cells.') }}</h4>
+                        <p>On Settings tab you can find “Enable paragraph mode” option - activate it and this mode will allow you to separate the content into the paragraphs. Paragraphs will appear in the places where you put “Ctrl+Enter”. Don't forget to save the table.</p>
+                    </section>
+
+                    <section>
+                        <h4>{{ environment.translate('How to use formulas in the table?') }}</h4>
+                        <ol>
+                            <li>{{ environment.translate('Go to Editor of Data Table.') }}</li>
+                            <li>{{ environment.translate('Select a cell and start typing. In a cell, type an equal sign “=” to start the formula.') }}</li>
+                            <li>{{ environment.translate('Fill in the rest of the formula.') }}</li>
+                            <li>{{ environment.translate('Save the changes of table.') }}</li>
+                            <li>{{ environment.translate('Check the result of formula in the table on your site.') }}</li>
+                        </ol>
+                        <p>{{ environment.translate('Learn more about how to do this <a href="//supsystic.com/how-to-use-tables/" target="_blank">here</a>.')|raw }}</p>
+                    </section>
+
+                    <section>
+                        <h4>
+                            <a href="//supsystic.com/plugins/data-tables-generator-plugin/?utm_source=plugin&utm_medium=welcomepagefaq&utm_campaign=tables#faq" target="_blank">{{ environment.translate('Check all other FAQs') }}</a>
+                        </h4>
+                    </section>
+
+                    <div style="clear: both;"></div>
+                    <a href="{{ start_url }}" style="height: 46px!important; font-size: 20px !important; line-height: 44px !important; padding: 0 36px !important; min-width: 160px; text-align: center;" class="button button-primary button-hero">
+                        {{ environment.translate("Let's Start!") }}
+                    </a>
+                </div>
+                <div style="clear: both;"></div>
+            </div>
+        </div>
+    </section>
+{% endblock %}

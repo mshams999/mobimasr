@@ -1,0 +1,16 @@
+<div class="row row-tab" id="row-tab-woocommerce">
+    {% block content %}
+        <div class="col-xs-12">
+            <a href="https://supsystic.com/plugins/woocommerce-product-table/" class="button button-hero" target="_blank">
+                {{ environment.translate('Get Woo PRO') }}
+            </a>
+			<p class="description" style="font-size: 16px;">WooCommerce Product Table allows you to create flexible, responsive tables and gives you full control over the columns properties.</p>
+			<p class="description" style="font-size: 16px; margin-bottom: 10px">List your products in any format: price list, order forms, product catalogues & more.</p>
+        </div>
+        <div class="col-xs-12">
+            <a href="https://supsystic.com/plugins/woocommerce-product-table/" target="_blank">
+                <img style="max-width:100%" src="{{ environment.getModule('core').getCdnUrl() }}_assets/tables/img/settings/woo_addon.gif" alt="Woo ads gig" title="Available in PRO version" style="width: 100%; height: auto;">
+            </a>
+        </div>
+    {% endblock %}
+</div>

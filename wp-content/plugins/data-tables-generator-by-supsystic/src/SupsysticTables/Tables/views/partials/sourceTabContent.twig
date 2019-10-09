@@ -1,0 +1,20 @@
+<div class="row row-tab" id="row-tab-source">
+    {% block content %}
+        {% import '@ui/tooltip.twig' as tooltip %}
+            <div class="col-xs-12">
+            <h3 style="display:inline-block;">
+            {{ environment.translate('Source') }}&nbsp;
+            {{ tooltip.icon('Database Source Pro feature allows you display table and its fields data from any table of WP database or External databases on the front-end. <a target="_blank" href="https://supsystic.com/documentation/database-source/"></br>Read more</a>.' | raw, 'top', true) }}
+            </h3>
+            </br>
+            <a href="{{ build_pro_url({ 'utm_medium': 'table-source-database'}) }}" class="button button-hero" target="_blank">
+                {{ environment.translate('Get PRO') }}
+            </a>
+        </div>
+        <div class="col-xs-12">
+            <a target="_blank" href="{{ build_pro_url({ 'utm_medium': notify }) }}">
+            <img style="max-width:100%" src="{{ environment.getModule('core').getCdnUrl() }}_assets/tables/img/settings/database.gif" alt="Database Source" title="Available in PRO version" style="width: 100%; height: auto;">
+            </a>
+        </div>
+    {% endblock %}
+</div>

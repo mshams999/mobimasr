@@ -1,0 +1,94 @@
+{% extends 'base.twig' %}
+
+{% block layout %}
+    <div class="supsystic-plugin">
+        <div class="supsystic-content">
+            <nav class="supsystic-navigation supsystic-sticky supsystic-sticky-active">
+                <ul>
+                    {% block navigation %}
+                        <li class="{% if request.query.module == 'overview' %}active{% endif %}">
+                            <a href="{{ environment.generateUrl('overview') }}">
+                                <i class="fa fa-info"></i>
+                                <span>{{ environment.translate('Overview') }}</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a id="menuItem_addTable" href="#add">
+                                <i class="fa fa-fw fa-plus"></i>
+                                <span>{{ environment.translate('Add new table') }}</span>
+                            </a>
+                        </li>
+                        <li {% if environment.isModule('tables') %}class="active"{% endif %}>
+                            <a id="menuItem_tables" href="{{ environment.generateUrl('tables') }}">
+                                <i class="fa fa-fw fa-table"></i>
+                                <span>{{ environment.translate('Tables') }}</span>
+                            </a>
+                        </li>
+                        <li {% if environment.isModule('settings') %}class="active"{% endif %}>
+                            <a id="menuItem_tables" href="{{ environment.generateUrl('settings') }}">
+                                <i class="fa fa-fw fa-gear"></i>
+                                <span>{{ environment.translate('Settings') }}</span>
+                            </a>
+                        </li>
+                        {% if environment.getModule('license') != null %}
+                            <li {% if environment.isModule('license') %}class="active"{% endif %}>
+                                <a id="menuItem_tables" href="{{ environment.generateUrl('license') }}">
+                                    <i class="fa fa-fw fa-hand-o-right "></i>
+                                    <span>{{ environment.translate('License') }}</span>
+                                </a>
+                            </li>
+                        {% endif %}
+						 <li {% if environment.isModule('featuredplugins') %}class="active"{% endif %}>
+                            <a id="menuItem_tables" href="{{ environment.generateUrl('featuredplugins') }}">
+								<i class="fa fa-fw fa-heart"></i>
+                                <span>{{ environment.translate('Featured Plugins') }}</span>
+                            </a>
+                        </li>
+                    {% endblock %}
+                </ul>
+                <div class="clear"></div>
+                <!-- /.clear -->
+            </nav>
+            <!-- /.supsystic-navigation supsystic-sticky supsystic-sticky-active -->
+            <div class="supsystic-container">
+                {{ environment.getDispatcher().dispatch('notices') }}
+                {{ environment.getDispatcher().dispatch('messages') }}
+
+                {% block content %}{% endblock %}
+
+                <div id="dtgAddDialog" style="display: none;" title="{{ environment.translate('Add new table') }}" style="min-height: 70px;">
+                    <form id="tableForm">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <label for="dtgAddDialog_title">
+                                    {{ environment.translate('Table title') }}
+                                </label>
+                                <input id="dtgAddDialog_title" class="supsystic-text" type="text" style="width:100%;"/>
+                            </div>
+                            <div class="col-xs-6">
+                                <label for="dtgAddDialog_cols">
+                                    {{ environment.translate('Columns') }}
+                                </label>
+                                <input id="dtgAddDialog_cols" class="supsystic-text" type="number" value="5" min="1" max="100" style="width: 100%"/>
+                            </div>
+                            <div class="col-xs-6">
+                                <label for="dtgAddDialog_rows">
+                                    {{ environment.translate('Rows') }}
+                                </label>
+                                <input id="dtgAddDialog_rows" class="supsystic-text" type="number" value="5" min="1" max="100" style="width: 100%"/>
+                            </div>
+                        </div>
+                        <div style="padding-top: 5px;">{{ environment.translate('You can change number of Columns and Rows later') }}</div>
+                    </form>
+                    <div id="formError" style="color: red; display: none; float: left;">
+                        <p></p>
+                    </div>
+                </div>
+                <!-- /#dtgAddDialog -->
+            </div>
+            <!-- /.supsystic-container -->
+        </div>
+        <!-- /.supsystic-content -->
+    </div>
+    <!-- /.supsystic-plugin -->
+{% endblock layout %}

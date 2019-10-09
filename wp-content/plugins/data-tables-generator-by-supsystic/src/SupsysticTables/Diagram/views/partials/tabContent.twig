@@ -1,0 +1,24 @@
+<div class="row row-tab" id="row-tab-diagrams">
+    {% set url = build_pro_url({ 'utm_medium': 'diagrams' })  %}
+
+    {% block content %}
+        {% import '@ui/tooltip.twig' as tooltip %}
+        <div class="col-xs-12">
+            <h3 style="display:inline-block;">
+            {{ environment.translate('Diagrams') }}
+            </h3>
+            <div class="description" style="font-size: 16px;">
+                {{ environment.translate('The Data Table Generator contains all the types of diagrams you need. Сreate, manage and embed interactive charts into your WordPress posts and pages. You can preview the diagram right from a tab on the plugin screen.') }} {{ '<a target="_blank" href="https://supsystic.com/example/table-with-diagram-example/"></br>Read more</a>' | raw }}
+            </div>
+            </br>
+            <a href="{{ url }}" class="button button-hero" target="_blank">
+                {{ environment.translate('Get PRO') }}
+            </a>
+        </div>
+        <div class="col-xs-12">
+            <a href="{{ url }}" target="_blank">
+                <img src="{{ environment.getModule('diagram').getLocationUrl() }}/assets/img/diagrams-min.png" alt="Diagrams" title="Available in PRO version" style="width: 100%; height: auto;">
+            </a>
+        </div>
+    {% endblock %}
+</div>

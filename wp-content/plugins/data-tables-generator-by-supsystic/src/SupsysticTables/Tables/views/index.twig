@@ -1,0 +1,58 @@
+{% extends 'layout.twig' %}
+
+{% block content %}
+    <div class="supsystic-item supsystic-item-autoheight">
+        <div class="container-fluid">
+            <section>
+                <div class="supsystic-item supsystic-panel">
+                    <div id="containerWrapper">
+                        <ul id="ddtTableTblNavBtnsShell" class="supsystic-bar-controls">
+                            <li title="Delete selected">
+                                <button class="button" id="ddtTableRemoveGroupBtn" disabled data-toolbar-button>
+                                    <i class="fa fa-fw fa-trash-o"></i>
+                                   Delete selected
+                                </button>
+                            </li>
+                            <li title="Export selected">
+                                <button class="button" id="export-group" disabled data-toolbar-button data-dialog="#import_exportProFeatureDialog">
+                                    <i class="fa fa-fw fa-upload"></i>
+                                    Export selected
+                                </button>
+                            </li>
+                            <li title="Import">
+                                <button class="button" id="import-group" data-toolbar-button data-dialog="#import_exportProFeatureDialog">
+                                    <i class="fa fa-fw fa-download"></i>
+                                    Import selected
+                                </button>
+                            </li>
+                            <li title="Search">
+                                <input id="ddtTableTblSearchTxt" type="text" name="tbl_search" placeholder="Search">
+                            </li>
+                        </ul>
+                        <div id="ddtTableTblNavShell" class="supsystic-tbl-pagination-shell"></div>
+                        <div style="clear: both;"></div>
+                        <hr />
+                        <table id="ddtTableTbl"></table>
+                        <div id="ddtTableTblNav"></div>
+                        <div id="ddtTableTblEmptyMsg" style="display: none;">
+                            {#<h3><?php printf(__('You have no Filters for now. <a href="%s" style="font-style: italic;">Create</a> your Filter!', ddt_LANG_CODE), $this->addNewLink)?></h3>#}
+                        </div>
+                    </div>
+                    <div style="clear: both;"></div>
+                    <div id="prewiew" style="margin-top: 30px"></div>
+                </div>
+            </section>
+        </div>
+        <!-- /.container-fluid -->
+
+		{# PRO notification dialogs #}
+        <div id="import_exportProFeatureDialog" class="supsystic-plugin" style="display: none;">
+            {% set url = '<a target="_blank" href="' ~ build_pro_url({ 'utm_medium': notify }) ~ '" style="color: #000;">' ~ environment.translate('PRO version') ~ '</a>' %}
+            {% set url2 = '<a target="_blank" href="' ~ build_pro_url({ 'utm_medium': notify }) ~ '" style="color: #000;" class="button supsystic-button"><span class="ui-button-text">' ~ environment.translate('Get PRO') ~ '</span></a>' %}
+            <p>{{ environment.translate('Please be advised that this feature available only in %s.')|format(url)|raw }}</p>
+            <p>{{ environment.translate('You can %s today and have all PRO features of data tables!')|format(url2)|raw }}</p>
+        </div>
+		{{ environment.getDispatcher().dispatch('tables-index-footer') }}
+    </div>
+    <!-- /.supsystic-item -->
+{% endblock %}

@@ -1,0 +1,98 @@
+#tableEditor {
+  width: 100%;
+
+  .colHeader {
+    cursor: pointer;
+  }
+
+  .ht_clone_left .wtHolder {
+    overflow: hidden;
+  }
+
+  /* Cell states */
+  .bold {
+    font-weight: bold;
+  }
+
+  .italic {
+    font-style: italic;
+  }
+}
+
+/* Toolbar */
+#tableToolbar {
+  @color-base: #e2dfdf;
+  background-color: @color-base;
+  border: 1px solid darken(@color-base, 10%);
+  padding: 3px;
+  margin-bottom: 5px;
+
+  & > ul {
+    margin: 0;
+    display: inline;
+
+    & > li {
+      margin: 0;
+      display: inline;
+
+      .toolbar-content {
+        display: none;
+      }
+    }
+
+    &:after {
+      content: "|";
+      color: darken(@color-base, 5%);
+      font-size: 36px;
+      position: relative;
+      top: 3px;
+      font-weight: 100;
+    }
+  }
+
+  button {
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 5px;
+
+    &:hover {
+      border: 1px solid darken(@color-base, 10%);
+      -webkit-box-shadow: 1px 1px 0 darken(@color-base, 15%);
+      -moz-box-shadow: 1px 1px 0 darken(@color-base, 15%);
+      box-shadow: 1px 1px 0 darken(@color-base, 15%);
+    }
+  }
+}
+
+/* Toolbar Dropdown */
+.tool-container {
+  .tool-items {
+    .tool-item {
+      i {
+        margin-top: 11px;
+        color: #333;
+      }
+    }
+  }
+}
+
+/* Formula editor */
+#formulaEditor {
+  .formula-icon {
+    float: left;
+    font-size: .8em;
+    width: 50px;
+    text-align: center;
+    margin-top: 8px;
+
+    .function {
+      font-family: "Inconsolata", "Fira Mono", "Source Code Pro", Monaco, Consolas, "Lucida Console", monospace;
+      font-size: 1.3em;
+    }
+  }
+
+  #formula {
+    float: left;
+    font-family: "Inconsolata", "Fira Mono", "Source Code Pro", Monaco, Consolas, "Lucida Console", monospace;
+  }
+}
